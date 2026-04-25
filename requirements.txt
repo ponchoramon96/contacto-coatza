@@ -1,0 +1,7 @@
+flask
+requests
+beautifulsoup4
+apscheduler
+curl-cffi
+playwright
+urllib3

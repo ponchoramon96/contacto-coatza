@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contacto Coatza</title>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        *{margin:0;padding:0;box-sizing:border-box}
+        :root{--rojo:#C0392B;--negro:#0A0A0A;--gris:#F4F4F4}
+        body{font-family:'Inter',sans-serif;background:#fff;color:#0A0A0A}
+        header{background:#0A0A0A;padding:0 40px;position:sticky;top:0;z-index:100;border-bottom:3px solid #C0392B}
+        .hi{max-width:1400px;margin:0 auto;display:flex;align-items:center;justify-content:space-between;height:70px}
+        .logo{display:flex;align-items:center;gap:12px;text-decoration:none}
+        .logo-cc{width:52px;height:52px;background:#C0392B;border-radius:6px;display:flex;align-items:center;justify-content:center}
+        .logo-cc span{font-family:'Playfair Display',serif;font-size:24px;font-weight:900;color:white;letter-spacing:-6px;padding-left:4px}
+        .logo h1{font-family:'Playfair Display',serif;font-size:20px;font-weight:900;color:white;letter-spacing:1px}
+        .logo p{font-size:9px;letter-spacing:3px;color:#aaa;text-transform:uppercase}
+        nav a{color:#ccc;text-decoration:none;font-size:12px;font-weight:500;letter-spacing:1px;text-transform:uppercase;margin-left:24px}
+        nav a:hover{color:#C0392B}
+        .brk{background:#C0392B;padding:8px 40px;display:flex;align-items:center;gap:16px}
+        .brk span{background:white;color:#C0392B;font-size:10px;font-weight:700;padding:2px 8px;letter-spacing:2px;text-transform:uppercase}
+        .brk p{color:white;font-size:13px;overflow:hidden;white-space:nowrap;text-overflow:ellipsis}
+        .hero{max-width:1400px;margin:32px auto;padding:0 40px;display:grid;grid-template-columns:2fr 1fr;gap:20px}
+        .hm{position:relative;border-radius:12px;overflow:hidden;min-height:480px;display:flex;align-items:flex-end;background:#111}
+        .hm img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;opacity:.5}
+        .hm-body{position:relative;z-index:2;padding:36px;background:linear-gradient(transparent,rgba(0,0,0,.92));width:100%}
+        .tag{display:inline-block;background:#C0392B;color:white;font-size:10px;font-weight:700;letter-spacing:2px;text-transform:uppercase;padding:3px 10px;border-radius:3px;margin-bottom:10px}
+        .hm h2{font-family:'Playfair Display',serif;font-size:30px;font-weight:900;color:white;line-height:1.25;margin-bottom:10px}
+        .hm .mt{color:#aaa;font-size:12px}
+        .hm .mt strong{color:#C0392B}
+        .hs{display:flex;flex-direction:column;gap:14px}
+        .sc{border-radius:10px;overflow:hidden;background:#F4F4F4;flex:1}
+        .sc img{width:100%;height:120px;object-fit:cover}
+        .sc-b{padding:16px}
+        .sc-b h3{font-family:'Playfair Display',serif;font-size:15px;font-weight:700;line-height:1.3;margin-bottom:8px;color:#0A0A0A}
+        .sc-b .mt{color:#888;font-size:11px}
+        .sc-b .mt strong{color:#C0392B}
+        .sec{max-width:1400px;margin:44px auto;padding:0 40px}
+        .sh{display:flex;align-items:center;gap:14px;margin-bottom:24px;border-bottom:3px solid #0A0A0A;padding-bottom:10px}
+        .sh h2{font-family:'Playfair Display',serif;font-size:26px;font-weight:900}
+        .sh .ln{flex:1;height:1px;background:#ddd}
+        .g3{display:grid;grid-template-columns:repeat(3,1fr);gap:20px}
+        .card{border-radius:10px;overflow:hidden;background:white;box-shadow:0 2px 12px rgba(0,0,0,.07);transition:transform .2s}
+        .card:hover{transform:translateY(-4px)}
+        .card img{width:100%;height:170px;object-fit:cover}
+        .cb{padding:18px}
+        .cb h3{font-family:'Playfair Display',serif;font-size:17px;font-weight:700;line-height:1.3;margin-bottom:10px}
+        .cm{font-size:11px;color:#999;display:flex;justify-content:space-between;border-top:1px solid #eee;padding-top:8px;margin-top:8px}
+        .cm strong{color:#C0392B}
+        .dc{max-width:1400px;margin:44px auto;padding:0 40px;display:grid;grid-template-columns:1.5fr 1fr;gap:44px}
+        .lst .li{display:flex;gap:16px;padding:18px 0;border-bottom:1px solid #eee;align-items:center}
+        .lst .li img{width:100px;height:68px;object-fit:cover;border-radius:6px;flex-shrink:0}
+        .lst .li h3{font-family:'Playfair Display',serif;font-size:15px;font-weight:700;line-height:1.3;margin-bottom:4px}
+        .lst .li .mt{color:#888;font-size:11px}
+        .lst .li .mt strong{color:#C0392B}
+        footer{background:#0A0A0A;padding:44px 40px 28px;margin-top:60px}
+        .fi{max-width:1400px;margin:0 auto;display:grid;grid-template-columns:2fr 1fr 1fr;gap:40px;margin-bottom:36px}
+        .fm h3{font-family:'Playfair Display',serif;font-size:22px;color:white;margin-bottom:10px}
+        .fm p{color:#666;font-size:13px;line-height:1.7}
+        .fc h4{color:#C0392B;font-size:11px;letter-spacing:2px;text-transform:uppercase;margin-bottom:14px}
+        .fc a{display:block;color:#888;text-decoration:none;font-size:13px;margin-bottom:8px;transition:color .2s}
+        .fc a:hover{color:white}
+        .fb{border-top:1px solid #222;padding-top:20px;max-width:1400px;margin:0 auto;display:flex;justify-content:space-between}
+        .fb p{color:#444;font-size:12px}
+        .fb span{color:#C0392B}
+    </style>
+</head>
+<body>
+<header>
+    <div class="hi">
+        <a href="/" class="logo">
+            <img src="/static/logo.png" alt="Contacto Coatza" style="height:58px;width:auto;" onerror="this.onerror=null;this.parentElement.innerHTML='<div style=\'display:flex;align-items:center;gap:12px\'><div style=\'width:52px;height:52px;background:#C0392B;border-radius:6px;display:flex;align-items:center;justify-content:center\'><span style=\'font-family:serif;font-size:24px;font-weight:900;color:white;letter-spacing:-6px;padding-left:4px\'>CC</span></div><div><h1 style=\'font-family:serif;font-size:20px;font-weight:900;color:white;letter-spacing:1px\'>CONTACTO COATZA</h1><p style=\'font-size:9px;letter-spacing:3px;color:#aaa;text-transform:uppercase\'>Coatzacoalcos · Veracruz · México</p></div></div>'">
+        </a>
+        <nav>
+            <a href="#">Coatzacoalcos</a>
+            <a href="#">Veracruz</a>
+            <a href="#">Nacional</a>
+            <a href="#">Gobierno</a>
+        </nav>
+        <p style="color:#666;font-size:11px;text-transform:uppercase;letter-spacing:1px">{{ fecha }}</p>
+    </div>
+</header>
+{% if principal %}
+<div class="brk">
+    <span>Última hora</span>
+    <p>{{ principal[0] }}</p>
+</div>
+{% endif %}
+<section class="hero">
+    {% if principal %}
+    <div class="hm">
+        <img src="{{ principal[5] if principal and principal[5] else 'https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?w=900&q=80' }}" alt="principal" onerror="this.src='https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?w=900&q=80'">
+        <div class="hm-body">
+            <div class="tag">⭐ Nota Principal</div>
+            <h2>{{ principal[0] }}</h2>
+            <p class="mt"><strong>{{ principal[1] }}</strong> · {{ principal[3] }}</p>
+        </div>
+    </div>
+    {% endif %}
+    <div class="hs">
+        {% for n in resto[:3] %}
+        <div class="sc">
+            <img src="{{ n[5] if n[5] else 'https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&q=80' }}" alt="{{ n[0] }}" onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&q=80'">
+            <div class="sc-b">
+                <div class="tag">{{ n[2]|capitalize }}</div>
+                <h3>{{ n[0] }}</h3>
+                <p class="mt"><strong>{{ n[1] }}</strong> · {{ n[3] }}</p>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+</section>
+<section class="sec">
+    <div class="sh"><h2>📍 Coatzacoalcos</h2><div class="ln"></div></div>
+    <div class="g3">
+        {% for n in resto[3:9] %}
+        <div class="card">
+            <img src="{{ n[5] if n[5] else 'https://images.unsplash.com/photo-1518638150340-f706e86654de?w=400&q=80' }}" alt="{{ n[0] }}" onerror="this.src='https://images.unsplash.com/photo-1518638150340-f706e86654de?w=400&q=80'">
+            <div class="cb">
+                <div class="tag">Local</div>
+                <h3>{{ n[0] }}</h3>
+                <div class="cm"><strong>{{ n[1] }}</strong><span>{{ n[3] }}</span></div>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+</section>
+<div class="dc">
+    <section>
+        <div class="sh"><h2>🗺 Veracruz</h2><div class="ln"></div></div>
+        <div class="lst">
+            {% for n in veracruz[:6] %}
+            <div class="li">
+                <img src="{{ n[5] if n[5] else 'https://images.unsplash.com/photo-1529419412599-7bb870e11810?w=200&q=80' }}" alt="{{ n[0] }}" onerror="this.src='https://images.unsplash.com/photo-1529419412599-7bb870e11810?w=200&q=80'">
+                <div>
+                    <div class="tag">Veracruz</div>
+                    <h3>{{ n[0] }}</h3>
+                    <p class="mt"><strong>{{ n[1] }}</strong> · {{ n[3] }}</p>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+    </section>
+    <section>
+        <div class="sh"><h2>🇲🇽 Nacional</h2><div class="ln"></div></div>
+        <div class="lst">
+            {% for n in nacional[:5] %}
+            <div class="li">
+                <img src="{{ n[5] if n[5] else 'https://images.unsplash.com/photo-1529419412599-7bb870e11810?w=200&q=80' }}" alt="{{ n[0] }}" onerror="this.src='https://images.unsplash.com/photo-1529419412599-7bb870e11810?w=200&q=80'">
+                <div>
+                    <div class="tag">Nacional</div>
+                    <h3>{{ n[0] }}</h3>
+                    <p class="mt"><strong>{{ n[1] }}</strong> · {{ n[3] }}</p>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+    </section>
+</div>
+<footer>
+    <div class="fi">
+        <div class="fm">
+            <h3>CONTACTO COATZA</h3>
+            <p>El portal de noticias más completo de Coatzacoalcos y el sur de Veracruz.</p>
+        </div>
+        <div class="fc">
+            <h4>Secciones</h4>
+            <a href="#">Coatzacoalcos</a>
+            <a href="#">Veracruz</a>
+            <a href="#">Nacional</a>
+        </div>
+        <div class="fc">
+            <h4>Contacto</h4>
+            <a href="#">contacto@contactocoatza.mx</a>
+            <a href="#">Facebook</a>
+        </div>
+    </div>
+    <div class="fb">
+        <p>© 2026 <span>Contacto Coatza</span> · Todos los derechos reservados</p>
+        <p>Hecho con ❤️ en Coatzacoalcos, Ver.</p>
+    </div>
+</footer>
+</body>
+</html>
