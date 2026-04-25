@@ -19,13 +19,11 @@ def index():
     nacional = obtener_noticias("nacional", 5)
     principal = coatza[0] if coatza else None
     resto = coatza[1:15] if len(coatza) > 1 else []
-    if principal and (not principal[5] or not principal[5].startswith("http")):
-        from imagenes import obtener_og_image, obtener_imagen_por_categoria
-        img = obtener_og_image(principal[4])
-        if not img:
-            img = obtener_imagen_por_categoria("coatzacoalcos", principal[0])
+    if principal:
         principal = list(principal)
-        principal[5] = img
+        if not principal[5] or not str(principal[5]).startswith("http"):
+            from imagenes import obtener_imagen_por_categoria
+            principal[5] = obtener_imagen_por_categoria("coatzacoalcos", principal[0])
         principal = tuple(principal)
     fecha = datetime.now().strftime("%a %d %b %Y").upper()
     return render_template("index.html",

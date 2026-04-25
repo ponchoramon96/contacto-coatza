@@ -18,14 +18,14 @@ UNSPLASH_KEYWORDS = {
 }
 
 IMAGENES_COATZA = [
-    "https://images.unsplash.com/photo-1518638150340-f706e86654de?w=800&q=80",
-    "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80",
-    "https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?w=800&q=80",
-    "https://images.unsplash.com/photo-1529419412599-7bb870e11810?w=800&q=80",
-    "https://images.unsplash.com/photo-1569025743873-ea3a9ade89f9?w=800&q=80",
     "https://images.unsplash.com/photo-1588392382834-a891154bca4d?w=800&q=80",
     "https://images.unsplash.com/photo-1517457373958-b7bdd4587205?w=800&q=80",
     "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&q=80",
+    "https://images.unsplash.com/photo-1486325212027-8081e485255e?w=800&q=80",
+    "https://images.unsplash.com/photo-1448932223592-d1fc686e76ea?w=800&q=80",
+    "https://images.unsplash.com/photo-1529408686214-b48b8532f72c?w=800&q=80",
+    "https://images.unsplash.com/photo-1519451241324-20b4ea2c4220?w=800&q=80",
+    "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&q=80",
 ]
 
 IMAGENES_VERACRUZ = [
