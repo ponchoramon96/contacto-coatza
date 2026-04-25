@@ -2,6 +2,7 @@ from flask import Flask, render_template
 from database import crear_base_datos, obtener_noticias, guardar_noticias
 from datetime import datetime
 from apscheduler.schedulers.background import BackgroundScheduler
+import os
 
 app = Flask(__name__)
 
@@ -34,9 +35,14 @@ def index():
         fecha=fecha
     )
 
+@app.route("/actualizar")
+def actualizar_manual():
+    actualizar_noticias()
+    return "Noticias actualizadas correctamente."
+
 if __name__ == "__main__":
-    import os
     crear_base_datos()
+    actualizar_noticias()
     scheduler = BackgroundScheduler()
     scheduler.add_job(actualizar_noticias, "interval", minutes=45)
     scheduler.start()
