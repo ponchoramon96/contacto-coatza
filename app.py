@@ -2,8 +2,6 @@ from flask import Flask, render_template
 from database import crear_base_datos, obtener_noticias, guardar_noticias
 from datetime import datetime
 from apscheduler.schedulers.background import BackgroundScheduler
-import os
-port = int(os.environ.get("PORT", 5000))
 
 app = Flask(__name__)
 
@@ -39,9 +37,11 @@ def index():
     )
 
 if __name__ == "__main__":
+    import os
     crear_base_datos()
     scheduler = BackgroundScheduler()
     scheduler.add_job(actualizar_noticias, "interval", minutes=45)
     scheduler.start()
-    print("Bot activo: actualiza cada 6 horas.")
+    print("Bot activo: actualiza cada 45 minutos.")
+    port = int(os.environ.get("PORT", 5000))
     app.run(host="0.0.0.0", port=port, debug=False)
