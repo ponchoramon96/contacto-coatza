@@ -5,3 +5,4 @@ apscheduler
 curl-cffi
 playwright
 urllib3
+gunicorn
