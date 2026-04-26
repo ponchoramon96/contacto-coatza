@@ -71,7 +71,6 @@ def actualizar_manual():
     return "OK"
 
 crear_base_datos()
-actualizar_noticias()
 scheduler = BackgroundScheduler()
 scheduler.add_job(actualizar_noticias, "interval", minutes=45)
 scheduler.start()

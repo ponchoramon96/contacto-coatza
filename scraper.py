@@ -14,7 +14,9 @@ PALABRAS_PROHIBIDAS = [
     "espectaculo","farandula","romance","divorcio","show",
     "derbez","mrbeast","youtuber","influencer","tiktok",
     "desaparece","desaparecido","localizar","Nossa","Damos","Atuamos",
-    "suporte","mercado","clientes","empresa"
+    "suporte","mercado","clientes","empresa",
+    "renuncia","renuncio","muere","fallece","detenido","capturan",
+    "lesionado","choque","incendio","demanda","queja","escasez"
 ]
 
 PALABRAS_POSITIVAS = [
