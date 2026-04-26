@@ -38,6 +38,7 @@ FUENTES_COATZA = [
 ]
 
 FUENTES_VERACRUZ = [
+    {"nombre": "Rocio Nahle", "url": "https://m.facebook.com/rocionahle"},
     {"nombre": "Gobierno Veracruz", "url": "https://www.veracruz.gob.mx/noticias"},
     {"nombre": "Jornada Veracruz", "url": "https://jornadaveracruz.com.mx"},
     {"nombre": "La Silla Rota Ver", "url": "https://lasillarota.com/veracruz/"},
