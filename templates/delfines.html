@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Delfines de Coatzacoalcos - Contacto Coatza</title>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        *{margin:0;padding:0;box-sizing:border-box}
+        body{font-family:'Inter',sans-serif;background:#0A0A0A;color:white}
+        header{background:#0A0A0A;padding:0 40px;border-bottom:3px solid #C0392B}
+        .hi{max-width:1200px;margin:0 auto;display:flex;align-items:center;justify-content:space-between;height:70px}
+        .logo{display:flex;align-items:center;gap:12px;text-decoration:none}
+        .logo-cc{width:52px;height:52px;background:#C0392B;border-radius:6px;display:flex;align-items:center;justify-content:center}
+        .logo-cc span{font-family:serif;font-size:24px;font-weight:900;color:white;letter-spacing:-6px;padding-left:4px}
+        .logo h1{font-family:'Playfair Display',serif;font-size:20px;font-weight:900;color:white}
+        .logo p{font-size:9px;letter-spacing:3px;color:#aaa;text-transform:uppercase}
+        .hero-delfines{background:linear-gradient(135deg,#003087,#0066cc);padding:60px 40px;text-align:center}
+        .hero-delfines h1{font-family:'Playfair Display',serif;font-size:48px;font-weight:900;margin-bottom:8px}
+        .hero-delfines p{color:#aaa;font-size:14px;letter-spacing:2px;text-transform:uppercase}
+        .contenido{max-width:1200px;margin:40px auto;padding:0 40px}
+        .marcador-card{background:#111;border-radius:12px;padding:40px;text-align:center;border:1px solid #222;margin-bottom:30px}
+        .marcador-card h2{color:#aaa;font-size:12px;letter-spacing:3px;text-transform:uppercase;margin-bottom:24px}
+        .marcador{display:flex;align-items:center;justify-content:center;gap:40px}
+        .equipo{text-align:center}
+        .equipo-nombre{font-size:18px;font-weight:700;margin-bottom:12px}
+        .goles{font-family:'Playfair Display',serif;font-size:72px;font-weight:900;color:#C0392B;line-height:1}
+        .vs{font-size:24px;color:#444;font-weight:700}
+        .estado{margin-top:20px;display:inline-block;background:#C0392B;color:white;padding:6px 16px;border-radius:20px;font-size:12px;font-weight:700;letter-spacing:2px;text-transform:uppercase}
+        .proximo-card{background:#111;border-radius:12px;padding:30px;border:1px solid #222}
+        .proximo-card h2{color:#aaa;font-size:12px;letter-spacing:3px;text-transform:uppercase;margin-bottom:20px}
+        .proximo-info{display:flex;align-items:center;justify-content:space-between}
+        .proximo-equipos{font-family:'Playfair Display',serif;font-size:22px;font-weight:700}
+        .proximo-fecha{color:#C0392B;font-size:14px;font-weight:600}
+        .sin-datos{color:#444;font-size:16px;text-align:center;padding:40px}
+        .back-link{display:inline-block;color:#C0392B;text-decoration:none;font-size:13px;font-weight:600;letter-spacing:1px;text-transform:uppercase;margin-bottom:30px}
+    </style>
+</head>
+<body>
+<header>
+    <div class="hi">
+        <a href="/" class="logo">
+            <div class="logo-cc"><span>CC</span></div>
+            <div>
+                <h1>CONTACTO COATZA</h1>
+                <p>Coatzacoalcos · Veracruz · México</p>
+            </div>
+        </a>
+    </div>
+</header>
+<div class="hero-delfines">
+    <h1>🐬 Delfines de Coatzacoalcos</h1>
+    <p>Liga TDP · Temporada 2025-2026</p>
+</div>
+<div class="contenido">
+    <a href="/" class="back-link">← Regresar al inicio</a>
+    {% if resultado %}
+    <div class="marcador-card">
+        <h2>Último resultado</h2>
+        <div class="marcador">
+            <div class="equipo">
+                <div class="equipo-nombre">{{ resultado.local }}</div>
+                <div class="goles">{{ resultado.goles_local }}</div>
+            </div>
+            <div class="vs">VS</div>
+            <div class="equipo">
+                <div class="equipo-nombre">{{ resultado.visitante }}</div>
+                <div class="goles">{{ resultado.goles_visitante }}</div>
+            </div>
+        </div>
+        <div class="estado">{{ resultado.estado }}</div>
+    </div>
+    {% else %}
+    <div class="marcador-card">
+        <div class="sin-datos">No hay resultados disponibles en este momento</div>
+    </div>
+    {% endif %}
+    {% if proximo %}
+    <div class="proximo-card">
+        <h2>Próximo partido</h2>
+        <div class="proximo-info">
+            <div class="proximo-equipos">{{ proximo.local }} vs {{ proximo.visitante }}</div>
+            <div class="proximo-fecha">📅 {{ proximo.fecha }}</div>
+        </div>
+    </div>
+    {% endif %}
+</div>
+</body>
+</html>

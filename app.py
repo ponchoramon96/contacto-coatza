@@ -40,6 +40,13 @@ def actualizar_manual():
     actualizar_noticias()
     return "Noticias actualizadas correctamente."
 
+@app.route("/delfines")
+def delfines():
+    from delfines import obtener_resultado_delfines, obtener_proximo_juego
+    resultado = obtener_resultado_delfines()
+    proximo = obtener_proximo_juego()
+    return render_template("delfines.html", resultado=resultado, proximo=proximo)
+
 if __name__ == "__main__":
     crear_base_datos()
     actualizar_noticias()
