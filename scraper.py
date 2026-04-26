@@ -80,7 +80,7 @@ def scrape_fuente(fuente, categoria):
     from imagenes import obtener_imagen
     for tag in ["h1","h2","h3"]:
         for el in soup.find_all(tag):
-            titulo = el.get_text(strip=True)[:120]
+            titulo = el.get_text(strip=True).split('.')[0][:100]
             if len(titulo) > 25 and es_permitida(titulo) and titulo not in vistos:
                 enlace = el.find("a")
                 url_nota = fuente["url"]
