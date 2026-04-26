@@ -1,5 +1,6 @@
 from bot_seguro import obtener_pagina
 from datetime import datetime
+import re
 
 PALABRAS_PROHIBIDAS = [
     "asesinato","homicidio","balacera","tiroteo","ejecutado",
@@ -78,7 +79,6 @@ def scrape_fuente(fuente, categoria):
         print("  Sin acceso")
         return noticias
     vistos = set()
-    from imagenes import obtener_imagen
     for tag in ["h1","h2","h3"]:
         for el in soup.find_all(tag):
             titulo = el.get_text(strip=True).split('.')[0][:100]
@@ -92,21 +92,28 @@ def scrape_fuente(fuente, categoria):
                     elif href.startswith("/"):
                         base = "/".join(fuente["url"].split("/")[:3])
                         url_nota = base + href
-                img_tag = el.find_next("img")
                 imagen = ""
-                if img_tag:
-                    imagen = img_tag.get("src") or img_tag.get("data-src") or ""
-                    if imagen and imagen.startswith("/"):
-                        base = "/".join(fuente["url"].split("/")[:3])
-                        imagen = base + imagen
-                if not imagen or not imagen.startswith("http"):
-                    imagen = obtener_imagen(url_nota, categoria, titulo)
+                try:
+                    img_cerca = el.find_previous("img") or el.find_next("img")
+                    if img_cerca:
+                        src = img_cerca.get("src") or img_cerca.get("data-src") or img_cerca.get("data-lazy-src") or ""
+                        if src.startswith("http") and not src.endswith(".svg") and "logo" not in src.lower():
+                            imagen = src
+                except:
+                    pass
+                if not imagen:
+                    try:
+                        meta = soup.find("meta", property="og:image") or soup.find("meta", attrs={"name":"twitter:image"})
+                        if meta and meta.get("content","").startswith("http"):
+                            imagen = meta.get("content")
+                    except:
+                        pass
                 vistos.add(titulo)
                 noticias.append({
                     "titulo": titulo,
-                    "fuente": fuente["nombre"],
+                    "fuente": "Redaccion Contacto Coatza",
                     "categoria": categoria,
-                    "fecha": __import__("datetime").datetime.now().strftime("%Y-%m-%d %H:%M"),
+                    "fecha": datetime.now().strftime("%Y-%m-%d %H:%M"),
                     "url": url_nota,
                     "imagen": imagen,
                     "prioridad": calcular_prioridad(titulo)
