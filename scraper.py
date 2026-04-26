@@ -18,7 +18,10 @@ PALABRAS_PROHIBIDAS = [
     "choque","incendio","demanda","queja","escasez",
     "joven desaparece","menor desaparecido","cuerpo",
     "golpean","asesinan","rafaguean","violan","roban",
-    "Nossa","Damos","Atuamos","suporte","mercado","empresa"
+    "Nossa","Damos","Atuamos","suporte","mercado","empresa",
+    "desapareci","desaparec","busca a su","sustraccion","abuso","sexual",
+    "detienen","detiene","cae alcalde","arrestan","aprehenden",
+    "presunto","imputado","vinculan","proceso","juicio","condena"
 ]
 
 PALABRAS_POSITIVAS = [
@@ -144,11 +147,55 @@ def scrape_fuente(fuente, categoria):
     print("  " + str(len(noticias)) + " noticias")
     return noticias
 
+def scrape_facebook_publico(url_pagina, categoria):
+    print("Scrapeando Facebook: " + url_pagina)
+    noticias = []
+    try:
+        from curl_cffi import requests
+        from bs4 import BeautifulSoup
+        url_mobile = url_pagina.replace("www.facebook.com", "m.facebook.com")
+        headers = {
+            "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1",
+            "Accept-Language": "es-MX,es;q=0.9",
+            "Accept": "text/html,application/xhtml+xml,*/*;q=0.8"
+        }
+        r = requests.get(url_mobile, impersonate="chrome124", timeout=15, verify=False, headers=headers)
+        if r.status_code == 200:
+            soup = BeautifulSoup(r.text, "html.parser")
+            vistos = set()
+            for el in soup.find_all(["p","div","span"]):
+                texto = el.get_text(strip=True)
+                if len(texto) > 40 and len(texto) < 300 and es_permitida(texto) and texto not in vistos:
+                    img = ""
+                    img_tag = el.find_previous("img") or el.find_next("img")
+                    if img_tag:
+                        src = img_tag.get("src","")
+                        if src.startswith("http") and "logo" not in src.lower():
+                            img = src
+                    vistos.add(texto)
+                    noticias.append({
+                        "titulo": texto[:100],
+                        "fuente": "Facebook Oficial",
+                        "categoria": categoria,
+                        "fecha": __import__("datetime").datetime.now().strftime("%Y-%m-%d %H:%M"),
+                        "url": url_pagina,
+                        "imagen": img,
+                        "prioridad": 3
+                    })
+            print("  " + str(len(noticias)) + " posts de Facebook")
+    except Exception as e:
+        print("  Error Facebook: " + str(e))
+    return noticias[:5]
+
 def scrape_todas():
     print("Bot Contacto Coatza iniciando...")
     coatza = []
     veracruz = []
     nacional = []
+    coatza += scrape_facebook_publico("https://www.facebook.com/PedroMiguelOficial", "coatzacoalcos")
+    veracruz += scrape_facebook_publico("https://www.facebook.com/rocionahle", "veracruz")
+    veracruz += scrape_facebook_publico("https://www.facebook.com/GobiernoDeVeracruz", "veracruz")
+    coatza += scrape_facebook_publico("https://www.facebook.com/delfinescoatzacoalcos", "coatzacoalcos")
     for f in FUENTES_COATZA:
         coatza += scrape_fuente(f, "coatzacoalcos")
     for f in FUENTES_VERACRUZ:
