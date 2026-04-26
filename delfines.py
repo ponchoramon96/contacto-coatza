@@ -45,24 +45,25 @@ def obtener_noticias_delfines():
         from curl_cffi import requests
         from bs4 import BeautifulSoup
         urls = [
-            "https://m.facebook.com/delfinescoatzacoalcos",
             "https://www.masnoticias.mx/?s=delfines+coatzacoalcos",
+            "https://www.liberal.com.mx/?s=delfines+coatzacoalcos",
+            "https://forocoatza.com/?s=delfines",
         ]
         for url in urls:
             try:
                 r = requests.get(url, impersonate="chrome124", timeout=12, verify=False)
                 if r.status_code == 200:
                     soup = BeautifulSoup(r.text, "html.parser")
-                    for tag in ["h1","h2","h3","p"]:
-                        for el in soup.find_all(tag)[:10]:
-                            texto = el.get_text(strip=True)
-                            if len(texto) > 30 and "delfin" in texto.lower():
-                                noticias.append(texto[:120])
+                    for tag in ["h2","h3"]:
+                        for el in soup.find_all(tag)[:5]:
+                            texto = el.get_text(strip=True)[:100]
+                            if len(texto) > 20 and texto not in noticias:
+                                noticias.append(texto)
             except:
                 continue
     except Exception as e:
-        print("Error noticias Delfines:", e)
-    return noticias[:5]
+        print("Error:", e)
+    return noticias[:6]
 
 if __name__ == "__main__":
     print(obtener_resultado_delfines())

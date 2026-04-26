@@ -13,10 +13,12 @@ PALABRAS_PROHIBIDAS = [
     "meme","reality","novela","actor","actriz","cantante",
     "espectaculo","farandula","romance","divorcio","show",
     "derbez","mrbeast","youtuber","influencer","tiktok",
-    "desaparece","desaparecido","localizar","Nossa","Damos","Atuamos",
-    "suporte","mercado","clientes","empresa",
-    "renuncia","renuncio","muere","fallece","detenido","capturan",
-    "lesionado","choque","incendio","demanda","queja","escasez"
+    "desaparece","desaparecido","desaparecen","buscan","localizan",
+    "renuncia","renuncio","muere","fallece","lesionado",
+    "choque","incendio","demanda","queja","escasez",
+    "joven desaparece","menor desaparecido","cuerpo",
+    "golpean","asesinan","rafaguean","violan","roban",
+    "Nossa","Damos","Atuamos","suporte","mercado","empresa"
 ]
 
 PALABRAS_POSITIVAS = [

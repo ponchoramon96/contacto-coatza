@@ -31,9 +31,10 @@ def imagen_valida(img):
     return img and str(img).startswith("http") and len(str(img)) > 10
 
 def asignar_imagen(noticia):
+    from imagenes import imagen_por_titulo
     n = list(noticia)
-    if not imagen_valida(n[5]):
-        n[5] = random.choice(IMAGENES_RESPALDO.get(n[2], IMAGENES_RESPALDO["nacional"]))
+    if not n[5] or not str(n[5]).startswith("http"):
+        n[5] = imagen_por_titulo(n[0], n[2])
     return tuple(n)
 
 def actualizar_noticias():
