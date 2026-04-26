@@ -34,8 +34,7 @@
         .header-logo::before{content:'';position:absolute;top:50%;left:40px;right:40px;height:1px;background:var(--borde)}
         .header-logo-inner{display:inline-block;background:var(--negro);padding:0 30px;position:relative;z-index:1}
         .cc-logo{display:inline-flex;align-items:center;gap:16px;margin-bottom:8px}
-        .cc-emblem{width:60px;height:60px;border:2px solid var(--dorado);border-radius:4px;display:flex;align-items:center;justify-content:center;position:relative}
-        .cc-emblem span{font-family:'Playfair Display',serif;font-size:28px;font-weight:900;color:var(--dorado);letter-spacing:-8px;padding-left:6px}
+        .cc-emblem{width:60px;height:60px;border:2px solid var(--dorado);border-radius:4px;display:flex;align-items:center;justify-content:center;background:rgba(201,168,76,.08)}
         .header-logo h1{font-family:'Playfair Display',serif;font-size:52px;font-weight:900;color:white;letter-spacing:6px;line-height:1;text-transform:uppercase}
         .header-logo h1 span{color:var(--dorado)}
         .header-logo p{font-size:10px;letter-spacing:8px;color:var(--dorado);text-transform:uppercase;margin-top:8px}
@@ -46,7 +45,7 @@
         nav a:hover{color:var(--dorado);border-top-color:var(--dorado)}
 
         /* BREAKING */
-        .brk{background:var(--rojo);padding:10px 40px;display:flex;align-items:center;gap:16px;border-top:1px solid rgba(255,255,255,.1)}
+        .brk{background:var(--negro-3);border-top:1px solid var(--dorado);border-bottom:1px solid var(--dorado);padding:10px 40px;display:flex;align-items:center;gap:16px}
         .brk-tag{background:var(--dorado);color:var(--negro);font-size:9px;font-weight:800;padding:4px 12px;letter-spacing:3px;text-transform:uppercase;white-space:nowrap}
         .brk p{color:white;font-size:13px;font-weight:500;overflow:hidden;white-space:nowrap;text-overflow:ellipsis}
 
@@ -58,7 +57,7 @@
         .hm:hover img{opacity:.45}
         .hm-body{position:relative;z-index:2;padding:40px;background:linear-gradient(transparent,rgba(0,0,0,.97));width:100%}
         .hm-body::before{content:'';position:absolute;left:0;top:0;bottom:0;width:3px;background:var(--dorado)}
-        .tag{display:inline-block;background:var(--rojo);color:white;font-size:9px;font-weight:800;letter-spacing:3px;text-transform:uppercase;padding:4px 12px;margin-bottom:14px}
+        .tag{display:inline-block;background:transparent;border:1px solid var(--dorado);color:var(--dorado);font-size:9px;font-weight:800;letter-spacing:3px;text-transform:uppercase;padding:4px 12px;margin-bottom:14px}
         .tag-dorado{background:transparent;border:1px solid var(--dorado);color:var(--dorado)}
         .hm h2{font-family:'Playfair Display',serif;font-size:36px;font-weight:900;color:white;line-height:1.15;margin-bottom:14px}
         .hm .mt{color:var(--texto-sec);font-size:12px;letter-spacing:1px}
@@ -146,8 +145,10 @@
     <div class="header-logo">
         <div class="header-logo-inner">
             <div class="cc-logo">
-                <div class="cc-emblem"><span>CC</span></div>
-                <h1>Contacto <span>Coatza</span></h1>
+                <div class="cc-emblem">
+                    <span style="font-family:'Playfair Display',serif;font-size:26px;font-weight:900;color:var(--dorado);letter-spacing:-4px;padding-left:4px">CC</span>
+                </div>
+                <h1><span>C</span>ontacto <span>C</span>oatza</h1>
             </div>
             <p>Coatzacoalcos · Veracruz · México</p>
         </div>
@@ -161,20 +162,13 @@
     </nav>
 </header>
 
-{% if principal %}
-<div class="brk">
-    <span class="brk-tag">Última hora</span>
-    <p>{{ principal[0] }}</p>
-</div>
-{% endif %}
-
 <div class="hero-wrap">
 <section class="hero">
     {% if principal %}
     <div class="hm">
         <img src="{{ principal[5] if principal[5] and principal[5].startswith('http') else 'https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=900&q=80' }}" alt="nota principal" onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=900&q=80'">
         <div class="hm-body">
-            <div class="tag">⭐ Nota Principal</div>
+            <div class="tag" style="background:var(--rojo);border-color:var(--rojo);color:white">⭐ Nota Principal</div>
             <h2>{{ principal[0][:100] }}</h2>
             <p class="mt"><strong>{{ principal[1] }}</strong> · {{ principal[3] }}</p>
         </div>
