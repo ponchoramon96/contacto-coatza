@@ -79,6 +79,13 @@ def scrape_fuente(fuente, categoria):
         print("  Sin acceso")
         return noticias
     vistos = set()
+    og_imagen_portada = ""
+    try:
+        meta = soup.find("meta", property="og:image")
+        if meta and meta.get("content","").startswith("http"):
+            og_imagen_portada = meta.get("content")
+    except:
+        pass
     for tag in ["h1","h2","h3"]:
         for el in soup.find_all(tag):
             titulo = el.get_text(strip=True).split('.')[0][:100]
@@ -97,23 +104,35 @@ def scrape_fuente(fuente, categoria):
                     img_cerca = el.find_previous("img") or el.find_next("img")
                     if img_cerca:
                         src = img_cerca.get("src") or img_cerca.get("data-src") or img_cerca.get("data-lazy-src") or ""
-                        if src.startswith("http") and not src.endswith(".svg") and "logo" not in src.lower():
+                        if src.startswith("http") and not src.endswith(".svg") and "logo" not in src.lower() and "icon" not in src.lower():
                             imagen = src
                 except:
                     pass
-                if not imagen:
+                if not imagen and url_nota != fuente["url"]:
                     try:
-                        meta = soup.find("meta", property="og:image") or soup.find("meta", attrs={"name":"twitter:image"})
-                        if meta and meta.get("content","").startswith("http"):
-                            imagen = meta.get("content")
+                        soup_art = obtener_pagina(url_nota)
+                        if soup_art:
+                            meta_art = soup_art.find("meta", property="og:image") or soup_art.find("meta", attrs={"name":"twitter:image"})
+                            if meta_art and meta_art.get("content","").startswith("http"):
+                                imagen = meta_art.get("content")
+                            if not imagen:
+                                for sel in ["article img","figure img",".post img",".entry-content img",".featured img"]:
+                                    img_tag = soup_art.select_one(sel)
+                                    if img_tag:
+                                        src = img_tag.get("src") or img_tag.get("data-src") or ""
+                                        if src.startswith("http") and "logo" not in src.lower():
+                                            imagen = src
+                                            break
                     except:
                         pass
+                if not imagen:
+                    imagen = og_imagen_portada
                 vistos.add(titulo)
                 noticias.append({
                     "titulo": titulo,
-                    "fuente": "Redaccion Contacto Coatza",
+                    "fuente": fuente["nombre"],
                     "categoria": categoria,
-                    "fecha": datetime.now().strftime("%Y-%m-%d %H:%M"),
+                    "fecha": __import__("datetime").datetime.now().strftime("%Y-%m-%d %H:%M"),
                     "url": url_nota,
                     "imagen": imagen,
                     "prioridad": calcular_prioridad(titulo)
