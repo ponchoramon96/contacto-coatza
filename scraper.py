@@ -21,7 +21,8 @@ PALABRAS_PROHIBIDAS = [
     "Nossa","Damos","Atuamos","suporte","mercado","empresa",
     "desapareci","desaparec","busca a su","sustraccion","abuso","sexual",
     "detienen","detiene","cae alcalde","arrestan","aprehenden",
-    "presunto","imputado","vinculan","proceso","juicio","condena"
+    "presunto","imputado","vinculan","proceso","juicio","condena",
+    "desap@","recid0","sustrae","navegar","usar la app","instala la app"
 ]
 
 PALABRAS_POSITIVAS = [

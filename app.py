@@ -33,7 +33,7 @@ def imagen_valida(img):
 def asignar_imagen(noticia):
     from imagenes import imagen_por_titulo
     n = list(noticia)
-    if not n[5] or not str(n[5]).startswith("http"):
+    if not n[5] or (not str(n[5]).startswith("http") and not str(n[5]).startswith("/static/")):
         n[5] = imagen_por_titulo(n[0], n[2])
     return tuple(n)
 
@@ -43,9 +43,11 @@ def actualizar_noticias():
         import scraper
         resultado = scraper.scrape_todas()
         guardar_noticias(resultado)
-        print("Noticias actualizadas.")
+        import descarga_imagenes
+        descarga_imagenes.procesar_imagenes()
+        print("Noticias e imagenes actualizadas.")
     except Exception as e:
-        print("Error actualizando:", e)
+        print("Error:", e)
 
 @app.route("/")
 def index():
