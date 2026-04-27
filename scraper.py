@@ -22,7 +22,8 @@ PALABRAS_PROHIBIDAS = [
     "desapareci","desaparec","busca a su","sustraccion","abuso","sexual",
     "detienen","detiene","cae alcalde","arrestan","aprehenden",
     "presunto","imputado","vinculan","proceso","juicio","condena",
-    "desap@","recid0","sustrae","navegar","usar la app","instala la app"
+    "desap@","recid0","sustrae","navegar","usar la app","instala la app",
+    "abuso sexual","detienen al","presunto abuso","busca a su hija"
 ]
 
 PALABRAS_POSITIVAS = [
