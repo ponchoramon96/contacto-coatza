@@ -1,0 +1,170 @@
+import json
+from datetime import datetime
+from pathlib import Path
+
+DIAS_ES = ["Lunes","Martes","Miércoles","Jueves","Viernes","Sábado","Domingo"]
+MESES_ES = ["","Enero","Febrero","Marzo","Abril","Mayo","Junio",
+            "Julio","Agosto","Septiembre","Octubre","Noviembre","Diciembre"]
+
+def fecha_legible():
+    hoy = datetime.now()
+    return f"{DIAS_ES[hoy.weekday()]} {hoy.day} de {MESES_ES[hoy.month]} de {hoy.year}"
+
+def card_hero(n):
+    return f"""
+    <a href="{n['url']}" target="_blank" rel="noopener" class="hero-link">
+      <div class="hero-img" style="background-image:url('{n['imagen']}')">
+        <div class="hero-overlay">
+          <span class="badge-principal">NOTA PRINCIPAL</span>
+          <h1 class="hero-titulo">{n['titulo']}</h1>
+          <span class="hero-meta">{n['fuente']} · {n['fecha']}</span>
+        </div>
+      </div>
+    </a>"""
+
+def card_side(n):
+    return f"""
+    <a href="{n['url']}" target="_blank" rel="noopener" class="card-side">
+      <div class="cs-img" style="background-image:url('{n['imagen']}')"></div>
+      <div class="cs-body">
+        <span class="badge badge-{n['categoria']}">{n['categoria'].upper()}</span>
+        <p class="cs-titulo">{n['titulo']}</p>
+        <span class="meta">{n['fecha']}</span>
+      </div>
+    </a>"""
+
+def card_grid(n):
+    return f"""
+    <a href="{n['url']}" target="_blank" rel="noopener" class="card-grid">
+      <div class="cg-img" style="background-image:url('{n['imagen']}')">
+        <span class="badge badge-{n['categoria']}">{n['categoria'].upper()}</span>
+      </div>
+      <div class="cg-body">
+        <p class="cg-titulo">{n['titulo']}</p>
+        <span class="meta">{n['fuente']} · {n['fecha']}</span>
+      </div>
+    </a>"""
+
+def card_lista(n):
+    return f"""
+    <a href="{n['url']}" target="_blank" rel="noopener" class="card-lista">
+      <div class="cl-img" style="background-image:url('{n['imagen']}')"></div>
+      <div class="cl-body">
+        <span class="badge badge-{n['categoria']}">{n['categoria'].upper()}</span>
+        <p class="cl-titulo">{n['titulo']}</p>
+        <span class="meta">{n['fuente']} · {n['fecha']}</span>
+      </div>
+    </a>"""
+
+def generar(datos):
+    coatza   = datos.get("coatzacoalcos", [])
+    veracruz = datos.get("veracruz", [])
+    nacional = datos.get("nacional", [])
+    principal = coatza[0] if coatza else None
+    sidebar   = coatza[1:5]
+    grid      = coatza[5:17]
+    ts = datetime.now().strftime("%Y-%m-%d %H:%M")
+
+    hero_html    = card_hero(principal) if principal else ""
+    sidebar_html = "".join(card_side(n) for n in sidebar)
+    grid_html    = "".join(card_grid(n) for n in grid)
+    ver_html     = "".join(card_lista(n) for n in veracruz[:8])
+    nac_html     = "".join(card_lista(n) for n in nacional[:6])
+
+    return f"""<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width,initial-scale=1.0"/>
+<title>Contacto Coatza</title>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&family=Inter:wght@400;500;600&display=swap" rel="stylesheet"/>
+<style>
+:root{{--negro:#0a0a0a;--dorado:#c9a84c;--gris:#1a1a1a;--gris2:#242424;--blanco:#f0f0eb;--texto:#ddd}}
+*{{margin:0;padding:0;box-sizing:border-box}}
+body{{background:var(--negro);color:var(--texto);font-family:'Inter',sans-serif}}
+a{{text-decoration:none;color:inherit}}
+.badge{{display:inline-block;font-size:.6rem;font-weight:700;letter-spacing:1px;padding:2px 8px;border-radius:2px;text-transform:uppercase}}
+.badge-coatzacoalcos{{background:var(--dorado);color:#000}}
+.badge-veracruz{{background:#1a6b3c;color:#fff}}
+.badge-nacional{{background:#1a3a6b;color:#fff}}
+.badge-principal{{background:var(--dorado);color:#000;font-size:.65rem;font-weight:700;padding:4px 12px}}
+header{{background:var(--negro);border-bottom:1px solid var(--dorado);padding:18px 0 12px;text-align:center;position:sticky;top:0;z-index:100}}
+.logo{{font-family:'Playfair Display',serif;font-size:2.4rem;font-weight:900;color:#fff;letter-spacing:4px}}
+.logo-sub{{font-size:.7rem;letter-spacing:8px;color:var(--dorado);margin-top:4px}}
+nav{{margin-top:10px;display:flex;justify-content:center;gap:28px}}
+nav a{{font-size:.72rem;letter-spacing:2px;font-weight:600;color:var(--dorado);padding:4px 0;border-bottom:2px solid transparent;transition:.2s}}
+nav a:hover{{border-color:var(--dorado);color:#e8c97a}}
+.fecha{{font-size:.68rem;color:#555;margin-top:5px}}
+.wrap{{display:grid;grid-template-columns:2fr 1fr;gap:2px;margin-top:2px}}
+.hero-link{{display:block}}
+.hero-img{{width:100%;height:520px;background-size:cover;background-position:center;display:flex;align-items:flex-end}}
+.hero-overlay{{background:linear-gradient(transparent,rgba(0,0,0,.92));width:100%;padding:32px 28px 28px;display:flex;flex-direction:column;gap:10px}}
+.hero-titulo{{font-family:'Playfair Display',serif;font-size:1.9rem;font-weight:900;color:#fff;line-height:1.25}}
+.hero-meta{{font-size:.7rem;color:rgba(255,255,255,.55)}}
+.hero-link:hover .hero-titulo{{color:#e8c97a}}
+.sidebar{{display:flex;flex-direction:column;gap:2px}}
+.card-side{{display:flex;height:calc(520px/4 - 2px);overflow:hidden;background:var(--gris);transition:.2s}}
+.card-side:hover{{background:var(--gris2)}}
+.cs-img{{width:120px;flex-shrink:0;background-size:cover;background-position:center}}
+.cs-body{{padding:10px 12px;display:flex;flex-direction:column;justify-content:center;gap:5px;overflow:hidden}}
+.cs-titulo{{font-size:.8rem;font-weight:600;line-height:1.3;color:var(--blanco);display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}}
+.card-side:hover .cs-titulo{{color:#e8c97a}}
+.container{{max-width:1280px;margin:0 auto;padding:0 16px}}
+.sec-titulo{{font-family:'Playfair Display',serif;font-size:1.25rem;color:var(--dorado);border-bottom:1px solid var(--dorado);padding-bottom:8px;margin:32px 0 16px}}
+.grid-3{{display:grid;grid-template-columns:repeat(3,1fr);gap:2px}}
+.card-grid{{background:var(--gris);display:flex;flex-direction:column;overflow:hidden;transition:.2s}}
+.card-grid:hover{{background:var(--gris2)}}
+.cg-img{{height:180px;background-size:cover;background-position:center;padding:10px;display:flex;align-items:flex-start}}
+.cg-body{{padding:12px;display:flex;flex-direction:column;gap:6px}}
+.cg-titulo{{font-size:.86rem;font-weight:600;line-height:1.35;color:var(--blanco);display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}}
+.card-grid:hover .cg-titulo{{color:#e8c97a}}
+.meta{{font-size:.66rem;color:#777}}
+.cols-2{{display:grid;grid-template-columns:1fr 1fr;gap:32px}}
+.card-lista{{display:flex;gap:12px;padding:12px 0;border-bottom:1px solid var(--gris2);transition:.2s}}
+.cl-img{{width:100px;height:68px;flex-shrink:0;background-size:cover;background-position:center;border-radius:2px}}
+.cl-body{{display:flex;flex-direction:column;gap:4px;justify-content:center}}
+.cl-titulo{{font-size:.82rem;font-weight:500;line-height:1.3;color:var(--blanco);display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}}
+.card-lista:hover .cl-titulo{{color:#e8c97a}}
+footer{{background:var(--gris);border-top:1px solid var(--dorado);padding:32px 0;margin-top:48px;text-align:center}}
+.f-logo{{font-family:'Playfair Display',serif;font-size:1.4rem;color:#fff;letter-spacing:3px}}
+.f-desc{{font-size:.76rem;color:#777;margin-top:8px}}
+.f-ts{{font-size:.62rem;color:#444;margin-top:12px}}
+@media(max-width:900px){{.wrap{{grid-template-columns:1fr}}.sidebar{{display:none}}.grid-3{{grid-template-columns:1fr 1fr}}.cols-2{{grid-template-columns:1fr}}}}
+@media(max-width:600px){{.grid-3{{grid-template-columns:1fr}}.logo{{font-size:1.8rem}}nav{{gap:14px}}}}
+</style>
+</head>
+<body>
+<header>
+  <div class="logo">CONTACTO COATZA</div>
+  <div class="logo-sub">COATZACOALCOS · VERACRUZ · MÉXICO</div>
+  <nav>
+    <a href="#coatza">COATZACOALCOS</a>
+    <a href="#veracruz">VERACRUZ</a>
+    <a href="#nacional">NACIONAL</a>
+  </nav>
+  <div class="fecha">{fecha_legible()}</div>
+</header>
+<div class="wrap">
+  {hero_html}
+  <div class="sidebar">{sidebar_html}</div>
+</div>
+<div class="container">
+  <h2 class="sec-titulo" id="coatza">📍 Coatzacoalcos</h2>
+  <div class="grid-3">{grid_html}</div>
+  <div class="cols-2">
+    <div><h2 class="sec-titulo" id="veracruz">🗺 Veracruz</h2>{ver_html}</div>
+    <div><h2 class="sec-titulo" id="nacional">🇲🇽 Nacional</h2>{nac_html}</div>
+  </div>
+</div>
+<footer>
+  <div class="f-logo">CONTACTO COATZA</div>
+  <p class="f-desc">Noticias de Coatzacoalcos, Veracruz y México</p>
+  <p class="f-ts">Última actualización: {ts}</p>
+</footer>
+</body>
+</html>"""
+
+if __name__ == "__main__":
+    datos = json.loads(Path("noticias.json").read_text(encoding="utf-8"))
+    Path("index.html").write_text(generar(datos), encoding="utf-8")
+    print("index.html generado")
