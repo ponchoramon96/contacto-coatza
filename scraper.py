@@ -1,7 +1,44 @@
 from bot_seguro import obtener_pagina
 from datetime import datetime
 import re
+import requests
+from bs4 import BeautifulSoup
 from imagenes import imagen_por_titulo
+
+HEADERS = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+}
+
+def obtener_soup(url):
+    try:
+        r = requests.get(
+            url, 
+            headers=HEADERS, 
+            timeout=(5, 8),  # 5s conectar, 8s leer
+            verify=False,
+            allow_redirects=True
+        )
+        if r.status_code == 200:
+            return BeautifulSoup(r.text, "html.parser")
+    except Exception as e:
+        print(f"  Error cargando {url}: {e}")
+    return None
+
+def extraer_imagen_articulo(url):
+    try:
+        # Cambio de timeout de 10 a (4, 6)
+        r = requests.get(
+            url, 
+            headers=HEADERS, 
+            timeout=(4, 6), 
+            verify=False, 
+            allow_redirects=True
+        )
+        if r.status_code == 200:
+            return extraer_imagen(BeautifulSoup(r.text, "html.parser"))
+    except:
+        pass
+    return None
 
 PALABRAS_PROHIBIDAS = [
     "asesinato","homicidio","balacera","tiroteo","ejecutado",

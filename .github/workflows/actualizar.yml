@@ -22,6 +22,7 @@ jobs:
         run: pip install requests beautifulsoup4 urllib3
 
       - name: Correr scraper
+        timeout-minutes: 8
         run: python3 scraper.py
 
       - name: Generar HTML
