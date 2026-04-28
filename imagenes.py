@@ -1,5 +1,6 @@
 import urllib3
-import random
+import requests
+from bs4 import BeautifulSoup
 urllib3.disable_warnings()
 
 TEMAS = {
@@ -33,28 +34,95 @@ TEMAS = {
     "apertura": "https://images.unsplash.com/photo-1497366754035-f200968a6e72?w=800&q=80",
     "inauguracion": "https://images.unsplash.com/photo-1497366754035-f200968a6e72?w=800&q=80",
     "puerto": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800&q=80",
-    "coatzacoalcos": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800&q=80",
+    "clima": "https://images.unsplash.com/photo-1504608524841-42584120d693?w=800&q=80",
+    "lluvia": "https://images.unsplash.com/photo-1504608524841-42584120d693?w=800&q=80",
+    "calor": "https://images.unsplash.com/photo-1504608524841-42584120d693?w=800&q=80",
 }
 
 IMAGENES_CATEGORIA = {
-    "coatzacoalcos": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Coatzacoalcos_mexico.jpg/1280px-Coatzacoalcos_mexico.jpg",
-    "veracruz": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Veracruz_malecon.jpg/1280px-Veracruz_malecon.jpg",
-    "nacional": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Mexico_City_Zocalo.jpg/1280px-Mexico_City_Zocalo.jpg",
-    "delfines": "https://upload.wikimedia.org/wikipedia/commons/5/52/Delfines_coatzacoalcos.jpg"
+    "coatzacoalcos": "https://images.unsplash.com/photo-1585208798174-6cedd86e019a?w=800&q=80",
+    "veracruz": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&q=80",
+    "nacional": "https://images.unsplash.com/photo-1518105779142-d975f22f1b0a?w=800&q=80",
+    "gobierno": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800&q=80",
+    "delfines": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=800&q=80",
 }
+
+URLS_INVALIDAS = [
+    "banner", "publicidad", "vacaciones", "verano", "anuncio",
+    "header", "logo", "footer", "sidebar", "google", "avatar",
+    "placeholder", "default", "noimage", "no-image", "spinner",
+    "loading", "pixel", "tracking", "1x1", "blank"
+]
+
+def url_imagen_valida(url):
+    if not url or len(url) < 15:
+        return False
+    if not url.startswith("http"):
+        return False
+    url_lower = url.lower()
+    for palabra in URLS_INVALIDAS:
+        if palabra in url_lower:
+            return False
+    return True
+
+def obtener_og_image(url):
+    """Fetches the article URL and extracts the real image."""
+    try:
+        headers = {
+            "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
+                          "AppleWebKit/537.36 (KHTML, like Gecko) "
+                          "Chrome/120.0.0.0 Safari/537.36"
+        }
+        r = requests.get(url, headers=headers, timeout=8, verify=False)
+        if r.status_code != 200:
+            return None
+        soup = BeautifulSoup(r.text, "html.parser")
+
+        # 1. og:image
+        og = soup.find("meta", property="og:image")
+        if og and og.get("content") and url_imagen_valida(og["content"]):
+            return og["content"].strip()
+
+        # 2. twitter:image
+        tw = soup.find("meta", attrs={"name": "twitter:image"})
+        if tw and tw.get("content") and url_imagen_valida(tw["content"]):
+            return tw["content"].strip()
+
+        # 3. Imagen dentro del artículo
+        for selector in [
+            "article img", ".post-thumbnail img", ".entry-content img",
+            ".td-post-content img", "figure img", ".featured-image img",
+            "img.attachment-large", "img.size-large", "img.size-full",
+            ".wp-post-image", ".single-post img"
+        ]:
+            tag = soup.select_one(selector)
+            if tag:
+                src = (tag.get("src") or tag.get("data-src") 
+                       or tag.get("data-lazy-src") or "")
+                if url_imagen_valida(src):
+                    return src.strip()
+
+    except Exception as e:
+        print(f"[imagenes] Error obteniendo imagen de {url}: {e}")
+    return None
 
 def imagen_por_titulo(titulo, categoria):
     t = titulo.lower()
     for tema, url in TEMAS.items():
         if tema in t:
             return url
-    return IMAGENES_CATEGORIA.get(categoria, IMAGENES_CATEGORIA["coatzacoalcos"])
+    return IMAGENES_CATEGORIA.get(
+        categoria.lower(), 
+        IMAGENES_CATEGORIA["coatzacoalcos"]
+    )
 
 def obtener_imagen_por_categoria(categoria, titulo=""):
     return imagen_por_titulo(titulo, categoria)
 
-def obtener_og_image(url):
-    return None
-
 def obtener_imagen(url, categoria, titulo=""):
+    """Intenta obtener imagen real del artículo, si no usa fallback por tema."""
+    if url:
+        real = obtener_og_image(url)
+        if real:
+            return real
     return imagen_por_titulo(titulo, categoria)
