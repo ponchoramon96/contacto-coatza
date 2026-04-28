@@ -42,7 +42,6 @@ def guardar_noticias(noticias_dict):
                 if cursor.rowcount > 0:
                     guardadas += 1
                 elif n.get("imagen", "").startswith("http"):
-                    # Noticia ya existía pero sin imagen — actualizarla
                     cursor.execute(
                         "UPDATE noticias SET imagen = ? "
                         "WHERE url = ? AND (imagen IS NULL OR imagen = '')",

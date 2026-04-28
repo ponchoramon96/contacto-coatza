@@ -70,18 +70,19 @@ def actualizar_manual():
     actualizar_noticias()
     return "OK"
 
+crear_base_datos()
+scheduler = BackgroundScheduler()
+scheduler.add_job(
+    actualizar_noticias,
+    'interval',
+    minutes=45,
+    id='actualizar',
+    replace_existing=True,
+    next_run_time=datetime.now()
+)
+scheduler.start()
+print("✅ Scheduler iniciado. Primera ejecución: INMEDIATA")
+
 if __name__ == "__main__":
-    crear_base_datos()
-    scheduler = BackgroundScheduler()
-    scheduler.add_job(
-        actualizar_noticias,
-        'interval',
-        minutes=45,
-        id='actualizar',
-        replace_existing=True,
-        next_run_time=datetime.now()  # Ejecución inmediata al arrancar
-    )
-    scheduler.start()
-    print("✅ Scheduler iniciado. Primera ejecución: INMEDIATA")
     port = int(os.environ.get("PORT", 5000))
     app.run(host="0.0.0.0", port=port, debug=False)

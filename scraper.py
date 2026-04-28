@@ -1,6 +1,7 @@
 from bot_seguro import obtener_pagina
 from datetime import datetime
 import re
+from imagenes import imagen_por_titulo
 
 PALABRAS_PROHIBIDAS = [
     "asesinato","homicidio","balacera","tiroteo","ejecutado",
@@ -144,6 +145,7 @@ def scrape_fuente(fuente, categoria):
     except:
         pass
     for tag in ["h1","h2","h3"]:
+        from imagenes import obtener_imagen # Importar aquí para evitar importación circular si imagenes.py importa scraper.py
         for el in soup.find_all(tag):
             titulo = el.get_text(strip=True).split('.')[0][:100] # Limitar longitud antes de limpiar
             titulo = limpiar_titulo(titulo)
@@ -159,21 +161,18 @@ def scrape_fuente(fuente, categoria):
                         base = "/".join(fuente["url"].split("/")[:3])
                         url_nota = base + href
                 
-                # Intentar extraer imagen de la página de la lista
-                imagen = extraer_imagen(soup)
-
-                # Si no se encuentra imagen en la página de la lista, intentar en la página del artículo
-                if not imagen and url_nota != fuente["url"]:
+                # Solo buscar imagen en el artículo individual, nunca en el listing
+                imagen = None
+                if url_nota and url_nota != fuente["url"]:
                     try:
                         soup_articulo = obtener_pagina(url_nota)
                         if soup_articulo:
                             imagen = extraer_imagen(soup_articulo)
                     except Exception as e:
-                        print(f"  Error al extraer imagen del artículo {url_nota}: {e}")
+                        print(f"  Error imagen artículo {url_nota}: {e}")
                 
-                # Fallback a la imagen de portada si no se encontró ninguna otra
                 if not imagen:
-                    imagen = og_imagen_portada if imagen_es_valida(og_imagen_portada) else ""
+                    imagen = imagen_por_titulo(titulo, categoria)
 
                 vistos.add(titulo)
                 noticias.append({
@@ -206,6 +205,7 @@ def scrape_facebook_publico(url_pagina, categoria):
             vistos = set()
             for el in soup.find_all(["p","div","span"]):
                 texto = el.get_text(strip=True)
+                from imagenes import obtener_imagen # Importar aquí para evitar importación circular
                 texto = limpiar_titulo(texto)
                 if not titulo_es_valido(texto): continue
                 if len(texto) < 300 and es_permitida(texto) and texto not in vistos:
@@ -215,6 +215,8 @@ def scrape_facebook_publico(url_pagina, categoria):
                         src = img_tag.get("src","")
                         if src.startswith("http") and "logo" not in src.lower():
                             img = src
+                    if not img:
+                        img = obtener_imagen(url_pagina, categoria, texto) # Usar la lógica de imagenes.py
                     vistos.add(texto)
                     noticias.append({
                         "titulo": texto[:100],
