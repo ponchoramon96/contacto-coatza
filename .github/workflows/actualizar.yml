@@ -34,3 +34,7 @@ jobs:
           git add index.html noticias.json
           git diff --staged --quiet || git commit -m "auto: actualizar noticias $(date '+%Y-%m-%d %H:%M')"
           git push
+
+      - name: Avisar a Netlify para publicar
+        run: |
+          curl -X POST -d '{}' https://api.netlify.com/build_hooks/69f142dbd656220e32a39e26
