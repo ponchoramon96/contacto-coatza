@@ -68,16 +68,21 @@ def limpiar_titulo(titulo):
 
 URLS_IMAGEN_INVALIDAS = [
     "banner", "publicidad", "vacaciones", "verano", "anuncio",
-    "header", "logo", "footer", "sidebar"
+    "header", "logo", "footer", "sidebar", "google", "avatar",
+    "placeholder", "default", "noimage", "no-image"
 ]
 
 def imagen_es_valida(url_img):
     if not url_img:
         return False
+    if len(url_img) < 10: # Añadido para filtrar URLs muy cortas
+        return False
     url_lower = url_img.lower()
     for palabra in URLS_IMAGEN_INVALIDAS:
         if palabra in url_lower:
             return False
+    if not url_lower.startswith("http"): # Asegurar que sea una URL completa
+        return False
     return True
 
 FUENTES_COATZA = [
@@ -140,7 +145,7 @@ def scrape_fuente(fuente, categoria):
         pass
     for tag in ["h1","h2","h3"]:
         for el in soup.find_all(tag):
-            titulo = el.get_text(strip=True).split('.')[0][:100]
+            titulo = el.get_text(strip=True).split('.')[0][:100] # Limitar longitud antes de limpiar
             titulo = limpiar_titulo(titulo)
             if not titulo_es_valido(titulo): continue
             if es_permitida(titulo) and titulo not in vistos:
@@ -153,38 +158,23 @@ def scrape_fuente(fuente, categoria):
                     elif href.startswith("/"):
                         base = "/".join(fuente["url"].split("/")[:3])
                         url_nota = base + href
-                imagen = ""
-                # Evitamos banners en Golpe Político forzando la entrada al artículo
-                if fuente["nombre"] != "Golpe Politico":
-                    try:
-                        img_cerca = el.find_previous("img") or el.find_next("img")
-                        if img_cerca:
-                            src = img_cerca.get("src") or img_cerca.get("data-src") or img_cerca.get("data-lazy-src") or ""
-                            if src.startswith("http") and not src.endswith(".svg") and imagen_es_valida(src):
-                                imagen = src
-                    except:
-                        pass
+                
+                # Intentar extraer imagen de la página de la lista
+                imagen = extraer_imagen(soup)
 
+                # Si no se encuentra imagen en la página de la lista, intentar en la página del artículo
                 if not imagen and url_nota != fuente["url"]:
                     try:
-                        soup_art = obtener_pagina(url_nota)
-                        if soup_art:
-                            meta_art = soup_art.find("meta", property="og:image") or soup_art.find("meta", attrs={"name":"twitter:image"})
-                            if meta_art and meta_art.get("content","").startswith("http"):
-                                src = meta_art.get("content")
-                                if imagen_es_valida(src):
-                                    imagen = src
-                            if not imagen:
-                                # Selector específico para Golpe Político y otros sitios basados en WordPress
-                                img_tag = soup_art.select_one("article img, div.post-content img, .post-thumbnail img, .entry-content img")
-                                if img_tag:
-                                    src = img_tag.get("src") or img_tag.get("data-src") or ""
-                                    if src.startswith("http") and imagen_es_valida(src):
-                                        imagen = src
-                    except:
-                        pass
+                        soup_articulo = obtener_pagina(url_nota)
+                        if soup_articulo:
+                            imagen = extraer_imagen(soup_articulo)
+                    except Exception as e:
+                        print(f"  Error al extraer imagen del artículo {url_nota}: {e}")
+                
+                # Fallback a la imagen de portada si no se encontró ninguna otra
                 if not imagen:
-                    imagen = og_imagen_portada
+                    imagen = og_imagen_portada if imagen_es_valida(og_imagen_portada) else ""
+
                 vistos.add(titulo)
                 noticias.append({
                     "titulo": titulo,
@@ -239,6 +229,43 @@ def scrape_facebook_publico(url_pagina, categoria):
     except Exception as e:
         print("  Error Facebook: " + str(e))
     return noticias[:5]
+
+def extraer_imagen(soup, url_base=""):
+    # 1. Intentar og:image primero (funciona en Veracruz y Nacional)
+    og = soup.find("meta", property="og:image")
+    if og and og.get("content"):
+        img_url = og["content"].strip()
+        if imagen_es_valida(img_url):
+            return img_url
+
+    # 2. Buscar en el artículo principal
+    for selector in [
+        "article img",
+        ".post-thumbnail img",
+        ".entry-content img",
+        ".td-post-content img",
+        ".single-post-content img",
+        "figure img",
+        ".featured-image img",
+        ".wp-post-image",
+        "img.attachment-large",
+        "img.size-large",
+        "img.size-full"
+    ]:
+        tag = soup.select_one(selector)
+        if tag:
+            src = tag.get("src") or tag.get("data-src") or tag.get("data-lazy-src")
+            if src and imagen_es_valida(src):
+                return src
+
+    # 3. Buscar twitter:image como último recurso
+    tw = soup.find("meta", attrs={"name": "twitter:image"})
+    if tw and tw.get("content"):
+        img_url = tw["content"].strip()
+        if imagen_es_valida(img_url):
+            return img_url
+
+    return None  # Sin imagen válida encontrada
 
 def scrape_todas():
     print("Bot Contacto Coatza iniciando...")
