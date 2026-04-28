@@ -82,6 +82,13 @@ def contar_noticias():
     conn.close()
     return resultado
 
+def actualizar_imagen_noticia(url, imagen):
+    import sqlite3
+    conn = sqlite3.connect(DB)
+    conn.execute("UPDATE noticias SET imagen=? WHERE url=?", (imagen, url))
+    conn.commit()
+    conn.close()
+
 if __name__ == "__main__":
     crear_base_datos()
     print("Conteo:", contar_noticias())

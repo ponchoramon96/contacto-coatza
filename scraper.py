@@ -64,7 +64,9 @@ def limpiar_titulo(titulo):
     titulo = titulo.strip()
     for prefijo in PREFIJOS_A_LIMPIAR:
         if titulo.startswith(prefijo):
-            titulo = titulo[len(prefijo):].strip(" –-|:")
+            titulo = titulo[len(prefijo):]
+    # Limpiar puntuación y espacios al inicio
+    titulo = titulo.strip(" –-|:,.'\"")
     return titulo
 
 URLS_IMAGEN_INVALIDAS = [
