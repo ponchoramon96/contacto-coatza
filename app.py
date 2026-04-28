@@ -31,10 +31,9 @@ def imagen_valida(img):
     return img and str(img).startswith("http") and len(str(img)) > 10
 
 def asignar_imagen(noticia):
-    from imagenes import imagen_por_titulo
     n = list(noticia)
-    if not n[5] or (not str(n[5]).startswith("http") and not str(n[5]).startswith("/static/")):
-        n[5] = imagen_por_titulo(n[0], n[2])
+    if not imagen_valida(n[5]):
+        n[5] = random.choice(IMAGENES_RESPALDO.get(n[2], IMAGENES_RESPALDO["nacional"]))
     return tuple(n)
 
 def actualizar_noticias():
@@ -43,11 +42,9 @@ def actualizar_noticias():
         import scraper
         resultado = scraper.scrape_todas()
         guardar_noticias(resultado)
-        import descarga_imagenes
-        descarga_imagenes.procesar_imagenes()
-        print("Noticias e imagenes actualizadas.")
+        print("Noticias actualizadas.")
     except Exception as e:
-        print("Error:", e)
+        print("Error actualizando:", e)
 
 @app.route("/")
 def index():
@@ -73,12 +70,18 @@ def actualizar_manual():
     actualizar_noticias()
     return "OK"
 
-crear_base_datos()
-scheduler = BackgroundScheduler()
-scheduler.add_job(actualizar_noticias, "interval", minutes=45)
-scheduler.start()
-print("Bot activo: actualiza cada 45 minutos.")
-
 if __name__ == "__main__":
+    crear_base_datos()
+    scheduler = BackgroundScheduler()
+    scheduler.add_job(
+        actualizar_noticias,
+        'interval',
+        minutes=45,
+        id='actualizar',
+        replace_existing=True,
+        next_run_time=datetime.now()  # Ejecución inmediata al arrancar
+    )
+    scheduler.start()
+    print("✅ Scheduler iniciado. Primera ejecución: INMEDIATA")
     port = int(os.environ.get("PORT", 5000))
     app.run(host="0.0.0.0", port=port, debug=False)

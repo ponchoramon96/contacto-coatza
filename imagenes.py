@@ -36,22 +36,11 @@ TEMAS = {
     "coatzacoalcos": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800&q=80",
 }
 
-RESPALDO = {
-    "coatzacoalcos": [
-        "https://images.unsplash.com/photo-1588392382834-a891154bca4d?w=800&q=80",
-        "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800&q=80",
-        "https://images.unsplash.com/photo-1517457373958-b7bdd4587205?w=800&q=80",
-    ],
-    "veracruz": [
-        "https://images.unsplash.com/photo-1510414842594-a61c69b5ae57?w=800&q=80",
-        "https://images.unsplash.com/photo-1519451241324-20b4ea2c4220?w=800&q=80",
-        "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&q=80",
-    ],
-    "nacional": [
-        "https://images.unsplash.com/photo-1569025743873-ea3a9ade89f9?w=800&q=80",
-        "https://images.unsplash.com/photo-1541888946425-d81bb19240f5?w=800&q=80",
-        "https://images.unsplash.com/photo-1529408686214-b48b8532f72c?w=800&q=80",
-    ]
+IMAGENES_CATEGORIA = {
+    "coatzacoalcos": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Coatzacoalcos_mexico.jpg/1280px-Coatzacoalcos_mexico.jpg",
+    "veracruz": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Veracruz_malecon.jpg/1280px-Veracruz_malecon.jpg",
+    "nacional": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Mexico_City_Zocalo.jpg/1280px-Mexico_City_Zocalo.jpg",
+    "delfines": "https://upload.wikimedia.org/wikipedia/commons/5/52/Delfines_coatzacoalcos.jpg"
 }
 
 def imagen_por_titulo(titulo, categoria):
@@ -59,7 +48,7 @@ def imagen_por_titulo(titulo, categoria):
     for tema, url in TEMAS.items():
         if tema in t:
             return url
-    return random.choice(RESPALDO.get(categoria, RESPALDO["nacional"]))
+    return IMAGENES_CATEGORIA.get(categoria, IMAGENES_CATEGORIA["coatzacoalcos"])
 
 def obtener_imagen_por_categoria(categoria, titulo=""):
     return imagen_por_titulo(titulo, categoria)

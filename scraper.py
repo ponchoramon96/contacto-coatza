@@ -23,7 +23,8 @@ PALABRAS_PROHIBIDAS = [
     "detienen","detiene","cae alcalde","arrestan","aprehenden",
     "presunto","imputado","vinculan","proceso","juicio","condena",
     "desap@","recid0","sustrae","navegar","usar la app","instala la app",
-    "abuso sexual","detienen al","presunto abuso","busca a su hija"
+    "abuso sexual","detienen al","presunto abuso","busca a su hija",
+    "desap", "recid", "feminicid", "violacion", "secuestr", "tortur"
 ]
 
 PALABRAS_POSITIVAS = [
@@ -36,6 +37,48 @@ PALABRAS_POSITIVAS = [
     "pedro","municipal","secretaria","programa","bienestar",
     "coatzacoalcos","veracruz","istmo"
 ]
+
+TITULOS_INVALIDOS = [
+    "periodismo trascendente", "portal de noticias", "liberal del sur –",
+    "diario del istmo –", "foro coatza –", "noticias de coatzacoalcos"
+]
+
+def titulo_es_valido(titulo):
+    t = titulo.lower().strip()
+    for invalido in TITULOS_INVALIDOS:
+        if t.startswith(invalido) or invalido in t[:50]:
+            return False
+    if len(titulo) < 20:
+        return False
+    return True
+
+PREFIJOS_A_LIMPIAR = [
+    "Coatzacoalcos", "Veracruz", "Nacional", "Local", "Gobierno",
+    "Foro Coatza", "Diario del Istmo", "Liberal del Sur", "Golpe Político"
+]
+
+def limpiar_titulo(titulo):
+    if not titulo:
+        return ""
+    titulo = titulo.strip()
+    for prefijo in PREFIJOS_A_LIMPIAR:
+        if titulo.startswith(prefijo):
+            titulo = titulo[len(prefijo):].strip(" –-|:")
+    return titulo
+
+URLS_IMAGEN_INVALIDAS = [
+    "banner", "publicidad", "vacaciones", "verano", "anuncio",
+    "header", "logo", "footer", "sidebar"
+]
+
+def imagen_es_valida(url_img):
+    if not url_img:
+        return False
+    url_lower = url_img.lower()
+    for palabra in URLS_IMAGEN_INVALIDAS:
+        if palabra in url_lower:
+            return False
+    return True
 
 FUENTES_COATZA = [
     {"nombre": "Municipio Sur", "url": "https://municipiosur.com"},
@@ -98,7 +141,9 @@ def scrape_fuente(fuente, categoria):
     for tag in ["h1","h2","h3"]:
         for el in soup.find_all(tag):
             titulo = el.get_text(strip=True).split('.')[0][:100]
-            if len(titulo) > 25 and es_permitida(titulo) and titulo not in vistos:
+            titulo = limpiar_titulo(titulo)
+            if not titulo_es_valido(titulo): continue
+            if es_permitida(titulo) and titulo not in vistos:
                 enlace = el.find("a")
                 url_nota = fuente["url"]
                 if enlace and enlace.get("href"):
@@ -109,29 +154,33 @@ def scrape_fuente(fuente, categoria):
                         base = "/".join(fuente["url"].split("/")[:3])
                         url_nota = base + href
                 imagen = ""
-                try:
-                    img_cerca = el.find_previous("img") or el.find_next("img")
-                    if img_cerca:
-                        src = img_cerca.get("src") or img_cerca.get("data-src") or img_cerca.get("data-lazy-src") or ""
-                        if src.startswith("http") and not src.endswith(".svg") and "logo" not in src.lower() and "icon" not in src.lower():
-                            imagen = src
-                except:
-                    pass
+                # Evitamos banners en Golpe Político forzando la entrada al artículo
+                if fuente["nombre"] != "Golpe Politico":
+                    try:
+                        img_cerca = el.find_previous("img") or el.find_next("img")
+                        if img_cerca:
+                            src = img_cerca.get("src") or img_cerca.get("data-src") or img_cerca.get("data-lazy-src") or ""
+                            if src.startswith("http") and not src.endswith(".svg") and imagen_es_valida(src):
+                                imagen = src
+                    except:
+                        pass
+
                 if not imagen and url_nota != fuente["url"]:
                     try:
                         soup_art = obtener_pagina(url_nota)
                         if soup_art:
                             meta_art = soup_art.find("meta", property="og:image") or soup_art.find("meta", attrs={"name":"twitter:image"})
                             if meta_art and meta_art.get("content","").startswith("http"):
-                                imagen = meta_art.get("content")
+                                src = meta_art.get("content")
+                                if imagen_es_valida(src):
+                                    imagen = src
                             if not imagen:
-                                for sel in ["article img","figure img",".post img",".entry-content img",".featured img"]:
-                                    img_tag = soup_art.select_one(sel)
-                                    if img_tag:
-                                        src = img_tag.get("src") or img_tag.get("data-src") or ""
-                                        if src.startswith("http") and "logo" not in src.lower():
-                                            imagen = src
-                                            break
+                                # Selector específico para Golpe Político y otros sitios basados en WordPress
+                                img_tag = soup_art.select_one("article img, div.post-content img, .post-thumbnail img, .entry-content img")
+                                if img_tag:
+                                    src = img_tag.get("src") or img_tag.get("data-src") or ""
+                                    if src.startswith("http") and imagen_es_valida(src):
+                                        imagen = src
                     except:
                         pass
                 if not imagen:
@@ -167,7 +216,9 @@ def scrape_facebook_publico(url_pagina, categoria):
             vistos = set()
             for el in soup.find_all(["p","div","span"]):
                 texto = el.get_text(strip=True)
-                if len(texto) > 40 and len(texto) < 300 and es_permitida(texto) and texto not in vistos:
+                texto = limpiar_titulo(texto)
+                if not titulo_es_valido(texto): continue
+                if len(texto) < 300 and es_permitida(texto) and texto not in vistos:
                     img = ""
                     img_tag = el.find_previous("img") or el.find_next("img")
                     if img_tag:
