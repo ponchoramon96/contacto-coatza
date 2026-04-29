@@ -24,22 +24,6 @@ def obtener_soup(url):
         print(f"  Error cargando {url}: {e}")
     return None
 
-def extraer_imagen_articulo(url):
-    try:
-        # Cambio de timeout de 10 a (4, 6)
-        r = requests.get(
-            url, 
-            headers=HEADERS, 
-            timeout=(4, 6), 
-            verify=False, 
-            allow_redirects=True
-        )
-        if r.status_code == 200:
-            return extraer_imagen(BeautifulSoup(r.text, "html.parser"))
-    except:
-        pass
-    return None
-
 PALABRAS_PROHIBIDAS = [
     "asesinato","homicidio","balacera","tiroteo","ejecutado",
     "crimen","criminal","delincuencia","violencia","violento",
@@ -169,61 +153,57 @@ def calcular_prioridad(titulo):
     return 0
 
 def scrape_fuente(fuente, categoria):
-    print("Scrapeando " + fuente["nombre"] + "...")
-    soup = obtener_pagina(fuente["url"])
-    noticias = []
+    print(f"Scrapeando {fuente['nombre']}...")
+    soup = obtener_soup(fuente["url"])
     if not soup:
         print("  Sin acceso")
-        return noticias
-    vistos = set()
-    og_imagen_portada = ""
-    try:
-        meta = soup.find("meta", property="og:image")
-        if meta and meta.get("content","").startswith("http"):
-            og_imagen_portada = meta.get("content")
-    except:
-        pass
-    for tag in ["h1","h2","h3"]:
-        from imagenes import obtener_imagen # Importar aquí para evitar importación circular si imagenes.py importa scraper.py
-        for el in soup.find_all(tag):
-            titulo = el.get_text(strip=True).split('.')[0][:100] # Limitar longitud antes de limpiar
-            titulo = limpiar_titulo(titulo)
-            if not titulo_es_valido(titulo): continue
-            if es_permitida(titulo) and titulo not in vistos:
-                enlace = el.find("a")
-                url_nota = fuente["url"]
-                if enlace and enlace.get("href"):
-                    href = enlace["href"]
-                    if href.startswith("http"):
-                        url_nota = href
-                    elif href.startswith("/"):
-                        base = "/".join(fuente["url"].split("/")[:3])
-                        url_nota = base + href
-                
-                # Solo buscar imagen en el artículo individual, nunca en el listing
-                imagen = None
-                if url_nota and url_nota != fuente["url"]:
-                    try:
-                        soup_articulo = obtener_pagina(url_nota)
-                        if soup_articulo:
-                            imagen = extraer_imagen(soup_articulo)
-                    except Exception as e:
-                        print(f"  Error imagen artículo {url_nota}: {e}")
-                
-                if not imagen:
-                    imagen = imagen_por_titulo(titulo, categoria)
+        return []
 
-                vistos.add(titulo)
-                noticias.append({
-                    "titulo": titulo,
-                    "fuente": fuente["nombre"],
-                    "categoria": categoria,
-                    "fecha": __import__("datetime").datetime.now().strftime("%Y-%m-%d %H:%M"),
-                    "url": url_nota,
-                    "imagen": imagen,
-                    "prioridad": calcular_prioridad(titulo)
-                })
-    print("  " + str(len(noticias)) + " noticias")
+    # Imagen de portada del sitio (og:image de la página principal)
+    img_portada = None
+    og = soup.find("meta", property="og:image")
+    if og and imagen_es_valida(og.get("content", "")):
+        img_portada = og["content"].strip()
+
+    noticias = []
+    vistos = set()
+    base = "/".join(fuente["url"].split("/")[:3])
+
+    for tag in ["h1", "h2", "h3"]:
+        for el in soup.find_all(tag):
+            titulo_raw = el.get_text(strip=True)[:120]
+            titulo = limpiar_titulo(titulo_raw)
+            if not titulo_es_valido(titulo):
+                continue
+            if not es_permitida(titulo):
+                continue
+            if titulo in vistos:
+                continue
+
+            a = el.find("a") or el.find_parent("a")
+            url_nota = fuente["url"]
+            if a and a.get("href"):
+                href = a["href"]
+                if href.startswith("http"):
+                    url_nota = href
+                elif href.startswith("/"):
+                    url_nota = base + href
+
+            # Imagen: portada del sitio o fallback temático
+            imagen = img_portada if img_portada else imagen_por_titulo(titulo, categoria)
+
+            vistos.add(titulo)
+            noticias.append({
+                "titulo": titulo,
+                "fuente": fuente["nombre"],
+                "categoria": categoria,
+                "fecha": datetime.now().strftime("%Y-%m-%d %H:%M"),
+                "url": url_nota,
+                "imagen": imagen,
+                "prioridad": calcular_prioridad(titulo),
+            })
+
+    print(f"  {len(noticias)} noticias")
     return noticias
 
 def scrape_facebook_publico(url_pagina, categoria):
