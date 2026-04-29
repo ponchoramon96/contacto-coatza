@@ -113,7 +113,14 @@ def extraer_imagen_entry(entry):
 def scrape_fuente(fuente):
     print(f"RSS: {fuente['nombre']}...")
     try:
-        feed = feedparser.parse(fuente["rss"])
+        import requests
+        try:
+            resp = requests.get(fuente["rss"], timeout=6, 
+                              headers={"User-Agent":"Mozilla/5.0"})
+            feed = feedparser.parse(resp.text)
+        except Exception as e:
+            print(f"  Sin acceso: {e}")
+            return []
         if not feed.entries:
             print(f"  Sin entradas")
             return []
