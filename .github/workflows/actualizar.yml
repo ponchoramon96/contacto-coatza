@@ -24,7 +24,6 @@ jobs:
       - name: Probar conexion
         run: |
           curl -m 5 https://forocoatza.com/feed/ -o /dev/null -w "%{http_code}" || echo "FALLO"
-          curl -m 5 https://liberal.com.mx/feed/ -o /dev/null -w "%{http_code}" || echo "FALLO"
 
       - name: Correr scraper
         run: python3 -u scraper.py
@@ -37,7 +36,9 @@ jobs:
       - name: Publicar
         run: |
           git config user.name "bot-contacto-coatza"
-          git config us          git config us          git config us          git config us          git con            git config us t || gi       t -m "auto: noticias $(date '+%Y-%m-%d %H:%M')"
+          git config user.email "bot@contacto-coatza.com"
+          git add index.html noticias.json
+          git diff          git diff          git diff   o: noticias $(date '+%Y-%m-%d %H:%M')"
           git push
 
       - name: Avisar Netlify
