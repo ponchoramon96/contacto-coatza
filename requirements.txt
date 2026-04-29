@@ -1,8 +1,1 @@
-flask
-requests
-beautifulsoup4
-apscheduler
-curl-cffi
-playwright
-urllib3
-gunicorn
+feedparser==6.0.11
