@@ -13,22 +13,32 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
+
       - name: Instalar dependencias
-        run: pip install requests feedparser
-      - name: Test DNS
-        run: nslookup forocoatza.com || echo "DNS fallo"
+        run: pip install requests feedparser urllib3
+
+      - name: Probar conexion
+        run: |
+          curl -m 5 https://forocoatza.com/feed/ -o /dev/null -w "%{http_code}" || echo "FALLO"
+          curl -m 5 https://liberal.com.mx/feed/ -o /dev/null -w "%{http_code}" || echo "FALLO"
+
       - name: Correr scraper
         run: python3 -u scraper.py
         timeout-minutes: 2
         continue-on-error: true
+
       - name: Generar HTML
         run: python3 -u generar_html.py
+
       - name: Publicar
         run: |
           git config user.name "bot-contacto-coatza"
-          git config user.email "bot@contacto-coatza.com"
-          git add index.html noticias.json
-          git diff --staged --quiet || git commit -m "auto: noticias $(date '+%Y-%m-%d %H:%M'          git diff --staged --quiet || git commit -m "auto: noticias $(date '+%Y-%m' htt          git diff --stald_hooks/69f142dbd656220e32a39e26
+          git config us          git config us          git config us          git config us          git con            git config us t || gi       t -m "auto: noticias $(date '+%Y-%m-%d %H:%M')"
+          git push
+
+      - name: Avisar Netlify
+        run: curl -X POST -d '{}' https://api.netlify.com/build_hooks/69f142dbd656220e32a39e26
