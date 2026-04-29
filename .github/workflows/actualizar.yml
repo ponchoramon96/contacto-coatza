@@ -19,7 +19,8 @@ jobs:
       - name: Instalar dependencias
         run: pip install requests feedparser
       - name: Correr scraper
-        run: timeout 90 python3 -u scraper.py
+        run: python3 -u scraper.py
+        timeout-minutes: 2
       - name: Generar HTML
         run: python3 -u generar_html.py
       - name: Publicar
