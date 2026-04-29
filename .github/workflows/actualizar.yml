@@ -18,9 +18,12 @@ jobs:
           python-version: '3.11'
       - name: Instalar dependencias
         run: pip install requests feedparser
+      - name: Test DNS
+        run: nslookup forocoatza.com || echo "DNS fallo"
       - name: Correr scraper
         run: python3 -u scraper.py
         timeout-minutes: 2
+        continue-on-error: true
       - name: Generar HTML
         run: python3 -u generar_html.py
       - name: Publicar
@@ -28,7 +31,4 @@ jobs:
           git config user.name "bot-contacto-coatza"
           git config user.email "bot@contacto-coatza.com"
           git add index.html noticias.json
-          git diff --staged --quiet || git commit -m "auto: noticias $(date '+%Y-%m-%d %H:%M')"
-          git push
-      - name: Avisar Netlify
-        run: curl -X POST -d '{}' https://api.netlify.com/build_hooks/69f142dbd656220e32a39e26
+          git diff --staged --quiet || git commit -m "auto: noticias $(date '+%Y-%m-%d %H:%M'          git diff --staged --quiet || git commit -m "auto: noticias $(date '+%Y-%m' htt          git diff --stald_hooks/69f142dbd656220e32a39e26
