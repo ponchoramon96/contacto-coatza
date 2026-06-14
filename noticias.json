@@ -1,122 +1,284 @@
 {
   "coatzacoalcos": [
     {
-      "titulo": "Por quejas vecinales por inseguridad y daños estructurales, el gobierno local evalúa la posible demolición de los edific",
-      "fuente": "Municipio Sur",
+      "titulo": "Llegan primeros interesados  por las 100 vacantes para  albañiles en Coatzacoalcos",
+      "fuente": "Liberal Coatza",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-06-14 15:05",
-      "url": "https://municipiosur.com/2026/06/14/por-quejas-vecinales-por-inseguridad-y-danos-estructurales-el-gobierno-local-evalua-la-posible-demolicion-de-los-edificios-abandonados-en-la-colonia-benito-juarez-sur-se-estudia-el-perimetro-de-lo-q/",
+      "fecha": "2026-06-14 20:14",
+      "url": "https://liberal.com.mx/llegan-primeros-interesados-por-las-100-vacantes-para-albaniles-en-coatzacoalcos/",
       "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
       "prioridad": 2
     },
     {
-      "titulo": "Dos personas fueron detenidas y un enorme arsenal fue asegurado durante un operativo realizado por elementos de la Fisca",
+      "titulo": "Pedro Miguel Rosaldo García, anunció la rehabilitación de dos cárcamos sanitarios, cinco tramos de red de drenaje y cole",
       "fuente": "Municipio Sur",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-06-14 15:05",
-      "url": "https://municipiosur.com/2026/06/14/dos-personas-fueron-detenidas-y-un-enorme-arsenal-fue-asegurado-durante-un-operativo-realizado-por-elementos-de-la-fiscalia-general-de-la-republica-sobre-la-carretera-villahermosa-coatzacoalco/",
+      "fecha": "2026-06-14 20:14",
+      "url": "https://municipiosur.com/2026/06/14/pedro-miguel-rosaldo-garcia-anuncio-la-rehabilitacion-de-dos-carcamos-sanitarios-cinco-tramos-de-red-de-drenaje-y-colectores-sanitarios-en-distintos-puntos-de-la-ciudad-el-presidente-municipal-hizo/",
       "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
       "prioridad": 2
     },
     {
-      "titulo": "Comisión Municipal de Agua Potable de Coatzacoalcos, informa que ya fue reabierto el quiebracargas de la presa Yuribia, ",
-      "fuente": "Municipio Sur",
+      "titulo": "Invitan al ‘Festival del  Ostión Las Barrillas 2026’",
+      "fuente": "Liberal Coatza",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-06-14 15:05",
-      "url": "https://municipiosur.com/2026/06/14/comision-municipal-de-agua-potable-de-coatzacoalcos-informa-que-ya-fue-reabierto-el-quiebracargas-de-la-presa-yuribia-luego-de-que-disminuyeran-los-niveles-de-turbiedad-tras-las-recientes-lluvias-h/",
-      "imagen": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=800",
-      "prioridad": 2
-    },
-    {
-      "titulo": "Ana Cristina Ledesma, aspirante a la dirigencia Estatal del Partido Acción Nacional, visitó Coatzacoalcos, donde sostuvo",
-      "fuente": "Municipio Sur",
-      "categoria": "coatzacoalcos",
-      "fecha": "2026-06-14 15:05",
-      "url": "https://municipiosur.com/2026/06/14/ana-cristina-ledesma-aspirante-a-la-dirigencia-estatal-del-partido-accion-nacional-visito-coatzacoalcos-donde-sostuvo-encuentros-con-militantes-y-simpatizantes-del-partido-accion-nacional-se-forta/",
+      "fecha": "2026-06-14 20:14",
+      "url": "https://liberal.com.mx/invitan-al-festival-del-ostion-las-barrillas-2026/",
       "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
-      "prioridad": 2
+      "prioridad": 1
     },
     {
-      "titulo": "Miguel Pintos Guillén, encabezó una jornada de chapeo en la colonia Brisas del Golfo, donde habitantes del sector partic",
+      "titulo": "Más de 300 jóvenes  de Mina participan en  visorias para integrarse  al futbol profesional",
+      "fuente": "Liberal Coatza",
+      "categoria": "coatzacoalcos",
+      "fecha": "2026-06-14 20:14",
+      "url": "https://liberal.com.mx/mas-de-300-jovenes-de-mina-participan-en-visorias-para-integrarse-al-futbol-profesional/",
+      "imagen": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Marina cierra puertos en Veracruz  por pronóstico de fuertes lluvias",
+      "fuente": "Liberal Coatza",
+      "categoria": "coatzacoalcos",
+      "fecha": "2026-06-14 20:14",
+      "url": "https://liberal.com.mx/marina-cierra-puertos-en-veracruz-por-pronostico-de-fuertes-lluvias/",
+      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Atacan a balazos una  motocicleta deportiva  en Infonavit Paquital",
+      "fuente": "Liberal Coatza",
+      "categoria": "coatzacoalcos",
+      "fecha": "2026-06-14 20:14",
+      "url": "https://liberal.com.mx/atacan-a-balazos-una-motocicleta-deportiva-en-infonavit-paquital/",
+      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Reglas de transmisión  del Mundial afectan a restaurantes: Canirac",
+      "fuente": "Liberal Coatza",
+      "categoria": "coatzacoalcos",
+      "fecha": "2026-06-14 20:14",
+      "url": "https://liberal.com.mx/reglas-de-transmision-del-mundial-afectan-a-restaurantes-canirac/",
+      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Mantiene SICT vigilancia permanente en caminos ante efectos de tormenta",
+      "fuente": "Liberal Coatza",
+      "categoria": "coatzacoalcos",
+      "fecha": "2026-06-14 20:14",
+      "url": "https://liberal.com.mx/mantiene-sict-vigilancia-permanente-en-caminos-ante-efectos-de-tormenta/",
+      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Pemex informa avances en  el control del pozo Krem-1",
+      "fuente": "Liberal Coatza",
+      "categoria": "coatzacoalcos",
+      "fecha": "2026-06-14 20:14",
+      "url": "https://liberal.com.mx/pemex-informa-avances-en-el-control-del-pozo-krem-1/",
+      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Alumnos de secundarias técnicas de la región sur  presentan proyectos en  muestra tecnológica",
+      "fuente": "Liberal Coatza",
+      "categoria": "coatzacoalcos",
+      "fecha": "2026-06-14 20:14",
+      "url": "https://liberal.com.mx/alumnos-de-secundarias-tecnicas-de-la-region-sur-presentan-proyectos-en-muestra-tecnologica/",
+      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "¡¡Periodistas Porteños!!",
       "fuente": "Municipio Sur",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-06-14 15:05",
-      "url": "https://municipiosur.com/2026/06/14/miguel-pintos-guillen-encabezo-una-jornada-de-chapeo-en-la-colonia-brisas-del-golfo-donde-habitantes-del-sector-participaron-en-labores-de-limpieza-y-mejoramiento-de-espacios-publicos-el-diputado-l/",
+      "fecha": "2026-06-14 20:14",
+      "url": "https://municipiosur.com/2026/06/14/periodistas-portenos-3/",
+      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "¡¡Zona de Tolerancia!!",
+      "fuente": "Municipio Sur",
+      "categoria": "coatzacoalcos",
+      "fecha": "2026-06-14 20:14",
+      "url": "https://municipiosur.com/2026/06/14/zona-de-tolerancia/",
       "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
       "prioridad": 1
     }
   ],
   "veracruz": [
     {
-      "titulo": "Persiste sequía moderada en Jesús Carranza; única demarcación detectada por la Conagua",
-      "fuente": "Jornada Veracruz",
+      "titulo": "Llegan primeros interesados  por las 100 vacantes para  albañiles en Coatzacoalcos",
+      "fuente": "Liberal del Sur",
       "categoria": "veracruz",
-      "fecha": "2026-06-14 15:05",
-      "url": "https://jornadaveracruz.com.mx/persiste-sequia-moderada-en-jesus-carranza-unica-demarcacion-detectada-por-la-conagua/",
-      "imagen": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=800",
-      "prioridad": 1
+      "fecha": "2026-06-14 20:15",
+      "url": "https://liberal.com.mx/llegan-primeros-interesados-por-las-100-vacantes-para-albaniles-en-coatzacoalcos/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 2
     },
     {
-      "titulo": "Lluvias derriban árboles y activan las medidas preventivas en Xalapa",
+      "titulo": "Detiene FGE a 10 policías por desapariciones",
       "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-06-14 15:05",
-      "url": "https://jornadaveracruz.com.mx/lluvias-derriban-arboles-y-activan-las-medidas-preventivas-en-xalapa/",
+      "fecha": "2026-06-14 20:14",
+      "url": "https://jornadaveracruz.com.mx/detiene-fge-a-10-policias-por-desapariciones/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "El segundo día, Salsa Fest reúne a 250 mil asistentes",
+      "titulo": "Garantizó Semar seguridad del ‘Cruce de San Juan de Ulúa’; fue un éxito, destaca",
       "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-06-14 15:05",
-      "url": "https://jornadaveracruz.com.mx/el-segundo-dia-salsa-fest-reune-a-250-mil-asistentes/",
+      "fecha": "2026-06-14 20:14",
+      "url": "https://jornadaveracruz.com.mx/garantizo-semar-seguridad-del-cruce-de-san-juan-de-ulua-fue-un-exito-destaca/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Por intensas lluvias, PC monitorea región Capital y los ríos Actopan y La Antigua",
+      "titulo": "Reporta Pemex avance en contención del incendio en pozo Krem-1, en Las Choapas",
       "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-06-14 15:05",
-      "url": "https://jornadaveracruz.com.mx/por-intensas-lluvias-pc-monitorea-region-capital-y-los-rios-actopan-y-la-antigua/",
+      "fecha": "2026-06-14 20:14",
+      "url": "https://jornadaveracruz.com.mx/reporta-pemex-avance-en-contencion-del-incendio-en-pozo-krem-1-en-las-choapas/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "La FIFA y sus anfitriones",
+      "titulo": "Acusan sustancia extraña en el Río Seco; urgen aclarar si es peligrosa",
       "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-06-14 15:05",
-      "url": "https://jornadaveracruz.com.mx/la-fifa-y-sus-anfitriones/",
+      "fecha": "2026-06-14 20:14",
+      "url": "https://jornadaveracruz.com.mx/acusan-sustancia-extrana-en-el-rio-seco-urgen-aclarar-si-es-peligrosa/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Portada domingo 14 de junio 2026",
+      "titulo": "Solicitan otra licencia síndico y regidor de Chicontepec",
       "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-06-14 15:05",
-      "url": "https://jornadaveracruz.com.mx/portada-domingo-14-de-junio-2026/",
+      "fecha": "2026-06-14 20:14",
+      "url": "https://jornadaveracruz.com.mx/solicitan-otra-licencia-sindico-y-regidor-de-chicontepec/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Contraportada domingo 14 de junio 2026",
+      "titulo": "Despiden a periodista asesinado y exigen justicia en Poza Rica",
       "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-06-14 15:05",
-      "url": "https://jornadaveracruz.com.mx/contraportada-domingo-14-de-junio-2026/",
+      "fecha": "2026-06-14 20:14",
+      "url": "https://jornadaveracruz.com.mx/despiden-a-periodista-asesinado-y-exigen-justicia-en-poza-rica/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Veracruz reconoce la trayectoria y compromiso de trabajadores del sector salud",
+      "titulo": "Por enriquecimiento ilícito, detienen a exfuncionario del SAT",
       "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-06-14 15:05",
-      "url": "https://jornadaveracruz.com.mx/reconocen-trayectoria-personal-salud-veracruz/",
-      "imagen": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=800",
+      "fecha": "2026-06-14 20:14",
+      "url": "https://jornadaveracruz.com.mx/por-enriquecimiento-ilicito-detienen-a-exfuncionario-del-sat/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Rechazan venta de drogas y portación de armas en una telesecundaria de Coatepec",
+      "fuente": "Jornada Veracruz",
+      "categoria": "veracruz",
+      "fecha": "2026-06-14 20:14",
+      "url": "https://jornadaveracruz.com.mx/rechazan-venta-de-drogas-y-portacion-de-armas-en-una-telesecundaria-de-coatepec/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Comunidad LGBT marcha bajo la lluvia en favor de los derechos de la diversidad sexual",
+      "fuente": "Jornada Veracruz",
+      "categoria": "veracruz",
+      "fecha": "2026-06-14 20:14",
+      "url": "https://jornadaveracruz.com.mx/comunidad-lgbt-marcha-bajo-la-lluvia-en-favor-de-los-derechos-de-la-diversidad-sexual/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "16 conductores sancionados en el operativo alcoholímetro",
+      "fuente": "Jornada Veracruz",
+      "categoria": "veracruz",
+      "fecha": "2026-06-14 20:14",
+      "url": "https://jornadaveracruz.com.mx/16-conductores-sancionados-en-el-operativo-alcoholimetro/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Invitan al ‘Festival del  Ostión Las Barrillas 2026’",
+      "fuente": "Liberal del Sur",
+      "categoria": "veracruz",
+      "fecha": "2026-06-14 20:15",
+      "url": "https://liberal.com.mx/invitan-al-festival-del-ostion-las-barrillas-2026/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Más de 300 jóvenes  de Mina participan en  visorias para integrarse  al futbol profesional",
+      "fuente": "Liberal del Sur",
+      "categoria": "veracruz",
+      "fecha": "2026-06-14 20:15",
+      "url": "https://liberal.com.mx/mas-de-300-jovenes-de-mina-participan-en-visorias-para-integrarse-al-futbol-profesional/",
+      "imagen": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Marina cierra puertos en Veracruz  por pronóstico de fuertes lluvias",
+      "fuente": "Liberal del Sur",
+      "categoria": "veracruz",
+      "fecha": "2026-06-14 20:15",
+      "url": "https://liberal.com.mx/marina-cierra-puertos-en-veracruz-por-pronostico-de-fuertes-lluvias/",
+      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Atacan a balazos una  motocicleta deportiva  en Infonavit Paquital",
+      "fuente": "Liberal del Sur",
+      "categoria": "veracruz",
+      "fecha": "2026-06-14 20:15",
+      "url": "https://liberal.com.mx/atacan-a-balazos-una-motocicleta-deportiva-en-infonavit-paquital/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Reglas de transmisión  del Mundial afectan a restaurantes: Canirac",
+      "fuente": "Liberal del Sur",
+      "categoria": "veracruz",
+      "fecha": "2026-06-14 20:15",
+      "url": "https://liberal.com.mx/reglas-de-transmision-del-mundial-afectan-a-restaurantes-canirac/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Mantiene SICT vigilancia permanente en caminos ante efectos de tormenta",
+      "fuente": "Liberal del Sur",
+      "categoria": "veracruz",
+      "fecha": "2026-06-14 20:15",
+      "url": "https://liberal.com.mx/mantiene-sict-vigilancia-permanente-en-caminos-ante-efectos-de-tormenta/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Pemex informa avances en  el control del pozo Krem-1",
+      "fuente": "Liberal del Sur",
+      "categoria": "veracruz",
+      "fecha": "2026-06-14 20:15",
+      "url": "https://liberal.com.mx/pemex-informa-avances-en-el-control-del-pozo-krem-1/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Alumnos de secundarias técnicas de la región sur  presentan proyectos en  muestra tecnológica",
+      "fuente": "Liberal del Sur",
+      "categoria": "veracruz",
+      "fecha": "2026-06-14 20:15",
+      "url": "https://liberal.com.mx/alumnos-de-secundarias-tecnicas-de-la-region-sur-presentan-proyectos-en-muestra-tecnologica/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     }
   ],
