@@ -1,103 +1,121 @@
 {
   "coatzacoalcos": [
     {
-      "titulo": "Nicolás Domínguez Guerrero, marinero del ferri “Grijalva”, se convirtió en un súper héroe al rescatar a dos personas cua",
+      "titulo": "Convoca SECVER a participar en la Muestra Estatal de Artes Escénicas Veracruz",
       "fuente": "Municipio Sur",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-06-20 15:01",
-      "url": "https://municipiosur.com/2026/06/20/nicolas-dominguez-guerrero-marinero-del-ferri-grijalva-se-convirtio-en-un-super-heroe-al-rescatar-a-dos-personas-cuando-cayeron-al-rio-coatzacoalcos-el-gobierno-municipal-de-pedro/",
+      "fecha": "2026-06-20 20:12",
+      "url": "https://municipiosur.com/2026/06/20/convoca-secver-a-participar-en-la-muestra-estatal-de-artes-escenicas-veracruz/",
       "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
-      "prioridad": 2
+      "prioridad": 1
     },
     {
-      "titulo": "¡¡Vienen las Lluvias!!",
+      "titulo": "Oferta STPSP 810 vacantes en Feria Nacional del Empleo para Jornaleros Agrícolas",
       "fuente": "Municipio Sur",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-06-20 15:01",
-      "url": "https://municipiosur.com/2026/06/20/vienen-las-lluvias/",
-      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
+      "fecha": "2026-06-20 20:12",
+      "url": "https://municipiosur.com/2026/06/20/oferta-stpsp-810-vacantes-en-feria-nacional-del-empleo-para-jornaleros-agricolas/",
+      "imagen": "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Respalda Secretaría de Salud al personal de vectores con uniformes y equipo de protección",
+      "fuente": "Municipio Sur",
+      "categoria": "coatzacoalcos",
+      "fecha": "2026-06-20 20:12",
+      "url": "https://municipiosur.com/2026/06/20/respalda-secretaria-de-salud-al-personal-de-vectores-con-uniformes-y-equipo-de-proteccion/",
+      "imagen": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=800",
       "prioridad": 1
     }
   ],
   "veracruz": [
     {
-      "titulo": "Lo que cuentan los que llegaron de fuera",
+      "titulo": "Respalda alcalde de Las Vigas iniciativa para castigar más severamente la rapiña",
       "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-06-20 15:01",
-      "url": "https://jornadaveracruz.com.mx/turistas-extranjeros-mexico-calidez-mundial/",
+      "fecha": "2026-06-20 20:12",
+      "url": "https://jornadaveracruz.com.mx/alcalde-las-vigas-respalda-castigos-severos-rapina-carreteras/",
+      "imagen": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+      "prioridad": 2
+    },
+    {
+      "titulo": "Comité de Partería incluye a practicantes tradicionales",
+      "fuente": "Jornada Veracruz",
+      "categoria": "veracruz",
+      "fecha": "2026-06-20 20:12",
+      "url": "https://jornadaveracruz.com.mx/comite-nacional-parteria-incluye-parteras-tradicionales/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Portada del 20 de junio de 2026",
+      "titulo": "Preocupante, el aumento de contagios de varicela entre adultos: médico",
       "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-06-20 15:01",
-      "url": "https://jornadaveracruz.com.mx/portada-del-20-de-junio-de-2026/",
+      "fecha": "2026-06-20 20:12",
+      "url": "https://jornadaveracruz.com.mx/aumento-contagios-varicela-adultos-orizaba-veracruz/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Contraportada del 20 de junio de 2026",
+      "titulo": "Por turbiedad del agua, CMAS Xalapa suspende suministro, justifica director",
       "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-06-20 15:01",
-      "url": "https://jornadaveracruz.com.mx/contraportada-del-20-de-junio-de-2026/",
+      "fecha": "2026-06-20 20:12",
+      "url": "https://jornadaveracruz.com.mx/cmas-xalapa-suspende-suministro-agua-turbiedad-lluvias/",
+      "imagen": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Contratar a cercanos de funcionarios o diputados no es nepotismo, dice PVEM",
+      "fuente": "Jornada Veracruz",
+      "categoria": "veracruz",
+      "fecha": "2026-06-20 20:12",
+      "url": "https://jornadaveracruz.com.mx/pvem-veracruz-contratacion-cercanos-no-es-nepotismo-marcelo-ruiz/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Suspenden alcoholera de Nopaltepec por presuntas irregularidades tras mortandad de peces en río El Chino",
+      "titulo": "Líbano busca ampliar intercambio comercial",
       "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-06-20 15:01",
-      "url": "https://jornadaveracruz.com.mx/suspenden-alcoholera-nopaltepec-mortandad-peces-rio-el-chino/",
+      "fecha": "2026-06-20 20:12",
+      "url": "https://jornadaveracruz.com.mx/libano-busca-ampliar-intercambio-comercial-mexico-veracruz/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Coordina CEAPP apoyos para familiares de periodista del sur de Veracruz",
+      "titulo": "PRI: quitar la mayoría morenista, por encima de intereses partidistas",
       "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-06-20 15:01",
-      "url": "https://jornadaveracruz.com.mx/ceapp-apoyo-familiares-periodista-veracruz/",
+      "fecha": "2026-06-20 20:12",
+      "url": "https://jornadaveracruz.com.mx/pri-propone-alianza-pan-reducir-mayoria-morena-veracruz-2027/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Mujer perdió la vida en accidente en la autopista Orizaba-Córdoba",
+      "titulo": "Aclara Morena que convocatoria nacional de coordinaciones no aplica para el estado",
       "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-06-20 15:01",
-      "url": "https://jornadaveracruz.com.mx/paciente-muere-accidente-autopista-orizaba-cordoba-mixtla/",
+      "fecha": "2026-06-20 20:12",
+      "url": "https://jornadaveracruz.com.mx/morena-aclara-convocatoria-coordinaciones-no-aplica-veracruz/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "IVEA refuerza combate al rezago educativo en 15 municipios de Veracruz",
+      "titulo": "México, uno de los principales destinos para los refugiados por la violencia y persecución",
       "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-06-20 15:01",
-      "url": "https://jornadaveracruz.com.mx/ivea-combate-rezago-educativo-veracruz-15-municipios/",
+      "fecha": "2026-06-20 20:12",
+      "url": "https://jornadaveracruz.com.mx/mexico-principal-destino-refugiados-solicitudes-asilo-2025/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Entregan más de 5 mil apoyos a personas con discapacidad y familias vulnerables en Veracruz",
+      "titulo": "Autoridades de los tres niveles participarán en el simulacro de Laguna Verde, en agosto",
       "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-06-20 15:01",
-      "url": "https://jornadaveracruz.com.mx/apoyos-personas-discapacidad-veracruz-rosa-maria/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Más de 2 mil pescadores y acuicultores reciben apoyos por 8.8 millones de pesos en Veracruz",
-      "fuente": "Jornada Veracruz",
-      "categoria": "veracruz",
-      "fecha": "2026-06-20 15:01",
-      "url": "https://jornadaveracruz.com.mx/apoyos-pescadores-acuicultores-veracruz-sedarpa/",
+      "fecha": "2026-06-20 20:12",
+      "url": "https://jornadaveracruz.com.mx/simulacro-laguna-verde-agosto-2026-proteccion-civil/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     }
