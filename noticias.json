@@ -1,400 +1,229 @@
 {
   "coatzacoalcos": [
     {
-      "titulo": "Madre e hijo continúan  graves tras accidente",
-      "fuente": "Liberal Coatza",
-      "categoria": "coatzacoalcos",
-      "fecha": "2026-07-03 20:10",
-      "url": "https://liberal.com.mx/madre-e-hijo-continuan-graves-tras-accidente/",
-      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Arranca la Feria  Cosoleacaque 2026,  un santuario cultural que  celebra las tradiciones",
-      "fuente": "Liberal Coatza",
-      "categoria": "coatzacoalcos",
-      "fecha": "2026-07-03 20:10",
-      "url": "https://liberal.com.mx/arranca-la-feria-cosoleacaque-2026-un-santuario-cultural-que-celebra-las-tradiciones/",
-      "imagen": "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Abrieron un boquete para robar una tienda China en Minatitlán",
-      "fuente": "Liberal Coatza",
-      "categoria": "coatzacoalcos",
-      "fecha": "2026-07-03 20:10",
-      "url": "https://liberal.com.mx/abrieron-un-boquete-para-robar-una-tienda-china-en-minatitlan/",
-      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Suterm pide no retener  a cuadrillas de CFE",
-      "fuente": "Liberal Coatza",
-      "categoria": "coatzacoalcos",
-      "fecha": "2026-07-03 20:10",
-      "url": "https://liberal.com.mx/suterm-pide-no-retener-a-cuadrillas-de-cfe/",
-      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "¡DA CLIC PARA LEER NUESTRA EDICIÓN DEL DÍA!",
-      "fuente": "Liberal Coatza",
-      "categoria": "coatzacoalcos",
-      "fecha": "2026-07-03 20:10",
-      "url": "https://liberal.com.mx/da-clic-para-leer-nuestra-edicion-del-dia/",
-      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Sembradores de Papantla logran primera exportación  de limón persa a Rusia",
-      "fuente": "Liberal Coatza",
-      "categoria": "coatzacoalcos",
-      "fecha": "2026-07-03 20:10",
-      "url": "https://liberal.com.mx/sembradores-de-papantla-logran-primera-exportacion-de-limon-persa-a-rusia/",
-      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Sheinbaum ofrece certeza  a la industria tras la  continuación del T-MEC",
-      "fuente": "Liberal Coatza",
-      "categoria": "coatzacoalcos",
-      "fecha": "2026-07-03 20:10",
-      "url": "https://liberal.com.mx/sheinbaum-ofrece-certeza-a-la-industria-tras-la-continuacion-del-t-mec/",
-      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Detienen al Delta 1, ligado  a desaparición de periodista",
-      "fuente": "Liberal Coatza",
-      "categoria": "coatzacoalcos",
-      "fecha": "2026-07-03 20:10",
-      "url": "https://liberal.com.mx/detienen-al-delta-1-ligado-a-desaparicion-de-periodista/",
-      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Más familias se integran  a colectivos de búsqueda  en el sur de Veracruz",
-      "fuente": "Liberal Coatza",
-      "categoria": "coatzacoalcos",
-      "fecha": "2026-07-03 20:10",
-      "url": "https://liberal.com.mx/mas-familias-se-integran-a-colectivos-de-busqueda-en-el-sur-de-veracruz/",
-      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Saldo blanco tras lluvias;  refuerzan limpieza de  canales y drenajes",
-      "fuente": "Liberal Coatza",
-      "categoria": "coatzacoalcos",
-      "fecha": "2026-07-03 20:10",
-      "url": "https://liberal.com.mx/saldo-blanco-tras-lluvias-refuerzan-limpieza-de-canales-y-drenajes/",
-      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Participan 3 mil 766 personas en ciclo Espacio Libre de Expresión Artística",
+      "titulo": "CMIC Coatzacoalcos. Hay nueva “madera empresarial”. Los reales liderazgos al interior de los organismos empresariales qu",
       "fuente": "Municipio Sur",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-07-03 20:10",
-      "url": "https://municipiosur.com/2026/07/03/participan-3-mil-766-personas-en-ciclo-espacio-libre-de-expresion-artistica/",
+      "fecha": "2026-07-04 09:16",
+      "url": "https://municipiosur.com/2026/07/04/cmic-coatzacoalcos-hay-nueva-madera-empresarial-los-reales-liderazgos-al-interior-de-los-organismos-empresariales-que-existen-y-que-operan-en-coatzacoalcos-solo-se-consolidan-haci/",
+      "imagen": "https://images.unsplash.com/photo-1542596594-649edbc13630?w=800",
+      "prioridad": 2
+    },
+    {
+      "titulo": "Las candidaturas son de Rocío",
+      "fuente": "Municipio Sur",
+      "categoria": "coatzacoalcos",
+      "fecha": "2026-07-04 09:16",
+      "url": "https://municipiosur.com/2026/07/04/las-candidaturas-son-de-rocio/",
       "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "El Gobierno de Veracruz acredita correcta distribución de participaciones federales durante 2025",
+      "titulo": "Colombia vence por la mínima a Ghana y avanza a octavos de final",
       "fuente": "Municipio Sur",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-07-03 20:10",
-      "url": "https://municipiosur.com/2026/07/03/el-gobierno-de-veracruz-acredita-correcta-distribucion-de-participaciones-federales-durante-2025/",
+      "fecha": "2026-07-04 09:16",
+      "url": "https://municipiosur.com/2026/07/03/colombia-vence-por-la-minima-a-ghana-y-avanza-a-octavos-de-final/",
       "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "SECVER habilita tres sedes para recibir obras participantes del Premio Nacional de Cerámica",
+      "titulo": "Argentina vence 3-2 a Cabo Verde y continúa su camino en el Mundial 2026",
       "fuente": "Municipio Sur",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-07-03 20:10",
-      "url": "https://municipiosur.com/2026/07/03/secver-habilita-tres-sedes-para-recibir-obras-participantes-del-premio-nacional-de-ceramica/",
-      "imagen": "https://images.unsplash.com/photo-1503387762-592deb58ef4e?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Secretaría de Salud amplía coordinación con municipios mediante instalación de Comités",
-      "fuente": "Municipio Sur",
-      "categoria": "coatzacoalcos",
-      "fecha": "2026-07-03 20:10",
-      "url": "https://municipiosur.com/2026/07/03/secretaria-de-salud-amplia-coordinacion-con-municipios-mediante-instalacion-de-comites/",
-      "imagen": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "¡¡Feria de Cosoleacaque!!",
-      "fuente": "Municipio Sur",
-      "categoria": "coatzacoalcos",
-      "fecha": "2026-07-03 20:10",
-      "url": "https://municipiosur.com/2026/07/03/feria-de-cosoleacaque-3/",
+      "fecha": "2026-07-04 09:16",
+      "url": "https://municipiosur.com/2026/07/03/argentina-vence-3-2-a-cabo-verde-y-continua-su-camino-en-el-mundial-2026/",
       "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "¡¡Reunión Las Choapas!!",
+      "titulo": "Invita SECVER al público infantil a crear su propia galería artística",
       "fuente": "Municipio Sur",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-07-03 20:10",
-      "url": "https://municipiosur.com/2026/07/03/reunion-las-choapas/",
+      "fecha": "2026-07-04 09:16",
+      "url": "https://municipiosur.com/2026/07/03/invita-secver-al-publico-infantil-a-crear-su-propia-galeria-artistica/",
+      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Dos personas liberadas y 427 dosis aseguradas, saldo de operativos en 21 municipios",
+      "fuente": "Municipio Sur",
+      "categoria": "coatzacoalcos",
+      "fecha": "2026-07-04 09:16",
+      "url": "https://municipiosur.com/2026/07/03/dos-personas-liberadas-y-427-dosis-aseguradas-saldo-de-operativos-en-21-municipios/",
       "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
       "prioridad": 1
     }
   ],
   "veracruz": [
     {
-      "titulo": "Pemex planteará oferta de ayuda por daños tras siniestro en pozo Krem-1",
+      "titulo": "No descarta Paul Martínez que el alcalde de Perote solicite licencia por enfermedad",
       "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-07-03 20:10",
-      "url": "https://jornadaveracruz.com.mx/pemex-apoyos-afectados-pozo-krem-1-las-choapas/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 1
+      "fecha": "2026-07-04 09:16",
+      "url": "https://jornadaveracruz.com.mx/alcalde-perote-solicitaria-licencia-salud-vinicio-ascencio/",
+      "imagen": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+      "prioridad": 2
     },
     {
-      "titulo": "Se atrasó pago de pensiones del Bienestar en el Puerto",
+      "titulo": "Alcaldesa de Puente Nacional acompaña clausura de primaria en El Coyolar",
+      "fuente": "Golpe Politico",
+      "categoria": "veracruz",
+      "fecha": "2026-07-04 09:16",
+      "url": "https://golpepolitico.com/2026/07/03/alcaldesa-de-puente-nacional-acompana-clausura-de-primaria-en-el-coyolar/",
+      "imagen": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+      "prioridad": 2
+    },
+    {
+      "titulo": "CEAPP y Fiscalía de Veracruz acuerdan dar seguimiento conjunto a denuncias de periodistas",
       "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-07-03 20:10",
-      "url": "https://jornadaveracruz.com.mx/se-atraso-pago-de-pensiones-del-bienestar-en-el-puerto/",
-      "imagen": "https://images.unsplash.com/photo-1542596594-649edbc13630?w=800",
+      "fecha": "2026-07-04 09:16",
+      "url": "https://jornadaveracruz.com.mx/ceapp-fiscalia-veracruz-seguimiento-denuncias-periodistas/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Gran participación de mujeres en el Día del Pueblo en Xalapa, destacan",
+      "titulo": "El pronóstico del tiempo también juega el mundial",
       "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-07-03 20:10",
-      "url": "https://jornadaveracruz.com.mx/dia-del-pueblo-xalapa-participacion-mujeres-daniela-griego/",
+      "fecha": "2026-07-04 09:16",
+      "url": "https://jornadaveracruz.com.mx/pronostico-del-tiempo-mundial-futbol/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Portada del 3 de julio de 2026",
+      "titulo": "Orden, diálogo y colaboración institucional, factores clave de la LXVII Legislatura",
       "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-07-03 20:10",
-      "url": "https://jornadaveracruz.com.mx/portada-del-3-de-julio-de-2026/",
+      "fecha": "2026-07-04 09:16",
+      "url": "https://jornadaveracruz.com.mx/legislatura-veracruz-logros-segundo-periodo-2026/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Contraportada del 3 de julio de 2026",
+      "titulo": "Aprueban en Poza Rica el Programa Municipal de Protección Civil",
       "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-07-03 20:10",
-      "url": "https://jornadaveracruz.com.mx/contraportada-del-3-de-julio-de-2026/",
+      "fecha": "2026-07-04 09:16",
+      "url": "https://jornadaveracruz.com.mx/programa-municipal-proteccion-civil-poza-rica-plan-vacacional-verano/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Urgen a CFE construir otra subestación en Las Choapas",
+      "titulo": "Exigen reparaciones ante fracking en el Totonacapan por daños ambientales",
       "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-07-03 20:10",
-      "url": "https://jornadaveracruz.com.mx/cfe-subestacion-las-choapas-apagones-energia-electrica/",
+      "fecha": "2026-07-04 09:16",
+      "url": "https://jornadaveracruz.com.mx/fracking-veracruz-comunidades-totonacapan-advierten-danos-petroleros/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Vamos a poner pantallas en Xalapa y en el Puerto para ver el México-Inglaterra: RNG",
+      "titulo": "A respetar ley, insta OPLE a futuros aspirantes a cargos",
       "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-07-03 20:10",
-      "url": "https://jornadaveracruz.com.mx/pantallas-mexico-vs-inglaterra-veracruz-xalapa-puerto/",
-      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
+      "fecha": "2026-07-04 09:16",
+      "url": "https://jornadaveracruz.com.mx/ople-veracruz-llama-respetar-ley-electoral-rumbo-2027/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "El dilema del Kremlin y la cohesión de la UE",
+      "titulo": "Ante el abstencionismo, se pronuncia INE por educación y no por coerción",
       "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-07-03 20:10",
-      "url": "https://jornadaveracruz.com.mx/dilema-kremlin-cohesion-union-europea-guerra-ucrania-opinion/",
+      "fecha": "2026-07-04 09:16",
+      "url": "https://jornadaveracruz.com.mx/ine-abstencionismo-electoral-educacion-civica-no-sanciones/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Asegura FGR cedro rojo durante cateo en Tlacotalpan",
+      "titulo": "En tecnológicos, matrícula creció 20% por gratuidad de educación",
       "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-07-03 20:10",
-      "url": "https://jornadaveracruz.com.mx/fgr-asegura-cedro-rojo-cateo-tlacotalpan-veracruz/",
+      "fecha": "2026-07-04 09:16",
+      "url": "https://jornadaveracruz.com.mx/gratuidad-educacion-veracruz-aumenta-matricula-tecnologicos/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Mayor de la Fuerza Aérea de EU es arrestado frente al Capitolio tras pedir un juicio político contra Trump y JD Vance",
+      "titulo": "Toman padres de familia escuela primaria de Huiloapan; exigen destituir a directora",
+      "fuente": "Jornada Veracruz",
+      "categoria": "veracruz",
+      "fecha": "2026-07-04 09:16",
+      "url": "https://jornadaveracruz.com.mx/padres-toman-primaria-huiloapan-exigen-destitucion-directora/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Motociclista lesionado tras derrapar en Tantoyuca; compañeros retiran la unidad del lugar",
       "fuente": "Golpe Politico",
       "categoria": "veracruz",
-      "fecha": "2026-07-03 20:10",
-      "url": "https://golpepolitico.com/2026/07/03/mayor-de-la-fuerza-aerea-de-eu-es-arrestado-frente-al-capitolio-tras-pedir-un-juicio-politico-contra-trump-y-jd-vance/",
+      "fecha": "2026-07-04 09:16",
+      "url": "https://golpepolitico.com/2026/07/04/motociclista-lesionado-tras-derrapar-en-tantoyuca-companeros-retiran-la-unidad-del-lugar/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "IPE da a conocer fechas del Segundo Periodo de Revista de Supervivencia",
+      "titulo": "Trump denuncia un «ataque renovado» contra la identidad de EU; acusa a radicales y extremistas internos",
       "fuente": "Golpe Politico",
       "categoria": "veracruz",
-      "fecha": "2026-07-03 20:10",
-      "url": "https://golpepolitico.com/2026/07/03/ipe-da-a-conocer-fechas-del-segundo-periodo-de-revista-de-supervivencia/",
+      "fecha": "2026-07-04 09:16",
+      "url": "https://golpepolitico.com/2026/07/03/trump-denuncia-un-ataque-renovado-contra-la-identidad-de-eu-acusa-a-radicales-y-extremistas-internos/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Joven es encontrada sin vida en su habitación en la colonia Revolución en Xalapa",
+      "titulo": "Definidos los Octavos del Mundial 2026; así quedaron los 8 duelos rumbo al título",
       "fuente": "Golpe Politico",
       "categoria": "veracruz",
-      "fecha": "2026-07-03 20:10",
-      "url": "https://golpepolitico.com/2026/07/03/joven-es-encontrada-sin-vida-en-su-habitacion-en-la-colonia-revolucion-en-xalapa/",
+      "fecha": "2026-07-04 09:16",
+      "url": "https://golpepolitico.com/2026/07/03/definidos-los-octavos-del-mundial-2026-asi-quedaron-los-8-duelos-rumbo-al-titulo/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "En 24 horas, Fiscalía de Veracruz logra 62 resoluciones judiciales contra delitos de alto impacto",
+      "titulo": "Refuerzan vigilancia en Tantoyuca con nuevas patrullas para la Policía Municipal",
       "fuente": "Golpe Politico",
       "categoria": "veracruz",
-      "fecha": "2026-07-03 20:10",
-      "url": "https://golpepolitico.com/2026/07/03/en-24-horas-fiscalia-de-veracruz-logra-62-resoluciones-judiciales-contra-delitos-de-alto-impacto/",
+      "fecha": "2026-07-04 09:16",
+      "url": "https://golpepolitico.com/2026/07/03/refuerzan-vigilancia-en-tantoyuca-con-nuevas-patrullas-para-la-policia-municipal/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Fiscalía General del Estado interviene negocio de caza y pesca en Xalapa",
+      "titulo": "Colombia vence 1-0 a Ghana y avanza a octavos de final del Mundial 2026",
       "fuente": "Golpe Politico",
       "categoria": "veracruz",
-      "fecha": "2026-07-03 20:10",
-      "url": "https://golpepolitico.com/2026/07/03/fiscalia-general-del-estado-interviene-negocio-de-caza-y-pesca-en-xalapa/",
+      "fecha": "2026-07-04 09:16",
+      "url": "https://golpepolitico.com/2026/07/03/colombia-vence-1-0-a-ghana-y-avanza-a-octavos-de-final-del-mundial-2026/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Entregan una patrulla y tres motos para la Comandancia Municipal de Tantoyuca",
+      "titulo": "Detienen a motociclista ebrio tras provocar accidente en Tantoyuca",
       "fuente": "Golpe Politico",
       "categoria": "veracruz",
-      "fecha": "2026-07-03 20:10",
-      "url": "https://golpepolitico.com/2026/07/03/entregan-una-patrulla-y-tres-motos-para-la-comandancia-municipal-de-tantoyuca/",
+      "fecha": "2026-07-04 09:16",
+      "url": "https://golpepolitico.com/2026/07/03/detienen-a-motociclista-ebrio-tras-provocar-accidente-en-tantoyuca/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Impulsa Daniel Cortina acciones para fortalecer la educación básica en Tuxpan",
+      "titulo": "Fuerte choque en la carretera México–Tampico deja varios lesionados en Tantoyuca",
       "fuente": "Golpe Politico",
       "categoria": "veracruz",
-      "fecha": "2026-07-03 20:10",
-      "url": "https://golpepolitico.com/2026/07/03/impulsa-daniel-cortina-acciones-para-fortalecer-la-educacion-basica-en-tuxpan/",
+      "fecha": "2026-07-04 09:16",
+      "url": "https://golpepolitico.com/2026/07/03/fuerte-choque-en-la-carretera-mexico-tampico-deja-varios-lesionados-en-tantoyuca/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "INE Veracruz precisa información con respecto a la integración de partidos “Paz” y “Somos México” al Consejo Local",
+      "titulo": "Estudiantes del IUV organizan bazar para apoyar a Radio Teocelo tras daños por las lluvias",
       "fuente": "Golpe Politico",
       "categoria": "veracruz",
-      "fecha": "2026-07-03 20:10",
-      "url": "https://golpepolitico.com/2026/07/03/ine-veracruz-precisa-informacion-con-respecto-a-la-integracion-de-partidos-paz-y-somos-mexico-al-consejo-local/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "El México vs Inglaterra cambiaría de hora por cuestiones climáticas",
-      "fuente": "Golpe Politico",
-      "categoria": "veracruz",
-      "fecha": "2026-07-03 20:10",
-      "url": "https://golpepolitico.com/2026/07/03/el-mexico-vs-inglaterra-cambiaria-de-hora-por-cuestiones-climaticas/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Madre e hijo continúan  graves tras accidente",
-      "fuente": "Liberal del Sur",
-      "categoria": "veracruz",
-      "fecha": "2026-07-03 20:10",
-      "url": "https://liberal.com.mx/madre-e-hijo-continuan-graves-tras-accidente/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Arranca la Feria  Cosoleacaque 2026,  un santuario cultural que  celebra las tradiciones",
-      "fuente": "Liberal del Sur",
-      "categoria": "veracruz",
-      "fecha": "2026-07-03 20:10",
-      "url": "https://liberal.com.mx/arranca-la-feria-cosoleacaque-2026-un-santuario-cultural-que-celebra-las-tradiciones/",
-      "imagen": "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Abrieron un boquete para robar una tienda China en Minatitlán",
-      "fuente": "Liberal del Sur",
-      "categoria": "veracruz",
-      "fecha": "2026-07-03 20:10",
-      "url": "https://liberal.com.mx/abrieron-un-boquete-para-robar-una-tienda-china-en-minatitlan/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Suterm pide no retener  a cuadrillas de CFE",
-      "fuente": "Liberal del Sur",
-      "categoria": "veracruz",
-      "fecha": "2026-07-03 20:10",
-      "url": "https://liberal.com.mx/suterm-pide-no-retener-a-cuadrillas-de-cfe/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "¡DA CLIC PARA LEER NUESTRA EDICIÓN DEL DÍA!",
-      "fuente": "Liberal del Sur",
-      "categoria": "veracruz",
-      "fecha": "2026-07-03 20:10",
-      "url": "https://liberal.com.mx/da-clic-para-leer-nuestra-edicion-del-dia/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Sembradores de Papantla logran primera exportación  de limón persa a Rusia",
-      "fuente": "Liberal del Sur",
-      "categoria": "veracruz",
-      "fecha": "2026-07-03 20:10",
-      "url": "https://liberal.com.mx/sembradores-de-papantla-logran-primera-exportacion-de-limon-persa-a-rusia/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Sheinbaum ofrece certeza  a la industria tras la  continuación del T-MEC",
-      "fuente": "Liberal del Sur",
-      "categoria": "veracruz",
-      "fecha": "2026-07-03 20:10",
-      "url": "https://liberal.com.mx/sheinbaum-ofrece-certeza-a-la-industria-tras-la-continuacion-del-t-mec/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Detienen al Delta 1, ligado  a desaparición de periodista",
-      "fuente": "Liberal del Sur",
-      "categoria": "veracruz",
-      "fecha": "2026-07-03 20:10",
-      "url": "https://liberal.com.mx/detienen-al-delta-1-ligado-a-desaparicion-de-periodista/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Más familias se integran  a colectivos de búsqueda  en el sur de Veracruz",
-      "fuente": "Liberal del Sur",
-      "categoria": "veracruz",
-      "fecha": "2026-07-03 20:10",
-      "url": "https://liberal.com.mx/mas-familias-se-integran-a-colectivos-de-busqueda-en-el-sur-de-veracruz/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Saldo blanco tras lluvias;  refuerzan limpieza de  canales y drenajes",
-      "fuente": "Liberal del Sur",
-      "categoria": "veracruz",
-      "fecha": "2026-07-03 20:10",
-      "url": "https://liberal.com.mx/saldo-blanco-tras-lluvias-refuerzan-limpieza-de-canales-y-drenajes/",
+      "fecha": "2026-07-04 09:16",
+      "url": "https://golpepolitico.com/2026/07/03/estudiantes-del-iuv-organizan-bazar-para-apoyar-a-radio-teocelo-tras-danos-por-las-lluvias/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     }
