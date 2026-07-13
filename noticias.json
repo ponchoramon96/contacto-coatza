@@ -1,10 +1,28 @@
 {
   "coatzacoalcos": [
     {
+      "titulo": "“Grilla Guinda” en el Parque Independencia de Coatzacoalcos. Tenía su buen rato, más de un año, que no se reunían en un ",
+      "fuente": "Municipio Sur",
+      "categoria": "coatzacoalcos",
+      "fecha": "2026-07-13 10:18",
+      "url": "https://municipiosur.com/2026/07/13/grilla-guinda-en-el-parque-independencia-de-coatzacoalcos-tenia-su-buen-rato-mas-de-un-ano-que-no-se-reunian-en-un-mismo-sitio-los-principales-activos-politicos/",
+      "imagen": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800",
+      "prioridad": 3
+    },
+    {
+      "titulo": "Agreden a joven que salvó a estudiante en playas de Coatzacoalcos",
+      "fuente": "Liberal Coatza",
+      "categoria": "coatzacoalcos",
+      "fecha": "2026-07-13 10:18",
+      "url": "https://liberal.com.mx/agreden-a-joven-que-salvo-a-estudiante-en-playas-de-coatzacoalcos/",
+      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
+      "prioridad": 2
+    },
+    {
       "titulo": "Violento choque derriba poste en el malecón de Coatzacoalcos; un lesionado",
       "fuente": "Liberal Coatza",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-07-12 20:03",
+      "fecha": "2026-07-13 10:18",
       "url": "https://liberal.com.mx/violento-choque-derriba-poste-en-el-malecon-de-coatzacoalcos-un-lesionado/",
       "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
       "prioridad": 2
@@ -13,25 +31,52 @@
       "titulo": "Identifican a hombre que murió al ser arrastrado por un canal durante la tormenta en Coatzacoalcos",
       "fuente": "Liberal Coatza",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-07-12 20:03",
+      "fecha": "2026-07-13 10:18",
       "url": "https://liberal.com.mx/identifican-a-hombre-que-murio-al-ser-arrastrado-por-un-canal-durante-la-tormenta-en-coatzacoalcos/",
       "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
       "prioridad": 2
     },
     {
-      "titulo": "Una pareja de delfines se ha convertido en el principal atractivo para ciudadanos. Durante los trabajos de rehabilitació",
-      "fuente": "Municipio Sur",
+      "titulo": "¡DA CLIC PARA LEER NUESTRA EDICIÓN DEL DÍA!",
+      "fuente": "Liberal Coatza",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-07-12 20:03",
-      "url": "https://municipiosur.com/2026/07/12/una-pareja-de-delfines-se-ha-convertido-en-el-principal-atractivo-para-ciudadanos-durante-los-trabajos-de-rehabilitacion-de-las-escolleras-de-coatzacoalcos-los-mamiferos-aparecen-de-manera-con/",
-      "imagen": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=800",
-      "prioridad": 2
+      "fecha": "2026-07-13 10:18",
+      "url": "https://liberal.com.mx/da-clic-para-leer-nuestra-edicion-del-dia/",
+      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Tres años después, condenan a taxistas por agresión contra conductor de Uber en Cancún",
+      "fuente": "Liberal Coatza",
+      "categoria": "coatzacoalcos",
+      "fecha": "2026-07-13 10:18",
+      "url": "https://liberal.com.mx/tres-anos-despues-condenan-a-taxistas-por-agresion-contra-conductor-de-uber-en-cancun/",
+      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Con ovación de pie, Xalapa celebra la segunda noche del Festival InternacionaldelBoleroyJazz",
+      "fuente": "Liberal Coatza",
+      "categoria": "coatzacoalcos",
+      "fecha": "2026-07-13 10:18",
+      "url": "https://liberal.com.mx/con-ovacion-de-pie-xalapa-celebra-la-segunda-noche-del-festival-internacionaldelboleroyjazz/",
+      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Presidenta Sheinbaum concluye gira por Durango y Zacatecas con apoyos sociales y obras",
+      "fuente": "Liberal Coatza",
+      "categoria": "coatzacoalcos",
+      "fecha": "2026-07-13 10:18",
+      "url": "https://liberal.com.mx/presidenta-sheinbaum-concluye-gira-por-durango-y-zacatecas-con-apoyos-sociales-y-obras/",
+      "imagen": "https://images.unsplash.com/photo-1503387762-592deb58ef4e?w=800",
+      "prioridad": 1
     },
     {
       "titulo": "Ataque armado cobra la vida de conocido peluquero en Ciudad Olmeca",
       "fuente": "Liberal Coatza",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-07-12 20:03",
+      "fecha": "2026-07-13 10:18",
       "url": "https://liberal.com.mx/ataque-armado-cobra-la-vida-de-conocido-peluquero-en-ciudad-olmeca/",
       "imagen": "https://images.unsplash.com/photo-1503387762-592deb58ef4e?w=800",
       "prioridad": 1
@@ -40,7 +85,7 @@
       "titulo": "Reporte ciudadano desata operativo policiaco en Villa Allende",
       "fuente": "Liberal Coatza",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-07-12 20:03",
+      "fecha": "2026-07-13 10:18",
       "url": "https://liberal.com.mx/reporte-ciudadano-desata-operativo-policiaco-en-villa-allende/",
       "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
       "prioridad": 1
@@ -49,100 +94,64 @@
       "titulo": "Más territorio, menos escritorio",
       "fuente": "Liberal Coatza",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-07-12 20:03",
+      "fecha": "2026-07-13 10:18",
       "url": "https://liberal.com.mx/mas-territorio-menos-escritorio/",
       "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Veracruz celebra la música con el segundo Festival Internacional del Bolero y Jazz",
-      "fuente": "Liberal Coatza",
-      "categoria": "coatzacoalcos",
-      "fecha": "2026-07-12 20:03",
-      "url": "https://liberal.com.mx/veracruz-celebra-la-musica-con-el-segundo-festival-internacional-del-bolero-y-jazz/",
-      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "¡DA CLIC PARA LEER NUESTRA EDICIÓN DEL DÍA!",
-      "fuente": "Liberal Coatza",
-      "categoria": "coatzacoalcos",
-      "fecha": "2026-07-12 20:03",
-      "url": "https://liberal.com.mx/da-clic-para-leer-nuestra-edicion-del-dia/",
-      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Se han repatriado 17 mil  878 bienes culturales con  la cuarta transformación",
-      "fuente": "Liberal Coatza",
-      "categoria": "coatzacoalcos",
-      "fecha": "2026-07-12 20:03",
-      "url": "https://liberal.com.mx/se-han-repatriado-17-mil-878-bienes-culturales-con-la-cuarta-transformacion/",
-      "imagen": "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "SRE inicia acciones legales  por muertes de mexicanos  bajo custodia del ICE",
-      "fuente": "Liberal Coatza",
-      "categoria": "coatzacoalcos",
-      "fecha": "2026-07-12 20:03",
-      "url": "https://liberal.com.mx/sre-inicia-acciones-legales-por-muertes-de-mexicanos-bajo-custodia-del-ice/",
-      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Delfines de la Universidad de Sotavento inicia visorías para temporada de la TDP",
-      "fuente": "Liberal Coatza",
-      "categoria": "coatzacoalcos",
-      "fecha": "2026-07-12 20:03",
-      "url": "https://liberal.com.mx/delfines-de-la-universidad-de-sotavento-inicia-visorias-para-temporada-de-la-tdp/",
-      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "¡¡Socavón Atendido!!",
+      "titulo": "Pariendo Chayotes en Minatitlán",
       "fuente": "Municipio Sur",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-07-12 20:03",
-      "url": "https://municipiosur.com/2026/07/12/socavon-atendido/",
+      "fecha": "2026-07-13 10:18",
+      "url": "https://municipiosur.com/2026/07/13/pariendo-chayotes-en-minatitlan/",
       "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "¡¡Reunión de MORENA!!",
+      "titulo": "Ruta Veracruzana reúne a comunidades para preservar patrimonio vivo",
       "fuente": "Municipio Sur",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-07-12 20:03",
-      "url": "https://municipiosur.com/2026/07/12/reunion-de-morena/",
+      "fecha": "2026-07-13 10:18",
+      "url": "https://municipiosur.com/2026/07/12/ruta-veracruzana-reune-a-comunidades-para-preservar-patrimonio-vivo/",
       "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "¡¡Delfines Porteños!!",
+      "titulo": "Protege Veracruz la migración del cangrejo azul con la Cangrejeada 2026",
       "fuente": "Municipio Sur",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-07-12 20:03",
-      "url": "https://municipiosur.com/2026/07/12/delfines-portenos/",
+      "fecha": "2026-07-13 10:18",
+      "url": "https://municipiosur.com/2026/07/12/protege-veracruz-la-migracion-del-cangrejo-azul-con-la-cangrejeada-2026/",
+      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Estudiante del CECyTEV representará a Veracruz en el Nacional de Mecatrónica",
+      "fuente": "Municipio Sur",
+      "categoria": "coatzacoalcos",
+      "fecha": "2026-07-13 10:18",
+      "url": "https://municipiosur.com/2026/07/12/estudiante-del-cecytev-representara-a-veracruz-en-el-nacional-de-mecatronica/",
+      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Continúa STPSP con entrega del Distintivo ALIADA a empresas de las Altas Montañas",
+      "fuente": "Municipio Sur",
+      "categoria": "coatzacoalcos",
+      "fecha": "2026-07-13 10:18",
+      "url": "https://municipiosur.com/2026/07/12/continua-stpsp-con-entrega-del-distintivo-aliada-a-empresas-de-las-altas-montanas/",
       "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
       "prioridad": 1
     }
   ],
   "veracruz": [
     {
-      "titulo": "A poco más de año y medio de estar al frente como Gobernadora de Veracruz, Rocío Nahle, asegura que se ha logrado avanza",
-      "fuente": "Golpe Politico",
+      "titulo": "Agreden a joven que salvó a estudiante en playas de Coatzacoalcos",
+      "fuente": "Liberal del Sur",
       "categoria": "veracruz",
-      "fecha": "2026-07-12 20:03",
-      "url": "https://golpepolitico.com/2026/07/12/a-poco-mas-de-ano-y-medio-de-estar-al-frente-como-gobernadora-de-veracruz-rocio-nahle-asegura-que-se-ha-logrado-avanzar-como-nunca-en-obras-historicas-compromisos-cumplidos-apoyos-directos-bienes/",
-      "imagen": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800",
-      "prioridad": 3
-    },
-    {
-      "titulo": "Arriba a Coatzacoalcos el buque Glovis Cougar para exportar 3 mil vehículos Hyundai hacia Estados Unidos",
-      "fuente": "Golpe Politico",
-      "categoria": "veracruz",
-      "fecha": "2026-07-12 20:03",
-      "url": "https://golpepolitico.com/2026/07/12/arriba-a-coatzacoalcos-el-buque-glovis-cougar-para-exportar-3-mil-vehiculos-hyundai-hacia-estados-unidos/",
+      "fecha": "2026-07-13 10:18",
+      "url": "https://liberal.com.mx/agreden-a-joven-que-salvo-a-estudiante-en-playas-de-coatzacoalcos/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 2
     },
@@ -150,7 +159,7 @@
       "titulo": "Violento choque derriba poste en el malecón de Coatzacoalcos; un lesionado",
       "fuente": "Liberal del Sur",
       "categoria": "veracruz",
-      "fecha": "2026-07-12 20:03",
+      "fecha": "2026-07-13 10:18",
       "url": "https://liberal.com.mx/violento-choque-derriba-poste-en-el-malecon-de-coatzacoalcos-un-lesionado/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 2
@@ -159,16 +168,25 @@
       "titulo": "Identifican a hombre que murió al ser arrastrado por un canal durante la tormenta en Coatzacoalcos",
       "fuente": "Liberal del Sur",
       "categoria": "veracruz",
-      "fecha": "2026-07-12 20:03",
+      "fecha": "2026-07-13 10:18",
       "url": "https://liberal.com.mx/identifican-a-hombre-que-murio-al-ser-arrastrado-por-un-canal-durante-la-tormenta-en-coatzacoalcos/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 2
     },
     {
+      "titulo": "Gobierno de Poza Rica mantiene monitoreo permanentemente ante la temporada de lluvias",
+      "fuente": "Jornada Veracruz",
+      "categoria": "veracruz",
+      "fecha": "2026-07-13 10:18",
+      "url": "https://jornadaveracruz.com.mx/gobierno-de-poza-rica-mantiene-monitoreo-permanentemente-ante-la-temporada-de-lluvias/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
       "titulo": "Deportistas y entrenadores, endeudados por falta de pago de becas del IVD",
       "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-07-12 20:03",
+      "fecha": "2026-07-13 10:18",
       "url": "https://jornadaveracruz.com.mx/deportistas-y-entrenadores-endeudados-por-falta-de-pago-de-becas-del-ivd/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
@@ -177,7 +195,7 @@
       "titulo": "Indagarán en Constellation Brands presunta extorsión",
       "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-07-12 20:03",
+      "fecha": "2026-07-13 10:18",
       "url": "https://jornadaveracruz.com.mx/indagaran-en-constellation-brands-presunta-extorsion/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
@@ -186,7 +204,7 @@
       "titulo": "Proyecta Daniela Griego parque urbano en el humedal El Castañón, en Xalapa",
       "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-07-12 20:03",
+      "fecha": "2026-07-13 10:18",
       "url": "https://jornadaveracruz.com.mx/proyecta-daniela-griego-parque-urbano-en-el-humedal-el-castanon-en-xalapa/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
@@ -195,7 +213,7 @@
       "titulo": "Participa Rafael Toriz en el Festival del Libro y la Cultura Dominicana, en NY",
       "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-07-12 20:03",
+      "fecha": "2026-07-13 10:18",
       "url": "https://jornadaveracruz.com.mx/participa-rafael-toriz-en-el-festival-del-libro-y-la-cultura-dominicana-en-ny/",
       "imagen": "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?w=800",
       "prioridad": 1
@@ -204,7 +222,7 @@
       "titulo": "Pide ATAV precaución con transporte por aplicación",
       "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-07-12 20:03",
+      "fecha": "2026-07-13 10:18",
       "url": "https://jornadaveracruz.com.mx/pide-atav-precaucion-con-transporte-por-aplicacion/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
@@ -213,7 +231,7 @@
       "titulo": "En Veracruz, rescata SSP a cuatro secuestrados en distintos operativos",
       "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-07-12 20:03",
+      "fecha": "2026-07-13 10:18",
       "url": "https://jornadaveracruz.com.mx/en-veracruz-rescata-ssp-a-cuatro-secuestrados-en-distintos-operativos/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
@@ -222,7 +240,7 @@
       "titulo": "Veracruz, con dos muertes por dengue y 454 contagios",
       "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-07-12 20:03",
+      "fecha": "2026-07-13 10:18",
       "url": "https://jornadaveracruz.com.mx/veracruz-con-dos-muertes-por-dengue-y-454-contagios/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
@@ -231,70 +249,124 @@
       "titulo": "INE permitirá incluir identidad indígena, afromexicana y de género en la credencial",
       "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-07-12 20:03",
+      "fecha": "2026-07-13 10:18",
       "url": "https://jornadaveracruz.com.mx/ine-permitira-incluir-identidad-indigena-afromexicana-y-de-genero-en-la-credencial/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Infonavit descarta daños en viviendas de Bosques de Río Medio por fuertes lluvias",
-      "fuente": "Jornada Veracruz",
+      "titulo": "Concluye segunda edición del Festival Internacional del Bolero y el Jazz 2026 en Veracruz",
+      "fuente": "Golpe Politico",
       "categoria": "veracruz",
-      "fecha": "2026-07-12 20:03",
-      "url": "https://jornadaveracruz.com.mx/infonavit-descarta-danos-en-viviendas-de-bosques-de-rio-medio-por-fuertes-lluvias/",
+      "fecha": "2026-07-13 10:18",
+      "url": "https://golpepolitico.com/2026/07/12/concluye-segunda-edicion-del-festival-internacional-del-bolero-y-el-jazz-2026-en-veracruz/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Regularizará INSUS alrededor de 7 mil lotes de posesionarios que viven en colonias de Xalapa y Banderilla",
+      "titulo": "Festival del Bolero y Jazz en Xalapa cerró entre clásicos del bolero y propuestas contemporáneas",
       "fuente": "Golpe Politico",
       "categoria": "veracruz",
-      "fecha": "2026-07-12 20:03",
-      "url": "https://golpepolitico.com/2026/07/12/regularizara-insus-alrededor-de-7-mil-lotes-de-posesionarios-que-viven-en-colonias-de-xalapa-y-banderilla/",
+      "fecha": "2026-07-13 10:18",
+      "url": "https://golpepolitico.com/2026/07/12/festival-del-bolero-y-jazz-en-xalapa-cerro-entre-clasicos-del-bolero-y-propuestas-contemporaneas/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Falta de capacitación al volante dispara accidentes; 7 de cada 10 siniestros son por errores humanos",
+      "titulo": "Gobierno de Poza Rica mantiene monitoreo permanente ante la temporada de lluvias",
       "fuente": "Golpe Politico",
       "categoria": "veracruz",
-      "fecha": "2026-07-12 20:03",
-      "url": "https://golpepolitico.com/2026/07/12/falta-de-capacitacion-al-volante-dispara-accidentes-7-de-cada-10-siniestros-son-por-errores-humanos/",
+      "fecha": "2026-07-13 10:18",
+      "url": "https://golpepolitico.com/2026/07/12/gobierno-de-poza-rica-mantiene-monitoreo-permanente-ante-la-temporada-de-lluvias/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Veracruz reunirá a compradores y empresas en Fábrica de Negocio",
+      "titulo": "El público se puso de pie para ovacionar al gran tenor Fernando de la Mora, quien emocionó con su extraordinaria interpr",
       "fuente": "Golpe Politico",
       "categoria": "veracruz",
-      "fecha": "2026-07-12 20:03",
-      "url": "https://golpepolitico.com/2026/07/12/veracruz-reunira-a-compradores-y-empresas-en-fabrica-de-negocio/",
+      "fecha": "2026-07-13 10:18",
+      "url": "https://golpepolitico.com/2026/07/12/el-publico-se-puso-de-pie-para-ovacionar-al-gran-tenor-fernando-de-la-mora-quien-emociono-con-su-extraordinaria-interpretacion/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Jorge Hank Rhon afirma que Gilberto Mora seguirá una temporada más en Xolos",
+      "titulo": "Rodrigo de la Cadena pone el sazón en la gran noche de clausura del Festival Internacional del Bolero y Jazz 2026 en Ver",
       "fuente": "Golpe Politico",
       "categoria": "veracruz",
-      "fecha": "2026-07-12 20:03",
-      "url": "https://golpepolitico.com/2026/07/12/jorge-hank-rhon-afirma-que-gilberto-mora-seguira-una-temporada-mas-en-xolos/",
+      "fecha": "2026-07-13 10:18",
+      "url": "https://golpepolitico.com/2026/07/12/rodrigo-de-la-cadena-pone-el-sazon-en-la-gran-noche-de-clausura-del-festival-internacional-del-bolero-y-jazz-2026-en-veracruz/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Inédita polémica sobre Argentina en el Mundial 2026: Contundente dato que desata cuestionamientos",
+      "titulo": "María Katzarava ofreció una magistral interpretación de «Vereda Tropical», conquistando al público durante el concierto ",
       "fuente": "Golpe Politico",
       "categoria": "veracruz",
-      "fecha": "2026-07-12 20:03",
-      "url": "https://golpepolitico.com/2026/07/12/inedita-polemica-sobre-argentina-en-el-mundial-2026-contundente-dato-que-desata-cuestionamientos/",
+      "fecha": "2026-07-13 10:18",
+      "url": "https://golpepolitico.com/2026/07/12/maria-katzarava-ofrecio-una-magistral-interpretacion-de-vereda-tropical-conquistando-al-publico-durante-el-concierto-de-bolero-sinfonico-del-festival-internacional-del-bolero-y-jazz-2026/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Fernando de la Mora conquistó al público con su interpretación de «Mucho Corazón», una de las actuaciones más ovacionada",
+      "fuente": "Golpe Politico",
+      "categoria": "veracruz",
+      "fecha": "2026-07-13 10:18",
+      "url": "https://golpepolitico.com/2026/07/12/fernando-de-la-mora-conquisto-al-publico-con-su-interpretacion-de-muchocorazon-una-de-las-actuaciones-mas-ovacionadas-de-la-noche-durante-la-gala-de-opera-sinfonica-del-festival-internacional-del/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "María Katzarava cautivó al público con una interpretación llena de sentimiento durante la Gala de Ópera Sinfónica del Fe",
+      "fuente": "Golpe Politico",
+      "categoria": "veracruz",
+      "fecha": "2026-07-13 10:18",
+      "url": "https://golpepolitico.com/2026/07/12/maria-katzarava-cautivo-al-publico-con-una-interpretacion-llena-de-sentimiento-durante-la-gala-de-opera-sinfonica-del-festival-internacional-del-bolero-y-jazz-2026/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "¡DA CLIC PARA LEER NUESTRA EDICIÓN DEL DÍA!",
+      "fuente": "Liberal del Sur",
+      "categoria": "veracruz",
+      "fecha": "2026-07-13 10:18",
+      "url": "https://liberal.com.mx/da-clic-para-leer-nuestra-edicion-del-dia/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Tres años después, condenan a taxistas por agresión contra conductor de Uber en Cancún",
+      "fuente": "Liberal del Sur",
+      "categoria": "veracruz",
+      "fecha": "2026-07-13 10:18",
+      "url": "https://liberal.com.mx/tres-anos-despues-condenan-a-taxistas-por-agresion-contra-conductor-de-uber-en-cancun/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Con ovación de pie, Xalapa celebra la segunda noche del Festival InternacionaldelBoleroyJazz",
+      "fuente": "Liberal del Sur",
+      "categoria": "veracruz",
+      "fecha": "2026-07-13 10:18",
+      "url": "https://liberal.com.mx/con-ovacion-de-pie-xalapa-celebra-la-segunda-noche-del-festival-internacionaldelboleroyjazz/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Presidenta Sheinbaum concluye gira por Durango y Zacatecas con apoyos sociales y obras",
+      "fuente": "Liberal del Sur",
+      "categoria": "veracruz",
+      "fecha": "2026-07-13 10:18",
+      "url": "https://liberal.com.mx/presidenta-sheinbaum-concluye-gira-por-durango-y-zacatecas-con-apoyos-sociales-y-obras/",
+      "imagen": "https://images.unsplash.com/photo-1503387762-592deb58ef4e?w=800",
       "prioridad": 1
     },
     {
       "titulo": "Ataque armado cobra la vida de conocido peluquero en Ciudad Olmeca",
       "fuente": "Liberal del Sur",
       "categoria": "veracruz",
-      "fecha": "2026-07-12 20:03",
+      "fecha": "2026-07-13 10:18",
       "url": "https://liberal.com.mx/ataque-armado-cobra-la-vida-de-conocido-peluquero-en-ciudad-olmeca/",
       "imagen": "https://images.unsplash.com/photo-1503387762-592deb58ef4e?w=800",
       "prioridad": 1
@@ -303,7 +375,7 @@
       "titulo": "Reporte ciudadano desata operativo policiaco en Villa Allende",
       "fuente": "Liberal del Sur",
       "categoria": "veracruz",
-      "fecha": "2026-07-12 20:03",
+      "fecha": "2026-07-13 10:18",
       "url": "https://liberal.com.mx/reporte-ciudadano-desata-operativo-policiaco-en-villa-allende/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
@@ -312,53 +384,8 @@
       "titulo": "Más territorio, menos escritorio",
       "fuente": "Liberal del Sur",
       "categoria": "veracruz",
-      "fecha": "2026-07-12 20:03",
+      "fecha": "2026-07-13 10:18",
       "url": "https://liberal.com.mx/mas-territorio-menos-escritorio/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Veracruz celebra la música con el segundo Festival Internacional del Bolero y Jazz",
-      "fuente": "Liberal del Sur",
-      "categoria": "veracruz",
-      "fecha": "2026-07-12 20:03",
-      "url": "https://liberal.com.mx/veracruz-celebra-la-musica-con-el-segundo-festival-internacional-del-bolero-y-jazz/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "¡DA CLIC PARA LEER NUESTRA EDICIÓN DEL DÍA!",
-      "fuente": "Liberal del Sur",
-      "categoria": "veracruz",
-      "fecha": "2026-07-12 20:03",
-      "url": "https://liberal.com.mx/da-clic-para-leer-nuestra-edicion-del-dia/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Se han repatriado 17 mil  878 bienes culturales con  la cuarta transformación",
-      "fuente": "Liberal del Sur",
-      "categoria": "veracruz",
-      "fecha": "2026-07-12 20:03",
-      "url": "https://liberal.com.mx/se-han-repatriado-17-mil-878-bienes-culturales-con-la-cuarta-transformacion/",
-      "imagen": "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "SRE inicia acciones legales  por muertes de mexicanos  bajo custodia del ICE",
-      "fuente": "Liberal del Sur",
-      "categoria": "veracruz",
-      "fecha": "2026-07-12 20:03",
-      "url": "https://liberal.com.mx/sre-inicia-acciones-legales-por-muertes-de-mexicanos-bajo-custodia-del-ice/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Delfines de la Universidad de Sotavento inicia visorías para temporada de la TDP",
-      "fuente": "Liberal del Sur",
-      "categoria": "veracruz",
-      "fecha": "2026-07-12 20:03",
-      "url": "https://liberal.com.mx/delfines-de-la-universidad-de-sotavento-inicia-visorias-para-temporada-de-la-tdp/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     }
