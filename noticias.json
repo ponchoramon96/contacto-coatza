@@ -4,7 +4,7 @@
       "titulo": "Carmen Medel Palma, ex presidente municipal de Minatitlán va rumbo a la Coordinación para Defender la Transformación y S",
       "fuente": "Municipio Sur",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-07-13 15:38",
+      "fecha": "2026-07-13 20:07",
       "url": "https://municipiosur.com/2026/07/13/carmen-medel-palma-ex-presidente-municipal-de-minatitlan-va-rumbo-a-la-coordinacion-para-defender-la-transformacion-y-soberania-de-mexico-su-nueva-adquisicion-politica-es-andres-santos-escandon-lid/",
       "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
       "prioridad": 2
@@ -13,7 +13,7 @@
       "titulo": "Las bibliotecas públicas municipales abrirán sus puertas a la niñez de Coatzacoalcos con la Semana de Cine, una activida",
       "fuente": "Municipio Sur",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-07-13 15:38",
+      "fecha": "2026-07-13 20:07",
       "url": "https://municipiosur.com/2026/07/13/las-bibliotecas-publicas-municipales-abriran-sus-puertas-a-la-ninez-de-coatzacoalcos-con-la-semana-de-cine-una-actividad-gratuita-que-busca-acercar-a-las-familias-a-estos-espacios-mediante-tardes-de/",
       "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
       "prioridad": 2
@@ -22,7 +22,7 @@
       "titulo": "Una gran pérdida para el sindicalismo sureño. Hace algunas horas se confirmó la noticia del fallecimiento de Arturo Glov",
       "fuente": "Municipio Sur",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-07-13 15:38",
+      "fecha": "2026-07-13 20:07",
       "url": "https://municipiosur.com/2026/07/13/una-gran-perdida-para-el-sindicalismo-sureno-hace-algunas-horas-se-confirmo-la-noticia-del-fallecimiento-de-arturo-glover-marquez-quien-fue-secretario-general-del-sindicato-de-los-azufreros-en-el-mu/",
       "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
       "prioridad": 1
@@ -30,83 +30,182 @@
   ],
   "veracruz": [
     {
-      "titulo": "Disminuye la intensidad de lluvias en Veracruz: PC",
+      "titulo": "Invita Ayuntamiento de Perote a curso gratuito de lectura para estudiantes de primaria",
       "fuente": "Golpe Politico",
       "categoria": "veracruz",
-      "fecha": "2026-07-13 15:38",
-      "url": "https://golpepolitico.com/2026/07/13/disminuye-la-intensidad-de-lluvias-en-veracruz-pc/",
+      "fecha": "2026-07-13 20:07",
+      "url": "https://golpepolitico.com/2026/07/13/invita-ayuntamiento-de-perote-a-curso-gratuito-de-lectura-para-estudiantes-de-primaria/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 2
+    },
+    {
+      "titulo": "Confirma Pedro Miguel Rosaldo millonarias inversiones para Coatzacoalcos",
+      "fuente": "Golpe Politico",
+      "categoria": "veracruz",
+      "fecha": "2026-07-13 20:07",
+      "url": "https://golpepolitico.com/2026/07/13/confirma-pedro-miguel-rosaldo-millonarias-inversiones-para-coatzacoalcos/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 2
+    },
+    {
+      "titulo": "Preocupa a alumnos de primaria el maltrato infantil y la violencia familiar",
+      "fuente": "Jornada Veracruz",
+      "categoria": "veracruz",
+      "fecha": "2026-07-13 20:07",
+      "url": "https://jornadaveracruz.com.mx/preocupa-a-alumnos-de-primaria-el-maltrato-infantil-y-la-violencia-familiar/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Con la unión de tres voces extraordinarias cerró el Festival del Bolero y el Jazz",
-      "fuente": "Golpe Politico",
+      "titulo": "Tras sequía, precipitaciones de este año han beneficiado a agricultura: Sedarpa",
+      "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-07-13 15:38",
-      "url": "https://golpepolitico.com/2026/07/13/con-la-union-de-tres-voces-extraordinarias-cerro-el-festival-del-bolero-y-el-jazz/",
+      "fecha": "2026-07-13 20:07",
+      "url": "https://jornadaveracruz.com.mx/tras-sequia-precipitaciones-de-este-ano-han-beneficiado-a-agricultura-sedarpa/",
+      "imagen": "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Alerta por lluvias; la zona centro y Los Tuxtlas, con más riesgo: CNPC",
+      "fuente": "Jornada Veracruz",
+      "categoria": "veracruz",
+      "fecha": "2026-07-13 20:07",
+      "url": "https://jornadaveracruz.com.mx/alerta-por-lluvias-la-zona-centro-y-los-tuxtlas-con-mas-riesgo-cnpc/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Morena cierra filas contra Noroña",
-      "fuente": "Golpe Politico",
+      "titulo": "Sectores culturales de Zongolica señalan anomalías de FGE en proceso contra artista Román Vázquez",
+      "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-07-13 15:38",
-      "url": "https://golpepolitico.com/2026/07/13/morena-cierra-filas-contra-norona/",
+      "fecha": "2026-07-13 20:07",
+      "url": "https://jornadaveracruz.com.mx/sectores-culturales-de-zongolica-senalan-anomalias-de-fge-en-proceso-contra-artista-roman-vazquez/",
+      "imagen": "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "El potencial industrial de Veracruz que podría transformar su economía",
+      "fuente": "Jornada Veracruz",
+      "categoria": "veracruz",
+      "fecha": "2026-07-13 20:07",
+      "url": "https://jornadaveracruz.com.mx/el-potencial-industrial-de-veracruz-que-podria-transformar-su-economia/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "¿Carpetazo al Mundialgate del Inai?",
-      "fuente": "Golpe Politico",
+      "titulo": "Parquímetros en Villa del Mar, para evitar abusos de los franeleros: Rosa Hernández",
+      "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-07-13 15:38",
-      "url": "https://golpepolitico.com/2026/07/13/0-carpetazo-al-mundialgate-del-inai/",
+      "fecha": "2026-07-13 20:07",
+      "url": "https://jornadaveracruz.com.mx/parquimetros-en-villa-del-mar-para-evitar-abusos-de-los-franeleros-rosa-hernandez/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "MuriÃ³ el actor Sam Neill, estrella de ‘Jurassic Park’ a los 78 aÃ±os en SÃ­dney",
-      "fuente": "Golpe Politico",
+      "titulo": "Regularizará el Insus más de 5 mil lotes habitados en ejido Banderilla",
+      "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-07-13 15:38",
-      "url": "https://golpepolitico.com/2026/07/13/murio-el-actor-sam-neill-estrella-de-jurassic-park-a-los-78-anos-en-sidney/",
+      "fecha": "2026-07-13 20:07",
+      "url": "https://jornadaveracruz.com.mx/regularizara-el-insus-mas-de-5-mil-lotes-habitados-en-ejido-banderilla/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Concluye segunda edición del Festival Internacional del Bolero y el Jazz 2026 en Veracruz",
-      "fuente": "Golpe Politico",
+      "titulo": "Guardavidas evita explosión de gas en playa Regatas",
+      "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-07-13 15:38",
-      "url": "https://golpepolitico.com/2026/07/12/concluye-segunda-edicion-del-festival-internacional-del-bolero-y-el-jazz-2026-en-veracruz/",
+      "fecha": "2026-07-13 20:07",
+      "url": "https://jornadaveracruz.com.mx/guardavidas-evita-explosion-de-gas-en-playa-regatas/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Festival del Bolero y Jazz en Xalapa cerró entre clásicos del bolero y propuestas contemporáneas",
-      "fuente": "Golpe Politico",
+      "titulo": "En Orizaba, identifican a motociclista fallecido en un accidente",
+      "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-07-13 15:38",
-      "url": "https://golpepolitico.com/2026/07/12/festival-del-bolero-y-jazz-en-xalapa-cerro-entre-clasicos-del-bolero-y-propuestas-contemporaneas/",
+      "fecha": "2026-07-13 20:07",
+      "url": "https://jornadaveracruz.com.mx/en-orizaba-identifican-a-motociclista-fallecido-en-un-accidente/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Gobierno de Poza Rica mantiene monitoreo permanente ante la temporada de lluvias",
-      "fuente": "Golpe Politico",
+      "titulo": "Inicia en Xico velada de la flor de cucharita, para los arcos florales",
+      "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-07-13 15:38",
-      "url": "https://golpepolitico.com/2026/07/12/gobierno-de-poza-rica-mantiene-monitoreo-permanente-ante-la-temporada-de-lluvias/",
+      "fecha": "2026-07-13 20:07",
+      "url": "https://jornadaveracruz.com.mx/inicia-en-xico-velada-de-la-flor-de-cucharita-para-los-arcos-florales/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "El público se puso de pie para ovacionar al gran tenor Fernando de la Mora, quien emocionó con su extraordinaria interpr",
+      "titulo": "Tlalnelhuayocan vive noche de fe, tradición y alegría en sus fiestas titulares de San Andrés Apóstol",
       "fuente": "Golpe Politico",
       "categoria": "veracruz",
-      "fecha": "2026-07-13 15:38",
-      "url": "https://golpepolitico.com/2026/07/12/el-publico-se-puso-de-pie-para-ovacionar-al-gran-tenor-fernando-de-la-mora-quien-emociono-con-su-extraordinaria-interpretacion/",
+      "fecha": "2026-07-13 20:07",
+      "url": "https://golpepolitico.com/2026/07/13/tlalnelhuayocan-vive-noche-de-fe-tradicion-y-alegria-en-sus-fiestas-titulares-de-san-andres-apostol/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Somos México aplicará filtros a aspirantes y fortalece su estructura en Veracruz",
+      "fuente": "Golpe Politico",
+      "categoria": "veracruz",
+      "fecha": "2026-07-13 20:07",
+      "url": "https://golpepolitico.com/2026/07/13/somos-mexico-aplicara-filtros-a-aspirantes-y-fortalece-su-estructura-en-veracruz/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Xalapa agiliza trámites y refuerza el orden comercial por instrucción de Daniela Griego",
+      "fuente": "Golpe Politico",
+      "categoria": "veracruz",
+      "fecha": "2026-07-13 20:07",
+      "url": "https://golpepolitico.com/2026/07/13/xalapa-agiliza-tramites-y-refuerza-el-orden-comercial-por-instruccion-de-daniela-griego/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Xalapa recibirá la onceava edición del Festival Internacional Primate Escénico",
+      "fuente": "Golpe Politico",
+      "categoria": "veracruz",
+      "fecha": "2026-07-13 20:07",
+      "url": "https://golpepolitico.com/2026/07/13/xalapa-recibira-la-onceava-edicion-del-festival-internacional-primate-escenico/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Vuelca tráiler y bloquea la carretera Xalapa-Coatepec; solo hay paso por Las Trancas y Briones",
+      "fuente": "Golpe Politico",
+      "categoria": "veracruz",
+      "fecha": "2026-07-13 20:07",
+      "url": "https://golpepolitico.com/2026/07/13/vuelca-trailer-y-bloquea-la-carretera-xalapa-coatepec/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "GOLPE O “CEBOLLAZO”:",
+      "fuente": "Golpe Politico",
+      "categoria": "veracruz",
+      "fecha": "2026-07-13 20:07",
+      "url": "https://golpepolitico.com/2026/07/13/golpe-o-cebollazo-387/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Fiscalía de Veracruz realiza 34 cateos y detiene a 29 personas en 23 municipios",
+      "fuente": "Golpe Politico",
+      "categoria": "veracruz",
+      "fecha": "2026-07-13 20:07",
+      "url": "https://golpepolitico.com/2026/07/13/fiscalia-de-veracruz-realiza-34-cateos-y-detiene-a-29-personas-en-23-municipios/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "ITUG celebrará 50 años con carrera comunitaria en Úrsulo Galván",
+      "fuente": "Golpe Politico",
+      "categoria": "veracruz",
+      "fecha": "2026-07-13 20:07",
+      "url": "https://golpepolitico.com/2026/07/13/itug-celebrara-50-anos-con-carrera-comunitaria-en-ursulo-galvan/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     }
