@@ -1,418 +1,193 @@
 {
   "coatzacoalcos": [
     {
-      "titulo": "Nahle cumple compromiso;  inicia la construcción  del Puente del Sotavento",
-      "fuente": "Liberal Coatza",
-      "categoria": "coatzacoalcos",
-      "fecha": "2026-07-19 14:21",
-      "url": "https://liberal.com.mx/nahle-cumple-compromiso-inicia-la-construccion-del-puente-del-sotavento/",
-      "imagen": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800",
-      "prioridad": 3
-    },
-    {
-      "titulo": "“Tiene nombre y apellido:  Rocío Nahle”; reconoce  Pedro Miguel Rosaldo el  rescate financiero de Coatza",
-      "fuente": "Liberal Coatza",
-      "categoria": "coatzacoalcos",
-      "fecha": "2026-07-19 14:21",
-      "url": "https://liberal.com.mx/tiene-nombre-y-apellido-rocio-nahle-reconoce-pedro-miguel-rosaldo-el-rescate-financiero-de-coatza/",
-      "imagen": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800",
-      "prioridad": 3
-    },
-    {
-      "titulo": "Egresado del Cbtis 213  obtiene beca del 100 % para estudiar en la UDEM",
-      "fuente": "Liberal Coatza",
-      "categoria": "coatzacoalcos",
-      "fecha": "2026-07-19 14:21",
-      "url": "https://liberal.com.mx/egresado-del-cbtis-213-obtiene-beca-del-100-para-estudiar-en-la-udem/",
-      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "¡DA CLIC PARA LEER NUESTRA EDICIÓN DEL DÍA!",
-      "fuente": "Liberal Coatza",
-      "categoria": "coatzacoalcos",
-      "fecha": "2026-07-19 14:21",
-      "url": "https://liberal.com.mx/da-clic-para-leer-nuestra-edicion-del-dia/",
-      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Gobierno del Estado anuncia  una nueva etapa de Apoyo  a la Palabra para el Puerto",
-      "fuente": "Liberal Coatza",
-      "categoria": "coatzacoalcos",
-      "fecha": "2026-07-19 14:21",
-      "url": "https://liberal.com.mx/gobierno-del-estado-anuncia-una-nueva-etapa-de-apoyo-a-la-palabra-para-el-puerto/",
-      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Fortalecen Fiscalía  General y Comisión  de Arbitraje Médico  coordinación y diálogo",
-      "fuente": "Liberal Coatza",
-      "categoria": "coatzacoalcos",
-      "fecha": "2026-07-19 14:21",
-      "url": "https://liberal.com.mx/fortalecen-fiscalia-general-y-comision-de-arbitraje-medico-coordinacion-y-dialogo/",
-      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Detienen a hombre, presuntamente espiaba a dos menores en plaza",
-      "fuente": "Liberal Coatza",
-      "categoria": "coatzacoalcos",
-      "fecha": "2026-07-19 14:21",
-      "url": "https://liberal.com.mx/detienen-a-hombre-presuntamente-espiaba-a-dos-menores-en-plaza/",
-      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Coordinación interinstitucional  logra 36 detenciones,y asegura  droga y vehículos en el Estado",
-      "fuente": "Liberal Coatza",
-      "categoria": "coatzacoalcos",
-      "fecha": "2026-07-19 14:21",
-      "url": "https://liberal.com.mx/coordinacion-interinstitucional-logra-36-detencionesy-asegura-droga-y-vehiculos-en-el-estado/",
-      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Aparatoso accidente  deja cinco lesionados",
-      "fuente": "Liberal Coatza",
-      "categoria": "coatzacoalcos",
-      "fecha": "2026-07-19 14:21",
-      "url": "https://liberal.com.mx/aparatoso-accidente-deja-cinco-lesionados/",
-      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "DESDE PLAYA DEL CARMEN, PRESIDENTA CLAUDIA SHEINBAUM ANUNCIA PLAN INTEGRAL PARA LIMPIAR DE SARGAZO LAS PLAYAS DE QUINTAN",
-      "fuente": "Liberal Coatza",
-      "categoria": "coatzacoalcos",
-      "fecha": "2026-07-19 14:21",
-      "url": "https://liberal.com.mx/desde-playa-del-carmen-presidenta-claudia-sheinbaum-anuncia-plan-integral-para-limpiar-de-sargazo-las-playas-de-quintana-roo/",
-      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Abierta convocatoria para participar en el Premio Nacional de Contraloría Social 2026",
+      "titulo": "Instala Salud comité de seguimiento de la Estrategia Nutriendo Futuros Saludables",
       "fuente": "Municipio Sur",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-07-19 14:21",
-      "url": "https://municipiosur.com/2026/07/18/abierta-convocatoria-para-participar-en-el-premio-nacional-de-contraloria-social-2026/",
-      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
+      "fecha": "2026-07-19 20:04",
+      "url": "https://municipiosur.com/2026/07/19/instala-salud-comite-de-seguimiento-de-la-estrategia-nutriendo-futuros-saludables/",
+      "imagen": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Avanza Veracruz hacia certificación como estado libre de paludismo",
+      "titulo": "¡¡Hermanos Asesinos!!",
       "fuente": "Municipio Sur",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-07-19 14:21",
-      "url": "https://municipiosur.com/2026/07/18/avanza-veracruz-hacia-certificacion-como-estado-libre-de-paludismo/",
-      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Protección Civil despliega atención por afectaciones de la vaguada en Veracruz",
-      "fuente": "Municipio Sur",
-      "categoria": "coatzacoalcos",
-      "fecha": "2026-07-19 14:21",
-      "url": "https://municipiosur.com/2026/07/18/proteccion-civil-despliega-atencion-por-afectaciones-de-la-vaguada-en-veracruz/",
-      "imagen": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Acompaña SEV proyecto de investigación de la BCENV para la educación rural",
-      "fuente": "Municipio Sur",
-      "categoria": "coatzacoalcos",
-      "fecha": "2026-07-19 14:21",
-      "url": "https://municipiosur.com/2026/07/18/acompana-sev-proyecto-de-investigacion-de-la-bcenv-para-la-educacion-rural/",
-      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Con apoyo del Estado, inició en Tantoyuca el Tianguis Ganadero con más de 200 ejemplares exhibidos",
-      "fuente": "Municipio Sur",
-      "categoria": "coatzacoalcos",
-      "fecha": "2026-07-19 14:21",
-      "url": "https://municipiosur.com/2026/07/18/con-apoyo-del-estado-inicio-en-tantoyuca-el-tianguis-ganadero-con-mas-de-200-ejemplares-exhibidos/",
-      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "FNLIyJ, la gran fiesta literaria para niñas, niños y jóvenes, del 24 de julio al 02 de agosto",
-      "fuente": "Municipio Sur",
-      "categoria": "coatzacoalcos",
-      "fecha": "2026-07-19 14:21",
-      "url": "https://municipiosur.com/2026/07/18/fnliyj-la-gran-fiesta-literaria-para-ninas-ninos-y-jovenes-del-24-de-julio-al-02-de-agosto/",
+      "fecha": "2026-07-19 20:04",
+      "url": "https://municipiosur.com/2026/07/19/hermanos-asesinos/",
       "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
       "prioridad": 1
     }
   ],
   "veracruz": [
     {
-      "titulo": "Nahle cumple compromiso;  inicia la construcción  del Puente del Sotavento",
-      "fuente": "Liberal del Sur",
-      "categoria": "veracruz",
-      "fecha": "2026-07-19 14:21",
-      "url": "https://liberal.com.mx/nahle-cumple-compromiso-inicia-la-construccion-del-puente-del-sotavento/",
-      "imagen": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800",
-      "prioridad": 3
-    },
-    {
-      "titulo": "“Tiene nombre y apellido:  Rocío Nahle”; reconoce  Pedro Miguel Rosaldo el  rescate financiero de Coatza",
-      "fuente": "Liberal del Sur",
-      "categoria": "veracruz",
-      "fecha": "2026-07-19 14:21",
-      "url": "https://liberal.com.mx/tiene-nombre-y-apellido-rocio-nahle-reconoce-pedro-miguel-rosaldo-el-rescate-financiero-de-coatza/",
-      "imagen": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800",
-      "prioridad": 3
-    },
-    {
-      "titulo": "Exalcalde y dos funcionarios de Fresnillo entre los asesinados en Zacatecas; identifican a 9 de 10 de las víctimas",
+      "titulo": "Invita Ayuntamiento de Tlalnelhuayocan a Feria de la Salud Animal con servicios gratuitos para mascotas",
       "fuente": "Golpe Politico",
       "categoria": "veracruz",
-      "fecha": "2026-07-19 14:21",
-      "url": "https://golpepolitico.com/2026/07/18/exalcalde-y-dos-funcionarios-de-fresnillo-entre-los-asesinados-en-zacatecas-identifican-a-9-de-10-de-las-victimas/",
-      "imagen": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+      "fecha": "2026-07-19 20:04",
+      "url": "https://golpepolitico.com/2026/07/19/invita-ayuntamiento-de-tlalnelhuayocan-a-feria-de-la-salud-animal-con-servicios-gratuitos-para-mascotas/",
+      "imagen": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=800",
       "prioridad": 2
     },
     {
-      "titulo": "Inicia “Un Verano en la Heroica Veracruz”",
+      "titulo": "Con gran aforo, se celebraron los 25 años de Ciclo Literario y de Diseño y la destacada obra cultural de Per Anderson",
       "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-07-19 14:21",
-      "url": "https://jornadaveracruz.com.mx/inicia-un-verano-en-la-heroica-veracruz/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Agreden a trabajadoras sexuales en Xalapa, denuncian",
-      "fuente": "Jornada Veracruz",
-      "categoria": "veracruz",
-      "fecha": "2026-07-19 14:21",
-      "url": "https://jornadaveracruz.com.mx/denuncian-agresiones-trabajadoras-sexuales-xalapa-lazaro-cardenas/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Poza Rica conmemora el 154 aniversario luctuoso de Benito Juárez",
-      "fuente": "Jornada Veracruz",
-      "categoria": "veracruz",
-      "fecha": "2026-07-19 14:21",
-      "url": "https://jornadaveracruz.com.mx/poza-rica-aniversario-luctuoso-benito-juarez-2026/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Reintegra Pemex descuentos a pensionados de la Untypp",
-      "fuente": "Jornada Veracruz",
-      "categoria": "veracruz",
-      "fecha": "2026-07-19 14:21",
-      "url": "https://jornadaveracruz.com.mx/pemex-restituye-pagos-jubilados-untypp-pensiones/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Basura de tiradero a cielo abierto invade carretera en Jáltipan, acusan taxistas en bloqueo",
-      "fuente": "Jornada Veracruz",
-      "categoria": "veracruz",
-      "fecha": "2026-07-19 14:21",
-      "url": "https://jornadaveracruz.com.mx/bloqueo-basura-tiradero-cielo-abierto-jaltipan-carretera/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Ante riesgo de más derrumbes, desalojan a los habitantes de Atempa, en Ilamatlán",
-      "fuente": "Jornada Veracruz",
-      "categoria": "veracruz",
-      "fecha": "2026-07-19 14:21",
-      "url": "https://jornadaveracruz.com.mx/desalojan-atempa-ilamatlan-riesgo-deslaves-lluvias/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Muere jovencita por derrumbe",
-      "fuente": "Jornada Veracruz",
-      "categoria": "veracruz",
-      "fecha": "2026-07-19 14:21",
-      "url": "https://jornadaveracruz.com.mx/muere-joven-deslave-los-reyes-sierra-zongolica/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Habitantes de Altas Montañas exigen obras, salud y seguridad vial con bloqueo carretero",
-      "fuente": "Jornada Veracruz",
-      "categoria": "veracruz",
-      "fecha": "2026-07-19 14:21",
-      "url": "https://jornadaveracruz.com.mx/bloqueo-carretero-altas-montanas-obras-salud-seguridad-vial/",
+      "fecha": "2026-07-19 20:04",
+      "url": "https://jornadaveracruz.com.mx/con-gran-aforo-se-celebraron-los-25-anos-de-ciclo-literario-y-de-diseno-y-la-destacada-obra-cultural-de-per-anderson/",
       "imagen": "https://images.unsplash.com/photo-1503387762-592deb58ef4e?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Liquidación de bursatilización dará más margen financiero a los municipios: CCE",
+      "titulo": "Presentan ante Sedema y Semarnat 17 desarrollos habitacionales en Veracruz",
       "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-07-19 14:21",
-      "url": "https://jornadaveracruz.com.mx/liquidacion-bursatilizacion-municipios-veracruz-cce-recursos/",
+      "fecha": "2026-07-19 20:04",
+      "url": "https://jornadaveracruz.com.mx/presentan-ante-sedema-y-semarnat-17-desarrollos-habitacionales-en-veracruz/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Aumenta Secretaría de Hacienda subsidios al diesel y Magna; regresa apoyo a la Premium",
+      "titulo": "Limpian de lirio laguna Sueño Ilusión para evitar inundaciones en temporada de lluvias, en el Puerto",
       "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-07-19 14:21",
-      "url": "https://jornadaveracruz.com.mx/hacienda-aumenta-subsidio-gasolina-diesel-premium-julio-2026/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Repunta el COVID-19 en la CDMX tras las celebraciones del Mundial",
-      "fuente": "Golpe Politico",
-      "categoria": "veracruz",
-      "fecha": "2026-07-19 14:21",
-      "url": "https://golpepolitico.com/2026/07/18/repunta-el-covid-19-en-la-cdmx-tras-las-celebraciones-del-mundial/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "América arranca con victoria gracias a un golazo de Isaías Violante",
-      "fuente": "Golpe Politico",
-      "categoria": "veracruz",
-      "fecha": "2026-07-19 14:21",
-      "url": "https://golpepolitico.com/2026/07/18/america-arranca-con-victoria-gracias-a-un-golazo-de-isaias-violante/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Camioneta choca contra palmera en avenida Díaz Mirón de la ciudad de Veracruz",
-      "fuente": "Golpe Politico",
-      "categoria": "veracruz",
-      "fecha": "2026-07-19 14:21",
-      "url": "https://golpepolitico.com/2026/07/18/camioneta-choca-contra-palmera-en-avenida-diaz-miron-de-la-ciudad-de-veracruz/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Incendios de Canadá desatan nueva amenaza arancelaria de Trump y ponen en alerta la final del Mundial",
-      "fuente": "Golpe Politico",
-      "categoria": "veracruz",
-      "fecha": "2026-07-19 14:21",
-      "url": "https://golpepolitico.com/2026/07/18/incendios-de-canada-desatan-nueva-amenaza-arancelaria-de-trump-y-ponen-en-alerta-la-final-del-mundial/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Toluca venció a Chivas y acabó con su invicto de 9 meses como local",
-      "fuente": "Golpe Politico",
-      "categoria": "veracruz",
-      "fecha": "2026-07-19 14:21",
-      "url": "https://golpepolitico.com/2026/07/18/toluca-vencio-a-chivas-y-acabo-con-su-invicto-de-9-meses-como-local/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Joven motociclista es hospitalizado tras derrapar en la carretera Rinconada-Ídolos, en Emiliano Zapata",
-      "fuente": "Golpe Politico",
-      "categoria": "veracruz",
-      "fecha": "2026-07-19 14:21",
-      "url": "https://golpepolitico.com/2026/07/18/joven-motociclista-es-hospitalizado-tras-derrapar-en-la-carretera-rinconada-idolos-en-emiliano-zapata/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Muere Carmen Moreno Toscano, primera mujer en recibir el rango de Embajadora Eminente",
-      "fuente": "Golpe Politico",
-      "categoria": "veracruz",
-      "fecha": "2026-07-19 14:21",
-      "url": "https://golpepolitico.com/2026/07/18/muere-carmen-moreno-toscano-primera-mujer-en-recibir-el-rango-de-embajadora-eminente/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Inscríbete al curso «Talento en la Mira» en Citlaltépetl",
-      "fuente": "Golpe Politico",
-      "categoria": "veracruz",
-      "fecha": "2026-07-19 14:21",
-      "url": "https://golpepolitico.com/2026/07/18/inscribete-al-curso-talento-en-la-mira-en-citlaltepetl/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Pumas vs Pachuca: Esteban Solari «no es película» y Salomón Rondón lo golea en su debut",
-      "fuente": "Golpe Politico",
-      "categoria": "veracruz",
-      "fecha": "2026-07-19 14:21",
-      "url": "https://golpepolitico.com/2026/07/18/pumas-vs-pachuca-esteban-solari-no-es-pelicula-y-salomon-rondon-lo-golea-en-su-debut/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Egresado del Cbtis 213  obtiene beca del 100 % para estudiar en la UDEM",
-      "fuente": "Liberal del Sur",
-      "categoria": "veracruz",
-      "fecha": "2026-07-19 14:21",
-      "url": "https://liberal.com.mx/egresado-del-cbtis-213-obtiene-beca-del-100-para-estudiar-en-la-udem/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "¡DA CLIC PARA LEER NUESTRA EDICIÓN DEL DÍA!",
-      "fuente": "Liberal del Sur",
-      "categoria": "veracruz",
-      "fecha": "2026-07-19 14:21",
-      "url": "https://liberal.com.mx/da-clic-para-leer-nuestra-edicion-del-dia/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Gobierno del Estado anuncia  una nueva etapa de Apoyo  a la Palabra para el Puerto",
-      "fuente": "Liberal del Sur",
-      "categoria": "veracruz",
-      "fecha": "2026-07-19 14:21",
-      "url": "https://liberal.com.mx/gobierno-del-estado-anuncia-una-nueva-etapa-de-apoyo-a-la-palabra-para-el-puerto/",
+      "fecha": "2026-07-19 20:04",
+      "url": "https://jornadaveracruz.com.mx/limpian-de-lirio-laguna-sueno-ilusion-para-evitar-inundaciones-en-temporada-de-lluvias-en-el-puerto/",
       "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Fortalecen Fiscalía  General y Comisión  de Arbitraje Médico  coordinación y diálogo",
-      "fuente": "Liberal del Sur",
+      "titulo": "Comienzan mesas interdisciplinarias para fortalecer derechos de la diversidad sexual",
+      "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-07-19 14:21",
-      "url": "https://liberal.com.mx/fortalecen-fiscalia-general-y-comision-de-arbitraje-medico-coordinacion-y-dialogo/",
+      "fecha": "2026-07-19 20:04",
+      "url": "https://jornadaveracruz.com.mx/comienzan-mesas-interdisciplinarias-para-fortalecer-derechos-de-la-diversidad-sexual/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Detienen a hombre, presuntamente espiaba a dos menores en plaza",
-      "fuente": "Liberal del Sur",
+      "titulo": "Comunidades denuncian daños por Krem-1; Pemex asegura que ya no existe riesgo crítico",
+      "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-07-19 14:21",
-      "url": "https://liberal.com.mx/detienen-a-hombre-presuntamente-espiaba-a-dos-menores-en-plaza/",
+      "fecha": "2026-07-19 20:04",
+      "url": "https://jornadaveracruz.com.mx/comunidades-denuncian-danos-por-krem-1-pemex-asegura-que-ya-no-existe-riesgo-critico/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Coordinación interinstitucional  logra 36 detenciones,y asegura  droga y vehículos en el Estado",
-      "fuente": "Liberal del Sur",
+      "titulo": "Brindan apoyo a familia de varón sepultado",
+      "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-07-19 14:21",
-      "url": "https://liberal.com.mx/coordinacion-interinstitucional-logra-36-detencionesy-asegura-droga-y-vehiculos-en-el-estado/",
+      "fecha": "2026-07-19 20:04",
+      "url": "https://jornadaveracruz.com.mx/brindan-apoyo-a-familia-de-varon-sepultado/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Aparatoso accidente  deja cinco lesionados",
-      "fuente": "Liberal del Sur",
+      "titulo": "Autoridades municipales descartan riesgo de un nuevo colapso tras derrumbe en Tonalixco",
+      "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-07-19 14:21",
-      "url": "https://liberal.com.mx/aparatoso-accidente-deja-cinco-lesionados/",
+      "fecha": "2026-07-19 20:04",
+      "url": "https://jornadaveracruz.com.mx/descartan-riesgo-de-un-nuevo-colapso-tras-derrumbe-en-tonalixco/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "DESDE PLAYA DEL CARMEN, PRESIDENTA CLAUDIA SHEINBAUM ANUNCIA PLAN INTEGRAL PARA LIMPIAR DE SARGAZO LAS PLAYAS DE QUINTAN",
-      "fuente": "Liberal del Sur",
+      "titulo": "Intensifican labores de vigilancia por deslaves en las comunidades de la sierra de Zongolica",
+      "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-07-19 14:21",
-      "url": "https://liberal.com.mx/desde-playa-del-carmen-presidenta-claudia-sheinbaum-anuncia-plan-integral-para-limpiar-de-sargazo-las-playas-de-quintana-roo/",
+      "fecha": "2026-07-19 20:04",
+      "url": "https://jornadaveracruz.com.mx/intensifican-labores-de-vigilancia-por-deslaves-en-las-comunidades-de-la-sierra-de-zongolica/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Veracruzanos exponen fotografías, en Viena",
+      "fuente": "Jornada Veracruz",
+      "categoria": "veracruz",
+      "fecha": "2026-07-19 20:04",
+      "url": "https://jornadaveracruz.com.mx/veracruzanos-exponen-fotografias-en-viena/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Queda rehabilitado el puente Dos Arroyos",
+      "fuente": "Jornada Veracruz",
+      "categoria": "veracruz",
+      "fecha": "2026-07-19 20:04",
+      "url": "https://jornadaveracruz.com.mx/queda-rehabilitado-el-puente-dos-arroyos/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Reanudan búsqueda de Kate Quirino, adolescente de 12 años, en el río Pánuco",
+      "fuente": "Golpe Politico",
+      "categoria": "veracruz",
+      "fecha": "2026-07-19 20:04",
+      "url": "https://golpepolitico.com/2026/07/19/reanudan-busqueda-de-kate-quirino-adolescente-de-12-anos-en-el-rio-panuco/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Realizan trabajos de limpieza en el callejón Acacia, en Cosamaloapan",
+      "fuente": "Golpe Politico",
+      "categoria": "veracruz",
+      "fecha": "2026-07-19 20:04",
+      "url": "https://golpepolitico.com/2026/07/19/realizan-trabajos-de-limpieza-en-el-callejon-acacia-en-cosamaloapan/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Concluye con éxito el Primer Torneo Infantil y Juvenil Banderilla 2026 en la Unidad Deportiva El Palenque",
+      "fuente": "Golpe Politico",
+      "categoria": "veracruz",
+      "fecha": "2026-07-19 20:04",
+      "url": "https://golpepolitico.com/2026/07/19/concluye-con-exito-el-primer-torneo-infantil-y-juvenil-banderilla-2026-en-la-unidad-deportiva-el-palenque/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Instala Salud comité de seguimiento de la Estrategia Nutriendo Futuros Saludables",
+      "fuente": "Golpe Politico",
+      "categoria": "veracruz",
+      "fecha": "2026-07-19 20:04",
+      "url": "https://golpepolitico.com/2026/07/19/instala-salud-comite-de-seguimiento-de-la-estrategia-nutriendo-futuros-saludables/",
+      "imagen": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Realizan la tradicional recogida de toritos en honor a Santa María Magdalena, en Xico",
+      "fuente": "Golpe Politico",
+      "categoria": "veracruz",
+      "fecha": "2026-07-19 20:04",
+      "url": "https://golpepolitico.com/2026/07/19/realizan-la-tradicional-recogida-de-toritos-en-honor-a-santa-maria-magdalena-en-xico/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Capturan a Justo Aurelio Rivera, señalado como operador del CDN",
+      "fuente": "Golpe Politico",
+      "categoria": "veracruz",
+      "fecha": "2026-07-19 20:04",
+      "url": "https://golpepolitico.com/2026/07/19/capturan-a-justo-aurelio-rivera-senalado-como-operador-del-cdn/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Tapetes de aserrín embellecen la calle principal en Xico",
+      "fuente": "Golpe Politico",
+      "categoria": "veracruz",
+      "fecha": "2026-07-19 20:04",
+      "url": "https://golpepolitico.com/2026/07/19/tapetes-de-aserrin-embellecen-la-calle-principal-en-xico/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "El reto de realizar la segunda temporada de ‘Cien aÃ±os de soledad’",
+      "fuente": "Golpe Politico",
+      "categoria": "veracruz",
+      "fecha": "2026-07-19 20:04",
+      "url": "https://golpepolitico.com/2026/07/19/el-reto-de-realizar-la-segunda-temporada-de-cien-anos-de-soledad/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     }
