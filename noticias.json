@@ -1,10 +1,19 @@
 {
   "coatzacoalcos": [
     {
+      "titulo": "Con respaldo de Pemex, Veracruz amplía su capacidad de respuesta ante emergencias: Rocío Nahle",
+      "fuente": "Municipio Sur",
+      "categoria": "coatzacoalcos",
+      "fecha": "2026-07-22 20:08",
+      "url": "https://municipiosur.com/2026/07/22/con-respaldo-de-pemex-veracruz-amplia-su-capacidad-de-respuesta-ante-emergencias-rocio-nahle/",
+      "imagen": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800",
+      "prioridad": 3
+    },
+    {
       "titulo": "La violencia contra los hijos durante la separación de los padres",
       "fuente": "Liberal Coatza",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-07-22 14:59",
+      "fecha": "2026-07-22 20:08",
       "url": "https://liberal.com.mx/la-violencia-contra-los-hijos-durante-la-separacion-de-los-padres/",
       "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
       "prioridad": 1
@@ -13,7 +22,7 @@
       "titulo": "Cosoleacaque abre  sus puertas a la cultura  japonesa con talleres",
       "fuente": "Liberal Coatza",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-07-22 14:59",
+      "fecha": "2026-07-22 20:08",
       "url": "https://liberal.com.mx/cosoleacaque-abre-sus-puertas-a-la-cultura-japonesa-con-talleres/",
       "imagen": "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?w=800",
       "prioridad": 1
@@ -22,7 +31,7 @@
       "titulo": "Gobierno del Estado  impulsará la rehabilitación del sistema de drenaje  con obras estratégicas",
       "fuente": "Liberal Coatza",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-07-22 14:59",
+      "fecha": "2026-07-22 20:08",
       "url": "https://liberal.com.mx/gobierno-del-estado-impulsara-la-rehabilitacion-del-sistema-de-drenaje-con-obras-estrategicas/",
       "imagen": "https://images.unsplash.com/photo-1503387762-592deb58ef4e?w=800",
       "prioridad": 1
@@ -31,7 +40,7 @@
       "titulo": "¡DA CLIC PARA LEER NUESTRA EDICIÓN DEL DÍA!",
       "fuente": "Liberal Coatza",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-07-22 14:59",
+      "fecha": "2026-07-22 20:08",
       "url": "https://liberal.com.mx/da-clic-para-leer-nuestra-edicion-del-dia/",
       "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
       "prioridad": 1
@@ -40,7 +49,7 @@
       "titulo": "Castigar penalmente el envenenamiento de  animales, plantea diputada",
       "fuente": "Liberal Coatza",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-07-22 14:59",
+      "fecha": "2026-07-22 20:08",
       "url": "https://liberal.com.mx/castigar-penalmente-el-envenenamiento-de-animales-plantea-diputada/",
       "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
       "prioridad": 1
@@ -49,7 +58,7 @@
       "titulo": "Del 07 al 09 de agosto llegará el Festival del Mar, celebración que  acompaña la transformación del sur",
       "fuente": "Liberal Coatza",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-07-22 14:59",
+      "fecha": "2026-07-22 20:08",
       "url": "https://liberal.com.mx/del-07-al-09-de-agosto-llegara-el-festival-del-mar-celebracion-que-acompana-la-transformacion-del-sur/",
       "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
       "prioridad": 1
@@ -58,7 +67,7 @@
       "titulo": "Plantea diputada iniciativa que  busca evitar fraudes inmobiliarios",
       "fuente": "Liberal Coatza",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-07-22 14:59",
+      "fecha": "2026-07-22 20:08",
       "url": "https://liberal.com.mx/plantea-diputada-iniciativa-que-busca-evitar-fraudes-inmobiliarios/",
       "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
       "prioridad": 1
@@ -67,7 +76,7 @@
       "titulo": "Presenta diputada proyecto  de armonización de  reforma al Poder Judicial",
       "fuente": "Liberal Coatza",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-07-22 14:59",
+      "fecha": "2026-07-22 20:08",
       "url": "https://liberal.com.mx/presenta-diputada-proyecto-de-armonizacion-de-reforma-al-poder-judicial/",
       "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
       "prioridad": 1
@@ -76,7 +85,7 @@
       "titulo": "Seis familias fueron reubicadas  por construcción de acueducto",
       "fuente": "Liberal Coatza",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-07-22 14:59",
+      "fecha": "2026-07-22 20:08",
       "url": "https://liberal.com.mx/seis-familias-fueron-reubicadas-por-construccion-de-acueducto/",
       "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
       "prioridad": 1
@@ -85,8 +94,35 @@
       "titulo": "Matan a albañil de  22 años en ataque  armado en Villa Allende",
       "fuente": "Liberal Coatza",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-07-22 14:59",
+      "fecha": "2026-07-22 20:08",
       "url": "https://liberal.com.mx/matan-a-albanil-de-22-anos-en-ataque-armado-en-villa-allende/",
+      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Invita SECVER al estreno del cortometraje En la quietud de la noche en Xalapa y Veracruz",
+      "fuente": "Municipio Sur",
+      "categoria": "coatzacoalcos",
+      "fecha": "2026-07-22 20:08",
+      "url": "https://municipiosur.com/2026/07/22/invita-secver-al-estreno-del-cortometraje-en-la-quietud-de-la-noche-en-xalapa-y-veracruz/",
+      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "SECVER promueve la danza folclórica en el Teatro del Estado Ignacio de la Llave",
+      "fuente": "Municipio Sur",
+      "categoria": "coatzacoalcos",
+      "fecha": "2026-07-22 20:08",
+      "url": "https://municipiosur.com/2026/07/22/secver-promueve-la-danza-folclorica-en-el-teatro-del-estado-ignacio-de-la-llave/",
+      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Operativos coordinados afectan a estructura delictiva con cinco detenciones",
+      "fuente": "Municipio Sur",
+      "categoria": "coatzacoalcos",
+      "fecha": "2026-07-22 20:08",
+      "url": "https://municipiosur.com/2026/07/22/operativos-coordinados-afectan-a-estructura-delictiva-con-cinco-detenciones/",
       "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
       "prioridad": 1
     },
@@ -94,180 +130,189 @@
       "titulo": "¡¡Fueron Rehubicados!!",
       "fuente": "Municipio Sur",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-07-22 14:59",
+      "fecha": "2026-07-22 20:08",
       "url": "https://municipiosur.com/2026/07/22/fueron-rehubicados/",
-      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "El Departamento de la Juventud del municipio de Minatitlán da continuidad al programa “Un Verano en la Casa de la Juvent",
-      "fuente": "Municipio Sur",
-      "categoria": "coatzacoalcos",
-      "fecha": "2026-07-22 14:59",
-      "url": "https://municipiosur.com/2026/07/22/el-departamento-de-la-juventud-del-municipio-de-minatitlan-da-continuidad-al-programa-un-verano-en-la-casa-de-la-juventud-con-los-talleres-de-piano-ajedrez-y-curso-de-manejo-en-los/",
       "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
       "prioridad": 1
     }
   ],
   "veracruz": [
     {
-      "titulo": "Ayuntamiento de Veracruz celebra el Día Mundial del Perro con servicios gratuitos para mascotas",
+      "titulo": "Rocío Nahle destaca papel de Pemex en Veracruz y respalda política energética nacional",
+      "fuente": "Golpe Politico",
+      "categoria": "veracruz",
+      "fecha": "2026-07-22 20:08",
+      "url": "https://golpepolitico.com/2026/07/22/rocio-nahle-destaca-papel-de-pemex-en-veracruz-y-respalda-politica-energetica-nacional/",
+      "imagen": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800",
+      "prioridad": 3
+    },
+    {
+      "titulo": "Con respaldo de Pemex, Veracruz amplía su capacidad de respuesta ante emergencias: Rocío Nahle",
+      "fuente": "Golpe Politico",
+      "categoria": "veracruz",
+      "fecha": "2026-07-22 20:08",
+      "url": "https://golpepolitico.com/2026/07/22/con-respaldo-de-pemex-veracruz-amplia-su-capacidad-de-respuesta-ante-emergencias-rocio-nahle/",
+      "imagen": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800",
+      "prioridad": 3
+    },
+    {
+      "titulo": "Pacientes VIH, sin tratamiento por falta de personal en el Capasits de Coatzacoalcos",
       "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-07-22 14:59",
-      "url": "https://jornadaveracruz.com.mx/dia-mundial-perro-veracruz-servicios-mascotas/",
+      "fecha": "2026-07-22 20:08",
+      "url": "https://jornadaveracruz.com.mx/capasits-coatzacoalcos-medicamentos-vih-falta-personal/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 2
     },
     {
-      "titulo": "Portada del 22 de julio de 2026",
-      "fuente": "Jornada Veracruz",
-      "categoria": "veracruz",
-      "fecha": "2026-07-22 14:59",
-      "url": "https://jornadaveracruz.com.mx/portada-del-22-de-julio-de-2026/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Contraportada del 22 de julio de 2026",
-      "fuente": "Jornada Veracruz",
-      "categoria": "veracruz",
-      "fecha": "2026-07-22 14:59",
-      "url": "https://jornadaveracruz.com.mx/contraportada-del-22-de-julio-de-2026/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Defender la Radio Comunitaria(IV)",
-      "fuente": "Jornada Veracruz",
-      "categoria": "veracruz",
-      "fecha": "2026-07-22 14:59",
-      "url": "https://jornadaveracruz.com.mx/defender-radio-comunitaria-mexico-libertad-expresion/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Presenta diputada proyecto de armonización de reforma al Poder Judicial",
-      "fuente": "Jornada Veracruz",
-      "categoria": "veracruz",
-      "fecha": "2026-07-22 14:59",
-      "url": "https://jornadaveracruz.com.mx/tanya-viveros-reforma-poder-judicial-veracruz-2028/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Rehabilitan drenaje y supervisan obras en colonias de Poza Rica",
-      "fuente": "Jornada Veracruz",
-      "categoria": "veracruz",
-      "fecha": "2026-07-22 14:59",
-      "url": "https://jornadaveracruz.com.mx/rehabilitan-drenaje-supervisan-obras-poza-rica/",
-      "imagen": "https://images.unsplash.com/photo-1503387762-592deb58ef4e?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Contraloría de Veracruz capacita a más de 3 mil 700 servidores públicos en 2026",
-      "fuente": "Jornada Veracruz",
-      "categoria": "veracruz",
-      "fecha": "2026-07-22 14:59",
-      "url": "https://jornadaveracruz.com.mx/contraloria-veracruz-capacita-servidores-publicos-2026/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Propone diputada espacios culturales gratuitos para artistas",
-      "fuente": "Jornada Veracruz",
-      "categoria": "veracruz",
-      "fecha": "2026-07-22 14:59",
-      "url": "https://jornadaveracruz.com.mx/propone-diputada-espacios-culturales-gratuitos-para-artistas/",
-      "imagen": "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Denuncian abandono de Casa Materna en Hospital de Tlaquilpa; embarazadas esperarían en pasillos",
-      "fuente": "Jornada Veracruz",
-      "categoria": "veracruz",
-      "fecha": "2026-07-22 14:59",
-      "url": "https://jornadaveracruz.com.mx/denuncian-abandono-casa-materna-hospital-tlaquilpa/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Motociclista resulta lesionado tras derrapar e impactarse contra muro en el bulevar Córdoba-Fortín",
+      "titulo": "En Coatzacoalcos, advierten multas y hasta arrestos por sacar basura fuera de horario",
       "fuente": "Golpe Politico",
       "categoria": "veracruz",
-      "fecha": "2026-07-22 14:59",
-      "url": "https://golpepolitico.com/2026/07/22/motociclista-resulta-lesionado-tras-derrapar-e-impactarse-contra-muro-en-el-bulevar-cordoba-fortin/",
+      "fecha": "2026-07-22 20:08",
+      "url": "https://golpepolitico.com/2026/07/22/en-coatzacoalcos-advierten-multas-y-hasta-arrestos-por-sacar-basura-fuera-de-horario/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 2
+    },
+    {
+      "titulo": "FGR asegura más de 33 mil litros de combustible en cateo realizado en Río Blanco",
+      "fuente": "Jornada Veracruz",
+      "categoria": "veracruz",
+      "fecha": "2026-07-22 20:08",
+      "url": "https://jornadaveracruz.com.mx/aseguran-combustible-rio-blanco-cateo-fgr/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Trabajadores de Bienestar mantienen protesta en Orizaba; exigen destitución de directora regional",
-      "fuente": "Golpe Politico",
+      "titulo": "Pide CTM oportunidad de trabajo en tienda de conveniencia",
+      "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-07-22 14:59",
-      "url": "https://golpepolitico.com/2026/07/22/trabajadores-de-bienestar-mantienen-protesta-en-orizaba-exigen-destitucion-de-directora-regional/",
-      "imagen": "https://images.unsplash.com/photo-1542596594-649edbc13630?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Mauricio Tobón, el rostro de ‘El Parche’, llega a la embajada de Colombia en México",
-      "fuente": "Golpe Politico",
-      "categoria": "veracruz",
-      "fecha": "2026-07-22 14:59",
-      "url": "https://golpepolitico.com/2026/07/22/mauricio-tobon-el-rostro-de-el-parche-llega-a-la-embajada-de-colombia-en-mexico/",
+      "fecha": "2026-07-22 20:08",
+      "url": "https://jornadaveracruz.com.mx/ctm-pide-trabajo-bodega-aurrera-coatzacoalcos/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "«Garabateaba» versos entre entrega y entrega: el repartidor de comida de 56 años que ganó uno de los mayores premios lit",
-      "fuente": "Golpe Politico",
+      "titulo": "Reportan fuerte olor a amoniaco en Minatitlán y Cosoleacaque",
+      "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-07-22 14:59",
-      "url": "https://golpepolitico.com/2026/07/22/garabateaba-versos-entre-entrega-y-entrega-el-repartidor-de-comida-de-56-anos-que-gano-uno-de-los-mayores-premios-literarios-de-china/",
+      "fecha": "2026-07-22 20:08",
+      "url": "https://jornadaveracruz.com.mx/olor-amoniaco-minatitlan-cosoleacaque-pemex/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Tibia defensa política para Ruffo",
-      "fuente": "Golpe Politico",
+      "titulo": "Anuncian programa para legalizar predios de escuelas públicas en sierra de Zongolica",
+      "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-07-22 14:59",
-      "url": "https://golpepolitico.com/2026/07/22/tibia-defensa-politica-para-ruffo/",
+      "fecha": "2026-07-22 20:08",
+      "url": "https://jornadaveracruz.com.mx/regularizacion-predios-escuelas-zongolica-escrituras/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "De las súplicas al veto",
-      "fuente": "Golpe Politico",
+      "titulo": "Estiman en Orizaba incremento en contratación de paquetes turísticos",
+      "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-07-22 14:59",
-      "url": "https://golpepolitico.com/2026/07/22/de-las-suplicas-al-veto/",
+      "fecha": "2026-07-22 20:08",
+      "url": "https://jornadaveracruz.com.mx/vacaciones-verano-orizaba-paquetes-turisticos-maltrata/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "¿Catean oficina de Ulises Lara?",
-      "fuente": "Golpe Politico",
+      "titulo": "EEUU y Cuba: Entre la caza de justos, confesiones imperiales y conflictos imaginarios",
+      "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-07-22 14:59",
-      "url": "https://golpepolitico.com/2026/07/22/catean-oficina-de-ulises-lara/",
+      "fecha": "2026-07-22 20:08",
+      "url": "https://jornadaveracruz.com.mx/estados-unidos-cuba-antifa-marco-rubio-opinion/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Suministro de agua en la zona de Chedraui Caram se está restableciendo; hubo escucha y diálogo con afectados: CMAS Xalap",
-      "fuente": "Golpe Politico",
+      "titulo": "Familias de Orizaba se preparan para afrontar compras por el regreso a clases",
+      "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-07-22 14:59",
-      "url": "https://golpepolitico.com/2026/07/21/suministro-de-agua-en-la-zona-de-chedraui-caram-se-esta-restableciendo-hubo-escucha-y-dialogo-con-afectados-cmas-xalapa/",
+      "fecha": "2026-07-22 20:08",
+      "url": "https://jornadaveracruz.com.mx/regreso-clases-orizaba-gastos-utiles-escolares-2026/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Vuelca tráiler cargado con pollos vivos en la autopista Orizaba-Puebla",
+      "fuente": "Jornada Veracruz",
+      "categoria": "veracruz",
+      "fecha": "2026-07-22 20:08",
+      "url": "https://jornadaveracruz.com.mx/volcadura-trailer-pollos-autopista-orizaba-puebla-maltrata/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Inicia Conagua regularización de títulos de concesión",
+      "fuente": "Jornada Veracruz",
+      "categoria": "veracruz",
+      "fecha": "2026-07-22 20:08",
+      "url": "https://jornadaveracruz.com.mx/conagua-regularizacion-titulos-concesion-agua-2026/",
       "imagen": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Invita SECVER al estreno del cortometraje En la quietud de la noche en Xalapa y Veracruz",
+      "fuente": "Golpe Politico",
+      "categoria": "veracruz",
+      "fecha": "2026-07-22 20:08",
+      "url": "https://golpepolitico.com/2026/07/22/invita-secver-al-estreno-del-cortometraje-en-la-quietud-de-la-noche-en-xalapa-y-veracruz/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "SECVER invita a la Gala Folklórica del Festival Alegría Folclórica Xalapa Yolpalkij",
+      "fuente": "Golpe Politico",
+      "categoria": "veracruz",
+      "fecha": "2026-07-22 20:08",
+      "url": "https://golpepolitico.com/2026/07/22/secver-invita-a-la-gala-folklorica-del-festival-alegria-folclorica-xalapa-yolpalkij/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Dio inicio la tradicional Capea de Xico en honor a Santa María Magdalena",
+      "fuente": "Golpe Politico",
+      "categoria": "veracruz",
+      "fecha": "2026-07-22 20:08",
+      "url": "https://golpepolitico.com/2026/07/22/dio-inicio-la-tradicional-capea-de-xico-en-honor-a-santa-maria-magdalena/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Llamas consume taxi en la colonia Pocitos y Rivera en la ciudad de Veracruz",
+      "fuente": "Golpe Politico",
+      "categoria": "veracruz",
+      "fecha": "2026-07-22 20:08",
+      "url": "https://golpepolitico.com/2026/07/22/llamas-consume-taxi-en-la-colonia-pocitos-y-rivera-en-la-ciudad-de-veracruz/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Esperan más de 30 mil visitantes en la Feria Nacional del Libro Infantil y Juvenil de Xalapa",
+      "fuente": "Golpe Politico",
+      "categoria": "veracruz",
+      "fecha": "2026-07-22 20:08",
+      "url": "https://golpepolitico.com/2026/07/22/esperan-mas-de-30-mil-visitantes-en-la-feria-nacional-del-libro-infantil-y-juvenil-de-xalapa/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Hombre se desploma y pierde la vida en Costco de Xalapa",
+      "fuente": "Golpe Politico",
+      "categoria": "veracruz",
+      "fecha": "2026-07-22 20:08",
+      "url": "https://golpepolitico.com/2026/07/22/hombre-se-desploma-y-muere-en-costco-de-xalapa/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
       "titulo": "La violencia contra los hijos durante la separación de los padres",
       "fuente": "Liberal del Sur",
       "categoria": "veracruz",
-      "fecha": "2026-07-22 14:59",
+      "fecha": "2026-07-22 20:08",
       "url": "https://liberal.com.mx/la-violencia-contra-los-hijos-durante-la-separacion-de-los-padres/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
@@ -276,7 +321,7 @@
       "titulo": "Cosoleacaque abre  sus puertas a la cultura  japonesa con talleres",
       "fuente": "Liberal del Sur",
       "categoria": "veracruz",
-      "fecha": "2026-07-22 14:59",
+      "fecha": "2026-07-22 20:08",
       "url": "https://liberal.com.mx/cosoleacaque-abre-sus-puertas-a-la-cultura-japonesa-con-talleres/",
       "imagen": "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?w=800",
       "prioridad": 1
@@ -285,7 +330,7 @@
       "titulo": "Gobierno del Estado  impulsará la rehabilitación del sistema de drenaje  con obras estratégicas",
       "fuente": "Liberal del Sur",
       "categoria": "veracruz",
-      "fecha": "2026-07-22 14:59",
+      "fecha": "2026-07-22 20:08",
       "url": "https://liberal.com.mx/gobierno-del-estado-impulsara-la-rehabilitacion-del-sistema-de-drenaje-con-obras-estrategicas/",
       "imagen": "https://images.unsplash.com/photo-1503387762-592deb58ef4e?w=800",
       "prioridad": 1
@@ -294,7 +339,7 @@
       "titulo": "¡DA CLIC PARA LEER NUESTRA EDICIÓN DEL DÍA!",
       "fuente": "Liberal del Sur",
       "categoria": "veracruz",
-      "fecha": "2026-07-22 14:59",
+      "fecha": "2026-07-22 20:08",
       "url": "https://liberal.com.mx/da-clic-para-leer-nuestra-edicion-del-dia/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
@@ -303,7 +348,7 @@
       "titulo": "Castigar penalmente el envenenamiento de  animales, plantea diputada",
       "fuente": "Liberal del Sur",
       "categoria": "veracruz",
-      "fecha": "2026-07-22 14:59",
+      "fecha": "2026-07-22 20:08",
       "url": "https://liberal.com.mx/castigar-penalmente-el-envenenamiento-de-animales-plantea-diputada/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
@@ -312,7 +357,7 @@
       "titulo": "Del 07 al 09 de agosto llegará el Festival del Mar, celebración que  acompaña la transformación del sur",
       "fuente": "Liberal del Sur",
       "categoria": "veracruz",
-      "fecha": "2026-07-22 14:59",
+      "fecha": "2026-07-22 20:08",
       "url": "https://liberal.com.mx/del-07-al-09-de-agosto-llegara-el-festival-del-mar-celebracion-que-acompana-la-transformacion-del-sur/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
@@ -321,7 +366,7 @@
       "titulo": "Plantea diputada iniciativa que  busca evitar fraudes inmobiliarios",
       "fuente": "Liberal del Sur",
       "categoria": "veracruz",
-      "fecha": "2026-07-22 14:59",
+      "fecha": "2026-07-22 20:08",
       "url": "https://liberal.com.mx/plantea-diputada-iniciativa-que-busca-evitar-fraudes-inmobiliarios/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
@@ -330,7 +375,7 @@
       "titulo": "Presenta diputada proyecto  de armonización de  reforma al Poder Judicial",
       "fuente": "Liberal del Sur",
       "categoria": "veracruz",
-      "fecha": "2026-07-22 14:59",
+      "fecha": "2026-07-22 20:08",
       "url": "https://liberal.com.mx/presenta-diputada-proyecto-de-armonizacion-de-reforma-al-poder-judicial/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
@@ -339,7 +384,7 @@
       "titulo": "Seis familias fueron reubicadas  por construcción de acueducto",
       "fuente": "Liberal del Sur",
       "categoria": "veracruz",
-      "fecha": "2026-07-22 14:59",
+      "fecha": "2026-07-22 20:08",
       "url": "https://liberal.com.mx/seis-familias-fueron-reubicadas-por-construccion-de-acueducto/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
@@ -348,7 +393,7 @@
       "titulo": "Matan a albañil de  22 años en ataque  armado en Villa Allende",
       "fuente": "Liberal del Sur",
       "categoria": "veracruz",
-      "fecha": "2026-07-22 14:59",
+      "fecha": "2026-07-22 20:08",
       "url": "https://liberal.com.mx/matan-a-albanil-de-22-anos-en-ataque-armado-en-villa-allende/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
