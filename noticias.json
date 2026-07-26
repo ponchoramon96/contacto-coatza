@@ -1,10 +1,19 @@
 {
   "coatzacoalcos": [
     {
+      "titulo": "Gobernadora recibe Segundo Informe de Actividades Legislativas de la Presidenta del Congreso del Estado",
+      "fuente": "Liberal Coatza",
+      "categoria": "coatzacoalcos",
+      "fecha": "2026-07-26 09:07",
+      "url": "https://liberal.com.mx/gobernadora-recibe-segundo-informe-de-actividades-legislativas-de-la-presidenta-del-congreso-del-estado/",
+      "imagen": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800",
+      "prioridad": 3
+    },
+    {
       "titulo": "Anuncia Gobernadora construcción del CRIT Minatitlán",
       "fuente": "Liberal Coatza",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-07-25 20:07",
+      "fecha": "2026-07-26 09:07",
       "url": "https://liberal.com.mx/anuncia-gobernadora-construccion-del-crit-minatitlan/",
       "imagen": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800",
       "prioridad": 3
@@ -13,16 +22,25 @@
       "titulo": "Nuevo salón en Palacio de Gobierno se llamará  Leona Vicario: Rocío Nahle",
       "fuente": "Liberal Coatza",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-07-25 20:07",
+      "fecha": "2026-07-26 09:07",
       "url": "https://liberal.com.mx/nuevo-salon-en-palacio-de-gobierno-se-llamara-leona-vicario-rocio-nahle/",
       "imagen": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800",
       "prioridad": 3
     },
     {
+      "titulo": "La suerte sonríe a Coatzacoalcos; cae premio de 8.5 millones de la Lotería Nacional",
+      "fuente": "Liberal Coatza",
+      "categoria": "coatzacoalcos",
+      "fecha": "2026-07-26 09:07",
+      "url": "https://liberal.com.mx/la-suerte-sonrie-a-coatzacoalcos-cae-premio-de-8-5-millones-de-la-loteria-nacional/",
+      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
+      "prioridad": 2
+    },
+    {
       "titulo": "Jamieson Greer destaca  liderazgo de Sheinbaum  en negociación del T-MEC",
       "fuente": "Liberal Coatza",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-07-25 20:07",
+      "fecha": "2026-07-26 09:07",
       "url": "https://liberal.com.mx/jamieson-greer-destaca-liderazgo-de-sheinbaum-en-negociacion-del-t-mec/",
       "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
       "prioridad": 1
@@ -31,7 +49,7 @@
       "titulo": "Arranca con éxito Coatza  Vive el Verano, generando  movimiento cultural y  económico en la ciudad",
       "fuente": "Liberal Coatza",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-07-25 20:07",
+      "fecha": "2026-07-26 09:07",
       "url": "https://liberal.com.mx/arranca-con-exito-coatza-vive-el-verano-generando-movimiento-cultural-y-economico-en-la-ciudad/",
       "imagen": "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?w=800",
       "prioridad": 1
@@ -40,7 +58,7 @@
       "titulo": "¡DA CLIC PARA LEER NUESTRA EDICIÓN DEL DÍA!",
       "fuente": "Liberal Coatza",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-07-25 20:07",
+      "fecha": "2026-07-26 09:07",
       "url": "https://liberal.com.mx/da-clic-para-leer-nuestra-edicion-del-dia/",
       "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
       "prioridad": 1
@@ -49,7 +67,7 @@
       "titulo": "Son 35 mujeres las que  trabajan en obras de  construcción en Coatza",
       "fuente": "Liberal Coatza",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-07-25 20:07",
+      "fecha": "2026-07-26 09:07",
       "url": "https://liberal.com.mx/son-35-mujeres-las-que-trabajan-en-obras-de-construccion-en-coatza/",
       "imagen": "https://images.unsplash.com/photo-1503387762-592deb58ef4e?w=800",
       "prioridad": 1
@@ -58,7 +76,7 @@
       "titulo": "Trabajadores de la CTM  aseguran que buscan diálogo y no conflictos",
       "fuente": "Liberal Coatza",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-07-25 20:07",
+      "fecha": "2026-07-26 09:07",
       "url": "https://liberal.com.mx/trabajadores-de-la-ctm-aseguran-que-buscan-dialogo-y-no-conflictos/",
       "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
       "prioridad": 1
@@ -67,54 +85,63 @@
       "titulo": "Con respaldo de Pemex,  Veracruz amplía su capacidad  de respuesta ante emergencias",
       "fuente": "Liberal Coatza",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-07-25 20:07",
+      "fecha": "2026-07-26 09:07",
       "url": "https://liberal.com.mx/con-respaldo-de-pemex-veracruz-amplia-su-capacidad-de-respuesta-ante-emergencias/",
       "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Instalan el GIPEAM para  fortalecer la prevención del  embarazo en adolescentes",
-      "fuente": "Liberal Coatza",
+      "titulo": "Veracruz suma esfuerzos para prevenir enfermedades transmitidas por vector",
+      "fuente": "Municipio Sur",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-07-25 20:07",
-      "url": "https://liberal.com.mx/instalan-el-gipeam-para-fortalecer-la-prevencion-del-embarazo-en-adolescentes/",
+      "fecha": "2026-07-26 09:07",
+      "url": "https://municipiosur.com/2026/07/25/veracruz-suma-esfuerzos-para-prevenir-enfermedades-transmitidas-por-vector/",
       "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "¡¡Jorge «El Tigre» Wade Zúñiga!!",
+      "titulo": "Instalan Comité Municipal de Salud Mental y Adicciones en Cosamaloapan",
       "fuente": "Municipio Sur",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-07-25 20:07",
-      "url": "https://municipiosur.com/2026/07/25/jorge-el-tigre-wade-zuniga/",
-      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
+      "fecha": "2026-07-26 09:07",
+      "url": "https://municipiosur.com/2026/07/25/instalan-comite-municipal-de-salud-mental-y-adicciones-en-cosamaloapan/",
+      "imagen": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "¡¡Pedro y Margarita!!",
+      "titulo": "Participa Secretaría de Salud en actualización permanente de calidad en atención",
       "fuente": "Municipio Sur",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-07-25 20:07",
-      "url": "https://municipiosur.com/2026/07/25/pedro-y-margarita/",
-      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
+      "fecha": "2026-07-26 09:07",
+      "url": "https://municipiosur.com/2026/07/25/participa-secretaria-de-salud-en-actualizacion-permanente-de-calidad-en-atencion/",
+      "imagen": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Jorge “El Tigre” Wade Zúñiga, líder de la Sección 10 del STPRM, encabezó el inicio del Torneo Interdepartamental de Vole",
+      "titulo": "Inicia Veracruz en Los Pinos con un despliegue de cultura, tradición y gastronomía",
       "fuente": "Municipio Sur",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-07-25 20:07",
-      "url": "https://municipiosur.com/2026/07/25/jorge-el-tigre-wade-zuniga-lider-de-la-seccion-10-del-stprm-encabezo-el-inicio-del-torneo-interdepartamental-de-voleibol-el-deporte-es-una-poderosa-herramienta-para-const/",
-      "imagen": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=800",
+      "fecha": "2026-07-26 09:07",
+      "url": "https://municipiosur.com/2026/07/25/inicia-veracruz-en-los-pinos-con-un-despliegue-de-cultura-tradicion-y-gastronomia/",
+      "imagen": "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?w=800",
       "prioridad": 1
     }
   ],
   "veracruz": [
     {
+      "titulo": "Gobernadora recibe Segundo Informe de Actividades Legislativas de la Presidenta del Congreso del Estado",
+      "fuente": "Liberal del Sur",
+      "categoria": "veracruz",
+      "fecha": "2026-07-26 09:08",
+      "url": "https://liberal.com.mx/gobernadora-recibe-segundo-informe-de-actividades-legislativas-de-la-presidenta-del-congreso-del-estado/",
+      "imagen": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800",
+      "prioridad": 3
+    },
+    {
       "titulo": "Anuncia Gobernadora construcción del CRIT Minatitlán",
       "fuente": "Liberal del Sur",
       "categoria": "veracruz",
-      "fecha": "2026-07-25 20:07",
+      "fecha": "2026-07-26 09:08",
       "url": "https://liberal.com.mx/anuncia-gobernadora-construccion-del-crit-minatitlan/",
       "imagen": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800",
       "prioridad": 3
@@ -123,7 +150,7 @@
       "titulo": "Nuevo salón en Palacio de Gobierno se llamará  Leona Vicario: Rocío Nahle",
       "fuente": "Liberal del Sur",
       "categoria": "veracruz",
-      "fecha": "2026-07-25 20:07",
+      "fecha": "2026-07-26 09:08",
       "url": "https://liberal.com.mx/nuevo-salon-en-palacio-de-gobierno-se-llamara-leona-vicario-rocio-nahle/",
       "imagen": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800",
       "prioridad": 3
@@ -132,7 +159,7 @@
       "titulo": "Citan a alcaldes a defenderse ante el Congreso por posible desafuero",
       "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-07-25 20:07",
+      "fecha": "2026-07-26 09:08",
       "url": "https://jornadaveracruz.com.mx/congreso-veracruz-cita-alcaldes-posible-desafuero/",
       "imagen": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
       "prioridad": 2
@@ -141,25 +168,70 @@
       "titulo": "Alcalde de Perote cambia plazo de licencia solicitada",
       "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-07-25 20:07",
+      "fecha": "2026-07-26 09:08",
       "url": "https://jornadaveracruz.com.mx/alcalde-perote-cambia-licencia-90-dias/",
       "imagen": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
       "prioridad": 2
     },
     {
-      "titulo": "Ayuntamiento de Paso de Ovejas refuerza acciones preventivas para combatir el dengue",
-      "fuente": "Golpe Politico",
+      "titulo": "La suerte sonríe a Coatzacoalcos; cae premio de 8.5 millones de la Lotería Nacional",
+      "fuente": "Liberal del Sur",
       "categoria": "veracruz",
-      "fecha": "2026-07-25 20:07",
-      "url": "https://golpepolitico.com/2026/07/25/ayuntamiento-de-paso-de-ovejas-refuerza-acciones-preventivas-para-combatir-el-dengue/",
+      "fecha": "2026-07-26 09:08",
+      "url": "https://liberal.com.mx/la-suerte-sonrie-a-coatzacoalcos-cae-premio-de-8-5-millones-de-la-loteria-nacional/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 2
+    },
+    {
+      "titulo": "ExpoFan Veracruz 2026 reúne a cientos de asistentes con cosplay, K-Pop y cultura pop",
+      "fuente": "Jornada Veracruz",
+      "categoria": "veracruz",
+      "fecha": "2026-07-26 09:08",
+      "url": "https://jornadaveracruz.com.mx/expofan-veracruz-2026-cosplay-kpop-cultura-pop/",
+      "imagen": "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Cosamaloapan instala Comité de Salud Mental y Adicciones para fortalecer acciones preventivas",
+      "fuente": "Jornada Veracruz",
+      "categoria": "veracruz",
+      "fecha": "2026-07-26 09:08",
+      "url": "https://jornadaveracruz.com.mx/comite-salud-mental-adicciones-cosamaloapan/",
+      "imagen": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Erika Herrera lleva el nombre de Fortín hasta el podio en Europa",
+      "fuente": "Jornada Veracruz",
+      "categoria": "veracruz",
+      "fecha": "2026-07-26 09:08",
+      "url": "https://jornadaveracruz.com.mx/erika-herrera-fortin-tercer-lugar-dana-cup-2026/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Veracruz lleva su cultura y gastronomía al Complejo Cultural Los Pinos este fin de semana",
+      "fuente": "Jornada Veracruz",
+      "categoria": "veracruz",
+      "fecha": "2026-07-26 09:08",
+      "url": "https://jornadaveracruz.com.mx/veracruz-en-los-pinos-cultura-gastronomia-2026/",
+      "imagen": "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Diputada Naomi Santos rinde cuentas al distrito de Minatitlán",
+      "fuente": "Jornada Veracruz",
+      "categoria": "veracruz",
+      "fecha": "2026-07-26 09:08",
+      "url": "https://jornadaveracruz.com.mx/diputada-naomi-santos-rinde-cuentas-al-distrito-de-minatitlan/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
     },
     {
       "titulo": "Creció percepción de inseguridad en Coatza y Veracruz, indica Inegi",
       "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-07-25 20:07",
+      "fecha": "2026-07-26 09:08",
       "url": "https://jornadaveracruz.com.mx/inegi-percepcion-inseguridad-veracruz-coatzacoalcos-xalapa-2026/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
@@ -168,7 +240,7 @@
       "titulo": "Raúl González Martínez fija postura pública",
       "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-07-25 20:07",
+      "fecha": "2026-07-26 09:08",
       "url": "https://jornadaveracruz.com.mx/raul-gonzalez-martinez-fija-postura-proceso-desafuero/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
@@ -177,125 +249,80 @@
       "titulo": "Presuntas irregularidades en pasada administración de Ixhuatlán del Café",
       "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-07-25 20:07",
+      "fecha": "2026-07-26 09:08",
       "url": "https://jornadaveracruz.com.mx/ixhuatlan-del-cafe-denuncias-irregularidades-pasada-administracion/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Lanzan juego la Lotería Xalapeña para fomentar identidad y tradiciones locales",
-      "fuente": "Jornada Veracruz",
-      "categoria": "veracruz",
-      "fecha": "2026-07-25 20:07",
-      "url": "https://jornadaveracruz.com.mx/loteria-xalapena-identidad-tradiciones-xalapa/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Busca STPSP crear conciencia de salud menstrual de trabajadoras",
-      "fuente": "Jornada Veracruz",
-      "categoria": "veracruz",
-      "fecha": "2026-07-25 20:07",
-      "url": "https://jornadaveracruz.com.mx/programa-aliada-salud-menstrual-trabajadoras-veracruz/",
-      "imagen": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Muere arrollado por el tren, en Sayula",
-      "fuente": "Jornada Veracruz",
-      "categoria": "veracruz",
-      "fecha": "2026-07-25 20:07",
-      "url": "https://jornadaveracruz.com.mx/hombre-arrollado-tren-sayula-aleman-almagres/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Falleció Lilia Albert, la gran pionera de la toxicología ambiental en el país y AL",
-      "fuente": "Jornada Veracruz",
-      "categoria": "veracruz",
-      "fecha": "2026-07-25 20:07",
-      "url": "https://jornadaveracruz.com.mx/murio-lilia-albert-pionera-toxicologia-ambiental-mexico/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Arranca la edición 36 de la Feria Nacional del Libro Infantil y Juvenil",
-      "fuente": "Jornada Veracruz",
-      "categoria": "veracruz",
-      "fecha": "2026-07-25 20:07",
-      "url": "https://jornadaveracruz.com.mx/arranca-la-edicion-36-de-la-feria-nacional-del-libro-infantil-y-juvenil/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Sacerdote Noel “N” es sentenciado a 21 años de prisión por abuso a una monja en Tijuana",
+      "titulo": "Taddei descarta que INE investigue financiamiento de Somos México; Morena lo solicitó tras caso de Ernesto Ruffo",
       "fuente": "Golpe Politico",
       "categoria": "veracruz",
-      "fecha": "2026-07-25 20:07",
-      "url": "https://golpepolitico.com/2026/07/25/sacerdote-noel-n-es-sentenciado-a-21-anos-de-prision-por-abuso-a-una-monja-en-tijuana/",
+      "fecha": "2026-07-26 09:08",
+      "url": "https://golpepolitico.com/2026/07/25/taddei-descarta-que-ine-investigue-financiamiento-de-somos-mexico-morena-lo-solicito-tras-caso-de-ernesto-ruffo/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Cabildo de Tuxpan fortalece protección infantil y representación comunitaria",
+      "titulo": "Realizan trabajos de balizamiento para mejorar la seguridad vial en el centro de Tantoyuca",
       "fuente": "Golpe Politico",
       "categoria": "veracruz",
-      "fecha": "2026-07-25 20:07",
-      "url": "https://golpepolitico.com/2026/07/25/cabildo-de-tuxpan-fortalece-proteccion-infantil-y-representacion-comunitaria/",
+      "fecha": "2026-07-26 09:08",
+      "url": "https://golpepolitico.com/2026/07/25/realizan-trabajos-de-balizamiento-para-mejorar-la-seguridad-vial-en-el-centro-de-tantoyuca/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "ICE arresta a pastores mexicanos cristianos en Texas; los obligaron a firmar documentos de salida voluntaria, acusan org",
+      "titulo": "Se incendia vochito en El Higo; cuerpos de emergencia controlan la situación",
       "fuente": "Golpe Politico",
       "categoria": "veracruz",
-      "fecha": "2026-07-25 20:07",
-      "url": "https://golpepolitico.com/2026/07/25/ice-arresta-a-pastores-mexicanos-cristianos-en-texas-los-obligaron-a-firmar-documentos-de-salida-voluntaria-acusan-organizaciones/",
+      "fecha": "2026-07-26 09:08",
+      "url": "https://golpepolitico.com/2026/07/25/se-incendia-vochito-en-el-higo-cuerpos-de-emergencia-controlan-la-situacion/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Sheinbaum celebra reapertura de la frontera con EU al ganado mexicano: «Ayudará a la economía del país»",
+      "titulo": "Retiran autos abandonados de la vía pública en Tantoyuca tras operativo de Tránsito",
       "fuente": "Golpe Politico",
       "categoria": "veracruz",
-      "fecha": "2026-07-25 20:07",
-      "url": "https://golpepolitico.com/2026/07/25/sheinbaum-celebra-reapertura-de-la-frontera-con-eu-al-ganado-mexicano-ayudara-a-la-economia-del-pais/",
+      "fecha": "2026-07-26 09:08",
+      "url": "https://golpepolitico.com/2026/07/25/retiran-autos-abandonados-de-la-via-publica-en-tantoyuca-tras-operativo-de-transito/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Control larvario y fumigación fortalecen combate al dengue en Las Aneas, en Alvarado",
+      "titulo": "Taxista presuntamente ebrio provoca choque por alcance en Tantoyuca",
       "fuente": "Golpe Politico",
       "categoria": "veracruz",
-      "fecha": "2026-07-25 20:07",
-      "url": "https://golpepolitico.com/2026/07/25/control-larvario-y-fumigacion-fortalecen-combate-al-dengue-en-las-aneas-en-alvarado/",
+      "fecha": "2026-07-26 09:08",
+      "url": "https://golpepolitico.com/2026/07/25/taxista-presuntamente-ebrio-provoca-choque-por-alcance-en-tantoyuca/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Guardavidas rescatan a tabasqueñas que se ahogaban en Chachalacas",
+      "titulo": "En Xalapa se fortalece la recolección de residuos; se reitera exhorto a respetar el toque de campana",
       "fuente": "Golpe Politico",
       "categoria": "veracruz",
-      "fecha": "2026-07-25 20:07",
-      "url": "https://golpepolitico.com/2026/07/25/guardavidas-rescatan-a-tabasquenas-que-se-ahogaban-en-chachalacas/",
+      "fecha": "2026-07-26 09:08",
+      "url": "https://golpepolitico.com/2026/07/25/en-xalapa-se-fortalece-la-recoleccion-de-residuos-se-reitera-exhorto-a-respetar-el-toque-de-campana/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "La UNAM y las trampas en su examen",
+      "titulo": "Cabildo de Tuxpan aprueba acuerdos para fortalecer la organización municipal y la atención a la niñez",
       "fuente": "Golpe Politico",
       "categoria": "veracruz",
-      "fecha": "2026-07-25 20:07",
-      "url": "https://golpepolitico.com/2026/07/25/la-unam-y-las-trampas-en-su-examen/",
+      "fecha": "2026-07-26 09:08",
+      "url": "https://golpepolitico.com/2026/07/25/cabildo-de-tuxpan-aprueba-acuerdos-para-fortalecer-la-organizacion-municipal-y-la-atencion-a-la-ninez/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "México triunfa en Remo de Juegos Centroamericanos",
+      "titulo": "Cruz Azul de Huiqui va imparable, venció a Toluca y es Campeón de Campeones",
       "fuente": "Golpe Politico",
       "categoria": "veracruz",
-      "fecha": "2026-07-25 20:07",
-      "url": "https://golpepolitico.com/2026/07/25/mexico-triunfa-en-remo-de-juegos-centroamericanos/",
+      "fecha": "2026-07-26 09:08",
+      "url": "https://golpepolitico.com/2026/07/25/cruz-azul-de-huiqui-va-imparable-vencio-a-toluca-y-es-campeon-de-campeones/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
@@ -303,7 +330,7 @@
       "titulo": "Jamieson Greer destaca  liderazgo de Sheinbaum  en negociación del T-MEC",
       "fuente": "Liberal del Sur",
       "categoria": "veracruz",
-      "fecha": "2026-07-25 20:07",
+      "fecha": "2026-07-26 09:08",
       "url": "https://liberal.com.mx/jamieson-greer-destaca-liderazgo-de-sheinbaum-en-negociacion-del-t-mec/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
@@ -312,7 +339,7 @@
       "titulo": "Arranca con éxito Coatza  Vive el Verano, generando  movimiento cultural y  económico en la ciudad",
       "fuente": "Liberal del Sur",
       "categoria": "veracruz",
-      "fecha": "2026-07-25 20:07",
+      "fecha": "2026-07-26 09:08",
       "url": "https://liberal.com.mx/arranca-con-exito-coatza-vive-el-verano-generando-movimiento-cultural-y-economico-en-la-ciudad/",
       "imagen": "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?w=800",
       "prioridad": 1
@@ -321,7 +348,7 @@
       "titulo": "¡DA CLIC PARA LEER NUESTRA EDICIÓN DEL DÍA!",
       "fuente": "Liberal del Sur",
       "categoria": "veracruz",
-      "fecha": "2026-07-25 20:07",
+      "fecha": "2026-07-26 09:08",
       "url": "https://liberal.com.mx/da-clic-para-leer-nuestra-edicion-del-dia/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
@@ -330,7 +357,7 @@
       "titulo": "Son 35 mujeres las que  trabajan en obras de  construcción en Coatza",
       "fuente": "Liberal del Sur",
       "categoria": "veracruz",
-      "fecha": "2026-07-25 20:07",
+      "fecha": "2026-07-26 09:08",
       "url": "https://liberal.com.mx/son-35-mujeres-las-que-trabajan-en-obras-de-construccion-en-coatza/",
       "imagen": "https://images.unsplash.com/photo-1503387762-592deb58ef4e?w=800",
       "prioridad": 1
@@ -339,7 +366,7 @@
       "titulo": "Trabajadores de la CTM  aseguran que buscan diálogo y no conflictos",
       "fuente": "Liberal del Sur",
       "categoria": "veracruz",
-      "fecha": "2026-07-25 20:07",
+      "fecha": "2026-07-26 09:08",
       "url": "https://liberal.com.mx/trabajadores-de-la-ctm-aseguran-que-buscan-dialogo-y-no-conflictos/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
@@ -348,17 +375,8 @@
       "titulo": "Con respaldo de Pemex,  Veracruz amplía su capacidad  de respuesta ante emergencias",
       "fuente": "Liberal del Sur",
       "categoria": "veracruz",
-      "fecha": "2026-07-25 20:07",
+      "fecha": "2026-07-26 09:08",
       "url": "https://liberal.com.mx/con-respaldo-de-pemex-veracruz-amplia-su-capacidad-de-respuesta-ante-emergencias/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Instalan el GIPEAM para  fortalecer la prevención del  embarazo en adolescentes",
-      "fuente": "Liberal del Sur",
-      "categoria": "veracruz",
-      "fecha": "2026-07-25 20:07",
-      "url": "https://liberal.com.mx/instalan-el-gipeam-para-fortalecer-la-prevencion-del-embarazo-en-adolescentes/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     }
