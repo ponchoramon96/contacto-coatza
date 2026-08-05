@@ -1,37 +1,91 @@
 {
   "coatzacoalcos": [
     {
-      "titulo": "Crece la posibilidad del regreso  del Carnaval de Coatzacoalcos",
-      "fuente": "Liberal Coatza",
-      "categoria": "coatzacoalcos",
-      "fecha": "2026-08-04 20:19",
-      "url": "https://liberal.com.mx/crece-la-posibilidad-del-regreso-del-carnaval-de-coatzacoalcos/",
-      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
-      "prioridad": 2
-    },
-    {
-      "titulo": "Adulto mayor salva la vida tras ser embestido por camión urbano en Coatzacoalcos",
-      "fuente": "Liberal Coatza",
-      "categoria": "coatzacoalcos",
-      "fecha": "2026-08-04 20:19",
-      "url": "https://liberal.com.mx/adulto-mayor-salva-la-vida-tras-ser-embestido-por-camion-urbano-en-coatzacoalcos/",
-      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
-      "prioridad": 2
-    },
-    {
-      "titulo": "Pedro Miguel Rosaldo García, presidente municipal de Coatzacoalcos y Xóchitl Molina González, Secretaria de Cultura, die",
+      "titulo": "Festival del Mar Coatzacoalcos ofrecerá experiencias culturales para toda la familia",
       "fuente": "Municipio Sur",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-08-04 20:19",
-      "url": "https://municipiosur.com/2026/08/04/pedro-miguel-rosaldo-garcia-presidente-municipal-de-coatzacoalcos-y-xochitl-molina-gonzalez-secretaria-de-cultura-dieron-el-banderazo-de-una-importante-jornada-de-trabajo-para-limpiar-las-playas-de/",
+      "fecha": "2026-08-05 09:30",
+      "url": "https://municipiosur.com/2026/08/04/festival-del-mar-coatzacoalcos-ofrecera-experiencias-culturales-para-toda-la-familia/",
       "imagen": "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?w=800",
       "prioridad": 2
+    },
+    {
+      "titulo": "Recolecta Sedema 1.8 toneladas de residuos en playas de Coatzacoalcos",
+      "fuente": "Municipio Sur",
+      "categoria": "coatzacoalcos",
+      "fecha": "2026-08-05 09:30",
+      "url": "https://municipiosur.com/2026/08/04/recolecta-sedema-1-8-toneladas-de-residuos-en-playas-de-coatzacoalcos/",
+      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
+      "prioridad": 2
+    },
+    {
+      "titulo": "UNAM convoca a examen presencial de control tras fallas y presuntas trampas en evaluación virtual",
+      "fuente": "Liberal Coatza",
+      "categoria": "coatzacoalcos",
+      "fecha": "2026-08-05 09:30",
+      "url": "https://liberal.com.mx/unam-convoca-a-examen-presencial-de-control-tras-fallas-y-presuntas-trampas-en-evaluacion-virtual/",
+      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "VIOLENCIA CONTRA LOS INFANTES",
+      "fuente": "Liberal Coatza",
+      "categoria": "coatzacoalcos",
+      "fecha": "2026-08-05 09:30",
+      "url": "https://liberal.com.mx/violencia-contra-los-infantes-2/",
+      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Esteban Bautista se ubica entre los siete presidentes de JUCOPO mejor evaluados del país",
+      "fuente": "Liberal Coatza",
+      "categoria": "coatzacoalcos",
+      "fecha": "2026-08-05 09:30",
+      "url": "https://liberal.com.mx/esteban-bautista-se-ubica-entre-los-siete-presidentes-de-jucopo-mejor-evaluados-del-pais/",
+      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "¡DA CLIC PARA LEER NUESTRA EDICIÓN DEL DÍA!",
+      "fuente": "Liberal Coatza",
+      "categoria": "coatzacoalcos",
+      "fecha": "2026-08-05 09:30",
+      "url": "https://liberal.com.mx/da-clic-para-leer-nuestra-edicion-del-dia/",
+      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Anuncian 106 nuevos camiones para ampliar el transporte público en Veracruz",
+      "fuente": "Liberal Coatza",
+      "categoria": "coatzacoalcos",
+      "fecha": "2026-08-05 09:30",
+      "url": "https://liberal.com.mx/anuncian-106-nuevos-camiones-para-ampliar-el-transporte-publico-en-veracruz/",
+      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Fatal accidente en el  tramo Pajapan-Jicacal",
+      "fuente": "Liberal Coatza",
+      "categoria": "coatzacoalcos",
+      "fecha": "2026-08-05 09:30",
+      "url": "https://liberal.com.mx/fatal-accidente-en-el-tramo-pajapan-jicacal/",
+      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Ejecutan a motociclista mientras  circulaba por calles de Minatitlán",
+      "fuente": "Liberal Coatza",
+      "categoria": "coatzacoalcos",
+      "fecha": "2026-08-05 09:30",
+      "url": "https://liberal.com.mx/ejecutan-a-motociclista-mientras-circulaba-por-calles-de-minatitlan/",
+      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
+      "prioridad": 1
     },
     {
       "titulo": "Asfaltado del tramo Pajapan a  Peña Hermosa será una realidad",
       "fuente": "Liberal Coatza",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-08-04 20:19",
+      "fecha": "2026-08-05 09:30",
       "url": "https://liberal.com.mx/asfaltado-del-tramo-pajapan-a-pena-hermosa-sera-una-realidad/",
       "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
       "prioridad": 1
@@ -40,7 +94,7 @@
       "titulo": "Gobiernos Estatal, Federal  y Municipal coordinan  operativo para garantizar  un Festival del Mar seguro",
       "fuente": "Liberal Coatza",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-08-04 20:19",
+      "fecha": "2026-08-05 09:30",
       "url": "https://liberal.com.mx/gobiernos-estatal-federal-y-municipal-coordinan-operativo-para-garantizar-un-festival-del-mar-seguro/",
       "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
       "prioridad": 1
@@ -49,126 +103,90 @@
       "titulo": "Presentarán propuesta  sobre regulación del uso  de plataformas digitales",
       "fuente": "Liberal Coatza",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-08-04 20:19",
+      "fecha": "2026-08-05 09:30",
       "url": "https://liberal.com.mx/presentaran-propuesta-sobre-regulacion-del-uso-de-plataformas-digitales/",
       "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Climatizarán el Gimnasio  20 de Noviembre para  recibir las conferencias del Festival del Mar 2026",
-      "fuente": "Liberal Coatza",
-      "categoria": "coatzacoalcos",
-      "fecha": "2026-08-04 20:19",
-      "url": "https://liberal.com.mx/climatizaran-el-gimnasio-20-de-noviembre-para-recibir-las-conferencias-del-festival-del-mar-2026/",
-      "imagen": "https://images.unsplash.com/photo-1504608524841-42584120d693?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "En Tercera Sesión de Cabildo  Abierto se reporta avance  en regularización de predios",
-      "fuente": "Liberal Coatza",
-      "categoria": "coatzacoalcos",
-      "fecha": "2026-08-04 20:19",
-      "url": "https://liberal.com.mx/en-tercera-sesion-de-cabildo-abierto-se-reporta-avance-en-regularizacion-de-predios/",
-      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "¡DA CLIC PARA LEER NUESTRA EDICIÓN DEL DÍA!",
-      "fuente": "Liberal Coatza",
-      "categoria": "coatzacoalcos",
-      "fecha": "2026-08-04 20:19",
-      "url": "https://liberal.com.mx/da-clic-para-leer-nuestra-edicion-del-dia/",
-      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Erika salió a trabajar, pero perdió la vida en  accidente vehicular",
-      "fuente": "Liberal Coatza",
-      "categoria": "coatzacoalcos",
-      "fecha": "2026-08-04 20:19",
-      "url": "https://liberal.com.mx/erika-salio-a-trabajar-pero-perdio-la-vida-en-accidente-vehicular/",
-      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "El futuro de Brian Rodríguez en América está en duda tras el interés del Cruzeiro",
+      "titulo": "La cochinada que le hicieron a Lenis Domínguez Ramos. Hablar de doña Lenis Domínguez Ramos, es hablar de una dama que to",
       "fuente": "Municipio Sur",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-08-04 20:19",
-      "url": "https://municipiosur.com/2026/08/04/el-futuro-de-brian-rodriguez-en-america-esta-en-duda-tras-el-interes-del-cruzeiro/",
+      "fecha": "2026-08-05 09:30",
+      "url": "https://municipiosur.com/2026/08/05/la-cochinada-que-le-hicieron-a-lenis-dominguez-ramos-hablar-de-dona-lenis-dominguez-ramos-es-hablar-de-una-dama-que-toda-su-vida-se-ha-caracterizado-por-ser-100-humanista-es-decir-que-se-ha-dedica/",
+      "imagen": "https://images.unsplash.com/photo-1503387762-592deb58ef4e?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Tribus Políticas de MORENA-4T",
+      "fuente": "Municipio Sur",
+      "categoria": "coatzacoalcos",
+      "fecha": "2026-08-05 09:30",
+      "url": "https://municipiosur.com/2026/08/05/tribus-politicas-de-morena-4t/",
       "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "FC Juárez hace oficial a su nuevo estratega tras la salida de Pedro Caixinha",
+      "titulo": "El Jardín de las Esculturas mantiene abiertas las actividades del curso Juventudes en las Artes Escénicas",
       "fuente": "Municipio Sur",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-08-04 20:19",
-      "url": "https://municipiosur.com/2026/08/04/fc-juarez-hace-oficial-a-su-nuevo-estratega-tras-la-salida-de-pedro-caixinha/",
-      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
+      "fecha": "2026-08-05 09:30",
+      "url": "https://municipiosur.com/2026/08/04/el-jardin-de-las-esculturas-mantiene-abiertas-las-actividades-del-curso-juventudes-en-las-artes-escenicas/",
+      "imagen": "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Katia Itzel sorprende con publicaciones tras el balonazo que recibió en el Querétaro vs Tigres",
+      "titulo": "Coordinación entre corporaciones rescata a cuatro víctimas de privación ilegal de la libertad",
       "fuente": "Municipio Sur",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-08-04 20:19",
-      "url": "https://municipiosur.com/2026/08/04/katia-itzel-sorprende-con-publicaciones-tras-el-balonazo-que-recibio-en-el-queretaro-vs-tigres/",
-      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "¡¡Tenencia de la Tierra!!",
-      "fuente": "Municipio Sur",
-      "categoria": "coatzacoalcos",
-      "fecha": "2026-08-04 20:19",
-      "url": "https://municipiosur.com/2026/08/04/tenencia-de-la-tierra-2/",
+      "fecha": "2026-08-05 09:30",
+      "url": "https://municipiosur.com/2026/08/04/coordinacion-entre-corporaciones-rescata-a-cuatro-victimas-de-privacion-ilegal-de-la-libertad/",
       "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
       "prioridad": 1
     }
   ],
   "veracruz": [
     {
-      "titulo": "Alcalde de La Antigua percibe 70 mil pesos mensuales; mientras que el DIF municipal sólo 50 mil pesos",
-      "fuente": "Golpe Politico",
+      "titulo": "Congreso del Estado analizará desafuero de alcaldes de Ixhuatlán y Úrsulo Galván",
+      "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-08-04 20:19",
-      "url": "https://golpepolitico.com/2026/08/04/alcalde-de-la-antigua-percibe-91-mil-pesos-mensuales-mientras-que-el-dif-municipal-solo-50-mil-pesos/",
+      "fecha": "2026-08-05 09:30",
+      "url": "https://jornadaveracruz.com.mx/congreso-veracruz-analizara-desafuero-alcaldes-ixhuatlan-ursulo-galvan/",
       "imagen": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
       "prioridad": 2
     },
     {
-      "titulo": "Ayuntamiento de Veracruz impulsa la reforestación con la siembra de 102 árboles en la avenida Fidel Velázquez",
+      "titulo": "Alista Gobierno de Coatzacoalcos reapertura de la Alberca Semiolímpica Zona Centro",
       "fuente": "Golpe Politico",
       "categoria": "veracruz",
-      "fecha": "2026-08-04 20:19",
-      "url": "https://golpepolitico.com/2026/08/04/ayuntamiento-de-veracruz-impulsa-la-reforestacion-con-la-siembra-de-102-arboles-en-la-avenida-fidel-velazquez/",
+      "fecha": "2026-08-05 09:30",
+      "url": "https://golpepolitico.com/2026/08/04/alista-gobierno-de-coatzacoalcos-reapertura-de-la-alberca-semiolimpica-zona-centro/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 2
     },
     {
-      "titulo": "Crece la posibilidad del regreso  del Carnaval de Coatzacoalcos",
-      "fuente": "Liberal del Sur",
+      "titulo": "Cortocircuito reduce a chatarra un taxi en Coatzacoalcos; recién salido del taller de hojalatería y pintura",
+      "fuente": "Golpe Politico",
       "categoria": "veracruz",
-      "fecha": "2026-08-04 20:19",
-      "url": "https://liberal.com.mx/crece-la-posibilidad-del-regreso-del-carnaval-de-coatzacoalcos/",
+      "fecha": "2026-08-05 09:30",
+      "url": "https://golpepolitico.com/2026/08/04/cortocircuito-reduce-a-chatarra-un-taxi-en-coatzacoalcos-recien-salido-del-taller-de-hojalateria-y-pintura/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 2
     },
     {
-      "titulo": "Adulto mayor salva la vida tras ser embestido por camión urbano en Coatzacoalcos",
-      "fuente": "Liberal del Sur",
+      "titulo": "Alcalde de Tantoyuca fortalece colaboración con CRIT Tamaulipas para atención de pacientes",
+      "fuente": "Golpe Politico",
       "categoria": "veracruz",
-      "fecha": "2026-08-04 20:19",
-      "url": "https://liberal.com.mx/adulto-mayor-salva-la-vida-tras-ser-embestido-por-camion-urbano-en-coatzacoalcos/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "fecha": "2026-08-05 09:30",
+      "url": "https://golpepolitico.com/2026/08/04/alcalde-de-tantoyuca-fortalece-colaboracion-con-crit-tamaulipas-para-atencion-de-pacientes/",
+      "imagen": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
       "prioridad": 2
     },
     {
       "titulo": "Prevé CMIC, mayor movimiento económico al cierre de 2026",
       "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-08-04 20:19",
+      "fecha": "2026-08-05 09:30",
       "url": "https://jornadaveracruz.com.mx/cmic-preve-mayor-movimiento-economico-obras-veracruz-2026/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
@@ -177,7 +195,7 @@
       "titulo": "Controlado, incendio del pozo Krem-1: Pemex",
       "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-08-04 20:19",
+      "fecha": "2026-08-05 09:30",
       "url": "https://jornadaveracruz.com.mx/pemex-controla-incendio-pozo-krem-1-choapas/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
@@ -186,7 +204,7 @@
       "titulo": "Joven estudiante de Orizaba pierde la vida durante expedición en La Malinche",
       "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-08-04 20:19",
+      "fecha": "2026-08-05 09:30",
       "url": "https://jornadaveracruz.com.mx/muere-estudiante-orizaba-expedicion-la-malinche/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
@@ -195,17 +213,8 @@
       "titulo": "Liberan a Jesús Viveros en Orizaba",
       "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-08-04 20:19",
+      "fecha": "2026-08-05 09:30",
       "url": "https://jornadaveracruz.com.mx/liberan-jesus-viveros-caso-veronica-fernandez-orizaba/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Urgen desde el Congreso solución definitiva a apagones en Veracruz",
-      "fuente": "Jornada Veracruz",
-      "categoria": "veracruz",
-      "fecha": "2026-08-04 20:19",
-      "url": "https://jornadaveracruz.com.mx/congreso-exhorta-cfe-solucion-apagones-veracruz/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
@@ -213,7 +222,7 @@
       "titulo": "En colonias de Ixhuatlancillo sopesan idea de incorporarse territorialmente a Orizaba",
       "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-08-04 20:19",
+      "fecha": "2026-08-05 09:30",
       "url": "https://jornadaveracruz.com.mx/vecinos-ixhuatlancillo-buscan-incorporarse-orizaba/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
@@ -222,7 +231,7 @@
       "titulo": "Recriminan omisión de alcaldía de Mendoza ante el maltrato a perros",
       "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-08-04 20:19",
+      "fecha": "2026-08-05 09:30",
       "url": "https://jornadaveracruz.com.mx/maltrato-animal-ciudad-mendoza-omision-ayuntamiento/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
@@ -231,7 +240,7 @@
       "titulo": "Advierten riesgos de que adolescentes y jóvenes busquen orientación emocional en plataformas de IA",
       "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-08-04 20:19",
+      "fecha": "2026-08-05 09:30",
       "url": "https://jornadaveracruz.com.mx/advierten-riesgos-ia-orientacion-emocional-adolescentes/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
@@ -240,7 +249,7 @@
       "titulo": "Nuevo muestreo da como apta playa Martí para recreo, indica Rosa María Hernández",
       "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-08-04 20:19",
+      "fecha": "2026-08-05 09:30",
       "url": "https://jornadaveracruz.com.mx/playa-marti-apta-recreo-nuevo-muestreo-veracruz/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
@@ -249,62 +258,116 @@
       "titulo": "Plagas merman cultivo y calidad de la gladiola, en Rafael Delgado",
       "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-08-04 20:19",
+      "fecha": "2026-08-05 09:30",
       "url": "https://jornadaveracruz.com.mx/plagas-afectan-cultivo-gladiolas-rafael-delgado-veracruz/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "¿Se le viene la noche?",
+      "titulo": "Detienen a hombre tras cateo encabezado por la FGE en Boca del Río",
       "fuente": "Golpe Politico",
       "categoria": "veracruz",
-      "fecha": "2026-08-04 20:19",
-      "url": "https://golpepolitico.com/2026/08/04/se-le-viene-la-noche/",
+      "fecha": "2026-08-05 09:30",
+      "url": "https://golpepolitico.com/2026/08/04/detienen-a-hombre-tras-cateo-encabezado-por-la-fge-en-boca-del-rio/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "En 48 horas, tres motociclistas han perdido la vida en accidentes en Minatitlán y Cosoleacaque",
+      "titulo": "Fuerzas federales y estatales despliegan intenso operativo en Laguna Real del puerto jarocho",
       "fuente": "Golpe Politico",
       "categoria": "veracruz",
-      "fecha": "2026-08-04 20:19",
-      "url": "https://golpepolitico.com/2026/08/04/en-48-horas-tres-motociclistas-han-perdido-la-vida-en-accidentes-en-minatitlan-y-cosoleacaque/",
+      "fecha": "2026-08-05 09:30",
+      "url": "https://golpepolitico.com/2026/08/04/fuerzas-federales-y-estatales-despliegan-intenso-operativo-en-laguna-real-del-puerto-jarocho/",
+      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Gestionan mejoras a infraestructura eléctrica de Martínez de la Torre ante la CFE",
+      "fuente": "Golpe Politico",
+      "categoria": "veracruz",
+      "fecha": "2026-08-05 09:30",
+      "url": "https://golpepolitico.com/2026/08/04/gestionan-mejoras-a-infraestructura-electrica-de-martinez-de-la-torre-ante-la-cfe/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Coordinación entre corporaciones rescata a cuatro víctimas de privación ilegal de la libertad",
+      "titulo": "Impulsa Martínez de la Torre obras de infraestructura urbana en beneficio de familias",
       "fuente": "Golpe Politico",
       "categoria": "veracruz",
-      "fecha": "2026-08-04 20:19",
-      "url": "https://golpepolitico.com/2026/08/04/coordinacion-entre-corporaciones-rescata-a-cuatro-victimas-de-privacion-ilegal-de-la-libertad/",
+      "fecha": "2026-08-05 09:30",
+      "url": "https://golpepolitico.com/2026/08/04/impulsa-martinez-de-la-torre-obras-de-infraestructura-urbana-en-beneficio-de-familias/",
+      "imagen": "https://images.unsplash.com/photo-1503387762-592deb58ef4e?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Foros Regionales de Café trazan una ruta para preservar la cultura cafetalera en Veracruz",
+      "fuente": "Golpe Politico",
+      "categoria": "veracruz",
+      "fecha": "2026-08-05 09:30",
+      "url": "https://golpepolitico.com/2026/08/04/foros-regionales-de-cafe-trazan-una-ruta-para-preservar-la-cultura-cafetalera-en-veracruz/",
+      "imagen": "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "UNAM convoca a examen presencial de control tras fallas y presuntas trampas en evaluación virtual",
+      "fuente": "Liberal del Sur",
+      "categoria": "veracruz",
+      "fecha": "2026-08-05 09:30",
+      "url": "https://liberal.com.mx/unam-convoca-a-examen-presencial-de-control-tras-fallas-y-presuntas-trampas-en-evaluacion-virtual/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Detienen a hombre investigado por violencia familiar en Xalapa",
-      "fuente": "Golpe Politico",
+      "titulo": "VIOLENCIA CONTRA LOS INFANTES",
+      "fuente": "Liberal del Sur",
       "categoria": "veracruz",
-      "fecha": "2026-08-04 20:19",
-      "url": "https://golpepolitico.com/2026/08/04/detienen-a-hombre-investigado-por-violencia-familiar-en-xalapa/",
+      "fecha": "2026-08-05 09:30",
+      "url": "https://liberal.com.mx/violencia-contra-los-infantes-2/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Impulsa Daniel Baizabal jornada gratuita de lentes graduados en Emiliano Zapata",
-      "fuente": "Golpe Politico",
+      "titulo": "Esteban Bautista se ubica entre los siete presidentes de JUCOPO mejor evaluados del país",
+      "fuente": "Liberal del Sur",
       "categoria": "veracruz",
-      "fecha": "2026-08-04 20:19",
-      "url": "https://golpepolitico.com/2026/08/04/impulsa-daniel-baizabal-jornada-gratuita-de-lentes-graduados-en-emiliano-zapata/",
+      "fecha": "2026-08-05 09:30",
+      "url": "https://liberal.com.mx/esteban-bautista-se-ubica-entre-los-siete-presidentes-de-jucopo-mejor-evaluados-del-pais/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Vecinos exponen necesidades de suministro eléctrico ante el gobierno de Citlaltépetl",
-      "fuente": "Golpe Politico",
+      "titulo": "¡DA CLIC PARA LEER NUESTRA EDICIÓN DEL DÍA!",
+      "fuente": "Liberal del Sur",
       "categoria": "veracruz",
-      "fecha": "2026-08-04 20:19",
-      "url": "https://golpepolitico.com/2026/08/04/vecinos-exponen-necesidades-de-suministro-electrico-ante-el-gobierno-de-citlaltepetl/",
+      "fecha": "2026-08-05 09:30",
+      "url": "https://liberal.com.mx/da-clic-para-leer-nuestra-edicion-del-dia/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Anuncian 106 nuevos camiones para ampliar el transporte público en Veracruz",
+      "fuente": "Liberal del Sur",
+      "categoria": "veracruz",
+      "fecha": "2026-08-05 09:30",
+      "url": "https://liberal.com.mx/anuncian-106-nuevos-camiones-para-ampliar-el-transporte-publico-en-veracruz/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Fatal accidente en el  tramo Pajapan-Jicacal",
+      "fuente": "Liberal del Sur",
+      "categoria": "veracruz",
+      "fecha": "2026-08-05 09:30",
+      "url": "https://liberal.com.mx/fatal-accidente-en-el-tramo-pajapan-jicacal/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Ejecutan a motociclista mientras  circulaba por calles de Minatitlán",
+      "fuente": "Liberal del Sur",
+      "categoria": "veracruz",
+      "fecha": "2026-08-05 09:30",
+      "url": "https://liberal.com.mx/ejecutan-a-motociclista-mientras-circulaba-por-calles-de-minatitlan/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
@@ -312,7 +375,7 @@
       "titulo": "Asfaltado del tramo Pajapan a  Peña Hermosa será una realidad",
       "fuente": "Liberal del Sur",
       "categoria": "veracruz",
-      "fecha": "2026-08-04 20:19",
+      "fecha": "2026-08-05 09:30",
       "url": "https://liberal.com.mx/asfaltado-del-tramo-pajapan-a-pena-hermosa-sera-una-realidad/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
@@ -321,7 +384,7 @@
       "titulo": "Gobiernos Estatal, Federal  y Municipal coordinan  operativo para garantizar  un Festival del Mar seguro",
       "fuente": "Liberal del Sur",
       "categoria": "veracruz",
-      "fecha": "2026-08-04 20:19",
+      "fecha": "2026-08-05 09:30",
       "url": "https://liberal.com.mx/gobiernos-estatal-federal-y-municipal-coordinan-operativo-para-garantizar-un-festival-del-mar-seguro/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
@@ -330,44 +393,8 @@
       "titulo": "Presentarán propuesta  sobre regulación del uso  de plataformas digitales",
       "fuente": "Liberal del Sur",
       "categoria": "veracruz",
-      "fecha": "2026-08-04 20:19",
+      "fecha": "2026-08-05 09:30",
       "url": "https://liberal.com.mx/presentaran-propuesta-sobre-regulacion-del-uso-de-plataformas-digitales/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Climatizarán el Gimnasio  20 de Noviembre para  recibir las conferencias del Festival del Mar 2026",
-      "fuente": "Liberal del Sur",
-      "categoria": "veracruz",
-      "fecha": "2026-08-04 20:19",
-      "url": "https://liberal.com.mx/climatizaran-el-gimnasio-20-de-noviembre-para-recibir-las-conferencias-del-festival-del-mar-2026/",
-      "imagen": "https://images.unsplash.com/photo-1504608524841-42584120d693?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "En Tercera Sesión de Cabildo  Abierto se reporta avance  en regularización de predios",
-      "fuente": "Liberal del Sur",
-      "categoria": "veracruz",
-      "fecha": "2026-08-04 20:19",
-      "url": "https://liberal.com.mx/en-tercera-sesion-de-cabildo-abierto-se-reporta-avance-en-regularizacion-de-predios/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "¡DA CLIC PARA LEER NUESTRA EDICIÓN DEL DÍA!",
-      "fuente": "Liberal del Sur",
-      "categoria": "veracruz",
-      "fecha": "2026-08-04 20:19",
-      "url": "https://liberal.com.mx/da-clic-para-leer-nuestra-edicion-del-dia/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Erika salió a trabajar, pero perdió la vida en  accidente vehicular",
-      "fuente": "Liberal del Sur",
-      "categoria": "veracruz",
-      "fecha": "2026-08-04 20:19",
-      "url": "https://liberal.com.mx/erika-salio-a-trabajar-pero-perdio-la-vida-en-accidente-vehicular/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     }
