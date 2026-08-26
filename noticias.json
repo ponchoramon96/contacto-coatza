@@ -1,28 +1,46 @@
 {
   "coatzacoalcos": [
     {
+      "titulo": "Veracruz contará con mil 298 Consultorios de Atención Primaria a la Salud: Nahle",
+      "fuente": "Liberal Coatza",
+      "categoria": "coatzacoalcos",
+      "fecha": "2026-08-26 07:39",
+      "url": "https://liberal.com.mx/veracruz-contara-con-mil-298-consultorios-de-atencion-primaria-a-la-salud-nahle/",
+      "imagen": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800",
+      "prioridad": 3
+    },
+    {
       "titulo": "Deuda bancaria de  Veracruz baja a  43 mil mdp: Nahle",
       "fuente": "Liberal Coatza",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-08-25 19:24",
+      "fecha": "2026-08-26 07:39",
       "url": "https://liberal.com.mx/deuda-bancaria-de-veracruz-baja-a-43-mil-mdp-nahle/",
       "imagen": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800",
       "prioridad": 3
     },
     {
-      "titulo": "Diputados locales de Morena cierran filas con Ariadna Montiel y Rocío Nahle",
-      "fuente": "Liberal Coatza",
+      "titulo": "Ni perdón, ni Olvido. Dos reuniones políticas que se realizaron el sábado 15 de agosto y el viernes 15 de agosto, donde ",
+      "fuente": "Municipio Sur",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-08-25 19:24",
-      "url": "https://liberal.com.mx/diputados-locales-de-morena-cierran-filas-con-ariadna-montiel-y-rocio-nahle/",
+      "fecha": "2026-08-26 07:39",
+      "url": "https://municipiosur.com/2026/08/26/ni-perdon-ni-olvido-dos-reuniones-politicas-que-se-realizaron-el-sabado-15-de-agosto-y-el-viernes-15-de-agosto-donde-las-figuras-politicas-fueron-rocio-nahle-garcia-gobernadora-de-veracruz-y-aria/",
       "imagen": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800",
+      "prioridad": 3
+    },
+    {
+      "titulo": "La misma telenovela contra Rocio",
+      "fuente": "Municipio Sur",
+      "categoria": "coatzacoalcos",
+      "fecha": "2026-08-26 07:39",
+      "url": "https://municipiosur.com/2026/08/25/la-misma-telenovela-contra-rocio/",
+      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
       "prioridad": 3
     },
     {
       "titulo": "Veracruz contará con mil 298 Consultorios de Atención Primaria a la Salud: Gobernadora",
       "fuente": "Municipio Sur",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-08-25 19:24",
+      "fecha": "2026-08-26 07:39",
       "url": "https://municipiosur.com/2026/08/25/veracruz-contara-con-mil-298-consultorios-de-atencion-primaria-a-la-salud-gobernadora/",
       "imagen": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800",
       "prioridad": 3
@@ -31,7 +49,7 @@
       "titulo": "Atiende Pedro Miguel colonias afectadas por las lluvias y  supervisa trabajos de limpieza",
       "fuente": "Liberal Coatza",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-08-25 19:24",
+      "fecha": "2026-08-26 07:39",
       "url": "https://liberal.com.mx/atiende-pedro-miguel-colonias-afectadas-por-las-lluvias-y-supervisa-trabajos-de-limpieza/",
       "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
       "prioridad": 2
@@ -40,7 +58,7 @@
       "titulo": "Fuertes lluvias dejan bardas  caídas, socavones y calles  inundadas en Coatzacoalcos",
       "fuente": "Liberal Coatza",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-08-25 19:24",
+      "fecha": "2026-08-26 07:39",
       "url": "https://liberal.com.mx/fuertes-lluvias-dejan-bardas-caidas-socavones-y-calles-inundadas-en-coatzacoalcos/",
       "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
       "prioridad": 2
@@ -49,7 +67,7 @@
       "titulo": "Atiende Gobierno de Coatzacoalcos colonias afectadas por las lluvias y supervisa trabajos de limpieza",
       "fuente": "Liberal Coatza",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-08-25 19:24",
+      "fecha": "2026-08-26 07:39",
       "url": "https://liberal.com.mx/atiende-gobierno-de-coatzacoalcos-colonias-afectadas-por-las-lluvias-y-supervisa-trabajos-de-limpieza/",
       "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
       "prioridad": 2
@@ -58,16 +76,25 @@
       "titulo": "¡DA CLIC PARA LEER NUESTRA EDICIÓN DEL DÍA!",
       "fuente": "Liberal Coatza",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-08-25 19:24",
+      "fecha": "2026-08-26 07:39",
       "url": "https://liberal.com.mx/da-clic-para-leer-nuestra-edicion-del-dia/",
       "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Claudia Sheinbaum firma decreto para la creación de 12,750 nuevos consultorios del Servicio Universal de Salud",
+      "fuente": "Liberal Coatza",
+      "categoria": "coatzacoalcos",
+      "fecha": "2026-08-26 07:39",
+      "url": "https://liberal.com.mx/claudia-sheinbaum-firma-decreto-para-la-creacion-de-12750-nuevos-consultorios-del-servicio-universal-de-salud/",
+      "imagen": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=800",
       "prioridad": 1
     },
     {
       "titulo": "Locatarios del mercado  Puerto México cierran  avenida por falta de energía eléctrica",
       "fuente": "Liberal Coatza",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-08-25 19:24",
+      "fecha": "2026-08-26 07:39",
       "url": "https://liberal.com.mx/locatarios-del-mercado-puerto-mexico-cierran-avenida-por-falta-de-energia-electrica-2/",
       "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
       "prioridad": 1
@@ -76,7 +103,7 @@
       "titulo": "Camioneta cae a canal con seis personas a bordo;  no se reportan lesionados",
       "fuente": "Liberal Coatza",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-08-25 19:24",
+      "fecha": "2026-08-26 07:39",
       "url": "https://liberal.com.mx/camioneta-cae-a-canal-con-seis-personas-a-bordo-no-se-reportan-lesionados/",
       "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
       "prioridad": 1
@@ -85,72 +112,36 @@
       "titulo": "Locatarios del mercado Puerto México cierran avenida por falta de energía eléctrica",
       "fuente": "Liberal Coatza",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-08-25 19:24",
+      "fecha": "2026-08-26 07:39",
       "url": "https://liberal.com.mx/locatarios-del-mercado-puerto-mexico-cierran-avenida-por-falta-de-energia-electrica/",
-      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Jóvenes veracruzanos arrasan en examen de admisión de la UV",
-      "fuente": "Liberal Coatza",
-      "categoria": "coatzacoalcos",
-      "fecha": "2026-08-25 19:24",
-      "url": "https://liberal.com.mx/jovenes-veracruzanos-arrasan-en-examen-de-admision-de-la-uv/",
       "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
       "prioridad": 1
     }
   ],
   "veracruz": [
     {
+      "titulo": "Veracruz contará con mil 298 Consultorios de Atención Primaria a la Salud: Nahle",
+      "fuente": "Liberal del Sur",
+      "categoria": "veracruz",
+      "fecha": "2026-08-26 07:39",
+      "url": "https://liberal.com.mx/veracruz-contara-con-mil-298-consultorios-de-atencion-primaria-a-la-salud-nahle/",
+      "imagen": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800",
+      "prioridad": 3
+    },
+    {
       "titulo": "Deuda bancaria de  Veracruz baja a  43 mil mdp: Nahle",
       "fuente": "Liberal del Sur",
       "categoria": "veracruz",
-      "fecha": "2026-08-25 19:24",
+      "fecha": "2026-08-26 07:39",
       "url": "https://liberal.com.mx/deuda-bancaria-de-veracruz-baja-a-43-mil-mdp-nahle/",
       "imagen": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800",
       "prioridad": 3
     },
     {
-      "titulo": "Diputados locales de Morena cierran filas con Ariadna Montiel y Rocío Nahle",
-      "fuente": "Liberal del Sur",
-      "categoria": "veracruz",
-      "fecha": "2026-08-25 19:24",
-      "url": "https://liberal.com.mx/diputados-locales-de-morena-cierran-filas-con-ariadna-montiel-y-rocio-nahle/",
-      "imagen": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800",
-      "prioridad": 3
-    },
-    {
-      "titulo": "Entregan estímulos a policías municipales de Coatzacoalcos por destacada labor",
-      "fuente": "Golpe Politico",
-      "categoria": "veracruz",
-      "fecha": "2026-08-25 19:24",
-      "url": "https://golpepolitico.com/2026/08/25/entregan-estimulos-a-policias-municipales-de-coatzacoalcos-por-destacada-labor/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 2
-    },
-    {
-      "titulo": "Invitan a participar en el Concurso de Esculturas de Arena en Coatzacoalcos",
-      "fuente": "Golpe Politico",
-      "categoria": "veracruz",
-      "fecha": "2026-08-25 19:24",
-      "url": "https://golpepolitico.com/2026/08/25/invitan-a-participar-en-el-concurso-de-esculturas-de-arena-en-coatzacoalcos/",
-      "imagen": "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?w=800",
-      "prioridad": 2
-    },
-    {
-      "titulo": "Refuerza Ayuntamiento de Veracruz limpieza y mantenimiento en Laguna Malibrán",
-      "fuente": "Golpe Politico",
-      "categoria": "veracruz",
-      "fecha": "2026-08-25 19:24",
-      "url": "https://golpepolitico.com/2026/08/25/refuerza-ayuntamiento-de-veracruz-limpieza-y-mantenimiento-en-laguna-malibran/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 2
-    },
-    {
       "titulo": "Atiende Pedro Miguel colonias afectadas por las lluvias y  supervisa trabajos de limpieza",
       "fuente": "Liberal del Sur",
       "categoria": "veracruz",
-      "fecha": "2026-08-25 19:24",
+      "fecha": "2026-08-26 07:39",
       "url": "https://liberal.com.mx/atiende-pedro-miguel-colonias-afectadas-por-las-lluvias-y-supervisa-trabajos-de-limpieza/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 2
@@ -159,7 +150,7 @@
       "titulo": "Fuertes lluvias dejan bardas  caídas, socavones y calles  inundadas en Coatzacoalcos",
       "fuente": "Liberal del Sur",
       "categoria": "veracruz",
-      "fecha": "2026-08-25 19:24",
+      "fecha": "2026-08-26 07:39",
       "url": "https://liberal.com.mx/fuertes-lluvias-dejan-bardas-caidas-socavones-y-calles-inundadas-en-coatzacoalcos/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 2
@@ -168,71 +159,170 @@
       "titulo": "Atiende Gobierno de Coatzacoalcos colonias afectadas por las lluvias y supervisa trabajos de limpieza",
       "fuente": "Liberal del Sur",
       "categoria": "veracruz",
-      "fecha": "2026-08-25 19:24",
+      "fecha": "2026-08-26 07:39",
       "url": "https://liberal.com.mx/atiende-gobierno-de-coatzacoalcos-colonias-afectadas-por-las-lluvias-y-supervisa-trabajos-de-limpieza/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 2
     },
     {
-      "titulo": "Accidente de autobús dejó a 12 lesionados en barranca Matlacobatl de Teocelo",
-      "fuente": "Golpe Politico",
+      "titulo": "Inicia pavimentación y obras de servicios en Poza de Cuero, Poza Rica",
+      "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-08-25 19:24",
-      "url": "https://golpepolitico.com/2026/08/25/accidente-de-autobus-dejo-a-12-lesionados-en-barranca-matlacobatl-de-teocelo/",
+      "fecha": "2026-08-26 07:39",
+      "url": "https://jornadaveracruz.com.mx/obra-pavimentacion-poza-de-cuero-poza-rica/",
+      "imagen": "https://images.unsplash.com/photo-1503387762-592deb58ef4e?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Conagua destina casi 6 millones de pesos a infraestructura de riego en Veracruz",
+      "fuente": "Jornada Veracruz",
+      "categoria": "veracruz",
+      "fecha": "2026-08-26 07:39",
+      "url": "https://jornadaveracruz.com.mx/conagua-infraestructura-riego-veracruz-6-millones/",
+      "imagen": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Poza Rica reconoce a pioneros que contribuyeron a la historia del municipio",
+      "fuente": "Jornada Veracruz",
+      "categoria": "veracruz",
+      "fecha": "2026-08-26 07:39",
+      "url": "https://jornadaveracruz.com.mx/poza-rica-reconoce-pioneros-historia-municipio/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Vinculan a proceso a guardia de seguridad por muerte de franelero en Veracruz",
-      "fuente": "Golpe Politico",
+      "titulo": "Lluvias dejan 45 viviendas afectadas y daños en carretera de Coyutla",
+      "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-08-25 19:24",
-      "url": "https://golpepolitico.com/2026/08/25/vinculan-a-proceso-a-guardia-de-seguridad-por-muerte-de-franelero-en-veracruz/",
+      "fecha": "2026-08-26 07:39",
+      "url": "https://jornadaveracruz.com.mx/lluvias-coyutla-veracruz-viviendas-afectadas/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Asociación Estatal de Padres de Familia respaldó regular el uso de celulares durante las clases",
-      "fuente": "Golpe Politico",
+      "titulo": "Exigen comunidades del Uxpanapa diálogo y estudios ante proyecto de acueducto",
+      "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-08-25 19:24",
-      "url": "https://golpepolitico.com/2026/08/25/asociacion-estatal-de-padres-de-familia-respaldo-regular-el-uso-de-celulares-durante-las-clases/",
+      "fecha": "2026-08-26 07:39",
+      "url": "https://jornadaveracruz.com.mx/acueducto-cangrejera-coatzacoalcos-uxpanapa/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Elizabeth Morales García, diputada y coordinadora regional del PT, respaldó la separación de Rubén Rocha Moya del Gobier",
-      "fuente": "Golpe Politico",
+      "titulo": "Estudiantes mantienen paro de labores en el Tecnológico Nacional de México campus Orizaba",
+      "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-08-25 19:24",
-      "url": "https://golpepolitico.com/2026/08/25/elizabeth-morales-garcia-diputada-y-coordinadora-regional-del-pt-respaldo-la-separacion-de-ruben-rocha-moya-del-gobierno-de-sinaloa/",
+      "fecha": "2026-08-26 07:39",
+      "url": "https://jornadaveracruz.com.mx/paro-estudiantil-tecnologico-orizaba-alumnos/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Fievre Looka llegará a la Fiesta Patronal de Citlaltépetl",
-      "fuente": "Golpe Politico",
+      "titulo": "Crece 9.9% venta de autos nuevos en Veracruz, entre enero y julio de 2026",
+      "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-08-25 19:24",
-      "url": "https://golpepolitico.com/2026/08/25/fievre-looka-llegara-a-la-fiesta-patronal-de-citlaltepetl/",
+      "fecha": "2026-08-26 07:39",
+      "url": "https://jornadaveracruz.com.mx/venta-autos-nuevos-veracruz-2026/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "115 vinculaciones a proceso por delitos de alto impacto en Veracruz, resultado de investigaciones ministeriales sólidas",
-      "fuente": "Golpe Politico",
+      "titulo": "Habitantes de Atzompa exigen mantener archivada denuncia por conflicto de agua",
+      "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-08-25 19:24",
-      "url": "https://golpepolitico.com/2026/08/25/115-vinculaciones-a-proceso-por-delitos-de-alto-impacto-en-veracruz-resultado-de-investigaciones-ministeriales-solidas/",
+      "fecha": "2026-08-26 07:39",
+      "url": "https://jornadaveracruz.com.mx/conflicto-agua-atzompa-denuncia-pobladores/",
+      "imagen": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Localizan con vida a reportero privado de la libertad en Poza Rica",
+      "fuente": "Jornada Veracruz",
+      "categoria": "veracruz",
+      "fecha": "2026-08-26 07:39",
+      "url": "https://jornadaveracruz.com.mx/reportero-privado-libertad-poza-rica-localizado/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Identifican a mujer encontrada sin vida en calles de la ciudad de Veracruz",
+      "titulo": "“Espacios Educativos adeuda obra en escuela”",
+      "fuente": "Jornada Veracruz",
+      "categoria": "veracruz",
+      "fecha": "2026-08-26 07:39",
+      "url": "https://jornadaveracruz.com.mx/obra-escuela-jose-rodriguez-claveria-veracruz/",
+      "imagen": "https://images.unsplash.com/photo-1503387762-592deb58ef4e?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Brigada de Vigilancia Animal rescata y atiende a perros en la colonia Santa Rosa, en Xalapa",
       "fuente": "Golpe Politico",
       "categoria": "veracruz",
-      "fecha": "2026-08-25 19:24",
-      "url": "https://golpepolitico.com/2026/08/25/identifican-a-mujer-encontrada-sin-vida-en-calles-de-la-ciudad-de-veracruz/",
+      "fecha": "2026-08-26 07:39",
+      "url": "https://golpepolitico.com/2026/08/25/brigada-de-vigilancia-animal-rescata-y-atiende-a-perros-en-la-colonia-santa-rosa-en-xalapa/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Por no recibir los tamales que quería, hombre hace destrozos y amenaza a su familia en Tantoyuca",
+      "fuente": "Golpe Politico",
+      "categoria": "veracruz",
+      "fecha": "2026-08-26 07:39",
+      "url": "https://golpepolitico.com/2026/08/25/por-no-recibir-los-tamales-que-queria-hombre-hace-destrozos-y-amenaza-a-su-familia-en-tantoyuca/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Reestrenarán en Xalapa “Gloria o de cómo una trailera se robó mi corazón de niño”",
+      "fuente": "Golpe Politico",
+      "categoria": "veracruz",
+      "fecha": "2026-08-26 07:39",
+      "url": "https://golpepolitico.com/2026/08/25/reestrenaran-en-xalapa-gloria-o-de-como-una-trailera-se-robo-mi-corazon-de-nino/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Localizan sin vida a mujer dentro de su domicilio en Orizaba",
+      "fuente": "Golpe Politico",
+      "categoria": "veracruz",
+      "fecha": "2026-08-26 07:39",
+      "url": "https://golpepolitico.com/2026/08/25/localizan-sin-vida-a-mujer-dentro-de-su-domicilio-en-orizaba/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Reportan posible caso de maltrato animal en colonia Santa Rosa de Xalapa",
+      "fuente": "Golpe Politico",
+      "categoria": "veracruz",
+      "fecha": "2026-08-26 07:39",
+      "url": "https://golpepolitico.com/2026/08/25/reportan-posible-caso-de-maltrato-animal-en-colonia-santa-rosa-de-xalapa/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "¡Atención, Xalapa! Reducirán carriles en Lázaro Cárdenas por obras",
+      "fuente": "Golpe Politico",
+      "categoria": "veracruz",
+      "fecha": "2026-08-26 07:39",
+      "url": "https://golpepolitico.com/2026/08/25/atencion-xalapa-reduciran-carriles-en-lazaro-cardenas-por-obras/",
+      "imagen": "https://images.unsplash.com/photo-1503387762-592deb58ef4e?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Martínez de la Torre se prepara para una fiesta de futbol",
+      "fuente": "Golpe Politico",
+      "categoria": "veracruz",
+      "fecha": "2026-08-26 07:39",
+      "url": "https://golpepolitico.com/2026/08/25/martinez-de-la-torre-se-prepara-para-una-fiesta-de-futbol/",
+      "imagen": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Desde CDMX, Bibiana Báez gestiona aparatos funcionales para familias de Puente Nacional",
+      "fuente": "Golpe Politico",
+      "categoria": "veracruz",
+      "fecha": "2026-08-26 07:39",
+      "url": "https://golpepolitico.com/2026/08/25/desde-cdmx-bibiana-baez-gestiona-aparatos-funcionales-para-familias-de-puente-nacional/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
@@ -240,16 +330,25 @@
       "titulo": "¡DA CLIC PARA LEER NUESTRA EDICIÓN DEL DÍA!",
       "fuente": "Liberal del Sur",
       "categoria": "veracruz",
-      "fecha": "2026-08-25 19:24",
+      "fecha": "2026-08-26 07:39",
       "url": "https://liberal.com.mx/da-clic-para-leer-nuestra-edicion-del-dia/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Claudia Sheinbaum firma decreto para la creación de 12,750 nuevos consultorios del Servicio Universal de Salud",
+      "fuente": "Liberal del Sur",
+      "categoria": "veracruz",
+      "fecha": "2026-08-26 07:39",
+      "url": "https://liberal.com.mx/claudia-sheinbaum-firma-decreto-para-la-creacion-de-12750-nuevos-consultorios-del-servicio-universal-de-salud/",
+      "imagen": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=800",
       "prioridad": 1
     },
     {
       "titulo": "Locatarios del mercado  Puerto México cierran  avenida por falta de energía eléctrica",
       "fuente": "Liberal del Sur",
       "categoria": "veracruz",
-      "fecha": "2026-08-25 19:24",
+      "fecha": "2026-08-26 07:39",
       "url": "https://liberal.com.mx/locatarios-del-mercado-puerto-mexico-cierran-avenida-por-falta-de-energia-electrica-2/",
       "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
       "prioridad": 1
@@ -258,7 +357,7 @@
       "titulo": "Camioneta cae a canal con seis personas a bordo;  no se reportan lesionados",
       "fuente": "Liberal del Sur",
       "categoria": "veracruz",
-      "fecha": "2026-08-25 19:24",
+      "fecha": "2026-08-26 07:39",
       "url": "https://liberal.com.mx/camioneta-cae-a-canal-con-seis-personas-a-bordo-no-se-reportan-lesionados/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
@@ -267,18 +366,9 @@
       "titulo": "Locatarios del mercado Puerto México cierran avenida por falta de energía eléctrica",
       "fuente": "Liberal del Sur",
       "categoria": "veracruz",
-      "fecha": "2026-08-25 19:24",
+      "fecha": "2026-08-26 07:39",
       "url": "https://liberal.com.mx/locatarios-del-mercado-puerto-mexico-cierran-avenida-por-falta-de-energia-electrica/",
       "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Jóvenes veracruzanos arrasan en examen de admisión de la UV",
-      "fuente": "Liberal del Sur",
-      "categoria": "veracruz",
-      "fecha": "2026-08-25 19:24",
-      "url": "https://liberal.com.mx/jovenes-veracruzanos-arrasan-en-examen-de-admision-de-la-uv/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     }
   ],
