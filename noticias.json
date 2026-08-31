@@ -1,46 +1,55 @@
 {
   "coatzacoalcos": [
     {
+      "titulo": "Rocío Nahle inaugura ciclo escolar; 2 millones de estudiantes regresan a clases",
+      "fuente": "Municipio Sur",
+      "categoria": "coatzacoalcos",
+      "fecha": "2026-08-31 23:04",
+      "url": "https://municipiosur.com/2026/08/31/rocio-nahle-inaugura-ciclo-escolar-2-millones-de-estudiantes-regresan-a-clases/",
+      "imagen": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800",
+      "prioridad": 3
+    },
+    {
+      "titulo": "Refuerzan seguridad vial en escuelas de Coatzacoalcos",
+      "fuente": "Liberal Coatza",
+      "categoria": "coatzacoalcos",
+      "fecha": "2026-08-31 23:04",
+      "url": "https://liberal.com.mx/refuerzan-seguridad-vial-en-escuelas-de-coatzacoalcos/",
+      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
+      "prioridad": 2
+    },
+    {
       "titulo": "Entrega DIF Coatzacoalcos 195 apoyos alimentarios a  familias mediante programas 1000 Días y Primera Infancia",
       "fuente": "Liberal Coatza",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-08-31 14:42",
+      "fecha": "2026-08-31 23:04",
       "url": "https://liberal.com.mx/entrega-dif-coatzacoalcos-195-apoyos-alimentarios-a-familias-mediante-programas-1000-dias-y-primera-infancia/",
       "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
       "prioridad": 2
     },
     {
-      "titulo": "Carlos Cedano Ávila: “El gusano barrenador dejó de representar un problema para los productores ganaderos de Coatzacoalc",
-      "fuente": "Municipio Sur",
+      "titulo": "Arranca el “ABC de las Emociones”, nueva materia obligatoria en secundarias y preparatorias",
+      "fuente": "Liberal Coatza",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-08-31 14:42",
-      "url": "https://municipiosur.com/2026/08/31/carlos-cedano-avila-el-gusano-barrenador-dejo-de-representar-un-problema-para-los-productores-ganaderos-de-coatzacoalcos-quienes-desde-el-ano-pasado-reforzaron-las-medidas-de-prevencion-y-a/",
+      "fecha": "2026-08-31 23:04",
+      "url": "https://liberal.com.mx/arranca-el-abc-de-las-emociones-nueva-materia-obligatoria-en-secundarias-y-preparatorias/",
       "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
-      "prioridad": 2
+      "prioridad": 1
     },
     {
-      "titulo": "La Mafia del “Huachicol Fiscal”, intento descargar barcos por el Puerto de Coatzacoalcos. El Almirante, Raymundo Pedro M",
-      "fuente": "Municipio Sur",
+      "titulo": "Pierde la vida taxista  entre la zona pantanosa por aparatoso accidente",
+      "fuente": "Liberal Coatza",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-08-31 14:42",
-      "url": "https://municipiosur.com/2026/08/31/la-mafia-del-huachicol-fiscal-intento-descargar-barcos-por-el-puerto-de-coatzacoalcos-el-almirante-raymundo-pedro-morales-angeles-hoy-secretario-de-marina-por-varios-anos-fue-el/",
+      "fecha": "2026-08-31 23:04",
+      "url": "https://liberal.com.mx/pierde-la-vida-taxista-entre-la-zona-pantanosa-por-aparatoso-accidente/",
       "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
-      "prioridad": 2
-    },
-    {
-      "titulo": "Pedro Miguel “El Tiburón” Rosaldo García, con mucho liderazgo político en la región sur. Dos hechos políticos que se des",
-      "fuente": "Municipio Sur",
-      "categoria": "coatzacoalcos",
-      "fecha": "2026-08-31 14:42",
-      "url": "https://municipiosur.com/2026/08/30/pedro-miguel-el-tiburon-rosaldo-garcia-con-mucho-liderazgo-politico-en-la-region-sur-dos-hechos-politicos-que-se-desarrollaron-en-los-municipios-de-coatzacoalcos-y-agua-dulce-nos/",
-      "imagen": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-      "prioridad": 2
+      "prioridad": 1
     },
     {
       "titulo": "¡DA CLIC PARA LEER NUESTRA EDICIÓN DEL DÍA!",
       "fuente": "Liberal Coatza",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-08-31 14:42",
+      "fecha": "2026-08-31 23:04",
       "url": "https://liberal.com.mx/da-clic-para-leer-nuestra-edicion-del-dia/",
       "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
       "prioridad": 1
@@ -49,7 +58,7 @@
       "titulo": "Casi 2 millones de  estudiantes regresan  a clases en Veracruz",
       "fuente": "Liberal Coatza",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-08-31 14:42",
+      "fecha": "2026-08-31 23:04",
       "url": "https://liberal.com.mx/casi-2-millones-de-estudiantes-regresan-a-clases-en-veracruz/",
       "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
       "prioridad": 1
@@ -58,7 +67,7 @@
       "titulo": "Precisión sobre nota publicada por El Universal",
       "fuente": "Liberal Coatza",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-08-31 14:42",
+      "fecha": "2026-08-31 23:04",
       "url": "https://liberal.com.mx/precision-sobre-nota-publicada-por-el-universal/",
       "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
       "prioridad": 1
@@ -67,7 +76,7 @@
       "titulo": "Auto termina incrustado  en negocio tras aparatoso  accidente en la Obrera",
       "fuente": "Liberal Coatza",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-08-31 14:42",
+      "fecha": "2026-08-31 23:04",
       "url": "https://liberal.com.mx/auto-termina-incrustado-en-negocio-tras-aparatoso-accidente-en-la-obrera/",
       "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
       "prioridad": 1
@@ -76,7 +85,7 @@
       "titulo": "Mercado de las Flores  crece en Minatitlán; más de  50 mujeres encuentran una  oportunidad de emprende",
       "fuente": "Liberal Coatza",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-08-31 14:42",
+      "fecha": "2026-08-31 23:04",
       "url": "https://liberal.com.mx/mercado-de-las-flores-crece-en-minatitlan-mas-de-50-mujeres-encuentran-una-oportunidad-de-emprende/",
       "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
       "prioridad": 1
@@ -85,136 +94,226 @@
       "titulo": "Abuelitos recorren las  calles de Minatitlán para  vender piñatas artesanales",
       "fuente": "Liberal Coatza",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-08-31 14:42",
+      "fecha": "2026-08-31 23:04",
       "url": "https://liberal.com.mx/abuelitos-recorren-las-calles-de-minatitlan-para-vender-pinatas-artesanales/",
-      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Joven boxeador botea  y vende aguas para  representar a México",
-      "fuente": "Liberal Coatza",
-      "categoria": "coatzacoalcos",
-      "fecha": "2026-08-31 14:42",
-      "url": "https://liberal.com.mx/joven-boxeador-botea-y-vende-aguas-para-representar-a-mexico/",
-      "imagen": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Muere delfín adulto;  suman cuatro casos  durante el 2026",
-      "fuente": "Liberal Coatza",
-      "categoria": "coatzacoalcos",
-      "fecha": "2026-08-31 14:42",
-      "url": "https://liberal.com.mx/muere-delfin-adulto-suman-cuatro-casos-durante-el-2026/",
-      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Transporte Público hace  caso omiso a camiones  que bloquean calles de la colonia Luis Echeverría",
-      "fuente": "Liberal Coatza",
-      "categoria": "coatzacoalcos",
-      "fecha": "2026-08-31 14:42",
-      "url": "https://liberal.com.mx/transporte-publico-hace-caso-omiso-a-camiones-que-bloquean-calles-de-la-colonia-luis-echeverria/",
-      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Tres Cuartos de Reata",
-      "fuente": "Municipio Sur",
-      "categoria": "coatzacoalcos",
-      "fecha": "2026-08-31 14:42",
-      "url": "https://municipiosur.com/2026/08/31/tres-cuartos-de-reata/",
       "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
       "prioridad": 1
     }
   ],
   "veracruz": [
     {
+      "titulo": "Coatzacoalcos lleva ventaja en proyecto regional de manejo de residuos; ya cuenta con terreno y estudios",
+      "fuente": "Golpe Politico",
+      "categoria": "veracruz",
+      "fecha": "2026-08-31 23:04",
+      "url": "https://golpepolitico.com/2026/08/31/coatzacoalcos-lleva-ventaja-en-proyecto-regional-de-manejo-de-residuos-ya-cuenta-con-terreno-y-estudios/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 2
+    },
+    {
+      "titulo": "Refuerzan seguridad vial en escuelas de Coatzacoalcos",
+      "fuente": "Liberal del Sur",
+      "categoria": "veracruz",
+      "fecha": "2026-08-31 23:04",
+      "url": "https://liberal.com.mx/refuerzan-seguridad-vial-en-escuelas-de-coatzacoalcos/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 2
+    },
+    {
       "titulo": "Entrega DIF Coatzacoalcos 195 apoyos alimentarios a  familias mediante programas 1000 Días y Primera Infancia",
       "fuente": "Liberal del Sur",
       "categoria": "veracruz",
-      "fecha": "2026-08-31 14:42",
+      "fecha": "2026-08-31 23:04",
       "url": "https://liberal.com.mx/entrega-dif-coatzacoalcos-195-apoyos-alimentarios-a-familias-mediante-programas-1000-dias-y-primera-infancia/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 2
     },
     {
-      "titulo": "Clama desafuero contra Alito",
-      "fuente": "Golpe Politico",
+      "titulo": "Delcy Rodríguez, al servicio de Trump",
+      "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-08-31 14:42",
-      "url": "https://golpepolitico.com/2026/08/31/clama-desafuero-contra-alito/",
+      "fecha": "2026-08-31 23:04",
+      "url": "https://jornadaveracruz.com.mx/delcy-rodriguez-al-servicio-de-trump/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "El berrinche de Noroña",
-      "fuente": "Golpe Politico",
+      "titulo": "Noroña advierte: ¿connivencia y traiciones?",
+      "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-08-31 14:42",
-      "url": "https://golpepolitico.com/2026/08/31/el-berrinche-de-norona/",
+      "fecha": "2026-08-31 23:04",
+      "url": "https://jornadaveracruz.com.mx/norona-advierte-connivencia-y-traiciones/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Vuelca camioneta cargada de muebles en Veracruz; conductor abandona el lugar",
-      "fuente": "Golpe Politico",
+      "titulo": "Motociclista arrollado en la carretera Córdoba-La Tinaja",
+      "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-08-31 14:42",
-      "url": "https://golpepolitico.com/2026/08/30/vuelca-camioneta-cargada-de-muebles-en-veracruz-conductor-abandona-el-lugar/",
+      "fecha": "2026-08-31 23:04",
+      "url": "https://jornadaveracruz.com.mx/motociclista-arrollado-en-la-carretera-cordoba-la-tinaja/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Inauguran Juegos Populares Preestatal de la Zona Centro-Norte en Martínez de la Torre",
-      "fuente": "Golpe Politico",
+      "titulo": "Un deceso y un herido tras derrapar en las calles de Orizaba",
+      "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-08-31 14:42",
-      "url": "https://golpepolitico.com/2026/08/30/inauguran-juegos-populares-preestatal-de-la-zona-centro-norte-en-martinez-de-la-torre/",
+      "fecha": "2026-08-31 23:04",
+      "url": "https://jornadaveracruz.com.mx/un-deceso-y-un-herido-tras-derrapar-en-las-calles-de-orizaba/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Con lleno total, música y alegría, Súper Grupo Juárez cierra ‘Coatza Vive el Verano’",
-      "fuente": "Golpe Politico",
+      "titulo": "Pico de Orizaba: el volcán que duerme",
+      "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-08-31 14:42",
-      "url": "https://golpepolitico.com/2026/08/30/con-lleno-total-musica-y-alegria-super-grupo-juarez-cierra-coatza-vive-el-verano/",
+      "fecha": "2026-08-31 23:04",
+      "url": "https://jornadaveracruz.com.mx/pico-de-orizaba-volcan-activo-fumarolas/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Detienen a mujer tras intentar embestir a oficial durante operativo en Tantoyuca",
-      "fuente": "Golpe Politico",
+      "titulo": "Tequila, su riqueza natural y cultural, al cine con Nantli",
+      "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-08-31 14:42",
-      "url": "https://golpepolitico.com/2026/08/30/detienen-a-mujer-tras-intentar-embestir-a-oficial-durante-operativo-en-tantoyuca/",
+      "fecha": "2026-08-31 23:04",
+      "url": "https://jornadaveracruz.com.mx/nantli-cortometraje-tequila-veracruz-cine/",
+      "imagen": "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Inicia en septiembre temporada de frentes fríos; diciembre y enero, con la mayor cifra",
+      "fuente": "Jornada Veracruz",
+      "categoria": "veracruz",
+      "fecha": "2026-08-31 23:04",
+      "url": "https://jornadaveracruz.com.mx/temporada-frentes-frios-2026-2027-mexico/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Las Vigas impulsa acciones conjuntas para fortalecer sus localidades",
-      "fuente": "Golpe Politico",
+      "titulo": "Los ingresos tributarios representan 15.6% del PIB; es histórico: SHCP",
+      "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-08-31 14:42",
-      "url": "https://golpepolitico.com/2026/08/30/las-vigas-impulsa-acciones-conjuntas-para-fortalecer-sus-localidades/",
+      "fecha": "2026-08-31 23:04",
+      "url": "https://jornadaveracruz.com.mx/ingresos-tributarios-15-6-pib-record-historico-shcp/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "En Veracruz atienden infraestructura hidráulica en la colonia Los Torrentes",
-      "fuente": "Golpe Politico",
+      "titulo": "Gasto promedio por útiles escolares subió 7%, indican",
+      "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-08-31 14:42",
-      "url": "https://golpepolitico.com/2026/08/30/veracruz-atiende-infraestructura-hidraulica-en-los-torrentes/",
+      "fecha": "2026-08-31 23:04",
+      "url": "https://jornadaveracruz.com.mx/gasto-utiles-escolares-2026-aumenta-7-por-ciento/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Quedan a disposición de la Fiscalía por presuntas amenazas de muerte contra conductor en Tantoyuca",
+      "titulo": "Recomienda IMSS buena alimentación y descanso de niños por el regreso a clases",
+      "fuente": "Jornada Veracruz",
+      "categoria": "veracruz",
+      "fecha": "2026-08-31 23:04",
+      "url": "https://jornadaveracruz.com.mx/imss-recomienda-alimentacion-descanso-ninos-regreso-clases/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Implementaron operativo vial en escuelas de Xalapa por regreso a clases",
       "fuente": "Golpe Politico",
       "categoria": "veracruz",
-      "fecha": "2026-08-31 14:42",
-      "url": "https://golpepolitico.com/2026/08/30/quedan-a-disposicion-de-la-fiscalia-por-presuntas-amenazas-de-muerte-contra-conductor-en-tantoyuca/",
+      "fecha": "2026-08-31 23:04",
+      "url": "https://golpepolitico.com/2026/08/31/implementaron-operativo-vial-en-escuelas-de-xalapa-por-regreso-a-clases/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Taxi, tráiler y camioneta chocan sobre la carretera Coatepec–Las Trancas",
+      "fuente": "Golpe Politico",
+      "categoria": "veracruz",
+      "fecha": "2026-08-31 23:04",
+      "url": "https://golpepolitico.com/2026/08/31/taxi-trailer-y-camioneta-chocan-sobre-la-carretera-coatepec-las-trancas/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "106 alumnos de primaria en Minatitlán no inician clases por fallas en plantel recién reconstruido",
+      "fuente": "Golpe Politico",
+      "categoria": "veracruz",
+      "fecha": "2026-08-31 23:04",
+      "url": "https://golpepolitico.com/2026/08/31/106-alumnos-de-primaria-en-minatitlan-no-inician-clases-por-fallas-en-plantel-recien-reconstruido/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Descarta Esteban Bautista persecución política contra partidos de oposición en Veracruz",
+      "fuente": "Golpe Politico",
+      "categoria": "veracruz",
+      "fecha": "2026-08-31 23:04",
+      "url": "https://golpepolitico.com/2026/08/31/descarta-esteban-bautista-persecucion-politica-contra-partidos-de-oposicion-en-veracruz/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Reconocen a xalapeños con el Premio Municipal de la Juventud",
+      "fuente": "Golpe Politico",
+      "categoria": "veracruz",
+      "fecha": "2026-08-31 23:04",
+      "url": "https://golpepolitico.com/2026/08/31/reconocen-a-xalapenos-con-el-premio-municipal-de-la-juventud/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Camioneta cargada con material de construcción vuelca y bloquea carretera a Zongolica",
+      "fuente": "Golpe Politico",
+      "categoria": "veracruz",
+      "fecha": "2026-08-31 23:04",
+      "url": "https://golpepolitico.com/2026/08/31/camioneta-cargada-con-material-de-construccion-vuelca-y-bloquea-carretera-a-zongolica/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Incendio en vivienda de El Dique en Xalapa movilizó a cuerpos de emergencia",
+      "fuente": "Golpe Politico",
+      "categoria": "veracruz",
+      "fecha": "2026-08-31 23:04",
+      "url": "https://golpepolitico.com/2026/08/31/incendio-en-vivienda-de-el-dique-en-xalapa-movilizo-a-cuerpos-de-emergencia/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Autoridades inspeccionan corralón propiedad de “Pepín” Ruiz en la ciudad de Veracruz",
+      "fuente": "Golpe Politico",
+      "categoria": "veracruz",
+      "fecha": "2026-08-31 23:04",
+      "url": "https://golpepolitico.com/2026/08/31/autoridades-inspeccionan-corralon-propiedad-de-pepin-ruiz-en-la-ciudad-de-veracruz/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Once proyectos de infraestructura mejorarán las condiciones de aprendizaje en Xalapa, afirma Daniela Griego Ceballos",
+      "fuente": "Golpe Politico",
+      "categoria": "veracruz",
+      "fecha": "2026-08-31 23:04",
+      "url": "https://golpepolitico.com/2026/08/31/once-proyectos-de-infraestructura-mejoraran-las-condiciones-de-aprendizaje-en-xalapa-afirma-daniela-griego-ceballos/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Arranca el “ABC de las Emociones”, nueva materia obligatoria en secundarias y preparatorias",
+      "fuente": "Liberal del Sur",
+      "categoria": "veracruz",
+      "fecha": "2026-08-31 23:04",
+      "url": "https://liberal.com.mx/arranca-el-abc-de-las-emociones-nueva-materia-obligatoria-en-secundarias-y-preparatorias/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Pierde la vida taxista  entre la zona pantanosa por aparatoso accidente",
+      "fuente": "Liberal del Sur",
+      "categoria": "veracruz",
+      "fecha": "2026-08-31 23:04",
+      "url": "https://liberal.com.mx/pierde-la-vida-taxista-entre-la-zona-pantanosa-por-aparatoso-accidente/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
@@ -222,7 +321,7 @@
       "titulo": "¡DA CLIC PARA LEER NUESTRA EDICIÓN DEL DÍA!",
       "fuente": "Liberal del Sur",
       "categoria": "veracruz",
-      "fecha": "2026-08-31 14:42",
+      "fecha": "2026-08-31 23:04",
       "url": "https://liberal.com.mx/da-clic-para-leer-nuestra-edicion-del-dia/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
@@ -231,7 +330,7 @@
       "titulo": "Casi 2 millones de  estudiantes regresan  a clases en Veracruz",
       "fuente": "Liberal del Sur",
       "categoria": "veracruz",
-      "fecha": "2026-08-31 14:42",
+      "fecha": "2026-08-31 23:04",
       "url": "https://liberal.com.mx/casi-2-millones-de-estudiantes-regresan-a-clases-en-veracruz/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
@@ -240,7 +339,7 @@
       "titulo": "Precisión sobre nota publicada por El Universal",
       "fuente": "Liberal del Sur",
       "categoria": "veracruz",
-      "fecha": "2026-08-31 14:42",
+      "fecha": "2026-08-31 23:04",
       "url": "https://liberal.com.mx/precision-sobre-nota-publicada-por-el-universal/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
@@ -249,7 +348,7 @@
       "titulo": "Auto termina incrustado  en negocio tras aparatoso  accidente en la Obrera",
       "fuente": "Liberal del Sur",
       "categoria": "veracruz",
-      "fecha": "2026-08-31 14:42",
+      "fecha": "2026-08-31 23:04",
       "url": "https://liberal.com.mx/auto-termina-incrustado-en-negocio-tras-aparatoso-accidente-en-la-obrera/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
@@ -258,7 +357,7 @@
       "titulo": "Mercado de las Flores  crece en Minatitlán; más de  50 mujeres encuentran una  oportunidad de emprende",
       "fuente": "Liberal del Sur",
       "categoria": "veracruz",
-      "fecha": "2026-08-31 14:42",
+      "fecha": "2026-08-31 23:04",
       "url": "https://liberal.com.mx/mercado-de-las-flores-crece-en-minatitlan-mas-de-50-mujeres-encuentran-una-oportunidad-de-emprende/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
@@ -267,35 +366,8 @@
       "titulo": "Abuelitos recorren las  calles de Minatitlán para  vender piñatas artesanales",
       "fuente": "Liberal del Sur",
       "categoria": "veracruz",
-      "fecha": "2026-08-31 14:42",
+      "fecha": "2026-08-31 23:04",
       "url": "https://liberal.com.mx/abuelitos-recorren-las-calles-de-minatitlan-para-vender-pinatas-artesanales/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Joven boxeador botea  y vende aguas para  representar a México",
-      "fuente": "Liberal del Sur",
-      "categoria": "veracruz",
-      "fecha": "2026-08-31 14:42",
-      "url": "https://liberal.com.mx/joven-boxeador-botea-y-vende-aguas-para-representar-a-mexico/",
-      "imagen": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Muere delfín adulto;  suman cuatro casos  durante el 2026",
-      "fuente": "Liberal del Sur",
-      "categoria": "veracruz",
-      "fecha": "2026-08-31 14:42",
-      "url": "https://liberal.com.mx/muere-delfin-adulto-suman-cuatro-casos-durante-el-2026/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Transporte Público hace  caso omiso a camiones  que bloquean calles de la colonia Luis Echeverría",
-      "fuente": "Liberal del Sur",
-      "categoria": "veracruz",
-      "fecha": "2026-08-31 14:42",
-      "url": "https://liberal.com.mx/transporte-publico-hace-caso-omiso-a-camiones-que-bloquean-calles-de-la-colonia-luis-echeverria/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     }
