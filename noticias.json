@@ -1,48 +1,129 @@
 {
   "coatzacoalcos": [
     {
-      "titulo": "FGE y FGR investigarán fallecimiento del diputado federal Zenyazen Escobar: SEGOB",
-      "fuente": "Municipio Sur",
+      "titulo": "Alerta veterinario por “síndrome del arca de Noé” en Coatzacoalcos; casas convertidas en refugios sin control",
+      "fuente": "Liberal Coatza",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-09-05 11:04",
-      "url": "https://municipiosur.com/2026/09/04/fge-y-fgr-investigaran-fallecimiento-del-diputado-federal-zenyazen-escobar-segob/",
+      "fecha": "2026-09-05 15:43",
+      "url": "https://liberal.com.mx/alerta-veterinario-por-sindrome-del-arca-de-noe-en-coatzacoalcos-casas-convertidas-en-refugios-sin-control/",
+      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
+      "prioridad": 2
+    },
+    {
+      "titulo": "Formalizan Pemex y el STPRM incremento salarial 2026-2027",
+      "fuente": "Liberal Coatza",
+      "categoria": "coatzacoalcos",
+      "fecha": "2026-09-05 15:43",
+      "url": "https://liberal.com.mx/formalizan-pemex-y-el-stprm-incremento-salarial-2026-2027/",
       "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Plaza Lerdo vivió una noche de música y nostalgia con Jueves Musicales",
-      "fuente": "Municipio Sur",
+      "titulo": "Atiende Pemex conato de incendio sin afectaciones en la planta Primaria 1 de la Refinería Salina Cruz",
+      "fuente": "Liberal Coatza",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-09-05 11:04",
-      "url": "https://municipiosur.com/2026/09/04/plaza-lerdo-vivio-una-noche-de-musica-y-nostalgia-con-jueves-musicales/",
+      "fecha": "2026-09-05 15:43",
+      "url": "https://liberal.com.mx/atiende-pemex-conato-de-incendio-sin-afectaciones-en-la-planta-primaria-1-de-la-refineria-salina-cruz/",
       "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Zenyazen Escobar García, falleció la mañana de este viernes 4 de septiembre. Información que nos hicieron llegar el dipu",
-      "fuente": "Municipio Sur",
+      "titulo": "Fue encontrado sin vida el diputado Zenyazen Escobar en Chichicaxtle; despliegan operativo de seguridad en Veracruz",
+      "fuente": "Liberal Coatza",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-09-05 11:04",
-      "url": "https://municipiosur.com/2026/09/04/zenyazen-escobar-garcia-fallecio-la-manana-de-este-viernes-4-de-septiembre-informacion-que-nos-hicieron-llegar-el-diputado-federal-por-el-distrito-de-cordoba-no-fue-asesinado-la-fiscalia-general-d/",
+      "fecha": "2026-09-05 15:43",
+      "url": "https://liberal.com.mx/fue-encontrado-sin-vida-el-diputado-zenyazen-escobar-en-chichicaxtle-despliegan-operativo-de-seguridad-en-veracruz/",
       "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Se revelan la causa de muerte de Tim Curry, actor que interpretó a Pennywise en ‘It’",
+      "titulo": "La patria es primero y está por encima de cualquier interés personal: Sheinbaum",
+      "fuente": "Liberal Coatza",
+      "categoria": "coatzacoalcos",
+      "fecha": "2026-09-05 15:43",
+      "url": "https://liberal.com.mx/la-patria-es-primero-y-esta-por-encima-de-cualquier-interes-personal-sheinbaum/",
+      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Veracruz, pieza estratégica  de la transformación nacional’",
+      "fuente": "Liberal Coatza",
+      "categoria": "coatzacoalcos",
+      "fecha": "2026-09-05 15:43",
+      "url": "https://liberal.com.mx/veracruz-pieza-estrategica-de-la-transformacion-nacional/",
+      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Más de 60 vehículos recuperados  durante operativos en 20 municipios",
+      "fuente": "Liberal Coatza",
+      "categoria": "coatzacoalcos",
+      "fecha": "2026-09-05 15:43",
+      "url": "https://liberal.com.mx/mas-de-60-vehiculos-recuperados-durante-operativos-en-20-municipios/",
+      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Anuncian nuevo director de  Ganadería de la Sedarpa",
+      "fuente": "Liberal Coatza",
+      "categoria": "coatzacoalcos",
+      "fecha": "2026-09-05 15:43",
+      "url": "https://liberal.com.mx/anuncian-nuevo-director-de-ganaderia-de-la-sedarpa/",
+      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Discusión vial termina a  balazos contra autobús  en la avenida Xalapa",
+      "fuente": "Liberal Coatza",
+      "categoria": "coatzacoalcos",
+      "fecha": "2026-09-05 15:43",
+      "url": "https://liberal.com.mx/discusion-vial-termina-a-balazos-contra-autobus-en-la-avenida-xalapa/",
+      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "¡¡Apoyando al Pueblo!!",
       "fuente": "Municipio Sur",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-09-05 11:04",
-      "url": "https://municipiosur.com/2026/09/04/se-revelan-la-causa-de-muerte-de-tim-curry-actor-que-interpreto-a-pennywise-en-it/",
+      "fecha": "2026-09-05 15:43",
+      "url": "https://municipiosur.com/2026/09/05/apoyando-al-pueblo-3/",
+      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "¡¡Acuerdo Salarial!!",
+      "fuente": "Municipio Sur",
+      "categoria": "coatzacoalcos",
+      "fecha": "2026-09-05 15:43",
+      "url": "https://municipiosur.com/2026/09/05/acuerdo-salarial/",
       "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
       "prioridad": 1
     }
   ],
   "veracruz": [
     {
+      "titulo": "Alerta veterinario por “síndrome del arca de Noé” en Coatzacoalcos; casas convertidas en refugios sin control",
+      "fuente": "Liberal del Sur",
+      "categoria": "veracruz",
+      "fecha": "2026-09-05 15:43",
+      "url": "https://liberal.com.mx/alerta-veterinario-por-sindrome-del-arca-de-noe-en-coatzacoalcos-casas-convertidas-en-refugios-sin-control/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 2
+    },
+    {
+      "titulo": "El fabricador de mentiras",
+      "fuente": "Jornada Veracruz",
+      "categoria": "veracruz",
+      "fecha": "2026-09-05 15:43",
+      "url": "https://jornadaveracruz.com.mx/desinformacion-desapariciones-veracruz-denuncia-redes/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
       "titulo": "Ángel Etiem Jiménez, suplente de Zenyazen Escobar, perfila llegada a la Cámara de Diputados",
       "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-09-05 11:04",
+      "fecha": "2026-09-05 15:43",
       "url": "https://jornadaveracruz.com.mx/angel-etiem-jimenez-suplente-zenyazen-escobar/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
@@ -51,7 +132,7 @@
       "titulo": "Poza Rica reúne a jóvenes en jornada deportiva para promover la convivencia",
       "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-09-05 11:04",
+      "fecha": "2026-09-05 15:43",
       "url": "https://jornadaveracruz.com.mx/deporte-jovenes-poza-rica-convivencia/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
@@ -60,7 +141,7 @@
       "titulo": "Familia de Ernestina Ascencio busca que Presidenta encabece acto de disculpa",
       "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-09-05 11:04",
+      "fecha": "2026-09-05 15:43",
       "url": "https://jornadaveracruz.com.mx/familia-ernestina-ascencio-disculpa-publica-presidenta/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
@@ -69,7 +150,7 @@
       "titulo": "Docentes y administrativos piden cesar a titular del ITO",
       "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-09-05 11:04",
+      "fecha": "2026-09-05 15:43",
       "url": "https://jornadaveracruz.com.mx/docentes-piden-destitucion-directora-ito-orizaba/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
@@ -78,7 +159,7 @@
       "titulo": "Capacitarán a emprendedoras para que negocios crezcan y entren a la formalidad",
       "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-09-05 11:04",
+      "fecha": "2026-09-05 15:43",
       "url": "https://jornadaveracruz.com.mx/emprendedoras-formalizar-negocios-capacitacion-orizaba/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
@@ -87,7 +168,7 @@
       "titulo": "Cayeron 20% ventas de uniformes en región de Orizaba: empresaria",
       "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-09-05 11:04",
+      "fecha": "2026-09-05 15:43",
       "url": "https://jornadaveracruz.com.mx/ventas-uniformes-escolares-orizaba/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
@@ -96,7 +177,7 @@
       "titulo": "Reportes de ponchallantas en autopista a Puebla causó alarma",
       "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-09-05 11:04",
+      "fecha": "2026-09-05 15:43",
       "url": "https://jornadaveracruz.com.mx/reportes-ponchallantas-autopista-ciudad-mendoza-maltrata/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
@@ -105,17 +186,44 @@
       "titulo": "Marcha personal del IMSS-Bienestar en Xalapa; demandan pago de prestaciones",
       "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-09-05 11:04",
+      "fecha": "2026-09-05 15:43",
       "url": "https://jornadaveracruz.com.mx/protesta-trabajadores-imss-bienestar-xalapa-pago-prestaciones/",
       "imagen": "https://images.unsplash.com/photo-1542596594-649edbc13630?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Acusa sindicato subejercicio en la Universidad Pedagógica Nacional",
-      "fuente": "Jornada Veracruz",
+      "titulo": "Por retiro de visas, transportistas bloquean ocho aduanas comerciales con EU",
+      "fuente": "Golpe Politico",
       "categoria": "veracruz",
-      "fecha": "2026-09-05 11:04",
-      "url": "https://jornadaveracruz.com.mx/subejercicio-recursos-upn-veracruz-sindicato/",
+      "fecha": "2026-09-05 15:43",
+      "url": "https://golpepolitico.com/2026/09/05/por-retiro-de-visas-transportistas-bloquean-ocho-aduanas-comerciales-con-eu/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Calor no cede en la zona centro-costera; prevén lluvias durante la noche",
+      "fuente": "Golpe Politico",
+      "categoria": "veracruz",
+      "fecha": "2026-09-05 15:43",
+      "url": "https://golpepolitico.com/2026/09/05/calor-no-cede-en-la-zona-centro-costera-preven-lluvias-durante-la-noche/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Muere adulto mayor y 15 perros quedan solos en Xalapa",
+      "fuente": "Golpe Politico",
+      "categoria": "veracruz",
+      "fecha": "2026-09-05 15:43",
+      "url": "https://golpepolitico.com/2026/09/05/muere-adulto-mayor-y-15-perros-quedan-solos-en-xalapa/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Asesinan a hombre dentro de una camioneta en La Laguna de Xico",
+      "fuente": "Golpe Politico",
+      "categoria": "veracruz",
+      "fecha": "2026-09-05 15:43",
+      "url": "https://golpepolitico.com/2026/09/05/asesinan-a-hombre-dentro-de-una-camioneta-en-la-laguna-de-xico/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
@@ -123,7 +231,7 @@
       "titulo": "Reportan enfrentamiento en Omealca",
       "fuente": "Golpe Politico",
       "categoria": "veracruz",
-      "fecha": "2026-09-05 11:04",
+      "fecha": "2026-09-05 15:43",
       "url": "https://golpepolitico.com/2026/09/04/reportan-enfrentamiento-en-omealca/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
@@ -132,7 +240,7 @@
       "titulo": "Realizan Primer Foro Ambientalista para preservar la cuenca del Río Bobos en Martínez de la Torre",
       "fuente": "Golpe Politico",
       "categoria": "veracruz",
-      "fecha": "2026-09-05 11:04",
+      "fecha": "2026-09-05 15:43",
       "url": "https://golpepolitico.com/2026/09/04/realizan-primer-foro-ambientalista-para-preservar-la-cuenca-del-rio-bobos-en-martinez-de-la-torre/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
@@ -141,7 +249,7 @@
       "titulo": "Atiende Subsecretaría de Gobierno planteamientos de ciudadanos de distintos municipios",
       "fuente": "Golpe Politico",
       "categoria": "veracruz",
-      "fecha": "2026-09-05 11:04",
+      "fecha": "2026-09-05 15:43",
       "url": "https://golpepolitico.com/2026/09/04/atiende-subsecretaria-de-gobierno-planteamientos-de-ciudadanos-de-distintos-municipios/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
@@ -150,53 +258,80 @@
       "titulo": "Levantan paro estudiantes de Universidad Veracruzana Intercultural, ante resolución favorable y contratación de docente",
       "fuente": "Golpe Politico",
       "categoria": "veracruz",
-      "fecha": "2026-09-05 11:04",
+      "fecha": "2026-09-05 15:43",
       "url": "https://golpepolitico.com/2026/09/04/levantan-paro-estudiantes-de-universidad-veracruzana-intercultural-ante-resolucion-favorable-y-contratacion-de-docente/",
       "imagen": "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Gobierno de Tantoyuca inaugura Salón de Usos Múltiples en Tepatlán Grande",
-      "fuente": "Golpe Politico",
+      "titulo": "Formalizan Pemex y el STPRM incremento salarial 2026-2027",
+      "fuente": "Liberal del Sur",
       "categoria": "veracruz",
-      "fecha": "2026-09-05 11:04",
-      "url": "https://golpepolitico.com/2026/09/04/gobierno-de-tantoyuca-inaugura-salon-de-usos-multiples-en-tepatlan-grande/",
+      "fecha": "2026-09-05 15:43",
+      "url": "https://liberal.com.mx/formalizan-pemex-y-el-stprm-incremento-salarial-2026-2027/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Uriel Peralta destaca acercamiento de servicios del SAT a Paso de Ovejas",
-      "fuente": "Golpe Politico",
+      "titulo": "Atiende Pemex conato de incendio sin afectaciones en la planta Primaria 1 de la Refinería Salina Cruz",
+      "fuente": "Liberal del Sur",
       "categoria": "veracruz",
-      "fecha": "2026-09-05 11:04",
-      "url": "https://golpepolitico.com/2026/09/04/uriel-peralta-destaca-acercamiento-de-servicios-del-sat-a-paso-de-ovejas/",
+      "fecha": "2026-09-05 15:43",
+      "url": "https://liberal.com.mx/atiende-pemex-conato-de-incendio-sin-afectaciones-en-la-planta-primaria-1-de-la-refineria-salina-cruz/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Se mantiene paro indefinido de estudiantes de Agroecología y Soberanía Alimentaria, autoridades se niegan a reincorporar",
-      "fuente": "Golpe Politico",
+      "titulo": "Fue encontrado sin vida el diputado Zenyazen Escobar en Chichicaxtle; despliegan operativo de seguridad en Veracruz",
+      "fuente": "Liberal del Sur",
       "categoria": "veracruz",
-      "fecha": "2026-09-05 11:04",
-      "url": "https://golpepolitico.com/2026/09/04/se-mantiene-paro-indefinido-de-estudiantes-de-agroecologia-y-soberania-alimentaria-autoridades-se-niegan-a-reincorporar-a-profesor-rescindido/",
+      "fecha": "2026-09-05 15:43",
+      "url": "https://liberal.com.mx/fue-encontrado-sin-vida-el-diputado-zenyazen-escobar-en-chichicaxtle-despliegan-operativo-de-seguridad-en-veracruz/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "México no tiene nada que ofrecer a EU, sólo «tamales calientes y tomates»: Trump; perdemos 195 mil mdd al año, dice",
-      "fuente": "Golpe Politico",
+      "titulo": "La patria es primero y está por encima de cualquier interés personal: Sheinbaum",
+      "fuente": "Liberal del Sur",
       "categoria": "veracruz",
-      "fecha": "2026-09-05 11:04",
-      "url": "https://golpepolitico.com/2026/09/04/mexico-no-tiene-nada-que-ofrecer-a-eu-solo-tamales-calientes-y-tomates-trump-perdemos-195-mil-mdd-al-ano-dice/",
+      "fecha": "2026-09-05 15:43",
+      "url": "https://liberal.com.mx/la-patria-es-primero-y-esta-por-encima-de-cualquier-interes-personal-sheinbaum/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Amplían red de electrificación en la comunidad de Otilpan, en Tlalnelhuayocan",
-      "fuente": "Golpe Politico",
+      "titulo": "Veracruz, pieza estratégica  de la transformación nacional’",
+      "fuente": "Liberal del Sur",
       "categoria": "veracruz",
-      "fecha": "2026-09-05 11:04",
-      "url": "https://golpepolitico.com/2026/09/04/amplian-red-de-electrificacion-en-la-comunidad-de-otilpan-en-tlalnelhuayocan/",
+      "fecha": "2026-09-05 15:43",
+      "url": "https://liberal.com.mx/veracruz-pieza-estrategica-de-la-transformacion-nacional/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Más de 60 vehículos recuperados  durante operativos en 20 municipios",
+      "fuente": "Liberal del Sur",
+      "categoria": "veracruz",
+      "fecha": "2026-09-05 15:43",
+      "url": "https://liberal.com.mx/mas-de-60-vehiculos-recuperados-durante-operativos-en-20-municipios/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Anuncian nuevo director de  Ganadería de la Sedarpa",
+      "fuente": "Liberal del Sur",
+      "categoria": "veracruz",
+      "fecha": "2026-09-05 15:43",
+      "url": "https://liberal.com.mx/anuncian-nuevo-director-de-ganaderia-de-la-sedarpa/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Discusión vial termina a  balazos contra autobús  en la avenida Xalapa",
+      "fuente": "Liberal del Sur",
+      "categoria": "veracruz",
+      "fecha": "2026-09-05 15:43",
+      "url": "https://liberal.com.mx/discusion-vial-termina-a-balazos-contra-autobus-en-la-avenida-xalapa/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     }
