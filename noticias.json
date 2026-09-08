@@ -1,37 +1,64 @@
 {
   "coatzacoalcos": [
     {
+      "titulo": "Ayuntamiento intensifica mantenimiento de canales a cielo abierto en Coatzacoalcos",
+      "fuente": "Liberal Coatza",
+      "categoria": "coatzacoalcos",
+      "fecha": "2026-09-08 11:54",
+      "url": "https://liberal.com.mx/ayuntamiento-intensifica-mantenimiento-de-canales-a-cielo-abierto-en-coatzacoalcos/",
+      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
+      "prioridad": 2
+    },
+    {
+      "titulo": "Anuncia Pedro Miguel Rosaldo creación de Consejo para la Justicia Cívica en Coatzacoalcos",
+      "fuente": "Liberal Coatza",
+      "categoria": "coatzacoalcos",
+      "fecha": "2026-09-08 11:54",
+      "url": "https://liberal.com.mx/anuncia-pedro-miguel-rosaldo-creacion-de-consejo-para-la-justicia-civica-en-coatzacoalcos/",
+      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
+      "prioridad": 2
+    },
+    {
       "titulo": "Alerta veterinario por “síndrome del arca de Noé” en Coatzacoalcos; casas convertidas en refugios sin control",
       "fuente": "Liberal Coatza",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-09-07 21:51",
+      "fecha": "2026-09-08 11:54",
       "url": "https://liberal.com.mx/alerta-veterinario-por-sindrome-del-arca-de-noe-en-coatzacoalcos-casas-convertidas-en-refugios-sin-control/",
       "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
       "prioridad": 2
     },
     {
-      "titulo": "El CETIS 79 de Coatzacoalcos suspendió sus actividades presenciales y a distancia debido a la falta de energía eléctrica",
+      "titulo": "“La beben o la derraman”. Las renuncias al gabinete estatal serán del 15 al 18 de septiembre. En pleno “Grito” de la Ind",
       "fuente": "Municipio Sur",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-09-07 21:51",
-      "url": "https://municipiosur.com/2026/09/07/el-cetis-79-de-coatzacoalcos-suspendio-sus-actividades-presenciales-y-a-distancia-debido-a-la-falta-de-energia-electrica-registrada-en-la-zona-la-institucion-educativa-informo-a-las-alumnas-y-alumnos/",
-      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
+      "fecha": "2026-09-08 11:54",
+      "url": "https://municipiosur.com/2026/09/07/la-beben-o-la-derraman-las-renuncias-al-gabinete-estatal-seran-del-15-al-18-de-septiembre-en-pleno-grito-de-la-independencia-de-mexico-morena-dara-a-conocer-su-c/",
+      "imagen": "https://images.unsplash.com/photo-1503387762-592deb58ef4e?w=800",
       "prioridad": 2
     },
     {
-      "titulo": "Al menos 10 colonias del poniente de Coatzacoalcos permanecen sin energía eléctrica desde la noche del domingo, luego de",
-      "fuente": "Municipio Sur",
+      "titulo": "¡DA CLIC PARA LEER NUESTRA EDICIÓN DEL DÍA!",
+      "fuente": "Liberal Coatza",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-09-07 21:51",
-      "url": "https://municipiosur.com/2026/09/07/al-menos-10-colonias-del-poniente-de-coatzacoalcos-permanecen-sin-energia-electrica-desde-la-noche-del-domingo-luego-de-la-fuerte-tormenta-electrica-que-azoto-diversos-sectores-de-la-ciudad-la-cfe-t/",
+      "fecha": "2026-09-08 11:54",
+      "url": "https://liberal.com.mx/da-clic-para-leer-nuestra-edicion-del-dia/",
       "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
-      "prioridad": 2
+      "prioridad": 1
+    },
+    {
+      "titulo": "CFE y Pemex fortalecen acciones para la confiabilidad del Sistema Eléctrico Nacional en el Sureste de México",
+      "fuente": "Liberal Coatza",
+      "categoria": "coatzacoalcos",
+      "fecha": "2026-09-08 11:54",
+      "url": "https://liberal.com.mx/cfe-y-pemex-fortalecen-acciones-para-la-confiabilidad-del-sistema-electrico-nacional-en-el-sureste-de-mexico/",
+      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
+      "prioridad": 1
     },
     {
       "titulo": "152 mil personas  arropan a la presidenta  Claudia Sheinbaum",
       "fuente": "Liberal Coatza",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-09-07 21:51",
+      "fecha": "2026-09-08 11:54",
       "url": "https://liberal.com.mx/152-mil-personas-arropan-a-la-presidenta-claudia-sheinbaum/",
       "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
       "prioridad": 1
@@ -40,7 +67,7 @@
       "titulo": "Formalizan Pemex y el STPRM incremento salarial 2026-2027",
       "fuente": "Liberal Coatza",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-09-07 21:51",
+      "fecha": "2026-09-08 11:54",
       "url": "https://liberal.com.mx/formalizan-pemex-y-el-stprm-incremento-salarial-2026-2027/",
       "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
       "prioridad": 1
@@ -49,7 +76,7 @@
       "titulo": "Atiende Pemex conato de incendio sin afectaciones en la planta Primaria 1 de la Refinería Salina Cruz",
       "fuente": "Liberal Coatza",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-09-07 21:51",
+      "fecha": "2026-09-08 11:54",
       "url": "https://liberal.com.mx/atiende-pemex-conato-de-incendio-sin-afectaciones-en-la-planta-primaria-1-de-la-refineria-salina-cruz/",
       "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
       "prioridad": 1
@@ -58,189 +85,261 @@
       "titulo": "Fue encontrado sin vida el diputado Zenyazen Escobar en Chichicaxtle; despliegan operativo de seguridad en Veracruz",
       "fuente": "Liberal Coatza",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-09-07 21:51",
+      "fecha": "2026-09-08 11:54",
       "url": "https://liberal.com.mx/fue-encontrado-sin-vida-el-diputado-zenyazen-escobar-en-chichicaxtle-despliegan-operativo-de-seguridad-en-veracruz/",
       "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "La patria es primero y está por encima de cualquier interés personal: Sheinbaum",
-      "fuente": "Liberal Coatza",
-      "categoria": "coatzacoalcos",
-      "fecha": "2026-09-07 21:51",
-      "url": "https://liberal.com.mx/la-patria-es-primero-y-esta-por-encima-de-cualquier-interes-personal-sheinbaum/",
-      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Veracruz, pieza estratégica  de la transformación nacional’",
-      "fuente": "Liberal Coatza",
-      "categoria": "coatzacoalcos",
-      "fecha": "2026-09-07 21:51",
-      "url": "https://liberal.com.mx/veracruz-pieza-estrategica-de-la-transformacion-nacional/",
-      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Más de 60 vehículos recuperados  durante operativos en 20 municipios",
-      "fuente": "Liberal Coatza",
-      "categoria": "coatzacoalcos",
-      "fecha": "2026-09-07 21:51",
-      "url": "https://liberal.com.mx/mas-de-60-vehiculos-recuperados-durante-operativos-en-20-municipios/",
-      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Anuncian nuevo director de  Ganadería de la Sedarpa",
-      "fuente": "Liberal Coatza",
-      "categoria": "coatzacoalcos",
-      "fecha": "2026-09-07 21:51",
-      "url": "https://liberal.com.mx/anuncian-nuevo-director-de-ganaderia-de-la-sedarpa/",
-      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "MotoFest Navajos logra 100% de ocupación en Tecolutla e impulsa el turismo en la región Totonaca",
+      "titulo": "Inicia el Proceso Electoral",
       "fuente": "Municipio Sur",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-09-07 21:51",
-      "url": "https://municipiosur.com/2026/09/07/motofest-navajos-logra-100-de-ocupacion-en-tecolutla-e-impulsa-el-turismo-en-la-region-totonaca/",
-      "imagen": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "MotoFest, una oportunidad para descubrir los atractivos del norte de Veracruz",
-      "fuente": "Municipio Sur",
-      "categoria": "coatzacoalcos",
-      "fecha": "2026-09-07 21:51",
-      "url": "https://municipiosur.com/2026/09/07/motofest-una-oportunidad-para-descubrir-los-atractivos-del-norte-de-veracruz/",
+      "fecha": "2026-09-08 11:54",
+      "url": "https://municipiosur.com/2026/09/07/inicia-el-proceso-electoral/",
       "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Kylian Mbappé, reconoció que “es un buen año para ganar el Balón de Oro",
+      "titulo": "¡¡Sin fuegos Artificiales!!",
       "fuente": "Municipio Sur",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-09-07 21:51",
-      "url": "https://municipiosur.com/2026/09/07/kylian-mbappe-reconocio-que-es-un-buen-ano-para-ganar-el-balon-de-oro/",
+      "fecha": "2026-09-08 11:54",
+      "url": "https://municipiosur.com/2026/09/07/sin-fuegos-artificiales/",
       "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Toluca se consagró campeón. Le gano 2-0 a los Rayados del Monterrey",
+      "titulo": "¡¡Tarifas Oficiales!!",
       "fuente": "Municipio Sur",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-09-07 21:51",
-      "url": "https://municipiosur.com/2026/09/07/toluca-se-consagro-campeon-le-gano-2-0-a-los-rayados-del-monterrey/",
+      "fecha": "2026-09-08 11:54",
+      "url": "https://municipiosur.com/2026/09/07/tarifas-oficiales/",
       "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
       "prioridad": 1
     }
   ],
   "veracruz": [
     {
+      "titulo": "Revés legal al ayuntamiento Orizaba en batalla jurídica por la plaza de toros La Concordia",
+      "fuente": "Jornada Veracruz",
+      "categoria": "veracruz",
+      "fecha": "2026-09-08 11:54",
+      "url": "https://jornadaveracruz.com.mx/hipoteca-plaza-toros-la-concordia-orizaba/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 2
+    },
+    {
+      "titulo": "Alcalde de Citlaltépetl gestiona ante Gobierno del Estado atención a necesidades del municipio",
+      "fuente": "Golpe Politico",
+      "categoria": "veracruz",
+      "fecha": "2026-09-08 11:54",
+      "url": "https://golpepolitico.com/2026/09/07/alcalde-de-citlaltepetl-gestiona-ante-gobierno-del-estado-atencion-a-necesidades-del-municipio/",
+      "imagen": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+      "prioridad": 2
+    },
+    {
+      "titulo": "Ayuntamiento intensifica mantenimiento de canales a cielo abierto en Coatzacoalcos",
+      "fuente": "Liberal del Sur",
+      "categoria": "veracruz",
+      "fecha": "2026-09-08 11:55",
+      "url": "https://liberal.com.mx/ayuntamiento-intensifica-mantenimiento-de-canales-a-cielo-abierto-en-coatzacoalcos/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 2
+    },
+    {
+      "titulo": "Anuncia Pedro Miguel Rosaldo creación de Consejo para la Justicia Cívica en Coatzacoalcos",
+      "fuente": "Liberal del Sur",
+      "categoria": "veracruz",
+      "fecha": "2026-09-08 11:55",
+      "url": "https://liberal.com.mx/anuncia-pedro-miguel-rosaldo-creacion-de-consejo-para-la-justicia-civica-en-coatzacoalcos/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 2
+    },
+    {
       "titulo": "Alerta veterinario por “síndrome del arca de Noé” en Coatzacoalcos; casas convertidas en refugios sin control",
       "fuente": "Liberal del Sur",
       "categoria": "veracruz",
-      "fecha": "2026-09-07 21:51",
+      "fecha": "2026-09-08 11:55",
       "url": "https://liberal.com.mx/alerta-veterinario-por-sindrome-del-arca-de-noe-en-coatzacoalcos-casas-convertidas-en-refugios-sin-control/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 2
     },
     {
-      "titulo": "Extrabajadores de Alto Lucero exigen cumplimiento de resolución laboral en Xalapa",
-      "fuente": "Golpe Politico",
+      "titulo": "Jornada médica de Pemex recorre colonias de Poza Rica; atención llega a Mangos 1",
+      "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-09-07 21:51",
-      "url": "https://golpepolitico.com/2026/09/07/extrabajadores-de-alto-lucero-exigen-cumplimiento-de-resolucion-laboral-en-xalapa/",
+      "fecha": "2026-09-08 11:54",
+      "url": "https://jornadaveracruz.com.mx/jornada-medica-pemex-poza-rica-mangos-1/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Llega Módulo Móvil de Licencias a Perote del 9 al 11 de septiembre",
-      "fuente": "Golpe Politico",
+      "titulo": "Ofertan 791 empleos en Coatzintla e Ixmatlahuacan; acercan servicios laborales",
+      "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-09-07 21:51",
-      "url": "https://golpepolitico.com/2026/09/07/llega-modulo-movil-de-licencias-a-perote-del-9-al-11-de-septiembre/",
+      "fecha": "2026-09-08 11:54",
+      "url": "https://jornadaveracruz.com.mx/empleo-coatzintla-791-vacantes-ixmatlahuacan/",
+      "imagen": "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Veracruz recupera 11 de cada 13 vehículos robados, reporta gobierno estatal",
+      "fuente": "Jornada Veracruz",
+      "categoria": "veracruz",
+      "fecha": "2026-09-08 11:54",
+      "url": "https://jornadaveracruz.com.mx/veracruz-recupera-vehiculos-robados-operativos-seguridad/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Hallan sin vida a un hombre dentro de módulo de vigilancia abandonado en Minatitlán",
-      "fuente": "Golpe Politico",
+      "titulo": "Piden crear infraestructura para crecimiento económico",
+      "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-09-07 21:51",
-      "url": "https://golpepolitico.com/2026/09/07/hallan-sin-vida-a-un-hombre-dentro-de-modulo-de-vigilancia-abandonado-en-minatitlan/",
+      "fecha": "2026-09-08 11:54",
+      "url": "https://jornadaveracruz.com.mx/inversion-infraestructura-crecimiento-economico-veracruz/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Refuerzan prevención de violencia sexual contra menores en Puente Nacional",
-      "fuente": "Golpe Politico",
+      "titulo": "Renuncia Vicente Aguilar al Partido del Trabajo, anuncia integración a Morena",
+      "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-09-07 21:51",
-      "url": "https://golpepolitico.com/2026/09/07/refuerzan-prevencion-de-violencia-sexual-contra-menores-en-puente-nacional/",
+      "fecha": "2026-09-08 11:54",
+      "url": "https://jornadaveracruz.com.mx/vicente-aguilar-renuncia-pt-se-integra-morena/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Abren registro para programa de subsidios de agua en Paso de Ovejas",
-      "fuente": "Golpe Politico",
+      "titulo": "Manual Digital de la Derecha en Franquicia (IV): El operador que no era el poder",
+      "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-09-07 21:51",
-      "url": "https://golpepolitico.com/2026/09/07/abren-registro-para-programa-de-subsidios-de-agua-en-paso-de-ovejas/",
-      "imagen": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Lucha libre internacional llegará a Orizaba con función gratuita",
-      "fuente": "Golpe Politico",
-      "categoria": "veracruz",
-      "fecha": "2026-09-07 21:51",
-      "url": "https://golpepolitico.com/2026/09/07/lucha-libre-internacional-llegara-a-orizaba-con-funcion-gratuita/",
+      "fecha": "2026-09-08 11:54",
+      "url": "https://jornadaveracruz.com.mx/damian-merlo-debernardi-operador-politico/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Recibe “Jaguaroundi” a venado cola blanca rescatado de cautiverio",
-      "fuente": "Golpe Politico",
+      "titulo": "Volcadura de tráiler provoca cierre y daños a tres vehículos en la autopista Ciudad Mendoza-Nogales",
+      "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-09-07 21:51",
-      "url": "https://golpepolitico.com/2026/09/07/recibe-jaguaroundi-a-venado-cola-blanca-rescatado-de-cautiverio/",
-      "imagen": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Maestros piden al gobierno estatal revisar cálculo de pensiones del IPE",
-      "fuente": "Golpe Politico",
-      "categoria": "veracruz",
-      "fecha": "2026-09-07 21:51",
-      "url": "https://golpepolitico.com/2026/09/07/maestros-piden-al-gobierno-estatal-revisar-calculo-de-pensiones-del-ipe/",
+      "fecha": "2026-09-08 11:54",
+      "url": "https://jornadaveracruz.com.mx/volcadura-trailer-autopista-ciudad-mendoza-nogales/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Alfredo Olivas llegará a Orizaba en un gran espectáculo con escenario 360°",
-      "fuente": "Golpe Politico",
+      "titulo": "En México, niños en edad escolar consumen más sal de la recomendada por la OMS: INSP",
+      "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-09-07 21:51",
-      "url": "https://golpepolitico.com/2026/09/07/alfredo-olivas-llegara-a-orizaba-en-un-gran-espectaculo-con-escenario-360/",
+      "fecha": "2026-09-08 11:54",
+      "url": "https://jornadaveracruz.com.mx/consumo-sal-ninos-mexico-oms-insp/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Automóvil cae en socavón en calle del puerto de Veracruz",
+      "titulo": "Anuncian visorías para integrar al equipo representativo de Martínez de la Torre",
       "fuente": "Golpe Politico",
       "categoria": "veracruz",
-      "fecha": "2026-09-07 21:51",
-      "url": "https://golpepolitico.com/2026/09/07/automovil-cae-en-socavon-en-calle-del-puerto-de-veracruz/",
+      "fecha": "2026-09-08 11:54",
+      "url": "https://golpepolitico.com/2026/09/07/anuncian-visorias-para-integrar-al-equipo-representativo-de-martinez-de-la-torre/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Se descarta crisis interna en el PT por salida de exdirigente estatal Vicente Aguilar",
+      "fuente": "Golpe Politico",
+      "categoria": "veracruz",
+      "fecha": "2026-09-08 11:54",
+      "url": "https://golpepolitico.com/2026/09/07/se-descarta-crisis-interna-en-el-pt-por-salida-de-exdirigente-estatal-vicente-aguilar/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Dos taxis chocan en Lázaro Cárdenas de Xalapa; hay una lesionada",
+      "fuente": "Golpe Politico",
+      "categoria": "veracruz",
+      "fecha": "2026-09-08 11:54",
+      "url": "https://golpepolitico.com/2026/09/07/dos-taxis-chocan-en-lazaro-cardenas-de-xalapa-hay-una-lesionada/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Ricardo Ahued se reúne con presidentes de Canaco de Veracruz",
+      "fuente": "Golpe Politico",
+      "categoria": "veracruz",
+      "fecha": "2026-09-08 11:54",
+      "url": "https://golpepolitico.com/2026/09/07/ricardo-ahued-se-reune-con-presidentes-de-canaco-de-veracruz/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Apuñala a adulto mayor y a su hijo; familiares lo capturan, pero queda libre en el puerto jarocho",
+      "fuente": "Golpe Politico",
+      "categoria": "veracruz",
+      "fecha": "2026-09-08 11:54",
+      "url": "https://golpepolitico.com/2026/09/07/apunala-a-adulto-mayor-y-a-su-hijo-familiares-lo-capturan-pero-queda-libre-en-el-puerto-jarocho/",
       "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Tlalnelhuayocan avanza con obra vial en la comunidad de Otilpan",
+      "fuente": "Golpe Politico",
+      "categoria": "veracruz",
+      "fecha": "2026-09-08 11:54",
+      "url": "https://golpepolitico.com/2026/09/07/tlalnelhuayocan-avanza-con-obra-vial-en-la-comunidad-de-otilpan/",
+      "imagen": "https://images.unsplash.com/photo-1503387762-592deb58ef4e?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Derrapa motociclista en la carretera Alazán-Canoas; resulta lesionado en Tantoyuca",
+      "fuente": "Golpe Politico",
+      "categoria": "veracruz",
+      "fecha": "2026-09-08 11:54",
+      "url": "https://golpepolitico.com/2026/09/07/derrapa-motociclista-en-la-carretera-alazan-canoas-resulta-lesionado-en-tantoyuca/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Cae rayo sin lluvia y alcanza a dos jóvenes en el campo uno fallece y el otro esta grave, en Ayahualulco",
+      "fuente": "Golpe Politico",
+      "categoria": "veracruz",
+      "fecha": "2026-09-08 11:54",
+      "url": "https://golpepolitico.com/2026/09/07/cae-rayo-sin-lluvia-y-alcanza-a-dos-jovenes-en-el-campo-uno-fallece-y-el-otro-esta-grave-en-ayahualulco/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Tuxpan gestiona incorporación a programa de mecanización agrícola y construcción de reservorios",
+      "fuente": "Golpe Politico",
+      "categoria": "veracruz",
+      "fecha": "2026-09-08 11:54",
+      "url": "https://golpepolitico.com/2026/09/07/tuxpan-gestiona-incorporacion-a-programa-de-mecanizacion-agricola-y-construccion-de-reservorios/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "¡DA CLIC PARA LEER NUESTRA EDICIÓN DEL DÍA!",
+      "fuente": "Liberal del Sur",
+      "categoria": "veracruz",
+      "fecha": "2026-09-08 11:55",
+      "url": "https://liberal.com.mx/da-clic-para-leer-nuestra-edicion-del-dia/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "CFE y Pemex fortalecen acciones para la confiabilidad del Sistema Eléctrico Nacional en el Sureste de México",
+      "fuente": "Liberal del Sur",
+      "categoria": "veracruz",
+      "fecha": "2026-09-08 11:55",
+      "url": "https://liberal.com.mx/cfe-y-pemex-fortalecen-acciones-para-la-confiabilidad-del-sistema-electrico-nacional-en-el-sureste-de-mexico/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
       "titulo": "152 mil personas  arropan a la presidenta  Claudia Sheinbaum",
       "fuente": "Liberal del Sur",
       "categoria": "veracruz",
-      "fecha": "2026-09-07 21:51",
+      "fecha": "2026-09-08 11:55",
       "url": "https://liberal.com.mx/152-mil-personas-arropan-a-la-presidenta-claudia-sheinbaum/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
@@ -249,7 +348,7 @@
       "titulo": "Formalizan Pemex y el STPRM incremento salarial 2026-2027",
       "fuente": "Liberal del Sur",
       "categoria": "veracruz",
-      "fecha": "2026-09-07 21:51",
+      "fecha": "2026-09-08 11:55",
       "url": "https://liberal.com.mx/formalizan-pemex-y-el-stprm-incremento-salarial-2026-2027/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
@@ -258,7 +357,7 @@
       "titulo": "Atiende Pemex conato de incendio sin afectaciones en la planta Primaria 1 de la Refinería Salina Cruz",
       "fuente": "Liberal del Sur",
       "categoria": "veracruz",
-      "fecha": "2026-09-07 21:51",
+      "fecha": "2026-09-08 11:55",
       "url": "https://liberal.com.mx/atiende-pemex-conato-de-incendio-sin-afectaciones-en-la-planta-primaria-1-de-la-refineria-salina-cruz/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
@@ -267,44 +366,8 @@
       "titulo": "Fue encontrado sin vida el diputado Zenyazen Escobar en Chichicaxtle; despliegan operativo de seguridad en Veracruz",
       "fuente": "Liberal del Sur",
       "categoria": "veracruz",
-      "fecha": "2026-09-07 21:51",
+      "fecha": "2026-09-08 11:55",
       "url": "https://liberal.com.mx/fue-encontrado-sin-vida-el-diputado-zenyazen-escobar-en-chichicaxtle-despliegan-operativo-de-seguridad-en-veracruz/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "La patria es primero y está por encima de cualquier interés personal: Sheinbaum",
-      "fuente": "Liberal del Sur",
-      "categoria": "veracruz",
-      "fecha": "2026-09-07 21:51",
-      "url": "https://liberal.com.mx/la-patria-es-primero-y-esta-por-encima-de-cualquier-interes-personal-sheinbaum/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Veracruz, pieza estratégica  de la transformación nacional’",
-      "fuente": "Liberal del Sur",
-      "categoria": "veracruz",
-      "fecha": "2026-09-07 21:51",
-      "url": "https://liberal.com.mx/veracruz-pieza-estrategica-de-la-transformacion-nacional/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Más de 60 vehículos recuperados  durante operativos en 20 municipios",
-      "fuente": "Liberal del Sur",
-      "categoria": "veracruz",
-      "fecha": "2026-09-07 21:51",
-      "url": "https://liberal.com.mx/mas-de-60-vehiculos-recuperados-durante-operativos-en-20-municipios/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Anuncian nuevo director de  Ganadería de la Sedarpa",
-      "fuente": "Liberal del Sur",
-      "categoria": "veracruz",
-      "fecha": "2026-09-07 21:51",
-      "url": "https://liberal.com.mx/anuncian-nuevo-director-de-ganaderia-de-la-sedarpa/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     }
