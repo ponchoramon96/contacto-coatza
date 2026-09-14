@@ -1,55 +1,91 @@
 {
   "coatzacoalcos": [
     {
+      "titulo": "Día a día y sin impunidad el combate a la delincuencia: gobernadora Rocío Nahle",
+      "fuente": "Municipio Sur",
+      "categoria": "coatzacoalcos",
+      "fecha": "2026-09-14 22:13",
+      "url": "https://municipiosur.com/2026/09/14/dia-a-dia-y-sin-impunidad-el-combate-a-la-delincuencia-gobernadora-rocio-nahle/",
+      "imagen": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800",
+      "prioridad": 3
+    },
+    {
+      "titulo": "Anuncia Rocío Nahle regreso de cruceros a Veracruz; Margaritaville arribará en enero de 2028",
+      "fuente": "Municipio Sur",
+      "categoria": "coatzacoalcos",
+      "fecha": "2026-09-14 22:13",
+      "url": "https://municipiosur.com/2026/09/14/anuncia-rocio-nahle-regreso-de-cruceros-a-veracruz-margaritaville-arribara-en-enero-de-2028/",
+      "imagen": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800",
+      "prioridad": 3
+    },
+    {
+      "titulo": "Talleres de alimentos saludables impulsan capacitación, salud y emprendimiento en Coatzacoalcos",
+      "fuente": "Liberal Coatza",
+      "categoria": "coatzacoalcos",
+      "fecha": "2026-09-14 22:13",
+      "url": "https://liberal.com.mx/talleres-de-alimentos-saludables-impulsan-capacitacion-salud-y-emprendimiento-en-coatzacoalcos/",
+      "imagen": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=800",
+      "prioridad": 2
+    },
+    {
+      "titulo": "Coatzacoalcos listo para celebrar las Fiestas Patrias con seguridad",
+      "fuente": "Liberal Coatza",
+      "categoria": "coatzacoalcos",
+      "fecha": "2026-09-14 22:13",
+      "url": "https://liberal.com.mx/coatzacoalcos-listo-para-celebrar-las-fiestas-patrias-con-seguridad/",
+      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
+      "prioridad": 2
+    },
+    {
+      "titulo": "Vivirá Coatzacoalcos su noche mexicana con el primer Grito de Independencia de Pedro Miguel Rosaldo",
+      "fuente": "Liberal Coatza",
+      "categoria": "coatzacoalcos",
+      "fecha": "2026-09-14 22:13",
+      "url": "https://liberal.com.mx/vivira-coatzacoalcos-su-noche-mexicana-con-el-primer-grito-de-independencia-de-pedro-miguel-rosaldo/",
+      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
+      "prioridad": 2
+    },
+    {
+      "titulo": "Veloz camioneta se estrella y derriba poste en pleno centro de Coatzacoalcos",
+      "fuente": "Liberal Coatza",
+      "categoria": "coatzacoalcos",
+      "fecha": "2026-09-14 22:13",
+      "url": "https://liberal.com.mx/veloz-camioneta-se-estrella-y-derriba-poste-en-pleno-centro-de-coatzacoalcos/",
+      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
+      "prioridad": 2
+    },
+    {
       "titulo": "Alista CLAM simulacro mayor  con fuga simulada de óxido  de etileno en Coatzacoalcos",
       "fuente": "Liberal Coatza",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-09-14 13:32",
+      "fecha": "2026-09-14 22:13",
       "url": "https://liberal.com.mx/alista-clam-simulacro-mayor-con-fuga-simulada-de-oxido-de-etileno-en-coatzacoalcos/",
       "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
       "prioridad": 2
     },
     {
-      "titulo": "Puerto de Coatzacoalcos  moviliza más de 22 mil  toneladas en un fin de semana",
+      "titulo": "Auto se quedó sin frenos e impactó contra camioneta",
       "fuente": "Liberal Coatza",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-09-14 13:32",
-      "url": "https://liberal.com.mx/puerto-de-coatzacoalcos-moviliza-mas-de-22-mil-toneladas-en-un-fin-de-semana/",
+      "fecha": "2026-09-14 22:13",
+      "url": "https://liberal.com.mx/auto-se-quedo-sin-frenos-e-impacto-contra-camioneta/",
       "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
-      "prioridad": 2
+      "prioridad": 1
     },
     {
-      "titulo": "Coatzacoalcos se consolida  como destino turístico del sur",
+      "titulo": "Hallan cadáver dentro de taxi abandonado en Frutos de la Revolución",
       "fuente": "Liberal Coatza",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-09-14 13:32",
-      "url": "https://liberal.com.mx/coatzacoalcos-se-consolida-como-destino-turistico-del-sur/",
+      "fecha": "2026-09-14 22:13",
+      "url": "https://liberal.com.mx/hallan-cadaver-dentro-de-taxi-abandonado-en-frutos-de-la-revolucion/",
       "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
-      "prioridad": 2
-    },
-    {
-      "titulo": "“Honrar a la patria es servir con honestidad”: Pedro Miguel Rosaldo García conmemora a los Niños Héroes en Coatzacoalcos",
-      "fuente": "Liberal Coatza",
-      "categoria": "coatzacoalcos",
-      "fecha": "2026-09-14 13:32",
-      "url": "https://liberal.com.mx/honrar-a-la-patria-es-servir-con-honestidad-pedro-miguel-rosaldo-garcia-conmemora-a-los-ninos-heroes-en-coatzacoalcos/",
-      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
-      "prioridad": 2
-    },
-    {
-      "titulo": "“La patria también se defiende con la cabeza” Pedro Miguel llama a jóvenes a estudiar y ser buenos ciudadanos",
-      "fuente": "Liberal Coatza",
-      "categoria": "coatzacoalcos",
-      "fecha": "2026-09-14 13:32",
-      "url": "https://liberal.com.mx/la-patria-tambien-se-defiende-con-la-cabeza-pedro-miguel-llama-a-jovenes-a-estudiar-y-ser-buenos-ciudadanos/",
-      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
-      "prioridad": 2
+      "prioridad": 1
     },
     {
       "titulo": "“La soberanía no es una  aspiración; es mandato”",
       "fuente": "Liberal Coatza",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-09-14 13:32",
+      "fecha": "2026-09-14 22:13",
       "url": "https://liberal.com.mx/la-soberania-no-es-una-aspiracion-es-mandato/",
       "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
       "prioridad": 1
@@ -58,7 +94,7 @@
       "titulo": "¡DA CLIC PARA LEER NUESTRA EDICIÓN DEL DÍA!",
       "fuente": "Liberal Coatza",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-09-14 13:32",
+      "fecha": "2026-09-14 22:13",
       "url": "https://liberal.com.mx/da-clic-para-leer-nuestra-edicion-del-dia/",
       "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
       "prioridad": 1
@@ -67,298 +103,289 @@
       "titulo": "Pemex avanza en trabajos especializados para la reparación del ducto marino del campo Ek-Balam",
       "fuente": "Liberal Coatza",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-09-14 13:32",
+      "fecha": "2026-09-14 22:13",
       "url": "https://liberal.com.mx/pemex-avanza-en-trabajos-especializados-para-la-reparacion-del-ducto-marino-del-campo-ek-balam/",
       "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Cosoleacaque honra  la memoria de los Niños  Héroes a 179 años  de su Gesta Heroica",
-      "fuente": "Liberal Coatza",
+      "titulo": "Regresa la Carrera Panamericana a Veracruz con nueva ruta, pasará por Xalapa",
+      "fuente": "Municipio Sur",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-09-14 13:32",
-      "url": "https://liberal.com.mx/cosoleacaque-honra-la-memoria-de-los-ninos-heroes-a-179-anos-de-su-gesta-heroica/",
+      "fecha": "2026-09-14 22:13",
+      "url": "https://municipiosur.com/2026/09/14/regresa-la-carrera-panamericana-a-veracruz-con-nueva-ruta-pasara-por-xalapa/",
       "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Veracruz mantiene estrategia de contención contra el gusano barrenador del ganado: Sedarpa",
-      "fuente": "Liberal Coatza",
+      "titulo": "El coraje misógino contra Rocío y Claudia",
+      "fuente": "Municipio Sur",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-09-14 13:32",
-      "url": "https://liberal.com.mx/veracruz-mantiene-estrategia-de-contencion-contra-el-gusano-barrenador-del-ganado-sedarpa/",
+      "fecha": "2026-09-14 22:13",
+      "url": "https://municipiosur.com/2026/09/14/el-coraje-misogino-contra-rocio-y-claudia/",
       "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Usan cucarachas para rescatar humanos en el agua o entre escombros",
+      "titulo": "Guadalajara no decepciona en su casa tras aplastar 3-0 ante Pumas",
       "fuente": "Municipio Sur",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-09-14 13:32",
-      "url": "https://municipiosur.com/2026/09/14/usan-cucarachas-para-rescatar-humanos-en-el-agua-o-entre-escombros/",
-      "imagen": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Crea IPN cargadores para vehículos eléctricos alimentados con energía solar",
-      "fuente": "Municipio Sur",
-      "categoria": "coatzacoalcos",
-      "fecha": "2026-09-14 13:32",
-      "url": "https://municipiosur.com/2026/09/14/crea-ipn-cargadores-para-vehiculos-electricos-alimentados-con-energia-solar/",
+      "fecha": "2026-09-14 22:13",
+      "url": "https://municipiosur.com/2026/09/14/guadalajara-no-decepciona-en-su-casa-tras-aplastar-3-0-ante-pumas/",
       "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "¿Qué dice la dentadura de hombres encontrados encadenados en Atenas hace más de 2,600 años?",
+      "titulo": "Juan Reynoso estaría próximo a regresar a Liga MX como DT del Necaxa",
       "fuente": "Municipio Sur",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-09-14 13:32",
-      "url": "https://municipiosur.com/2026/09/14/que-dice-la-dentadura-de-hombres-encontrados-encadenados-en-atenas-hace-mas-de-2600-anos/",
-      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Jack Lowden, el nombre que crece entre los candidatos para ser el nuevo James Bond",
-      "fuente": "Municipio Sur",
-      "categoria": "coatzacoalcos",
-      "fecha": "2026-09-14 13:32",
-      "url": "https://municipiosur.com/2026/09/14/jack-lowden-el-nombre-que-crece-entre-los-candidatos-para-ser-el-nuevo-james-bond/",
-      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "El posible regreso de Paul Walker a ‘Fast Forever’ genera expectativas entre los fans",
-      "fuente": "Municipio Sur",
-      "categoria": "coatzacoalcos",
-      "fecha": "2026-09-14 13:32",
-      "url": "https://municipiosur.com/2026/09/14/el-posible-regreso-de-paul-walker-a-fast-forever-genera-expectativas-entre-los-fans/",
-      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "La confesión sobre Dolly Parton que hizo su hermana tras mantener su enfermedad en secreto",
-      "fuente": "Municipio Sur",
-      "categoria": "coatzacoalcos",
-      "fecha": "2026-09-14 13:32",
-      "url": "https://municipiosur.com/2026/09/14/la-confesion-sobre-dolly-parton-que-hizo-su-hermana-tras-mantener-su-enfermedad-en-secreto/",
+      "fecha": "2026-09-14 22:13",
+      "url": "https://municipiosur.com/2026/09/14/juan-reynoso-estaria-proximo-a-regresar-a-liga-mx-como-dt-del-necaxa/",
       "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
       "prioridad": 1
     }
   ],
   "veracruz": [
     {
+      "titulo": "Día a día y sin impunidad el combate a la delincuencia: Gobernadora Rocío Nahle",
+      "fuente": "Golpe Politico",
+      "categoria": "veracruz",
+      "fecha": "2026-09-14 22:13",
+      "url": "https://golpepolitico.com/2026/09/14/dia-a-dia-y-sin-impunidad-el-combate-a-la-delincuencia-gobernadora-rocio-nahle/",
+      "imagen": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800",
+      "prioridad": 3
+    },
+    {
+      "titulo": "Ramos Alor permanecerá en la delegación estatal del IMSS-Bienestar: Rocío Nahle",
+      "fuente": "Golpe Politico",
+      "categoria": "veracruz",
+      "fecha": "2026-09-14 22:13",
+      "url": "https://golpepolitico.com/2026/09/14/ramos-alor-permanecera-en-la-delegacion-estatal-del-imss-bienestar-rocio-nahle/",
+      "imagen": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800",
+      "prioridad": 3
+    },
+    {
+      "titulo": "Alcaldesa toma protesta a integrantes del Consejo de la Juventud",
+      "fuente": "Golpe Politico",
+      "categoria": "veracruz",
+      "fecha": "2026-09-14 22:13",
+      "url": "https://golpepolitico.com/2026/09/14/alcaldesa-toma-protesta-a-integrantes-del-consejo-de-la-juventud/",
+      "imagen": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+      "prioridad": 2
+    },
+    {
+      "titulo": "Talleres de alimentos saludables impulsan capacitación, salud y emprendimiento en Coatzacoalcos",
+      "fuente": "Liberal del Sur",
+      "categoria": "veracruz",
+      "fecha": "2026-09-14 22:13",
+      "url": "https://liberal.com.mx/talleres-de-alimentos-saludables-impulsan-capacitacion-salud-y-emprendimiento-en-coatzacoalcos/",
+      "imagen": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=800",
+      "prioridad": 2
+    },
+    {
+      "titulo": "Coatzacoalcos listo para celebrar las Fiestas Patrias con seguridad",
+      "fuente": "Liberal del Sur",
+      "categoria": "veracruz",
+      "fecha": "2026-09-14 22:13",
+      "url": "https://liberal.com.mx/coatzacoalcos-listo-para-celebrar-las-fiestas-patrias-con-seguridad/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 2
+    },
+    {
+      "titulo": "Vivirá Coatzacoalcos su noche mexicana con el primer Grito de Independencia de Pedro Miguel Rosaldo",
+      "fuente": "Liberal del Sur",
+      "categoria": "veracruz",
+      "fecha": "2026-09-14 22:13",
+      "url": "https://liberal.com.mx/vivira-coatzacoalcos-su-noche-mexicana-con-el-primer-grito-de-independencia-de-pedro-miguel-rosaldo/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 2
+    },
+    {
+      "titulo": "Veloz camioneta se estrella y derriba poste en pleno centro de Coatzacoalcos",
+      "fuente": "Liberal del Sur",
+      "categoria": "veracruz",
+      "fecha": "2026-09-14 22:13",
+      "url": "https://liberal.com.mx/veloz-camioneta-se-estrella-y-derriba-poste-en-pleno-centro-de-coatzacoalcos/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 2
+    },
+    {
       "titulo": "Alista CLAM simulacro mayor  con fuga simulada de óxido  de etileno en Coatzacoalcos",
       "fuente": "Liberal del Sur",
       "categoria": "veracruz",
-      "fecha": "2026-09-14 13:32",
+      "fecha": "2026-09-14 22:13",
       "url": "https://liberal.com.mx/alista-clam-simulacro-mayor-con-fuga-simulada-de-oxido-de-etileno-en-coatzacoalcos/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 2
     },
     {
-      "titulo": "Puerto de Coatzacoalcos  moviliza más de 22 mil  toneladas en un fin de semana",
-      "fuente": "Liberal del Sur",
-      "categoria": "veracruz",
-      "fecha": "2026-09-14 13:32",
-      "url": "https://liberal.com.mx/puerto-de-coatzacoalcos-moviliza-mas-de-22-mil-toneladas-en-un-fin-de-semana/",
-      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
-      "prioridad": 2
-    },
-    {
-      "titulo": "Coatzacoalcos se consolida  como destino turístico del sur",
-      "fuente": "Liberal del Sur",
-      "categoria": "veracruz",
-      "fecha": "2026-09-14 13:32",
-      "url": "https://liberal.com.mx/coatzacoalcos-se-consolida-como-destino-turistico-del-sur/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 2
-    },
-    {
-      "titulo": "“Honrar a la patria es servir con honestidad”: Pedro Miguel Rosaldo García conmemora a los Niños Héroes en Coatzacoalcos",
-      "fuente": "Liberal del Sur",
-      "categoria": "veracruz",
-      "fecha": "2026-09-14 13:32",
-      "url": "https://liberal.com.mx/honrar-a-la-patria-es-servir-con-honestidad-pedro-miguel-rosaldo-garcia-conmemora-a-los-ninos-heroes-en-coatzacoalcos/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 2
-    },
-    {
-      "titulo": "“La patria también se defiende con la cabeza” Pedro Miguel llama a jóvenes a estudiar y ser buenos ciudadanos",
-      "fuente": "Liberal del Sur",
-      "categoria": "veracruz",
-      "fecha": "2026-09-14 13:32",
-      "url": "https://liberal.com.mx/la-patria-tambien-se-defiende-con-la-cabeza-pedro-miguel-llama-a-jovenes-a-estudiar-y-ser-buenos-ciudadanos/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 2
-    },
-    {
-      "titulo": "Portada del 14 de septiembre de 2026",
+      "titulo": "Proyectan que Ciudad Industrial Bruno Pagliai tenga estación de bomberos propia",
       "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-09-14 13:32",
-      "url": "https://jornadaveracruz.com.mx/portada-del-14-de-septiembre-de-2026/",
+      "fecha": "2026-09-14 22:13",
+      "url": "https://jornadaveracruz.com.mx/estacion-bomberos-bruno-pagliai-veracruz/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Contraportada del 14 de septiembre de 2026",
+      "titulo": "Paro estudiantil en facultad de Medicina de UV en Mendoza cumple dos semanas",
       "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-09-14 13:32",
-      "url": "https://jornadaveracruz.com.mx/contraportada-del-14-de-septiembre-de-2026/",
+      "fecha": "2026-09-14 22:13",
+      "url": "https://jornadaveracruz.com.mx/paro-estudiantil-medicina-uv-mendoza/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Poza Rica conmemora 179 años de la gesta de Chapultepec",
+      "titulo": "Buscan detectar en gasolineras huachicol a partir de combustible comprado y vendido",
       "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-09-14 13:32",
-      "url": "https://jornadaveracruz.com.mx/poza-rica-conmemora-ninos-heroes-chapultepec/",
+      "fecha": "2026-09-14 22:13",
+      "url": "https://jornadaveracruz.com.mx/buscan-detectar-huachicol-gasolineras-combustible/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Presupuesto de apenas $16.2 por hectárea de ANP: Nossa",
+      "titulo": "Plantean que el Imjuve elabore y promueva estrategias de salud mental para los jóvenes",
       "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-09-14 13:32",
-      "url": "https://jornadaveracruz.com.mx/presupuesto-conanp-2027-16-pesos-hectarea/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "fecha": "2026-09-14 22:13",
+      "url": "https://jornadaveracruz.com.mx/imjuve-salud-mental-jovenes-mexico-iniciativa/",
+      "imagen": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Sube demanda de artículos patrios; tramitan permisos",
+      "titulo": "Política cultural de Sheinbaum reivindica a los pueblos indígenas de México",
       "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-09-14 13:32",
-      "url": "https://jornadaveracruz.com.mx/articulos-patrios-xalapa-permisos-septiembre/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "fecha": "2026-09-14 22:13",
+      "url": "https://jornadaveracruz.com.mx/politica-cultural-claudia-sheinbaum-indigenas-mexico/",
+      "imagen": "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Casi 34 mil acciones para prevenir violencia en contra de las mujeres",
+      "titulo": "Conafe, 55 años de educar a poblaciones más alejadas de México, destaca la SEP",
       "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-09-14 13:32",
-      "url": "https://jornadaveracruz.com.mx/violencia-mujeres-veracruz-34-mil-acciones/",
+      "fecha": "2026-09-14 22:13",
+      "url": "https://jornadaveracruz.com.mx/conafe-55-anos-educacion-comunitaria-mexico/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Pronostica SMN precipitaciones intensas en Nayarit, Veracruz, Oaxaca y Chiapas",
+      "titulo": "Familia de la joven asesinada en Ohio quiere repatriar restos",
       "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-09-14 13:32",
-      "url": "https://jornadaveracruz.com.mx/smn-pronostica-lluvias-intensas-veracruz/",
+      "fecha": "2026-09-14 22:13",
+      "url": "https://jornadaveracruz.com.mx/joven-tlilapan-asesinada-ohio-repatriar-restos/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "La justicia que dejó de esperar",
+      "titulo": "Mayor producción de las gasolinas y diesel de Pemex reduce importaciones de combustibles",
       "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-09-14 13:32",
-      "url": "https://jornadaveracruz.com.mx/rezago-poder-judicial-federal-hugo-aguilar/",
+      "fecha": "2026-09-14 22:13",
+      "url": "https://jornadaveracruz.com.mx/limite-deducciones-grandes-empresas-impuesto-2027-2/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Portada del 13 de septiembre de 2026",
+      "titulo": "Nueva limitación a deducciones de grandes empresas causaría impuesto oculto en 2027",
       "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-09-14 13:32",
-      "url": "https://jornadaveracruz.com.mx/portada-del-13-de-septiembre-de-2026/",
+      "fecha": "2026-09-14 22:13",
+      "url": "https://jornadaveracruz.com.mx/limite-deducciones-grandes-empresas-impuesto-2027/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "La tragedia del 13 de septiembre de 1847",
-      "fuente": "Golpe Politico",
+      "titulo": "Sheinbaum: el bienestar es un principio que define a la 4T",
+      "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-09-14 13:32",
-      "url": "https://golpepolitico.com/2026/09/14/la-tragedia-del-13-de-septiembre-de-1847/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Centro y sur de Veracruz enfrentarán lluvias de hasta 75 milímetros este lunes",
-      "fuente": "Golpe Politico",
-      "categoria": "veracruz",
-      "fecha": "2026-09-14 13:32",
-      "url": "https://golpepolitico.com/2026/09/13/centro-y-sur-de-veracruz-enfrentaran-lluvias-de-hasta-75-milimetros-este-lunes/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Atletas viven competencia y orgullo patrio en Martínez de la Torre",
-      "fuente": "Golpe Politico",
-      "categoria": "veracruz",
-      "fecha": "2026-09-14 13:32",
-      "url": "https://golpepolitico.com/2026/09/13/atletas-viven-competencia-y-orgullo-patrio-en-martinez-de-la-torre/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Ataque con arma de postas desata linchamiento en Rancho Viejo",
-      "fuente": "Golpe Politico",
-      "categoria": "veracruz",
-      "fecha": "2026-09-14 13:32",
-      "url": "https://golpepolitico.com/2026/09/13/ataque-con-arma-de-postas-desata-linchamiento-en-rancho-viejo/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Bronco reunió a miles de asistentes durante la Feria de Perote",
-      "fuente": "Golpe Politico",
-      "categoria": "veracruz",
-      "fecha": "2026-09-14 13:32",
-      "url": "https://golpepolitico.com/2026/09/13/bronco-reunio-a-miles-de-asistentes-durante-la-feria-de-perote/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Tragedia en playa La Mancha; seis visitantes de Orizaba fueron arrastrados por la corriente. Lancheros y rescatistas log",
-      "fuente": "Golpe Politico",
-      "categoria": "veracruz",
-      "fecha": "2026-09-14 13:32",
-      "url": "https://golpepolitico.com/2026/09/13/tragedia-en-playa-la-mancha-seis-visitantes-de-orizaba-fueron-arrastrados-por-la-corriente-lancheros-y-rescatistas-lograron-auxiliarlos/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Las Chivas con golazos apabullaron a los Pumas y son líderes del torneo",
-      "fuente": "Golpe Politico",
-      "categoria": "veracruz",
-      "fecha": "2026-09-14 13:32",
-      "url": "https://golpepolitico.com/2026/09/13/las-chivas-con-golazos-apabullaron-a-los-pumas-y-son-lideres-del-torneo/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Taxi vuelca tras chocar contra auto estacionado en Veracruz; conductor huye",
-      "fuente": "Golpe Politico",
-      "categoria": "veracruz",
-      "fecha": "2026-09-14 13:32",
-      "url": "https://golpepolitico.com/2026/09/13/taxi-vuelca-tras-chocar-contra-auto-estacionado-en-veracruz-conductor-huye/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Xalapa fortalece la convivencia y el bienestar mediante la actividad física",
-      "fuente": "Golpe Politico",
-      "categoria": "veracruz",
-      "fecha": "2026-09-14 13:32",
-      "url": "https://golpepolitico.com/2026/09/13/xalapa-fortalece-la-convivencia-y-el-bienestar-mediante-la-actividad-fisica/",
+      "fecha": "2026-09-14 22:13",
+      "url": "https://jornadaveracruz.com.mx/sheinbaum-bienestar-cuarta-transformacion-hidalgo/",
       "imagen": "https://images.unsplash.com/photo-1542596594-649edbc13630?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Uriel Peralta inaugura final regional con lanzamiento de primera bola",
+      "titulo": "Aplicaron más de 7 mil pruebas durante operativo Alcoholímetro en la entidad",
       "fuente": "Golpe Politico",
       "categoria": "veracruz",
-      "fecha": "2026-09-14 13:32",
-      "url": "https://golpepolitico.com/2026/09/13/uriel-peralta-inaugura-final-regional-con-lanzamiento-de-primera-bola/",
+      "fecha": "2026-09-14 22:13",
+      "url": "https://golpepolitico.com/2026/09/14/aplicaron-mas-de-7-mil-pruebas-durante-operativo-alcoholimetro-en-la-entidad/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Un sueño de más de 2 décadas que se hace realidad; Lalo Utrera entrega techado en TEBAEV de Los Ídolos",
+      "fuente": "Golpe Politico",
+      "categoria": "veracruz",
+      "fecha": "2026-09-14 22:13",
+      "url": "https://golpepolitico.com/2026/09/14/un-sueno-de-mas-de-2-decadas-que-se-hace-realidad-lalo-utrera-entrega-techado-en-tebaev-de-los-idolos/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Aprueba Órgano de Gobierno Proyecto de Presupuesto de la CMAS Xalapa",
+      "fuente": "Golpe Politico",
+      "categoria": "veracruz",
+      "fecha": "2026-09-14 22:13",
+      "url": "https://golpepolitico.com/2026/09/14/aprueba-organo-de-gobierno-proyecto-de-presupuesto-de-la-cmas-xalapa/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Fortalece PAZ estructura con la incorporación de Antonio Lagunes Toral como Coordinador de Operación Política",
+      "fuente": "Golpe Politico",
+      "categoria": "veracruz",
+      "fecha": "2026-09-14 22:13",
+      "url": "https://golpepolitico.com/2026/09/14/fortalece-paz-estructura-con-la-incorporacion-de-antonio-lagunes-toral-como-coordinador-de-operacion-politica/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Más de 500 policías, elementos de Protección Civil y personal de seguridad serán desplegados para vigilar y resguardar l",
+      "fuente": "Golpe Politico",
+      "categoria": "veracruz",
+      "fecha": "2026-09-14 22:13",
+      "url": "https://golpepolitico.com/2026/09/14/mas-de-500-policias-elementos-de-proteccion-civil-y-personal-de-seguridad-seran-desplegados-para-vigilar-y-resguardar-la-celebracion-del-grito-de-independencia-que-se-realizara-en-xalapa/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Ángel Etiem Jiménez Castañeda rinde protesta como diputado federal por el Distrito 16",
+      "fuente": "Golpe Politico",
+      "categoria": "veracruz",
+      "fecha": "2026-09-14 22:13",
+      "url": "https://golpepolitico.com/2026/09/14/angel-etiem-jimenez-castaneda-rinde-protesta-como-diputado-federal-por-el-distrito-16/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "El 15 y 16 de septiembre se suspenderán las clases en todos los niveles educativos de Veracruz con motivo de las fiestas",
+      "fuente": "Golpe Politico",
+      "categoria": "veracruz",
+      "fecha": "2026-09-14 22:13",
+      "url": "https://golpepolitico.com/2026/09/14/el-15-y-16-de-septiembre-se-suspenderan-las-clases-en-todos-los-niveles-educativos-de-veracruz-con-motivo-de-las-fiestas-patrias/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Auto se quedó sin frenos e impactó contra camioneta",
+      "fuente": "Liberal del Sur",
+      "categoria": "veracruz",
+      "fecha": "2026-09-14 22:13",
+      "url": "https://liberal.com.mx/auto-se-quedo-sin-frenos-e-impacto-contra-camioneta/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Hallan cadáver dentro de taxi abandonado en Frutos de la Revolución",
+      "fuente": "Liberal del Sur",
+      "categoria": "veracruz",
+      "fecha": "2026-09-14 22:13",
+      "url": "https://liberal.com.mx/hallan-cadaver-dentro-de-taxi-abandonado-en-frutos-de-la-revolucion/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
@@ -366,7 +393,7 @@
       "titulo": "“La soberanía no es una  aspiración; es mandato”",
       "fuente": "Liberal del Sur",
       "categoria": "veracruz",
-      "fecha": "2026-09-14 13:32",
+      "fecha": "2026-09-14 22:13",
       "url": "https://liberal.com.mx/la-soberania-no-es-una-aspiracion-es-mandato/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
@@ -375,7 +402,7 @@
       "titulo": "¡DA CLIC PARA LEER NUESTRA EDICIÓN DEL DÍA!",
       "fuente": "Liberal del Sur",
       "categoria": "veracruz",
-      "fecha": "2026-09-14 13:32",
+      "fecha": "2026-09-14 22:13",
       "url": "https://liberal.com.mx/da-clic-para-leer-nuestra-edicion-del-dia/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
@@ -384,26 +411,8 @@
       "titulo": "Pemex avanza en trabajos especializados para la reparación del ducto marino del campo Ek-Balam",
       "fuente": "Liberal del Sur",
       "categoria": "veracruz",
-      "fecha": "2026-09-14 13:32",
+      "fecha": "2026-09-14 22:13",
       "url": "https://liberal.com.mx/pemex-avanza-en-trabajos-especializados-para-la-reparacion-del-ducto-marino-del-campo-ek-balam/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Cosoleacaque honra  la memoria de los Niños  Héroes a 179 años  de su Gesta Heroica",
-      "fuente": "Liberal del Sur",
-      "categoria": "veracruz",
-      "fecha": "2026-09-14 13:32",
-      "url": "https://liberal.com.mx/cosoleacaque-honra-la-memoria-de-los-ninos-heroes-a-179-anos-de-su-gesta-heroica/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Veracruz mantiene estrategia de contención contra el gusano barrenador del ganado: Sedarpa",
-      "fuente": "Liberal del Sur",
-      "categoria": "veracruz",
-      "fecha": "2026-09-14 13:32",
-      "url": "https://liberal.com.mx/veracruz-mantiene-estrategia-de-contencion-contra-el-gusano-barrenador-del-ganado-sedarpa/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     }
