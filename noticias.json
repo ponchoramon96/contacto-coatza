@@ -1,146 +1,137 @@
 {
   "coatzacoalcos": [
     {
-      "titulo": "Realizan reforestación  con causa en parque  La Noria de Coatzacoalcos",
-      "fuente": "Liberal Coatza",
+      "titulo": "La muerte de Alonso Olvera, trabajador de la Comisión Municipal de Agua y Saneamiento de Coatzacoalcos, fue por un infar",
+      "fuente": "Municipio Sur",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-10-28 22:55",
-      "url": "https://liberal.com.mx/realizan-reforestacion-con-causa-en-parque-la-noria-de-coatzacoalcos/",
+      "fecha": "2026-10-29 13:52",
+      "url": "https://municipiosur.com/2026/10/29/la-muerte-de-alonso-olvera-trabajador-de-la-comision-municipal-de-agua-y-saneamiento-de-coatzacoalcos-fue-por-un-infarto-cerebral-que-provoco-su-desvanecimiento-y-posterior-caida-que-le-provoco-un-f/",
+      "imagen": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=800",
+      "prioridad": 2
+    },
+    {
+      "titulo": "Ángel Delgado Ramírez, se deslindó de las acusaciones sobre una presunta intervención del Ayuntamiento en el proceso jud",
+      "fuente": "Municipio Sur",
+      "categoria": "coatzacoalcos",
+      "fecha": "2026-10-29 13:52",
+      "url": "https://municipiosur.com/2026/10/29/angel-delgado-ramirez-se-deslindo-de-las-acusaciones-sobre-una-presunta-intervencion-del-ayuntamiento-en-el-proceso-judicial-que-enfrenta-su-hermano-guillermo-el-presidente-municipal-de-agua-dulce/",
+      "imagen": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=800",
+      "prioridad": 2
+    },
+    {
+      "titulo": "Pescadores capturaron un cocodrilo de más de dos metros de longitud en el río Coatzacoalcos, a la altura del paradero co",
+      "fuente": "Municipio Sur",
+      "categoria": "coatzacoalcos",
+      "fecha": "2026-10-29 13:52",
+      "url": "https://municipiosur.com/2026/10/29/pescadores-capturaron-un-cocodrilo-de-mas-de-dos-metros-de-longitud-en-el-rio-coatzacoalcos-a-la-altura-del-paradero-conocido-como-la-panga-en-el-municipio-de-minatitlan-en-la-isla-de-capoacan-tam/",
       "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
       "prioridad": 2
+    },
+    {
+      "titulo": "María Antonia Domínguez, esposa de Alonso Olvera, trabajador de la Comisión Municipal del Agua Potable de Coatzacoalcos,",
+      "fuente": "Municipio Sur",
+      "categoria": "coatzacoalcos",
+      "fecha": "2026-10-29 13:52",
+      "url": "https://municipiosur.com/2026/10/29/maria-antonia-dominguez-esposa-de-alonso-olvera-trabajador-de-la-comision-municipal-del-agua-potable-de-coatzacoalcos-afirma-que-su-pareja-se-fue-a-laborar-muy-alegre-y-con-la-bendicion-de-ella-fu/",
+      "imagen": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=800",
+      "prioridad": 2
+    },
+    {
+      "titulo": "En duelo, la comunidad  dancística de Veracruz",
+      "fuente": "Liberal Coatza",
+      "categoria": "coatzacoalcos",
+      "fecha": "2026-10-29 13:52",
+      "url": "https://liberal.com.mx/en-duelo-la-comunidad-dancistica-de-veracruz/",
+      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Rescatan tradiciones mexicanas con altares en primaria de Lomas",
+      "fuente": "Liberal Coatza",
+      "categoria": "coatzacoalcos",
+      "fecha": "2026-10-29 13:52",
+      "url": "https://liberal.com.mx/rescatan-tradiciones-mexicanas-con-altares-en-primaria-de-lomas/",
+      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Prevén noviembre  y diciembre más lluvias en Veracruz",
+      "fuente": "Liberal Coatza",
+      "categoria": "coatzacoalcos",
+      "fecha": "2026-10-29 13:52",
+      "url": "https://liberal.com.mx/preven-noviembre-y-diciembre-mas-lluvias-en-veracruz/",
+      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Implementan operativo  para verificar transporte público y motocicletas",
+      "fuente": "Liberal Coatza",
+      "categoria": "coatzacoalcos",
+      "fecha": "2026-10-29 13:52",
+      "url": "https://liberal.com.mx/implementan-operativo-para-verificar-transporte-publico-y-motocicletas/",
+      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Cosoleacaque mantiene  trabajos de bacheo para mejorar la circulación vial",
+      "fuente": "Liberal Coatza",
+      "categoria": "coatzacoalcos",
+      "fecha": "2026-10-29 13:52",
+      "url": "https://liberal.com.mx/cosoleacaque-mantiene-trabajos-de-bacheo-para-mejorar-la-circulacion-vial/",
+      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Docentes de los CECyTEV regresaron a las aulas",
+      "fuente": "Liberal Coatza",
+      "categoria": "coatzacoalcos",
+      "fecha": "2026-10-29 13:52",
+      "url": "https://liberal.com.mx/docentes-de-los-cecytev-regresaron-a-las-aulas/",
+      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Alonso Olvera se fue alegre  y con mi bendición: Esposa",
+      "fuente": "Liberal Coatza",
+      "categoria": "coatzacoalcos",
+      "fecha": "2026-10-29 13:52",
+      "url": "https://liberal.com.mx/alonso-olvera-se-fue-alegre-y-con-mi-bendicion-esposa/",
+      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Invitan a disfrutar la  exhibición de altares",
+      "fuente": "Liberal Coatza",
+      "categoria": "coatzacoalcos",
+      "fecha": "2026-10-29 13:52",
+      "url": "https://liberal.com.mx/invitan-a-disfrutar-la-exhibicion-de-altares/",
+      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
+      "prioridad": 1
     },
     {
       "titulo": "¡DA CLIC PARA LEER NUESTRA EDICIÓN DEL DÍA!",
       "fuente": "Liberal Coatza",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-10-28 22:55",
+      "fecha": "2026-10-29 13:52",
       "url": "https://liberal.com.mx/da-clic-para-leer-nuestra-edicion-del-dia/",
       "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "La presidenta Claudia Sheinbaum presenta plan de 120 días para fortalecer el IMSS con equipos y contrataciones",
-      "fuente": "Liberal Coatza",
-      "categoria": "coatzacoalcos",
-      "fecha": "2026-10-28 22:55",
-      "url": "https://liberal.com.mx/la-presidenta-claudia-sheinbaum-presenta-plan-de-120-dias-para-fortalecer-el-imss-con-equipos-y-contrataciones/",
-      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Inicia SEV con la estrategia Jornadas Veracruzanas  Aprender sin distracciones",
-      "fuente": "Liberal Coatza",
-      "categoria": "coatzacoalcos",
-      "fecha": "2026-10-28 22:55",
-      "url": "https://liberal.com.mx/inicia-sev-con-la-estrategia-jornadas-veracruzanas-aprender-sin-distracciones/",
-      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Concluyen jóvenes  el segundo escalón del Servicio Militar Nacional 2026",
-      "fuente": "Liberal Coatza",
-      "categoria": "coatzacoalcos",
-      "fecha": "2026-10-28 22:55",
-      "url": "https://liberal.com.mx/concluyen-jovenes-el-segundo-escalon-del-servicio-militar-nacional-2026/",
-      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Charlyn Corral, reconocida como la mejor delantera del año en el balón de oro 2026",
-      "fuente": "Liberal Coatza",
-      "categoria": "coatzacoalcos",
-      "fecha": "2026-10-28 22:55",
-      "url": "https://liberal.com.mx/charlyn-corral-reconocida-como-la-mejor-delantera-del-ano-en-el-balon-de-oro-2026/",
-      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Protestas transportistas son por beneficios fiscales: Claudia Sheinbaum",
-      "fuente": "Liberal Coatza",
-      "categoria": "coatzacoalcos",
-      "fecha": "2026-10-28 22:55",
-      "url": "https://liberal.com.mx/protestas-transportistas-son-por-beneficios-fiscales-claudia-sheinbaum/",
-      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "DELFINES DE SOTAVENTO CIERRA CON FUERZA Y SE QUEDA CON EL PUNTO EXTRA",
-      "fuente": "Liberal Coatza",
-      "categoria": "coatzacoalcos",
-      "fecha": "2026-10-28 22:55",
-      "url": "https://liberal.com.mx/delfines-de-sotavento-cierra-con-fuerza-y-se-queda-con-el-punto-extra/",
-      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "EL PECADO DE LA REBELIÓN O LA OBSTINACIÓN",
-      "fuente": "Liberal Coatza",
-      "categoria": "coatzacoalcos",
-      "fecha": "2026-10-28 22:55",
-      "url": "https://liberal.com.mx/el-pecado-de-la-rebelion-o-la-obstinacion/",
-      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "CON ENTREGA DE BECAS, CRÉDITOS Y VIVIENDA, LA PRESIDENTA CLAUDIA SHEINBAUM CONCLUYE PRODUCTIVA GIRA POR COLIMA Y MICHOAC",
-      "fuente": "Liberal Coatza",
-      "categoria": "coatzacoalcos",
-      "fecha": "2026-10-28 22:55",
-      "url": "https://liberal.com.mx/con-entrega-de-becas-creditos-y-vivienda-la-presidenta-claudia-sheinbaum-concluye-productiva-gira-por-colima-y-michoacan/",
-      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Veracruz moviliza el 27% de la carga portuaria nacional e impulsa inversión y empleo",
+      "titulo": "Descubren en Michoacán 50 huellas del que habría sido un dinosaurio carnívoro",
       "fuente": "Municipio Sur",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-10-28 22:55",
-      "url": "https://municipiosur.com/2026/10/28/veracruz-moviliza-el-27-de-la-carga-portuaria-nacional-e-impulsa-inversion-y-empleo/",
-      "imagen": "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Reforesta Sedema 3.5 hectáreas en el ejido Las Vigas con 3 mil 500 árboles",
-      "fuente": "Municipio Sur",
-      "categoria": "coatzacoalcos",
-      "fecha": "2026-10-28 22:55",
-      "url": "https://municipiosur.com/2026/10/28/reforesta-sedema-3-5-hectareas-en-el-ejido-las-vigas-con-3-mil-500-arboles/",
+      "fecha": "2026-10-29 13:52",
+      "url": "https://municipiosur.com/2026/10/29/descubren-en-michoacan-50-huellas-del-que-habria-sido-un-dinosaurio-carnivoro/",
       "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "CEETRAVER coordina dos donaciones multiorgánicas en el CAE de Xalapa",
+      "titulo": "¿El nuevo auto volador presentado por Tesla podría contaminar mas que un carro convencional?",
       "fuente": "Municipio Sur",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-10-28 22:55",
-      "url": "https://municipiosur.com/2026/10/28/ceetraver-coordina-dos-donaciones-multiorganicas-en-el-cae-de-xalapa/",
-      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Este miércoles disfruta del Desfile Monumental Almas del Mictlán",
-      "fuente": "Municipio Sur",
-      "categoria": "coatzacoalcos",
-      "fecha": "2026-10-28 22:55",
-      "url": "https://municipiosur.com/2026/10/28/este-miercoles-disfruta-del-desfile-monumental-almas-del-mictlan/",
-      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Elementos de la SSP obtienen medallas de oro, plata y bronce en los Juegos Europeos de Policías y Bomberos",
-      "fuente": "Municipio Sur",
-      "categoria": "coatzacoalcos",
-      "fecha": "2026-10-28 22:55",
-      "url": "https://municipiosur.com/2026/10/28/elementos-de-la-ssp-obtienen-medallas-de-oro-plata-y-bronce-en-los-juegos-europeos-de-policias-y-bomberos/",
-      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Cirilo Vázquez Parissi, le da mantenimiento a la carretera Transístmica, a la altura de la colonia Naranjito, en el carr",
-      "fuente": "Municipio Sur",
-      "categoria": "coatzacoalcos",
-      "fecha": "2026-10-28 22:55",
-      "url": "https://municipiosur.com/2026/10/28/cirilo-vazquez-parissi-le-da-mantenimiento-a-la-carretera-transistmica-a-la-altura-de-la-colonia-naranjito-en-el-carril-minatitlan-cosoleacaque-el-presidente-municipal-tambien-ordeno-un-ba/",
+      "fecha": "2026-10-29 13:52",
+      "url": "https://municipiosur.com/2026/10/29/el-nuevo-auto-volador-presentado-por-tesla-podria-contaminar-mas-que-un-carro-convencional/",
       "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
       "prioridad": 1
     }
@@ -150,7 +141,7 @@
       "titulo": "Anuncia la gobernadora un aumento de $500 millones al presupuesto del campo",
       "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-10-28 22:55",
+      "fecha": "2026-10-29 13:52",
       "url": "https://jornadaveracruz.com.mx/aumento-presupuesto-campo-veracruz-2027/",
       "imagen": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800",
       "prioridad": 3
@@ -159,25 +150,61 @@
       "titulo": "Se alistan las plantillas de 61 hospitales para contratar personal médico: Nahle",
       "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-10-28 22:55",
+      "fecha": "2026-10-29 13:52",
       "url": "https://jornadaveracruz.com.mx/veracruz-revisara-plantillas-61-hospitales-contratacion-medicos/",
       "imagen": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800",
       "prioridad": 3
     },
     {
-      "titulo": "Realizan reforestación  con causa en parque  La Noria de Coatzacoalcos",
-      "fuente": "Liberal del Sur",
+      "titulo": "Cables colgados y sobre el pavimento dejan dos motociclistas lesionados en Coatzacoalcos",
+      "fuente": "Golpe Politico",
       "categoria": "veracruz",
-      "fecha": "2026-10-28 22:55",
-      "url": "https://liberal.com.mx/realizan-reforestacion-con-causa-en-parque-la-noria-de-coatzacoalcos/",
+      "fecha": "2026-10-29 13:52",
+      "url": "https://golpepolitico.com/2026/10/28/cables-colgados-y-sobre-el-pavimento-dejan-dos-motociclistas-lesionados-en-coatzacoalcos/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 2
+    },
+    {
+      "titulo": "Siamo tutti antifascisti!",
+      "fuente": "Jornada Veracruz",
+      "categoria": "veracruz",
+      "fecha": "2026-10-29 13:52",
+      "url": "https://jornadaveracruz.com.mx/movimientos-estudiantiles-antifascistas-2026/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Entregan comedor escolar en secundaria de Poza Rica",
+      "fuente": "Jornada Veracruz",
+      "categoria": "veracruz",
+      "fecha": "2026-10-29 13:52",
+      "url": "https://jornadaveracruz.com.mx/entregan-comedor-escolar-secundaria-poza-rica/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Cierre de calles en el centro de Xalapa por carrera nocturna este viernes",
+      "fuente": "Jornada Veracruz",
+      "categoria": "veracruz",
+      "fecha": "2026-10-29 13:52",
+      "url": "https://jornadaveracruz.com.mx/cierres-viales-xalapa-carrera-nocturna-octubre/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Muere Cuauhtémoc Cárdenas a los 92 años, fundador del PRD y referente de la izquierda mexicana",
+      "fuente": "Jornada Veracruz",
+      "categoria": "veracruz",
+      "fecha": "2026-10-29 13:52",
+      "url": "https://jornadaveracruz.com.mx/muere-cuauhtemoc-cardenas-92-anos/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
     },
     {
       "titulo": "Abogados de Naasón Joaquín, líder de La Luz del Mundo: el único delito del que se le podía acusar era pertenecer a una s",
       "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-10-28 22:55",
+      "fecha": "2026-10-29 13:52",
       "url": "https://jornadaveracruz.com.mx/caso-naason-joaquin-jueza-rechaza-mociones-defensa/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
@@ -186,7 +213,7 @@
       "titulo": "En cateo incautan droga y diversos objetos, en Coatza",
       "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-10-28 22:55",
+      "fecha": "2026-10-29 13:52",
       "url": "https://jornadaveracruz.com.mx/cateo-coatzacoalcos-presunta-droga-vapeadores/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
@@ -195,125 +222,161 @@
       "titulo": "Paciente recurre a amparo para tener atención integral",
       "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-10-28 22:55",
+      "fecha": "2026-10-29 13:52",
       "url": "https://jornadaveracruz.com.mx/paciente-amparo-atencion-integral-imss-veracruz/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Multan a alcoholera por contaminar afluentes de Cosamaloapan en junio",
-      "fuente": "Jornada Veracruz",
-      "categoria": "veracruz",
-      "fecha": "2026-10-28 22:55",
-      "url": "https://jornadaveracruz.com.mx/multa-alcoholera-cosamaloapan-contaminacion-rios/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "En el país, 80% de casas no responden al clima por la autoconstrucción: arquitecto",
-      "fuente": "Jornada Veracruz",
-      "categoria": "veracruz",
-      "fecha": "2026-10-28 22:55",
-      "url": "https://jornadaveracruz.com.mx/autoconstruccion-viviendas-mexico-clima-arquitectura/",
-      "imagen": "https://images.unsplash.com/photo-1504608524841-42584120d693?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Efecto neutro a las finanzas públicas por subsidios a los combustible, señala SHCP",
-      "fuente": "Jornada Veracruz",
-      "categoria": "veracruz",
-      "fecha": "2026-10-28 22:55",
-      "url": "https://jornadaveracruz.com.mx/subsidios-combustibles-finanzas-publicas-shcp-2026/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Logra Segob acuerdo con transportistas para terminar con los bloqueos",
-      "fuente": "Jornada Veracruz",
-      "categoria": "veracruz",
-      "fecha": "2026-10-28 22:55",
-      "url": "https://jornadaveracruz.com.mx/segob-acuerdo-transportistas-liberar-bloqueos-carreteras/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Panteones de la zona centro preparan sus espacios para el reencuentro con la memoria",
+      "titulo": "Economía mexicana gana ‘momentum’ y preserva alza al tercer trimestre: Edgar Amador",
       "fuente": "Golpe Politico",
       "categoria": "veracruz",
-      "fecha": "2026-10-28 22:55",
-      "url": "https://golpepolitico.com/2026/10/28/panteones-de-la-zona-centro-preparan-sus-espacios-para-el-reencuentro-con-la-memoria/",
+      "fecha": "2026-10-29 13:52",
+      "url": "https://golpepolitico.com/2026/10/29/economia-mexicana-gana-momentum-y-preserva-alza-al-tercer-trimestre-edgar-amador/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Saldo a favor: cómo saber si el SAT te debe dinero",
+      "titulo": "Los pecaditos y los pecadotes de Taddei",
       "fuente": "Golpe Politico",
       "categoria": "veracruz",
-      "fecha": "2026-10-28 22:55",
-      "url": "https://golpepolitico.com/2026/10/28/saldo-a-favor-como-saber-si-el-sat-te-debe-dinero/",
+      "fecha": "2026-10-29 13:52",
+      "url": "https://golpepolitico.com/2026/10/29/los-pecaditos-y-los-pecadotes-de-taddei/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Fiscalía de Veracruz reporta 55 resoluciones judiciales en 24 horas",
+      "titulo": "INE busca una nueva etapa de diálogo entre sus consejeros",
       "fuente": "Golpe Politico",
       "categoria": "veracruz",
-      "fecha": "2026-10-28 22:55",
-      "url": "https://golpepolitico.com/2026/10/28/fiscalia-de-veracruz-reporta-55-resoluciones-judiciales-en-24-horas/",
+      "fecha": "2026-10-29 13:52",
+      "url": "https://golpepolitico.com/2026/10/29/ine-busca-una-nueva-etapa-de-dialogo-entre-sus-consejeros/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Con 41 votos a favor y 7 en contra, el Congreso de Veracruz aprobó los informes individuales y el Informe General Ejecut",
+      "titulo": "Seguimiento en Sinaloa",
       "fuente": "Golpe Politico",
       "categoria": "veracruz",
-      "fecha": "2026-10-28 22:55",
-      "url": "https://golpepolitico.com/2026/10/28/con-41-votos-a-favor-y-7-en-contra-el-congreso-de-veracruz-aprobo-los-informes-individuales-y-el-informe-general-ejecutivo-de-la-cuenta-publica-2025/",
+      "fecha": "2026-10-29 13:52",
+      "url": "https://golpepolitico.com/2026/10/29/seguimiento-en-sinaloa/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Familiares de Ingrid Azul alzan la voz y exigen justicia en Xalapa",
+      "titulo": "Transformador de la historia",
       "fuente": "Golpe Politico",
       "categoria": "veracruz",
-      "fecha": "2026-10-28 22:55",
-      "url": "https://golpepolitico.com/2026/10/28/familiares-de-ingrid-azul-alzan-la-voz-y-exigen-justicia-en-xalapa/",
+      "fecha": "2026-10-29 13:52",
+      "url": "https://golpepolitico.com/2026/10/29/transformador-de-la-historia/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Cuenta Pública 2025 será aprobada; ORFIS deberá proceder por presuntas irregularidades: Esteban Bautista",
+      "titulo": "Actopan participa en el Desfile Monumental Almas del Mictlán en Xalapa",
       "fuente": "Golpe Politico",
       "categoria": "veracruz",
-      "fecha": "2026-10-28 22:55",
-      "url": "https://golpepolitico.com/2026/10/28/cuenta-publica-2025-sera-aprobada-orfis-debera-proceder-por-presuntas-irregularidades-esteban-bautista/",
+      "fecha": "2026-10-29 13:52",
+      "url": "https://golpepolitico.com/2026/10/29/actopan-participa-en-el-desfile-monumental-almas-del-mictlan-en-xalapa/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Fiscalía de Veracruz reporta 120 sentencias condenatorias en una semana",
+      "titulo": "¡Adiós a un gigante de la izquierda!",
       "fuente": "Golpe Politico",
       "categoria": "veracruz",
-      "fecha": "2026-10-28 22:55",
-      "url": "https://golpepolitico.com/2026/10/28/fiscalia-de-veracruz-reporta-120-sentencias-condenatorias-en-una-semana/",
+      "fecha": "2026-10-29 13:52",
+      "url": "https://golpepolitico.com/2026/10/28/adios-a-un-gigante-de-la-izquierda/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Diputado de Morena asegura que vigilarán la Cuenta Pública 2025 de Veracruz",
+      "titulo": "Ataque armado deja a un hombre herido en bar de Cosoleacaque",
       "fuente": "Golpe Politico",
       "categoria": "veracruz",
-      "fecha": "2026-10-28 22:55",
-      "url": "https://golpepolitico.com/2026/10/28/diputado-de-morena-asegura-que-vigilaran-la-cuenta-publica-2025-de-veracruz/",
+      "fecha": "2026-10-29 13:52",
+      "url": "https://golpepolitico.com/2026/10/28/ataque-armado-deja-a-un-hombre-herido-en-bar-de-cosoleacaque/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Choque entre motocicleta y automóvil provoca afectaciones viales en Xalapa",
+      "titulo": "Carrera nocturna traerá cierres al centro de Xalapa este viernes",
       "fuente": "Golpe Politico",
       "categoria": "veracruz",
-      "fecha": "2026-10-28 22:55",
-      "url": "https://golpepolitico.com/2026/10/28/choque-entre-motocicleta-y-automovil-provoca-afectaciones-viales-en-xalapa/",
+      "fecha": "2026-10-29 13:52",
+      "url": "https://golpepolitico.com/2026/10/28/carrera-nocturna-traera-cierres-al-centro-de-xalapa-este-viernes/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "En duelo, la comunidad  dancística de Veracruz",
+      "fuente": "Liberal del Sur",
+      "categoria": "veracruz",
+      "fecha": "2026-10-29 13:52",
+      "url": "https://liberal.com.mx/en-duelo-la-comunidad-dancistica-de-veracruz/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Rescatan tradiciones mexicanas con altares en primaria de Lomas",
+      "fuente": "Liberal del Sur",
+      "categoria": "veracruz",
+      "fecha": "2026-10-29 13:52",
+      "url": "https://liberal.com.mx/rescatan-tradiciones-mexicanas-con-altares-en-primaria-de-lomas/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Prevén noviembre  y diciembre más lluvias en Veracruz",
+      "fuente": "Liberal del Sur",
+      "categoria": "veracruz",
+      "fecha": "2026-10-29 13:52",
+      "url": "https://liberal.com.mx/preven-noviembre-y-diciembre-mas-lluvias-en-veracruz/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Implementan operativo  para verificar transporte público y motocicletas",
+      "fuente": "Liberal del Sur",
+      "categoria": "veracruz",
+      "fecha": "2026-10-29 13:52",
+      "url": "https://liberal.com.mx/implementan-operativo-para-verificar-transporte-publico-y-motocicletas/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Cosoleacaque mantiene  trabajos de bacheo para mejorar la circulación vial",
+      "fuente": "Liberal del Sur",
+      "categoria": "veracruz",
+      "fecha": "2026-10-29 13:52",
+      "url": "https://liberal.com.mx/cosoleacaque-mantiene-trabajos-de-bacheo-para-mejorar-la-circulacion-vial/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Docentes de los CECyTEV regresaron a las aulas",
+      "fuente": "Liberal del Sur",
+      "categoria": "veracruz",
+      "fecha": "2026-10-29 13:52",
+      "url": "https://liberal.com.mx/docentes-de-los-cecytev-regresaron-a-las-aulas/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Alonso Olvera se fue alegre  y con mi bendición: Esposa",
+      "fuente": "Liberal del Sur",
+      "categoria": "veracruz",
+      "fecha": "2026-10-29 13:52",
+      "url": "https://liberal.com.mx/alonso-olvera-se-fue-alegre-y-con-mi-bendicion-esposa/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Invitan a disfrutar la  exhibición de altares",
+      "fuente": "Liberal del Sur",
+      "categoria": "veracruz",
+      "fecha": "2026-10-29 13:52",
+      "url": "https://liberal.com.mx/invitan-a-disfrutar-la-exhibicion-de-altares/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
@@ -321,80 +384,8 @@
       "titulo": "¡DA CLIC PARA LEER NUESTRA EDICIÓN DEL DÍA!",
       "fuente": "Liberal del Sur",
       "categoria": "veracruz",
-      "fecha": "2026-10-28 22:55",
+      "fecha": "2026-10-29 13:52",
       "url": "https://liberal.com.mx/da-clic-para-leer-nuestra-edicion-del-dia/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "La presidenta Claudia Sheinbaum presenta plan de 120 días para fortalecer el IMSS con equipos y contrataciones",
-      "fuente": "Liberal del Sur",
-      "categoria": "veracruz",
-      "fecha": "2026-10-28 22:55",
-      "url": "https://liberal.com.mx/la-presidenta-claudia-sheinbaum-presenta-plan-de-120-dias-para-fortalecer-el-imss-con-equipos-y-contrataciones/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Inicia SEV con la estrategia Jornadas Veracruzanas  Aprender sin distracciones",
-      "fuente": "Liberal del Sur",
-      "categoria": "veracruz",
-      "fecha": "2026-10-28 22:55",
-      "url": "https://liberal.com.mx/inicia-sev-con-la-estrategia-jornadas-veracruzanas-aprender-sin-distracciones/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Concluyen jóvenes  el segundo escalón del Servicio Militar Nacional 2026",
-      "fuente": "Liberal del Sur",
-      "categoria": "veracruz",
-      "fecha": "2026-10-28 22:55",
-      "url": "https://liberal.com.mx/concluyen-jovenes-el-segundo-escalon-del-servicio-militar-nacional-2026/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Charlyn Corral, reconocida como la mejor delantera del año en el balón de oro 2026",
-      "fuente": "Liberal del Sur",
-      "categoria": "veracruz",
-      "fecha": "2026-10-28 22:55",
-      "url": "https://liberal.com.mx/charlyn-corral-reconocida-como-la-mejor-delantera-del-ano-en-el-balon-de-oro-2026/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Protestas transportistas son por beneficios fiscales: Claudia Sheinbaum",
-      "fuente": "Liberal del Sur",
-      "categoria": "veracruz",
-      "fecha": "2026-10-28 22:55",
-      "url": "https://liberal.com.mx/protestas-transportistas-son-por-beneficios-fiscales-claudia-sheinbaum/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "DELFINES DE SOTAVENTO CIERRA CON FUERZA Y SE QUEDA CON EL PUNTO EXTRA",
-      "fuente": "Liberal del Sur",
-      "categoria": "veracruz",
-      "fecha": "2026-10-28 22:55",
-      "url": "https://liberal.com.mx/delfines-de-sotavento-cierra-con-fuerza-y-se-queda-con-el-punto-extra/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "EL PECADO DE LA REBELIÓN O LA OBSTINACIÓN",
-      "fuente": "Liberal del Sur",
-      "categoria": "veracruz",
-      "fecha": "2026-10-28 22:55",
-      "url": "https://liberal.com.mx/el-pecado-de-la-rebelion-o-la-obstinacion/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "CON ENTREGA DE BECAS, CRÉDITOS Y VIVIENDA, LA PRESIDENTA CLAUDIA SHEINBAUM CONCLUYE PRODUCTIVA GIRA POR COLIMA Y MICHOAC",
-      "fuente": "Liberal del Sur",
-      "categoria": "veracruz",
-      "fecha": "2026-10-28 22:55",
-      "url": "https://liberal.com.mx/con-entrega-de-becas-creditos-y-vivienda-la-presidenta-claudia-sheinbaum-concluye-productiva-gira-por-colima-y-michoacan/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     }
