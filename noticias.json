@@ -4,17 +4,8 @@
       "titulo": "Rocío Nahle arranca el  servicio Papaloapan para  atender la movilidad de  más de 60 mil usuarios",
       "fuente": "Liberal Coatza",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-11-01 13:57",
+      "fecha": "2026-11-01 22:32",
       "url": "https://liberal.com.mx/rocio-nahle-arranca-el-servicio-papaloapan-para-atender-la-movilidad-de-mas-de-60-mil-usuarios/",
-      "imagen": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800",
-      "prioridad": 3
-    },
-    {
-      "titulo": "Encabeza Rocío Nahle entrega de apoyos de 400 mil pesos para vivienda segura en la Huasteca",
-      "fuente": "Municipio Sur",
-      "categoria": "coatzacoalcos",
-      "fecha": "2026-11-01 13:57",
-      "url": "https://municipiosur.com/2026/10/31/encabeza-rocio-nahle-entrega-de-apoyos-de-400-mil-pesos-para-vivienda-segura-en-la-huasteca/",
       "imagen": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800",
       "prioridad": 3
     },
@@ -22,16 +13,25 @@
       "titulo": "Tras 10 años sin dragado,  atienden canal de Nueva  Calzadas; vecino reconoce trabajo de Pedro Miguel",
       "fuente": "Liberal Coatza",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-11-01 13:57",
+      "fecha": "2026-11-01 22:32",
       "url": "https://liberal.com.mx/tras-10-anos-sin-dragado-atienden-canal-de-nueva-calzadas-vecino-reconoce-trabajo-de-pedro-miguel/",
       "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
+      "prioridad": 2
+    },
+    {
+      "titulo": "Una hembra de ocelote acompañada de su cría fue captada por cámaras del Parque Ecológico Jaguaroundi, de Coatzacoalcos. ",
+      "fuente": "Municipio Sur",
+      "categoria": "coatzacoalcos",
+      "fecha": "2026-11-01 22:32",
+      "url": "https://municipiosur.com/2026/11/01/una-hembra-de-ocelote-acompanada-de-su-cria-fue-captada-por-camaras-del-parque-ecologico-jaguaroundi-de-coatzacoalcos-dicho-registro-confirma-la-importancia-de-este-espacio-natural-como-refugio-para/",
+      "imagen": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=800",
       "prioridad": 2
     },
     {
       "titulo": "¡DA CLIC PARA LEER NUESTRA EDICIÓN DEL DÍA!",
       "fuente": "Liberal Coatza",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-11-01 13:57",
+      "fecha": "2026-11-01 22:32",
       "url": "https://liberal.com.mx/da-clic-para-leer-nuestra-edicion-del-dia/",
       "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
       "prioridad": 1
@@ -40,7 +40,7 @@
       "titulo": "INICIA DISTRIBUCIÓN DE 47 EQUIPOS MÉDICOS EN 39 HOSPITALES",
       "fuente": "Liberal Coatza",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-11-01 13:57",
+      "fecha": "2026-11-01 22:32",
       "url": "https://liberal.com.mx/inicia-distribucion-de-47-equipos-medicos-en-39-hospitales/",
       "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
       "prioridad": 1
@@ -49,7 +49,7 @@
       "titulo": "LOS ECOS DE CUANDO AURELIANO HABLA",
       "fuente": "Liberal Coatza",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-11-01 13:57",
+      "fecha": "2026-11-01 22:32",
       "url": "https://liberal.com.mx/los-ecos-de-cuando-aureliano-habla/",
       "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
       "prioridad": 1
@@ -58,7 +58,7 @@
       "titulo": "Con calaveras monumentales  y catrinas adornan el centro",
       "fuente": "Liberal Coatza",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-11-01 13:57",
+      "fecha": "2026-11-01 22:32",
       "url": "https://liberal.com.mx/con-calaveras-monumentales-y-catrinas-adornan-el-centro/",
       "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
       "prioridad": 1
@@ -67,7 +67,7 @@
       "titulo": "Ejecutan a joven en festejos de  San Judas Tadeo en Xalapa",
       "fuente": "Liberal Coatza",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-11-01 13:57",
+      "fecha": "2026-11-01 22:32",
       "url": "https://liberal.com.mx/ejecutan-a-joven-en-festejos-de-san-judas-tadeo-en-xalapa/",
       "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
       "prioridad": 1
@@ -76,54 +76,18 @@
       "titulo": "Localizan cadáver  desmembrado en la Francisco Villa",
       "fuente": "Liberal Coatza",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-11-01 13:57",
+      "fecha": "2026-11-01 22:32",
       "url": "https://liberal.com.mx/localizan-cadaver-desmembrado-en-la-francisco-villa/",
       "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Monterrey y Tijuana empatan 3-3 en un intenso partido de la J15",
+      "titulo": "¡¡Catrinas Porteñas!!",
       "fuente": "Municipio Sur",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-11-01 13:57",
-      "url": "https://municipiosur.com/2026/10/31/monterrey-y-tijuana-empatan-3-3-en-un-intenso-partido-de-la-j15/",
+      "fecha": "2026-11-01 22:32",
+      "url": "https://municipiosur.com/2026/11/01/catrinas-portenas-2/",
       "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Chivas derrota 4-2 al Atlante en la Jornada 15 del Apertura 2026",
-      "fuente": "Municipio Sur",
-      "categoria": "coatzacoalcos",
-      "fecha": "2026-11-01 13:57",
-      "url": "https://municipiosur.com/2026/10/31/chivas-derrota-4-2-al-atlante-en-la-jornada-15-del-apertura-2026/",
-      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Federación, Estado y municipios dan seguimiento a construcción de viviendas en Veracruz",
-      "fuente": "Municipio Sur",
-      "categoria": "coatzacoalcos",
-      "fecha": "2026-11-01 13:57",
-      "url": "https://municipiosur.com/2026/10/31/federacion-estado-y-municipios-dan-seguimiento-a-construccion-de-viviendas-en-veracruz/",
-      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Veracruz comparte su riqueza cultural en el desfile del Festival Miquixtli 2026",
-      "fuente": "Municipio Sur",
-      "categoria": "coatzacoalcos",
-      "fecha": "2026-11-01 13:57",
-      "url": "https://municipiosur.com/2026/10/31/veracruz-comparte-su-riqueza-cultural-en-el-desfile-del-festival-miquixtli-2026/",
-      "imagen": "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Capacitación y coordinación, claves para enfrentar los retos de salud pública: Salud",
-      "fuente": "Municipio Sur",
-      "categoria": "coatzacoalcos",
-      "fecha": "2026-11-01 13:57",
-      "url": "https://municipiosur.com/2026/10/31/capacitacion-y-coordinacion-claves-para-enfrentar-los-retos-de-salud-publica-salud/",
-      "imagen": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=800",
       "prioridad": 1
     }
   ],
@@ -132,196 +96,178 @@
       "titulo": "Rocío Nahle arranca el  servicio Papaloapan para  atender la movilidad de  más de 60 mil usuarios",
       "fuente": "Liberal del Sur",
       "categoria": "veracruz",
-      "fecha": "2026-11-01 13:57",
+      "fecha": "2026-11-01 22:32",
       "url": "https://liberal.com.mx/rocio-nahle-arranca-el-servicio-papaloapan-para-atender-la-movilidad-de-mas-de-60-mil-usuarios/",
       "imagen": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800",
       "prioridad": 3
     },
     {
-      "titulo": "Motociclista derrapa al intentar esquivar un tope en Coatzacoalcos",
+      "titulo": "Tradición y creatividad dan vida al Concurso de Catrinas en Coatzacoalcos",
       "fuente": "Golpe Politico",
       "categoria": "veracruz",
-      "fecha": "2026-11-01 13:57",
-      "url": "https://golpepolitico.com/2026/10/31/motociclista-derrapa-al-intentar-esquivar-un-tope-en-coatzacoalcos/",
+      "fecha": "2026-11-01 22:32",
+      "url": "https://golpepolitico.com/2026/11/01/tradicion-y-creatividad-dan-vida-al-concurso-de-catrinas-en-coatzacoalcos/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 2
-    },
-    {
-      "titulo": "Conductor de seguridad privada resulta lesionado tras chocar contra tres vehículos en Coatzacoalcos",
-      "fuente": "Golpe Politico",
-      "categoria": "veracruz",
-      "fecha": "2026-11-01 13:57",
-      "url": "https://golpepolitico.com/2026/10/31/conductor-de-seguridad-privada-resulta-lesionado-tras-chocar-contra-tres-vehiculos-en-coatzacoalcos/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 2
-    },
-    {
-      "titulo": "El alcalde de Úrsulo Galván, Pedro de Jesús Rosado Guzmán, inauguró el andador peatonal seguro con luminarias LED en la ",
-      "fuente": "Golpe Politico",
-      "categoria": "veracruz",
-      "fecha": "2026-11-01 13:57",
-      "url": "https://golpepolitico.com/2026/10/31/el-alcalde-de-ursulogalvan-pedro-de-jesus-rosado-guzman-inauguro-el-andador-peatonal-seguro-con-luminarias-led-en-la-entrada-a-la-comunidad-de-el-arenal/",
-      "imagen": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
       "prioridad": 2
     },
     {
       "titulo": "Tras 10 años sin dragado,  atienden canal de Nueva  Calzadas; vecino reconoce trabajo de Pedro Miguel",
       "fuente": "Liberal del Sur",
       "categoria": "veracruz",
-      "fecha": "2026-11-01 13:57",
+      "fecha": "2026-11-01 22:32",
       "url": "https://liberal.com.mx/tras-10-anos-sin-dragado-atienden-canal-de-nueva-calzadas-vecino-reconoce-trabajo-de-pedro-miguel/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 2
     },
     {
-      "titulo": "Contraportada del 1 de noviembre de 2026",
+      "titulo": "Adanely Rodríguez participa en reunión de seguimiento al programa vivienda para el bienestar",
       "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-11-01 13:57",
-      "url": "https://jornadaveracruz.com.mx/contraportada-del-1-de-noviembre-de-2026/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "fecha": "2026-11-01 22:32",
+      "url": "https://jornadaveracruz.com.mx/adanely-rodriguez-participa-en-reunion-de-seguimiento-al-programa-vivienda-para-el-bienestar/",
+      "imagen": "https://images.unsplash.com/photo-1542596594-649edbc13630?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Fallece policía herido durante enfrentamiento armado en Orizaba",
+      "titulo": "A la Rotonda de las Personas Ilustres, los restos del ingeniero Cárdenas",
       "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-11-01 13:57",
-      "url": "https://jornadaveracruz.com.mx/fallece-policia-herido-durante-enfrentamiento-armado-en-orizaba/",
+      "fecha": "2026-11-01 22:32",
+      "url": "https://jornadaveracruz.com.mx/a-la-rotonda-de-las-personas-ilustres-los-restos-del-ingeniero-cardenas/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Se monitorean condiciones de arrecifes, justifican Semar y Asipona ante obras",
+      "titulo": "La Herradura en Xalapa, recinto de leyendas locales",
       "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-11-01 13:57",
-      "url": "https://jornadaveracruz.com.mx/semar-asipona-monitoreo-arrecifes-obras-puerto-veracruz/",
-      "imagen": "https://images.unsplash.com/photo-1503387762-592deb58ef4e?w=800",
+      "fecha": "2026-11-01 22:32",
+      "url": "https://jornadaveracruz.com.mx/la-herradura-en-xalapa-recinto-de-leyendas-locales/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Prohíben las “rodadas del terror” en Úrsulo Galván",
+      "titulo": "Estiman inicio de labores del Servicio Atenas en noviembre",
       "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-11-01 13:57",
-      "url": "https://jornadaveracruz.com.mx/ursulo-galvan-prohibe-rodadas-del-terror-motociclistas/",
+      "fecha": "2026-11-01 22:32",
+      "url": "https://jornadaveracruz.com.mx/estiman-inicio-de-labores-del-servicio-atenas-en-noviembre/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Polémica por presunta corrupción del INE no perjudicará elección en Veracruz: vocal",
+      "titulo": "Por anomalías en gastos de campaña en pasada elección judicial, pone INE multas",
       "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-11-01 13:57",
-      "url": "https://jornadaveracruz.com.mx/ine-polemica-corrupcion-eleccion-veracruz-2026-2027/",
+      "fecha": "2026-11-01 22:32",
+      "url": "https://jornadaveracruz.com.mx/pone-ine-multas-por-anomalias-en-gastos-de-campana/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "En Orizaba, sindicato del IMSS pide convocar a congreso extraordinario",
+      "titulo": "Autoridades recolectan muestras de agua en Tecolutla y Cazones tras casos de irritación",
       "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-11-01 13:57",
-      "url": "https://jornadaveracruz.com.mx/sindicato-imss-orizaba-congreso-extraordinario/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Enseñan a aprovechar los residuos del cultivo del café",
-      "fuente": "Jornada Veracruz",
-      "categoria": "veracruz",
-      "fecha": "2026-11-01 13:57",
-      "url": "https://jornadaveracruz.com.mx/aprovechamiento-residuos-cafe-zongolica/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Reportan productores menos moscas del gusano barrenador del ganado en el estado",
-      "fuente": "Jornada Veracruz",
-      "categoria": "veracruz",
-      "fecha": "2026-11-01 13:57",
-      "url": "https://jornadaveracruz.com.mx/menos-moscas-gusano-barrenador-ganado-veracruz/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Cuenta pública 2025 de La Perla, con 10 mdp de probable daño patrimonial",
-      "fuente": "Jornada Veracruz",
-      "categoria": "veracruz",
-      "fecha": "2026-11-01 13:57",
-      "url": "https://jornadaveracruz.com.mx/orfis-probable-dano-patrimonial-la-perla-cuenta-publica-2025/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Habitantes de Riviera Veracruzana acusan retrasos en la entrega de pozos a la CAEV",
-      "fuente": "Jornada Veracruz",
-      "categoria": "veracruz",
-      "fecha": "2026-11-01 13:57",
-      "url": "https://jornadaveracruz.com.mx/riviera-veracruzana-retraso-entrega-pozos-caev-alvarado/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Entregan máquina corredora de limón a productores de Martínez de la Torre",
-      "fuente": "Golpe Politico",
-      "categoria": "veracruz",
-      "fecha": "2026-11-01 13:57",
-      "url": "https://golpepolitico.com/2026/11/01/entregan-maquina-corredora-de-limon-a-productores-de-martinez-de-la-torre/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Pierde visibilidad y choca contra muro divisorio del puente Macuiltépetl",
-      "fuente": "Golpe Politico",
-      "categoria": "veracruz",
-      "fecha": "2026-11-01 13:57",
-      "url": "https://golpepolitico.com/2026/11/01/pierde-visibilidad-y-choca-contra-muro-divisorio-del-puente-macuiltepetl/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Xalapa refuerza medidas sanitarias en panteones ante visita de 45 mil personas",
-      "fuente": "Golpe Politico",
-      "categoria": "veracruz",
-      "fecha": "2026-11-01 13:57",
-      "url": "https://golpepolitico.com/2026/10/31/xalapa-refuerza-medidas-sanitarias-en-panteones-ante-visita-de-45-mil-personas/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Marina inspecciona 11 embarcaciones en aguas y costas de Veracruz",
-      "fuente": "Golpe Politico",
-      "categoria": "veracruz",
-      "fecha": "2026-11-01 13:57",
-      "url": "https://golpepolitico.com/2026/10/31/marina-inspecciona-11-embarcaciones-en-aguas-y-costas-de-veracruz/",
+      "fecha": "2026-11-01 22:32",
+      "url": "https://jornadaveracruz.com.mx/recolectan-muestras-de-agua-en-tecolutla-y-cazones/",
       "imagen": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Chivas golea al Atlante en casa y apunta al liderato",
-      "fuente": "Golpe Politico",
+      "titulo": "Banco de basalto en Mozomboa prevé operar durante 15 años; reconoce impacto ambiental",
+      "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-11-01 13:57",
-      "url": "https://golpepolitico.com/2026/10/31/chivas-golea-al-atlante-en-casa-y-apunta-al-liderato/",
+      "fecha": "2026-11-01 22:32",
+      "url": "https://jornadaveracruz.com.mx/banco-de-basalto-en-mozomboa-preve-operar-durante-15-anos/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Atropellan a peatón en la colonia Ortiz Rubio, en Veracruz puerto",
+      "titulo": "Plataformas de hospedaje amenazan a la industria hotelera, advierten empresarios",
+      "fuente": "Jornada Veracruz",
+      "categoria": "veracruz",
+      "fecha": "2026-11-01 22:32",
+      "url": "https://jornadaveracruz.com.mx/plataformas-de-hospedaje-amenazan-a-la-industria-hotelera/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Reportan alza de 3.2% en la actividad económica; prevén crecimiento del PIB",
+      "fuente": "Jornada Veracruz",
+      "categoria": "veracruz",
+      "fecha": "2026-11-01 22:32",
+      "url": "https://jornadaveracruz.com.mx/reportan-alza-en-la-actividad-economica/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Familias visitan panteones de Xalapa para recordar a sus fieles difuntos",
       "fuente": "Golpe Politico",
       "categoria": "veracruz",
-      "fecha": "2026-11-01 13:57",
-      "url": "https://golpepolitico.com/2026/10/31/atropellan-a-peaton-en-la-colonia-ortiz-rubio-en-veracruz-puerto/",
-      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
+      "fecha": "2026-11-01 22:32",
+      "url": "https://golpepolitico.com/2026/11/01/familias-visitan-panteones-de-xalapa-para-recordar-a-sus-fieles-difuntos/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Incrementa la venta de flores afuera de los panteones.",
+      "fuente": "Golpe Politico",
+      "categoria": "veracruz",
+      "fecha": "2026-11-01 22:32",
+      "url": "https://golpepolitico.com/2026/11/01/incrementa-la-venta-de-flores-afuera-de-los-panteones/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Despliega Policía Municipal a una tercera parte de su corporación en panteones de Xalapa",
+      "fuente": "Golpe Politico",
+      "categoria": "veracruz",
+      "fecha": "2026-11-01 22:32",
+      "url": "https://golpepolitico.com/2026/11/01/despliega-policia-municipal-a-una-tercera-parte-de-su-corporacion-en-panteones-de-xalapa/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Familiares visitan a sus seres queridos en «Bosques del Recuerdo»",
+      "fuente": "Golpe Politico",
+      "categoria": "veracruz",
+      "fecha": "2026-11-01 22:32",
+      "url": "https://golpepolitico.com/2026/11/01/familiares-visitan-a-sus-seres-queridos-en-bosques-del-recuerdo/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Ya es una realidad el servicio Papaloapan, conectará de manera segura y eficiente los municipios de Carlos A. Carrillo y",
+      "fuente": "Golpe Politico",
+      "categoria": "veracruz",
+      "fecha": "2026-11-01 22:32",
+      "url": "https://golpepolitico.com/2026/11/01/ya-es-una-realidad-el-servicio-papaloapan-conectara-de-manera-segura-y-eficiente-los-municipios-de-carlos-a-carrillo-y-cosamaloapan/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Este domingo es el último día de la Feria del Tamal, Pan y Chocolate. Podrás disfrutar de estas delicias hasta las 9:00 ",
+      "fuente": "Golpe Politico",
+      "categoria": "veracruz",
+      "fecha": "2026-11-01 22:32",
+      "url": "https://golpepolitico.com/2026/11/01/este-domingo-es-el-ultimo-dia-de-la-feria-del-tamal-pan-y-chocolate-podras-disfrutar-de-estas-delicias-hasta-las-900-p-m/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Destaca IMSS Veracruz Norte importancia de salud bucal durante tratamiento contra cáncer de mama",
+      "fuente": "Golpe Politico",
+      "categoria": "veracruz",
+      "fecha": "2026-11-01 22:32",
+      "url": "https://golpepolitico.com/2026/11/01/destaca-imss-veracruz-norte-importancia-de-salud-bucal-durante-tratamiento-contra-cancer-de-mama/",
+      "imagen": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=800",
       "prioridad": 1
     },
     {
       "titulo": "¡DA CLIC PARA LEER NUESTRA EDICIÓN DEL DÍA!",
       "fuente": "Liberal del Sur",
       "categoria": "veracruz",
-      "fecha": "2026-11-01 13:57",
+      "fecha": "2026-11-01 22:32",
       "url": "https://liberal.com.mx/da-clic-para-leer-nuestra-edicion-del-dia/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
@@ -330,7 +276,7 @@
       "titulo": "INICIA DISTRIBUCIÓN DE 47 EQUIPOS MÉDICOS EN 39 HOSPITALES",
       "fuente": "Liberal del Sur",
       "categoria": "veracruz",
-      "fecha": "2026-11-01 13:57",
+      "fecha": "2026-11-01 22:32",
       "url": "https://liberal.com.mx/inicia-distribucion-de-47-equipos-medicos-en-39-hospitales/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
@@ -339,7 +285,7 @@
       "titulo": "LOS ECOS DE CUANDO AURELIANO HABLA",
       "fuente": "Liberal del Sur",
       "categoria": "veracruz",
-      "fecha": "2026-11-01 13:57",
+      "fecha": "2026-11-01 22:32",
       "url": "https://liberal.com.mx/los-ecos-de-cuando-aureliano-habla/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
@@ -348,7 +294,7 @@
       "titulo": "Con calaveras monumentales  y catrinas adornan el centro",
       "fuente": "Liberal del Sur",
       "categoria": "veracruz",
-      "fecha": "2026-11-01 13:57",
+      "fecha": "2026-11-01 22:32",
       "url": "https://liberal.com.mx/con-calaveras-monumentales-y-catrinas-adornan-el-centro/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
@@ -357,7 +303,7 @@
       "titulo": "Ejecutan a joven en festejos de  San Judas Tadeo en Xalapa",
       "fuente": "Liberal del Sur",
       "categoria": "veracruz",
-      "fecha": "2026-11-01 13:57",
+      "fecha": "2026-11-01 22:32",
       "url": "https://liberal.com.mx/ejecutan-a-joven-en-festejos-de-san-judas-tadeo-en-xalapa/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
@@ -366,7 +312,7 @@
       "titulo": "Localizan cadáver  desmembrado en la Francisco Villa",
       "fuente": "Liberal del Sur",
       "categoria": "veracruz",
-      "fecha": "2026-11-01 13:57",
+      "fecha": "2026-11-01 22:32",
       "url": "https://liberal.com.mx/localizan-cadaver-desmembrado-en-la-francisco-villa/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
