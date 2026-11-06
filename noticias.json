@@ -1,10 +1,19 @@
 {
   "coatzacoalcos": [
     {
+      "titulo": "Nahle reconoce la  autonomía del OPLE",
+      "fuente": "Liberal Coatza",
+      "categoria": "coatzacoalcos",
+      "fecha": "2026-11-06 14:43",
+      "url": "https://liberal.com.mx/nahle-reconoce-la-autonomia-del-ople/",
+      "imagen": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800",
+      "prioridad": 3
+    },
+    {
       "titulo": "Refuerzan rehabilitación  de calles en Coatzacoalcos",
       "fuente": "Liberal Coatza",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-11-05 15:04",
+      "fecha": "2026-11-06 14:43",
       "url": "https://liberal.com.mx/refuerzan-rehabilitacion-de-calles-en-coatzacoalcos/",
       "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
       "prioridad": 2
@@ -13,34 +22,25 @@
       "titulo": "Darla Karina soñaba con ser reina de la Feria Coatza; hoy su muerte conmociona a Coatzacoalcos",
       "fuente": "Liberal Coatza",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-11-05 15:04",
+      "fecha": "2026-11-06 14:43",
       "url": "https://liberal.com.mx/darla-karina-sonaba-con-ser-reina-de-la-feria-coatza-hoy-su-muerte-conmociona-a-coatzacoalcos/",
       "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
       "prioridad": 2
     },
     {
-      "titulo": "Darla Karina Báez Cruz, asesinada a puñalada en el fraccionamiento de Santa Martha, en Coatzacoalcos, fue aspirante a re",
-      "fuente": "Municipio Sur",
+      "titulo": "¡DA CLIC PARA LEER NUESTRA EDICIÓN DEL DÍA!",
+      "fuente": "Liberal Coatza",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-11-05 15:04",
-      "url": "https://municipiosur.com/2026/11/05/darla-karina-baez-cruz-asesinada-a-punalada-en-el-fraccionamiento-de-santa-martha-en-coatzacoalcos-fue-aspirante-a-reina-de-la-expo-feria-en-el-2024-quien-le-quito-la-vida-fue-su-pareja-sentimenta/",
+      "fecha": "2026-11-06 14:43",
+      "url": "https://liberal.com.mx/da-clic-para-leer-nuestra-edicion-del-dia/",
       "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
-      "prioridad": 2
-    },
-    {
-      "titulo": "Con múltiples heridas de arma blanca en el cuello fue localizada muerta una mujer de 25 años en el interior de su depart",
-      "fuente": "Municipio Sur",
-      "categoria": "coatzacoalcos",
-      "fecha": "2026-11-05 15:04",
-      "url": "https://municipiosur.com/2026/11/05/con-multiples-heridas-de-arma-blanca-en-el-cuello-fue-localizada-muerta-una-mujer-de-25-anos-en-el-interior-de-su-departamento-ubicado-en-el-fraccionamiento-santa-martha-al-poniente-de-la-ciudad-de/",
-      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
-      "prioridad": 2
+      "prioridad": 1
     },
     {
       "titulo": "Habilitan portal “Tu Fiscal  en Línea” para orientar  y atender a ciudadanía",
       "fuente": "Liberal Coatza",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-11-05 15:04",
+      "fecha": "2026-11-06 14:43",
       "url": "https://liberal.com.mx/habilitan-portal-tu-fiscal-en-linea-para-orientar-y-atender-a-ciudadania/",
       "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
       "prioridad": 1
@@ -49,17 +49,8 @@
       "titulo": "Comienza colocación  de bolardos en canales  a cielo abierto para  prevenir accidentes",
       "fuente": "Liberal Coatza",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-11-05 15:04",
+      "fecha": "2026-11-06 14:43",
       "url": "https://liberal.com.mx/comienza-colocacion-de-bolardos-en-canales-a-cielo-abierto-para-prevenir-accidentes/",
-      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "¡DA CLIC PARA LEER NUESTRA EDICIÓN DEL DÍA!",
-      "fuente": "Liberal Coatza",
-      "categoria": "coatzacoalcos",
-      "fecha": "2026-11-05 15:04",
-      "url": "https://liberal.com.mx/da-clic-para-leer-nuestra-edicion-del-dia/",
       "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
       "prioridad": 1
     },
@@ -67,7 +58,7 @@
       "titulo": "¿QUÉ ES EL DAÑO MORAL Y CÓMO SE CONFIGURA?",
       "fuente": "Liberal Coatza",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-11-05 15:04",
+      "fecha": "2026-11-06 14:43",
       "url": "https://liberal.com.mx/que-es-el-dano-moral-y-como-se-configura/",
       "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
       "prioridad": 1
@@ -76,45 +67,63 @@
       "titulo": "“DEJEMOS LA PANTALLA Y QUE COMIENCE A VOLAR NUESTRA IMAGINACIÓN”: PRESIDENTA CLAUDIA SHEINBAUM EN INICIO DE LA JORNADA N",
       "fuente": "Liberal Coatza",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-11-05 15:04",
+      "fecha": "2026-11-06 14:43",
       "url": "https://liberal.com.mx/dejemos-la-pantalla-y-que-comience-a-volar-nuestra-imaginacion-presidenta-claudia-sheinbaum-en-inicio-de-la-jornada-nacional-de-lectura/",
-      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Asfaltado del tramo   Pajapan-Peña Hermosa  será una realidad",
-      "fuente": "Liberal Coatza",
-      "categoria": "coatzacoalcos",
-      "fecha": "2026-11-05 15:04",
-      "url": "https://liberal.com.mx/asfaltado-del-tramo-pajapan-pena-hermosa-sera-una-realidad/",
       "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
       "prioridad": 1
     }
   ],
   "veracruz": [
     {
-      "titulo": "Atropellan a ciclista en Coatzacoalcos y reportan otros choques durante la huida del conductor",
+      "titulo": "La Gobernadora de Veracruz respalda a Sheinbaum y exige transparencia en señalamientos contra el INE",
       "fuente": "Golpe Politico",
       "categoria": "veracruz",
-      "fecha": "2026-11-05 15:04",
-      "url": "https://golpepolitico.com/2026/11/05/atropellan-a-ciclista-en-coatzacoalcos-y-reportan-otros-choques-durante-la-huida-del-conductor/",
+      "fecha": "2026-11-06 14:43",
+      "url": "https://golpepolitico.com/2026/11/05/la-gobernadora-de-veracruz-respalda-a-sheinbaum-y-exige-transparencia-en-senalamientos-contra-el-ine/",
+      "imagen": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800",
+      "prioridad": 3
+    },
+    {
+      "titulo": "Nahle reconoce la  autonomía del OPLE",
+      "fuente": "Liberal del Sur",
+      "categoria": "veracruz",
+      "fecha": "2026-11-06 14:43",
+      "url": "https://liberal.com.mx/nahle-reconoce-la-autonomia-del-ople/",
+      "imagen": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800",
+      "prioridad": 3
+    },
+    {
+      "titulo": "Ayuntamiento de Poza Rica llevará servicios municipales a Los Sauces",
+      "fuente": "Jornada Veracruz",
+      "categoria": "veracruz",
+      "fecha": "2026-11-06 14:43",
+      "url": "https://jornadaveracruz.com.mx/servicios-municipales-colonia-los-sauces-poza-rica/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 2
     },
     {
-      "titulo": "Ayuntamiento de Martínez de la Torre entrega obras en La Colmena, Pueblo Viejo 1 y Cuauhtémoc",
+      "titulo": "Uriel Peralta Barrios, alcalde de Paso de Ovejas, encabezó la entrega de tres obras de pavimentación con concreto hidráu",
       "fuente": "Golpe Politico",
       "categoria": "veracruz",
-      "fecha": "2026-11-05 15:04",
-      "url": "https://golpepolitico.com/2026/11/05/ayuntamiento-de-martinez-de-la-torre-entrega-obras-en-la-colmena-pueblo-viejo-1-y-cuauhtemoc/",
-      "imagen": "https://images.unsplash.com/photo-1503387762-592deb58ef4e?w=800",
+      "fecha": "2026-11-06 14:43",
+      "url": "https://golpepolitico.com/2026/11/05/uriel-peralta-barrios-alcalde-de-paso-de-ovejas-encabezo-la-entrega-de-tres-obras-de-pavimentacion-con-concreto-hidraulico/",
+      "imagen": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+      "prioridad": 2
+    },
+    {
+      "titulo": "Asiste el alcalde Eduardo Utrera al 28 aniversario del Instituto Tecnológico Superior de Xalapa",
+      "fuente": "Golpe Politico",
+      "categoria": "veracruz",
+      "fecha": "2026-11-06 14:43",
+      "url": "https://golpepolitico.com/2026/11/05/asiste-el-alcalde-eduardo-utrera-al-28-aniversario-del-instituto-tecnologico-superior-de-xalapa/",
+      "imagen": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
       "prioridad": 2
     },
     {
       "titulo": "Refuerzan rehabilitación  de calles en Coatzacoalcos",
       "fuente": "Liberal del Sur",
       "categoria": "veracruz",
-      "fecha": "2026-11-05 15:04",
+      "fecha": "2026-11-06 14:43",
       "url": "https://liberal.com.mx/refuerzan-rehabilitacion-de-calles-en-coatzacoalcos/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 2
@@ -123,161 +132,161 @@
       "titulo": "Darla Karina soñaba con ser reina de la Feria Coatza; hoy su muerte conmociona a Coatzacoalcos",
       "fuente": "Liberal del Sur",
       "categoria": "veracruz",
-      "fecha": "2026-11-05 15:04",
+      "fecha": "2026-11-06 14:43",
       "url": "https://liberal.com.mx/darla-karina-sonaba-con-ser-reina-de-la-feria-coatza-hoy-su-muerte-conmociona-a-coatzacoalcos/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 2
     },
     {
-      "titulo": "Pavimentan calle Matarredonda en la colonia Las Valentinas de Poza Rica",
+      "titulo": "Poza Rica concentra 40% de la actividad económica regional",
       "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-11-05 15:04",
-      "url": "https://jornadaveracruz.com.mx/pavimentacion-calle-matarredonda-las-valentinas-poza-rica/",
+      "fecha": "2026-11-06 14:43",
+      "url": "https://jornadaveracruz.com.mx/consejo-economico-regional-totonaca/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "FALANGES: Estados Unidos ante la reconfiguración del orden interno e internacional en la Tercera Modernidad**",
+      "titulo": "Armoniza Congreso legislación con nuevas fechas de la reforma constitucional",
       "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-11-05 15:04",
-      "url": "https://jornadaveracruz.com.mx/estados-unidos-reconfiguracion-poder-internacional-tercera-modernidad/",
+      "fecha": "2026-11-06 14:43",
+      "url": "https://jornadaveracruz.com.mx/congreso-veracruz-armoniza-leyes-reforma-constitucional/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Lo que la derecha tiene en el aparador",
+      "titulo": "Listo, el calendario de comparecencias para la Glosa del Segundo Informe de Gobierno",
       "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-11-05 15:04",
-      "url": "https://jornadaveracruz.com.mx/derecha-latinoamericana-voceros-fox-milei/",
+      "fecha": "2026-11-06 14:43",
+      "url": "https://jornadaveracruz.com.mx/calendario-comparecencias-segundo-informe-veracruz-2026/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "IMSS y Veracruz buscan atraer médicos especialistas al sur del estado",
+      "titulo": "Niegan acceso a hijo de vocera de mamás de niños con cáncer; pierde cita",
       "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-11-05 15:04",
-      "url": "https://jornadaveracruz.com.mx/imss-veracruz-contratacion-medicos-especialistas-sur/",
+      "fecha": "2026-11-06 14:43",
+      "url": "https://jornadaveracruz.com.mx/niegan-acceso-hijo-cora-rodriguez-torre-pediatrica/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Mantienen investigación por olor a gas y malestares de la salud, en Tecolutla",
+      "titulo": "Trabajan residentes médicos jornadas de más de 80 horas semanales: CNDH",
       "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-11-05 15:04",
-      "url": "https://jornadaveracruz.com.mx/olor-gas-tecolutla-investigan-malestares-salud/",
-      "imagen": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Prevén que regrese policía municipal a Río Blanco en diciembre, tras 7 años",
-      "fuente": "Jornada Veracruz",
-      "categoria": "veracruz",
-      "fecha": "2026-11-05 15:04",
-      "url": "https://jornadaveracruz.com.mx/regreso-policia-municipal-rio-blanco-diciembre/",
+      "fecha": "2026-11-06 14:43",
+      "url": "https://jornadaveracruz.com.mx/medicos-residentes-veracruz-jornadas-mas-80-horas/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Controlan incidente en ducto de Cenagas, activaron protocolo de seguridad a tiempo",
+      "titulo": "“Por iniciar, periodo más difícil para ganaderos”",
       "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-11-05 15:04",
-      "url": "https://jornadaveracruz.com.mx/fuga-ducto-cenagas-coatzacoalcos-reparacion/",
+      "fecha": "2026-11-06 14:43",
+      "url": "https://jornadaveracruz.com.mx/temporada-critica-ganaderos-sur-veracruz/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Fallece un trabajador en obra de drenaje pluvial de Amatlán, investigan las causas",
+      "titulo": "Echa a andar Turismo de Xalapa nueva plataforma",
       "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-11-05 15:04",
-      "url": "https://jornadaveracruz.com.mx/trabajador-muere-derrumbe-obra-drenaje-amatlan/",
-      "imagen": "https://images.unsplash.com/photo-1503387762-592deb58ef4e?w=800",
+      "fecha": "2026-11-06 14:43",
+      "url": "https://jornadaveracruz.com.mx/turismo-xalapa-nueva-plataforma-digital/",
+      "imagen": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Cortocircuitos provocan el 30% de los incendios en viviendas; instan a prevenir",
+      "titulo": "Veracruz promociona 45 destinos turísticos en publicación dirigida al mercado europeo",
       "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-11-05 15:04",
-      "url": "https://jornadaveracruz.com.mx/cortocircuitos-incendios-viviendas-veracruz-prevencion/",
+      "fecha": "2026-11-06 14:43",
+      "url": "https://jornadaveracruz.com.mx/veracruz-45-destinos-turisticos-mercado-europeo/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Reporta Conagua la primer helada de la temporada en Las Vigas este martes",
+      "titulo": "Vecinos rechazan apertura de “Mezontle” en Los Lagos",
       "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-11-05 15:04",
-      "url": "https://jornadaveracruz.com.mx/primera-helada-temporada-las-vigas-veracruz/",
+      "fecha": "2026-11-06 14:43",
+      "url": "https://jornadaveracruz.com.mx/vecinos-rechazan-bar-mezontle-los-lagos-xalapa/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Perote impulsa huertos escolares con entrega de hortalizas en dos instituciones educativas",
+      "fuente": "Golpe Politico",
+      "categoria": "veracruz",
+      "fecha": "2026-11-06 14:43",
+      "url": "https://golpepolitico.com/2026/11/05/perote-impulsa-huertos-escolares-con-entrega-de-hortalizas-en-dos-instituciones-educativas/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Aprueban modificaciones al programa de inversión del FAISMUN 2026 en sesión del Consejo de Desarrollo Municipal",
+      "fuente": "Golpe Politico",
+      "categoria": "veracruz",
+      "fecha": "2026-11-06 14:43",
+      "url": "https://golpepolitico.com/2026/11/05/aprueban-modificaciones-al-programa-de-inversion-del-faismun-2026-en-sesion-del-consejo-de-desarrollo-municipal/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Rehabilitan redes de agua potable y drenaje en dos colonias de Martínez de la Torre",
+      "fuente": "Golpe Politico",
+      "categoria": "veracruz",
+      "fecha": "2026-11-06 14:43",
+      "url": "https://golpepolitico.com/2026/11/05/rehabilitan-redes-de-agua-potable-y-drenaje-en-dos-colonias-de-martinez-de-la-torre/",
       "imagen": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "“Tu Fiscal en Línea” acercará los servicios de la Fiscalía General del Estado a los veracruzanos: Lisbeth Aurelia Jiméne",
+      "titulo": "Dos sujetos en moto roban 200 mil pesos del interior de una camioneta en Paso de Ovejas",
       "fuente": "Golpe Politico",
       "categoria": "veracruz",
-      "fecha": "2026-11-05 15:04",
-      "url": "https://golpepolitico.com/2026/11/05/tu-fiscal-en-linea-acercara-los-servicios-de-la-fiscalia-general-del-estado-a-los-veracruzanos-lisbeth-aurelia-jimenez-aguirre/",
+      "fecha": "2026-11-06 14:43",
+      "url": "https://golpepolitico.com/2026/11/05/dos-sujetos-en-moto-roban-200-mil-pesos-del-interior-de-una-camioneta-en-paso-de-ovejas/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Bloquean cuentas de Taddei; UIF congela además cuentas de los hermanos Hernández Casillas",
+      "titulo": "Recibe director de Golpe Político y Golpe Político TV a Sebastián Vázquez, fundador, integrante y vocalista de Súper Lam",
       "fuente": "Golpe Politico",
       "categoria": "veracruz",
-      "fecha": "2026-11-05 15:04",
-      "url": "https://golpepolitico.com/2026/11/05/bloquean-cuentas-de-taddei-uif-congela-ademas-cuentas-de-los-hermanos-hernandez-casillas/",
+      "fecha": "2026-11-06 14:43",
+      "url": "https://golpepolitico.com/2026/11/05/recibe-director-de-golpe-politico-y-golpe-politico-tv-a-sebastian-vazquez-fundador-integrante-y-vocalista-de-super-lamas/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "El gran ausente en Palacio Nacional",
+      "titulo": "Balean a trabajador durante asalto cerca de la Beneficencia Española, en Veracruz",
       "fuente": "Golpe Politico",
       "categoria": "veracruz",
-      "fecha": "2026-11-05 15:04",
-      "url": "https://golpepolitico.com/2026/11/05/el-gran-ausente-en-palacio-nacional/",
+      "fecha": "2026-11-06 14:43",
+      "url": "https://golpepolitico.com/2026/11/05/balean-a-trabajador-durante-asalto-cerca-de-la-beneficencia-espanola-en-veracruz/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Crece tensión en el Senado",
+      "titulo": "Con 78 citas de negocios, Veracruz concluyó su participación en el WTM de Londres",
       "fuente": "Golpe Politico",
       "categoria": "veracruz",
-      "fecha": "2026-11-05 15:04",
-      "url": "https://golpepolitico.com/2026/11/05/crece-tension-en-el-senado/",
+      "fecha": "2026-11-06 14:43",
+      "url": "https://golpepolitico.com/2026/11/05/con-78-citas-de-negocios-veracruz-concluyo-su-participacion-en-el-wtm-de-londres/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Pues no, no hay confianza en Lenia",
-      "fuente": "Golpe Politico",
+      "titulo": "¡DA CLIC PARA LEER NUESTRA EDICIÓN DEL DÍA!",
+      "fuente": "Liberal del Sur",
       "categoria": "veracruz",
-      "fecha": "2026-11-05 15:04",
-      "url": "https://golpepolitico.com/2026/11/05/pues-no-no-hay-confianza-en-lenia/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Solicitan donadores de sangre O positivo para Dainee Rosario Infanzón Álvarez en la ciudad de Veracruz",
-      "fuente": "Golpe Politico",
-      "categoria": "veracruz",
-      "fecha": "2026-11-05 15:04",
-      "url": "https://golpepolitico.com/2026/11/05/solicitan-donadores-de-sangre-o-positivo-para-dainee-rosario-infanzon-alvarez-en-la-ciudad-de-veracruz/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Darla Karina quiso ser reina de la Expo Feria y fue asesinada dos años después",
-      "fuente": "Golpe Politico",
-      "categoria": "veracruz",
-      "fecha": "2026-11-05 15:04",
-      "url": "https://golpepolitico.com/2026/11/05/darla-karina-quiso-ser-reina-de-la-expo-feria-y-fue-asesinada-dos-anos-despues/",
+      "fecha": "2026-11-06 14:43",
+      "url": "https://liberal.com.mx/da-clic-para-leer-nuestra-edicion-del-dia/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
@@ -285,7 +294,7 @@
       "titulo": "Habilitan portal “Tu Fiscal  en Línea” para orientar  y atender a ciudadanía",
       "fuente": "Liberal del Sur",
       "categoria": "veracruz",
-      "fecha": "2026-11-05 15:04",
+      "fecha": "2026-11-06 14:43",
       "url": "https://liberal.com.mx/habilitan-portal-tu-fiscal-en-linea-para-orientar-y-atender-a-ciudadania/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
@@ -294,17 +303,8 @@
       "titulo": "Comienza colocación  de bolardos en canales  a cielo abierto para  prevenir accidentes",
       "fuente": "Liberal del Sur",
       "categoria": "veracruz",
-      "fecha": "2026-11-05 15:04",
+      "fecha": "2026-11-06 14:43",
       "url": "https://liberal.com.mx/comienza-colocacion-de-bolardos-en-canales-a-cielo-abierto-para-prevenir-accidentes/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "¡DA CLIC PARA LEER NUESTRA EDICIÓN DEL DÍA!",
-      "fuente": "Liberal del Sur",
-      "categoria": "veracruz",
-      "fecha": "2026-11-05 15:04",
-      "url": "https://liberal.com.mx/da-clic-para-leer-nuestra-edicion-del-dia/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
@@ -312,7 +312,7 @@
       "titulo": "¿QUÉ ES EL DAÑO MORAL Y CÓMO SE CONFIGURA?",
       "fuente": "Liberal del Sur",
       "categoria": "veracruz",
-      "fecha": "2026-11-05 15:04",
+      "fecha": "2026-11-06 14:43",
       "url": "https://liberal.com.mx/que-es-el-dano-moral-y-como-se-configura/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
@@ -321,17 +321,8 @@
       "titulo": "“DEJEMOS LA PANTALLA Y QUE COMIENCE A VOLAR NUESTRA IMAGINACIÓN”: PRESIDENTA CLAUDIA SHEINBAUM EN INICIO DE LA JORNADA N",
       "fuente": "Liberal del Sur",
       "categoria": "veracruz",
-      "fecha": "2026-11-05 15:04",
+      "fecha": "2026-11-06 14:43",
       "url": "https://liberal.com.mx/dejemos-la-pantalla-y-que-comience-a-volar-nuestra-imaginacion-presidenta-claudia-sheinbaum-en-inicio-de-la-jornada-nacional-de-lectura/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Asfaltado del tramo   Pajapan-Peña Hermosa  será una realidad",
-      "fuente": "Liberal del Sur",
-      "categoria": "veracruz",
-      "fecha": "2026-11-05 15:04",
-      "url": "https://liberal.com.mx/asfaltado-del-tramo-pajapan-pena-hermosa-sera-una-realidad/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     }
