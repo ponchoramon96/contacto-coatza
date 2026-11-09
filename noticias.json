@@ -1,37 +1,55 @@
 {
   "coatzacoalcos": [
     {
-      "titulo": "Reconoce Javier May trabajo y resultados de Rocío Nahle",
-      "fuente": "Municipio Sur",
-      "categoria": "coatzacoalcos",
-      "fecha": "2026-11-08 22:37",
-      "url": "https://municipiosur.com/2026/11/08/reconoce-javier-may-trabajo-y-resultados-de-rocio-nahle/",
-      "imagen": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800",
-      "prioridad": 3
-    },
-    {
       "titulo": "Hallan manatí sin vida  en el río Coatzacoalcos",
       "fuente": "Liberal Coatza",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-11-08 22:37",
+      "fecha": "2026-11-09 17:01",
       "url": "https://liberal.com.mx/hallan-manati-sin-vida-en-el-rio-coatzacoalcos/",
       "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
       "prioridad": 2
     },
     {
-      "titulo": "Presentan el libro “Volver a ti”, de Margarita Poot. La invitación es reflexionar sobre la importancia de priorizar el b",
+      "titulo": "Banda de Guerra Venados de la Escuela Secundaria Técnica 19 de Coatzacoalcos, bajo la dirección del maestro Amado Montoy",
       "fuente": "Municipio Sur",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-11-08 22:37",
-      "url": "https://municipiosur.com/2026/11/08/presentan-el-libro-volver-a-ti-de-margarita-poot-la-invitacion-es-reflexionar-sobre-la-importancia-de-priorizar-el-bienestar-personal-la-presentacion-fue-realizada-por-la-jefatura/",
-      "imagen": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800",
+      "fecha": "2026-11-09 17:01",
+      "url": "https://municipiosur.com/2026/11/09/banda-de-guerra-venados-de-la-escuela-secundaria-tecnica-19-de-coatzacoalcos-bajo-la-direccion-del-maestro-amado-montoya-cisneros-destaco-tercera-copa-citlaltepetl-los-venados-son-el-gigante-de-la/",
+      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
       "prioridad": 2
+    },
+    {
+      "titulo": "A SANGRE Y FUEGO!! REMONTA SOTAVENTO 3-2 A CABALLEROS!",
+      "fuente": "Liberal Coatza",
+      "categoria": "coatzacoalcos",
+      "fecha": "2026-11-09 17:01",
+      "url": "https://liberal.com.mx/a-sangre-y-fuego-remonta-sotavento-3-2-a-caballeros/",
+      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Caen 20 integrantes de “Los Rs” en Jalisco",
+      "fuente": "Liberal Coatza",
+      "categoria": "coatzacoalcos",
+      "fecha": "2026-11-09 17:01",
+      "url": "https://liberal.com.mx/caen-20-integrantes-de-los-rs-en-jalisco/",
+      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Recorrido por Chiapas: Presidenta Claudia Sheinbaum realizó exitosa gira por Chiapa de Corzo, Ocozocoautla, La Concordia",
+      "fuente": "Liberal Coatza",
+      "categoria": "coatzacoalcos",
+      "fecha": "2026-11-09 17:01",
+      "url": "https://liberal.com.mx/recorrido-por-chiapas-presidenta-claudia-sheinbaum-realizo-exitosa-gira-por-chiapa-de-corzo-ocozocoautla-la-concordia-suchiapa-y-tuxtla-gutierrez/",
+      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
+      "prioridad": 1
     },
     {
       "titulo": "Marina participa en acciones  coordinadas de seguridad  en el norte de Veracruz",
       "fuente": "Liberal Coatza",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-11-08 22:37",
+      "fecha": "2026-11-09 17:01",
       "url": "https://liberal.com.mx/marina-participa-en-acciones-coordinadas-de-seguridad-en-el-norte-de-veracruz/",
       "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
       "prioridad": 1
@@ -40,7 +58,7 @@
       "titulo": "Impulsan el danzón entre adultos mayores de Mina",
       "fuente": "Liberal Coatza",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-11-08 22:37",
+      "fecha": "2026-11-09 17:01",
       "url": "https://liberal.com.mx/impulsan-el-danzon-entre-adultos-mayores-de-mina/",
       "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
       "prioridad": 1
@@ -49,7 +67,7 @@
       "titulo": "Ingeniería Química y Petrolera  obtienen la acreditación CACEI con reconocimiento internacional",
       "fuente": "Liberal Coatza",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-11-08 22:37",
+      "fecha": "2026-11-09 17:01",
       "url": "https://liberal.com.mx/ingenieria-quimica-y-petrolera-obtienen-la-acreditacion-cacei-con-reconocimiento-internacional/",
       "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
       "prioridad": 1
@@ -58,7 +76,7 @@
       "titulo": "Se entrega masculino señalado  por la muerte de Darla Karina",
       "fuente": "Liberal Coatza",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-11-08 22:37",
+      "fecha": "2026-11-09 17:01",
       "url": "https://liberal.com.mx/se-entrega-masculino-senalado-por-la-muerte-de-darla-karina/",
       "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
       "prioridad": 1
@@ -67,7 +85,7 @@
       "titulo": "Pbro. Lic. Wílberth Enrique Aké Méndez",
       "fuente": "Liberal Coatza",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-11-08 22:37",
+      "fecha": "2026-11-09 17:01",
       "url": "https://liberal.com.mx/pbro-lic-wilberth-enrique-ake-mendez-82/",
       "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
       "prioridad": 1
@@ -76,235 +94,217 @@
       "titulo": "“Es justicia social”: La presidenta Claudia Sheinbaum inaugura el Puente Rizo de Oro en Chiapas",
       "fuente": "Liberal Coatza",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-11-08 22:37",
+      "fecha": "2026-11-09 17:01",
       "url": "https://liberal.com.mx/es-justicia-social-la-presidenta-claudia-sheinbaum-inaugura-el-puente-rizo-de-oro-en-chiapas/",
       "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "En Veracruz, el Grupo Legislativo de Morena cierra filas con la presidenta Claudia Sheinbaum",
-      "fuente": "Liberal Coatza",
-      "categoria": "coatzacoalcos",
-      "fecha": "2026-11-08 22:37",
-      "url": "https://liberal.com.mx/en-veracruz-el-grupo-legislativo-de-morena-cierra-filas-con-la-presidenta-claudia-sheinbaum/",
-      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "¡DA CLIC PARA LEER NUESTRA EDICIÓN DEL DÍA!",
-      "fuente": "Liberal Coatza",
-      "categoria": "coatzacoalcos",
-      "fecha": "2026-11-08 22:37",
-      "url": "https://liberal.com.mx/da-clic-para-leer-nuestra-edicion-del-dia/",
-      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "“Sean inspiración en  sus barrios y colonias”",
-      "fuente": "Liberal Coatza",
-      "categoria": "coatzacoalcos",
-      "fecha": "2026-11-08 22:37",
-      "url": "https://liberal.com.mx/sean-inspiracion-en-sus-barrios-y-colonias/",
-      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Un joven perdió al sufrir un accidente en motocicleta y chocar contra la parte trasera de un camión tipo pipa, cuando ci",
+      "titulo": "Chivas empata por la mínima de goles ante León en el cierre de la J16",
       "fuente": "Municipio Sur",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-11-08 22:37",
-      "url": "https://municipiosur.com/2026/11/08/un-joven-perdio-al-sufrir-un-accidente-en-motocicleta-y-chocar-contra-la-parte-trasera-de-un-camion-tipo-pipa-cuando-circulaba-sobre-la-carretera-que-comunica-a-coapiloloyita-con-suchilapan-del-rio/",
+      "fecha": "2026-11-09 17:01",
+      "url": "https://municipiosur.com/2026/11/09/chivas-empata-por-la-minima-de-goles-ante-leon-en-el-cierre-de-la-j16/",
       "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Cirilo Vázquez Parissi impulsa el programa municipal Piso Firme, mediante el cual se sustituyen pisos de tierra por conc",
+      "titulo": "¿Cuál es la fortuna aproximada de Cristiano Ronaldo?",
       "fuente": "Municipio Sur",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-11-08 22:37",
-      "url": "https://municipiosur.com/2026/11/08/cirilo-vazquez-parissi-impulsa-el-programa-municipal-piso-firme-mediante-el-cual-se-sustituyen-pisos-de-tierra-por-concreto-estas-acciones-de-la-administracion-municipal-busca-mejorar-las-condicione/",
-      "imagen": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=800",
+      "fecha": "2026-11-09 17:01",
+      "url": "https://municipiosur.com/2026/11/09/cual-es-la-fortuna-aproximada-de-cristiano-ronaldo/",
+      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Querétaro cae 2-0 ante el Puebla en el Estadio Corregidora",
+      "fuente": "Municipio Sur",
+      "categoria": "coatzacoalcos",
+      "fecha": "2026-11-09 17:01",
+      "url": "https://municipiosur.com/2026/11/09/queretaro-cae-2-0-ante-el-puebla-en-el-estadio-corregidora/",
+      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
       "prioridad": 1
     }
   ],
   "veracruz": [
     {
-      "titulo": "Asesinan a hombre en una vivienda de Coatzacoalcos; detienen a mujer conocida como “La Chicles”",
+      "titulo": "Javier May reconoce liderazgo de Nahle al frente de administración",
+      "fuente": "Jornada Veracruz",
+      "categoria": "veracruz",
+      "fecha": "2026-11-09 17:01",
+      "url": "https://jornadaveracruz.com.mx/javier-may-reconoce-liderazgo-rocio-nahle/",
+      "imagen": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800",
+      "prioridad": 3
+    },
+    {
+      "titulo": "Integrantes del colectivo Buscando tus Huellas Coatzacoalcos realizan jornadas de difusión en espacios públicos y Cereso",
       "fuente": "Golpe Politico",
       "categoria": "veracruz",
-      "fecha": "2026-11-08 22:37",
-      "url": "https://golpepolitico.com/2026/11/08/asesinan-a-hombre-en-una-vivienda-de-coatzacoalcos-detienen-a-mujer-conocida-como-la-chicles/",
+      "fecha": "2026-11-09 17:01",
+      "url": "https://golpepolitico.com/2026/11/09/integrantes-del-colectivo-buscando-tus-huellas-coatzacoalcos-realizan-jornadas-de-difusion-en-espacios-publicos-y-ceresos-de-xalapa/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 2
     },
     {
-      "titulo": "Tras nueve meses de perder su hogar en un incendio, familia recibe nueva vivienda en Coatzacoalcos",
+      "titulo": "Trabajadores del INE en Coatzacoalcos exigen salarios dignos",
       "fuente": "Golpe Politico",
       "categoria": "veracruz",
-      "fecha": "2026-11-08 22:37",
-      "url": "https://golpepolitico.com/2026/11/08/tras-nueve-meses-de-perder-su-hogar-en-un-incendio-familia-recibe-nueva-vivienda-en-coatzacoalcos/",
+      "fecha": "2026-11-09 17:01",
+      "url": "https://golpepolitico.com/2026/11/09/trabajadores-del-ine-en-coatzacoalcos-exigen-salarios-dignos/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 2
-    },
-    {
-      "titulo": "Choque entre dos automóviles deja daños por casi 200 mil pesos en Coatzacoalcos",
-      "fuente": "Golpe Politico",
-      "categoria": "veracruz",
-      "fecha": "2026-11-08 22:37",
-      "url": "https://golpepolitico.com/2026/11/08/choque-entre-dos-automoviles-deja-danos-por-casi-200-mil-pesos-en-coatzacoalcos/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 2
-    },
-    {
-      "titulo": "Alcalde de Coatzacoalcos atiende peticiones en Las Barrillas; anuncian obras de mejoramiento",
-      "fuente": "Golpe Politico",
-      "categoria": "veracruz",
-      "fecha": "2026-11-08 22:37",
-      "url": "https://golpepolitico.com/2026/11/08/alcalde-de-coatzacoalcos-atiende-peticiones-en-las-barrillas-anuncian-obras-de-mejoramiento/",
-      "imagen": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
       "prioridad": 2
     },
     {
       "titulo": "Hallan manatí sin vida  en el río Coatzacoalcos",
       "fuente": "Liberal del Sur",
       "categoria": "veracruz",
-      "fecha": "2026-11-08 22:37",
+      "fecha": "2026-11-09 17:01",
       "url": "https://liberal.com.mx/hallan-manati-sin-vida-en-el-rio-coatzacoalcos/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 2
     },
     {
-      "titulo": "Redes de pesca abandonadas, una grave amenaza para la fauna marina",
+      "titulo": "Salud federal reporta disminución de muertes por enfermedades crónicas",
       "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-11-08 22:37",
-      "url": "https://jornadaveracruz.com.mx/redes-de-pesca-abandonadas-una-grave-amenaza-para-la-fauna-marina/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Encabeza Daniela Griego tequio por el Bien de Xalapa en Bosque de la Estación",
-      "fuente": "Jornada Veracruz",
-      "categoria": "veracruz",
-      "fecha": "2026-11-08 22:37",
-      "url": "https://jornadaveracruz.com.mx/encabeza-daniela-griego-tequio-por-el-bien-de-xalapa-en-bosque-de-la-estacion/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Cerro de las Culebras, un espacio que combina historia y naturaleza",
-      "fuente": "Jornada Veracruz",
-      "categoria": "veracruz",
-      "fecha": "2026-11-08 22:37",
-      "url": "https://jornadaveracruz.com.mx/cerro-de-las-culebras-un-espacio-que-combina-historia-y-naturaleza/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Desmantelan laboratorio clandestino de metanfetaminas en Tlachichuca",
-      "fuente": "Jornada Veracruz",
-      "categoria": "veracruz",
-      "fecha": "2026-11-08 22:37",
-      "url": "https://jornadaveracruz.com.mx/desmantelan-laboratorio-clandestino-de-metanfetaminas-en-tlachichuca/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Prevén medir el impacto de controversias institucionales en reclutamiento electoral",
-      "fuente": "Jornada Veracruz",
-      "categoria": "veracruz",
-      "fecha": "2026-11-08 22:37",
-      "url": "https://jornadaveracruz.com.mx/preven-medir-el-impacto-de-controversias-institucionales-en-reclutamiento-electoral/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Exfuncionarios del INE ocupan gran parte de estructura directiva del nuevo partido Somos",
-      "fuente": "Jornada Veracruz",
-      "categoria": "veracruz",
-      "fecha": "2026-11-08 22:37",
-      "url": "https://jornadaveracruz.com.mx/exfuncionarios-del-ine-ocupan-gran-parte-de-estructura-directiva-del-nuevo-partido-somos/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Trabajadores del PJ rechazan evaluaciones que podrían afectar su estabilidad laboral",
-      "fuente": "Jornada Veracruz",
-      "categoria": "veracruz",
-      "fecha": "2026-11-08 22:37",
-      "url": "https://jornadaveracruz.com.mx/trabajadores-del-pj-rechazan-evaluaciones/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Congreso comenzará dictamen de primer paquete de 18 iniciativas parlamentarias",
-      "fuente": "Jornada Veracruz",
-      "categoria": "veracruz",
-      "fecha": "2026-11-08 22:37",
-      "url": "https://jornadaveracruz.com.mx/congreso-comenzara-dictamen-de-primer-paquete-de-18-iniciativas-parlamentarias/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Instalan Consejo de Economía Regional Las Montañas para impulsar inversiones",
-      "fuente": "Jornada Veracruz",
-      "categoria": "veracruz",
-      "fecha": "2026-11-08 22:37",
-      "url": "https://jornadaveracruz.com.mx/instalan-consejo-de-economia-regional-las-montanas-para-impulsar-inversiones/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Pizza gigante reúne a xalapeños en el corazón de Xallitic",
-      "fuente": "Golpe Politico",
-      "categoria": "veracruz",
-      "fecha": "2026-11-08 22:37",
-      "url": "https://golpepolitico.com/2026/11/08/pizza-gigante-reune-a-xalapenos-en-el-corazon-de-xallitic/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Es importante que mujeres embarazadas implementen hábitos saludables para reducir riesgos durante el periodo de gestació",
-      "fuente": "Golpe Politico",
-      "categoria": "veracruz",
-      "fecha": "2026-11-08 22:37",
-      "url": "https://golpepolitico.com/2026/11/08/es-importante-que-mujeres-embarazadas-implementen-habitos-saludables-para-reducir-riesgos-durante-el-periodo-de-gestacion/",
+      "fecha": "2026-11-09 17:01",
+      "url": "https://jornadaveracruz.com.mx/salud-disminucion-muertes-enfermedades-cronicas-mexico/",
       "imagen": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Regidora descarta redadas de perros en Xalapa y detalla medidas de bienestar animal",
-      "fuente": "Golpe Politico",
+      "titulo": "Trabajadores inconformes del IMSS acuerdan las acciones legales contra dirigencia sindical",
+      "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-11-08 22:37",
-      "url": "https://golpepolitico.com/2026/11/08/regidora-descarta-redadas-de-perros-en-xalapa-y-detalla-medidas-de-bienestar-animal/",
+      "fecha": "2026-11-09 17:01",
+      "url": "https://jornadaveracruz.com.mx/trabajadores-imss-acciones-legales-dirigencia-sindical/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Van siete grupos empresariales interesados en adquirir ingenio El Carmen, en Ixtaczoquitlán",
+      "fuente": "Jornada Veracruz",
+      "categoria": "veracruz",
+      "fecha": "2026-11-09 17:01",
+      "url": "https://jornadaveracruz.com.mx/grupos-empresariales-interesados-comprar-ingenio-el-carmen/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Crece padrón de Programa de Leche para el Bienestar",
+      "fuente": "Jornada Veracruz",
+      "categoria": "veracruz",
+      "fecha": "2026-11-09 17:01",
+      "url": "https://jornadaveracruz.com.mx/programa-leche-bienestar-crece-padron-2026/",
       "imagen": "https://images.unsplash.com/photo-1542596594-649edbc13630?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Hasta mayo de 2027 el INE mantendrá abierta la convocatoria para el registro de observadores electorales",
-      "fuente": "Golpe Politico",
+      "titulo": "Reportan aumento de adeudos al SAT; se redujo déficit de grandes empresas",
+      "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-11-08 22:37",
-      "url": "https://golpepolitico.com/2026/11/08/hasta-mayo-de-2027-el-ine-mantendra-abierta-la-convocatoria-para-el-registro-de-observadores-electorales/",
+      "fecha": "2026-11-09 17:01",
+      "url": "https://jornadaveracruz.com.mx/adeudos-sat-record-septiembre-2026/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Tras casi cinco años, se despide Jorge Carlos Patrón Wong de la Arquidiócesis de Xalapa",
-      "fuente": "Golpe Politico",
+      "titulo": "Municipios modifican valor catastral: se prevé un incremento a impuesto en 2027",
+      "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-11-08 22:37",
-      "url": "https://golpepolitico.com/2026/11/08/tras-casi-cinco-anos-se-despide-jorge-carlos-patron-wong-de-la-arquidiocesis-de-xalapa/",
+      "fecha": "2026-11-09 17:01",
+      "url": "https://jornadaveracruz.com.mx/municipios-ajustan-valores-catastrales-predial-2027/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Xalapeños visitan la Feria del Libro ubicada en el parque Juárez, la cual permanecerá hasta el 15 de noviembre.",
+      "titulo": "INE ofrece alza salarial de 6% a trabajadores",
+      "fuente": "Jornada Veracruz",
+      "categoria": "veracruz",
+      "fecha": "2026-11-09 17:01",
+      "url": "https://jornadaveracruz.com.mx/ine-ofrece-aumento-salarial-trabajadores-modulos/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Vuelca pipa con amoniaco en la autopista Mendoza-Córdoba; cierran ambos carriles",
+      "fuente": "Jornada Veracruz",
+      "categoria": "veracruz",
+      "fecha": "2026-11-09 17:01",
+      "url": "https://jornadaveracruz.com.mx/vuelca-pipa-amoniaco-autopista-mendoza-cordoba/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "El Estado tercerizado",
+      "fuente": "Jornada Veracruz",
+      "categoria": "veracruz",
+      "fecha": "2026-11-09 17:01",
+      "url": "https://jornadaveracruz.com.mx/estado-tercerizado-negocios-salud-elecciones/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Volcó automóvil sobre Circuito Presidentes durante la madrugada de este lunes en Xalapa",
       "fuente": "Golpe Politico",
       "categoria": "veracruz",
-      "fecha": "2026-11-08 22:37",
-      "url": "https://golpepolitico.com/2026/11/08/xalapenos-visitan-la-feria-del-libro-ubicada-en-el-parque-juarez-la-cual-permanecera-hasta-el-15-de-noviembre/",
+      "fecha": "2026-11-09 17:01",
+      "url": "https://golpepolitico.com/2026/11/09/volco-automovil-sobre-circuito-presidentes-durante-la-madrugada-de-este-lunes-en-xalapa/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Montaño, de gira y entre selfis políticas",
+      "fuente": "Golpe Politico",
+      "categoria": "veracruz",
+      "fecha": "2026-11-09 17:01",
+      "url": "https://golpepolitico.com/2026/11/09/montano-de-gira-y-entre-selfis-politicas/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Grecia Quiroz estrecha lazos con MC",
+      "fuente": "Golpe Politico",
+      "categoria": "veracruz",
+      "fecha": "2026-11-09 17:01",
+      "url": "https://golpepolitico.com/2026/11/09/grecia-quiroz-estrecha-lazos-con-mc/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Xalapa tendrá lunes caluroso con cielo despejado y posibilidad de lluvias aisladas",
+      "fuente": "Golpe Politico",
+      "categoria": "veracruz",
+      "fecha": "2026-11-09 17:01",
+      "url": "https://golpepolitico.com/2026/11/09/xalapa-tendra-lunes-caluroso-con-cielo-despejado-y-posibilidad-de-lluvias-aisladas/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "A SANGRE Y FUEGO!! REMONTA SOTAVENTO 3-2 A CABALLEROS!",
+      "fuente": "Liberal del Sur",
+      "categoria": "veracruz",
+      "fecha": "2026-11-09 17:01",
+      "url": "https://liberal.com.mx/a-sangre-y-fuego-remonta-sotavento-3-2-a-caballeros/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Caen 20 integrantes de “Los Rs” en Jalisco",
+      "fuente": "Liberal del Sur",
+      "categoria": "veracruz",
+      "fecha": "2026-11-09 17:01",
+      "url": "https://liberal.com.mx/caen-20-integrantes-de-los-rs-en-jalisco/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Recorrido por Chiapas: Presidenta Claudia Sheinbaum realizó exitosa gira por Chiapa de Corzo, Ocozocoautla, La Concordia",
+      "fuente": "Liberal del Sur",
+      "categoria": "veracruz",
+      "fecha": "2026-11-09 17:01",
+      "url": "https://liberal.com.mx/recorrido-por-chiapas-presidenta-claudia-sheinbaum-realizo-exitosa-gira-por-chiapa-de-corzo-ocozocoautla-la-concordia-suchiapa-y-tuxtla-gutierrez/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
@@ -312,7 +312,7 @@
       "titulo": "Marina participa en acciones  coordinadas de seguridad  en el norte de Veracruz",
       "fuente": "Liberal del Sur",
       "categoria": "veracruz",
-      "fecha": "2026-11-08 22:37",
+      "fecha": "2026-11-09 17:01",
       "url": "https://liberal.com.mx/marina-participa-en-acciones-coordinadas-de-seguridad-en-el-norte-de-veracruz/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
@@ -321,7 +321,7 @@
       "titulo": "Impulsan el danzón entre adultos mayores de Mina",
       "fuente": "Liberal del Sur",
       "categoria": "veracruz",
-      "fecha": "2026-11-08 22:37",
+      "fecha": "2026-11-09 17:01",
       "url": "https://liberal.com.mx/impulsan-el-danzon-entre-adultos-mayores-de-mina/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
@@ -330,7 +330,7 @@
       "titulo": "Ingeniería Química y Petrolera  obtienen la acreditación CACEI con reconocimiento internacional",
       "fuente": "Liberal del Sur",
       "categoria": "veracruz",
-      "fecha": "2026-11-08 22:37",
+      "fecha": "2026-11-09 17:01",
       "url": "https://liberal.com.mx/ingenieria-quimica-y-petrolera-obtienen-la-acreditacion-cacei-con-reconocimiento-internacional/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
@@ -339,7 +339,7 @@
       "titulo": "Se entrega masculino señalado  por la muerte de Darla Karina",
       "fuente": "Liberal del Sur",
       "categoria": "veracruz",
-      "fecha": "2026-11-08 22:37",
+      "fecha": "2026-11-09 17:01",
       "url": "https://liberal.com.mx/se-entrega-masculino-senalado-por-la-muerte-de-darla-karina/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
@@ -348,7 +348,7 @@
       "titulo": "Pbro. Lic. Wílberth Enrique Aké Méndez",
       "fuente": "Liberal del Sur",
       "categoria": "veracruz",
-      "fecha": "2026-11-08 22:37",
+      "fecha": "2026-11-09 17:01",
       "url": "https://liberal.com.mx/pbro-lic-wilberth-enrique-ake-mendez-82/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
@@ -357,35 +357,8 @@
       "titulo": "“Es justicia social”: La presidenta Claudia Sheinbaum inaugura el Puente Rizo de Oro en Chiapas",
       "fuente": "Liberal del Sur",
       "categoria": "veracruz",
-      "fecha": "2026-11-08 22:37",
+      "fecha": "2026-11-09 17:01",
       "url": "https://liberal.com.mx/es-justicia-social-la-presidenta-claudia-sheinbaum-inaugura-el-puente-rizo-de-oro-en-chiapas/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "En Veracruz, el Grupo Legislativo de Morena cierra filas con la presidenta Claudia Sheinbaum",
-      "fuente": "Liberal del Sur",
-      "categoria": "veracruz",
-      "fecha": "2026-11-08 22:37",
-      "url": "https://liberal.com.mx/en-veracruz-el-grupo-legislativo-de-morena-cierra-filas-con-la-presidenta-claudia-sheinbaum/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "¡DA CLIC PARA LEER NUESTRA EDICIÓN DEL DÍA!",
-      "fuente": "Liberal del Sur",
-      "categoria": "veracruz",
-      "fecha": "2026-11-08 22:37",
-      "url": "https://liberal.com.mx/da-clic-para-leer-nuestra-edicion-del-dia/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "“Sean inspiración en  sus barrios y colonias”",
-      "fuente": "Liberal del Sur",
-      "categoria": "veracruz",
-      "fecha": "2026-11-08 22:37",
-      "url": "https://liberal.com.mx/sean-inspiracion-en-sus-barrios-y-colonias/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     }
