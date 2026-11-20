@@ -1,229 +1,391 @@
 {
   "coatzacoalcos": [
     {
-      "titulo": "Gobernadora Rocío Nahle inaugura el Centro de Búsqueda conectado a todo el país",
-      "fuente": "Municipio Sur",
+      "titulo": "Llevan pláticas de prevención y salud emocional a jóvenes de bachillerato en Coatzacoalcos",
+      "fuente": "Liberal Coatza",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-11-20 00:58",
-      "url": "https://municipiosur.com/2026/11/19/gobernadora-rocio-nahle-inaugura-el-centro-de-busqueda-conectado-a-todo-el-pais/",
-      "imagen": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800",
-      "prioridad": 3
-    },
-    {
-      "titulo": "Cirilo Vázquez Parissi, presidente municipal de Cosoleacaque, encabezó el gran desfile de la Revolución Mexicana. Junto ",
-      "fuente": "Municipio Sur",
-      "categoria": "coatzacoalcos",
-      "fecha": "2026-11-20 00:58",
-      "url": "https://municipiosur.com/2026/11/19/cirilo-vazquez-parissi-presidente-municipal-de-cosoleacaque-encabezo-el-gran-desfile-de-la-revolucion-mexicana-junto-con-ediles-el-alcalde-presencio-como-cientos-de-ninos-y-ninas-desfilaron-muy-al/",
-      "imagen": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+      "fecha": "2026-11-20 15:51",
+      "url": "https://liberal.com.mx/llevan-platicas-de-prevencion-y-salud-emocional-a-jovenes-de-bachillerato-en-coatzacoalcos/",
+      "imagen": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=800",
       "prioridad": 2
     },
     {
-      "titulo": "Jorge Alberto “El Tigre” Wade Zúñiga, presentó el proyecto habitacional del fraccionamiento “Lomas del Jaguey” que const",
+      "titulo": "Gobierno Municipal de Coatzacoalcos, anunció la jornada “Arre al Reciclatrón Coatza 2026”, que se llevará a cabo el próx",
       "fuente": "Municipio Sur",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-11-20 00:58",
-      "url": "https://municipiosur.com/2026/11/19/jorge-alberto-el-tigre-wade-zuniga-presento-el-proyecto-habitacional-del-fraccionamiento-lomas-del-jaguey-que-construye-la-seccion-10-del-stprm-en-minatitlan-el-a/",
+      "fecha": "2026-11-20 15:51",
+      "url": "https://municipiosur.com/2026/11/20/gobierno-municipal-de-coatzacoalcos-anuncio-la-jornada-arre-al-reciclatron-coatza-2026-que-se-llevara-a-cabo-el-proximo-4-de-diciembre-de-800-a-1600-horas-en-la-explanada-de-la/",
+      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
+      "prioridad": 2
+    },
+    {
+      "titulo": "Un fuerte y espectacular incendio se registró a la altura del kilómetro 77 de la carretera Cárdenas-Coatzacoalcos, donde",
+      "fuente": "Municipio Sur",
+      "categoria": "coatzacoalcos",
+      "fecha": "2026-11-20 15:51",
+      "url": "https://municipiosur.com/2026/11/20/un-fuerte-y-espectacular-incendio-se-registro-a-la-altura-del-kilometro-77-de-la-carretera-cardenas-coatzacoalcos-donde-dos-unidades-de-carga-tipo-trailer-con-doble-semirremolque-y-que-transportaban/",
+      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
+      "prioridad": 2
+    },
+    {
+      "titulo": "Pescadores de Villa Allende recibieron apoyos alimentarios y materiales de construcción para rehabilitar rampas afectada",
+      "fuente": "Municipio Sur",
+      "categoria": "coatzacoalcos",
+      "fecha": "2026-11-20 15:51",
+      "url": "https://municipiosur.com/2026/11/20/pescadores-de-villa-allende-recibieron-apoyos-alimentarios-y-materiales-de-construccion-para-rehabilitar-rampas-afectadas-por-los-estragos-del-mal-tiempo-el-respaldo-se-los-dio-pedro-miguel-rosaldo-g/",
+      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
+      "prioridad": 2
+    },
+    {
+      "titulo": "Los niños del Centro de Atención y Desarrollo Infantil y Centro de Asistencia Infantil Comunitario del DIF Coatzacoalcos",
+      "fuente": "Municipio Sur",
+      "categoria": "coatzacoalcos",
+      "fecha": "2026-11-20 15:51",
+      "url": "https://municipiosur.com/2026/11/20/los-ninos-del-centro-de-atencion-y-desarrollo-infantil-y-centro-de-asistencia-infantil-comunitario-del-dif-coatzacoalcos-participaron-en-una-demostracion-de-tablas-ritmicas-en-conmemoracion-del-116-a/",
+      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
+      "prioridad": 2
+    },
+    {
+      "titulo": "Pedro Miguel Rosaldo García y Margarita Ziga Sánchez, encabezaron la entrega de los medios de cobro de los programas fed",
+      "fuente": "Municipio Sur",
+      "categoria": "coatzacoalcos",
+      "fecha": "2026-11-20 15:51",
+      "url": "https://municipiosur.com/2026/11/20/pedro-miguel-rosaldo-garcia-y-margarita-ziga-sanchez-encabezaron-la-entrega-de-los-medios-de-cobro-de-los-programas-federales-la-clinica-es-nuestra-y-consultorios-del-servicio-universal-de-salud-se/",
+      "imagen": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=800",
+      "prioridad": 2
+    },
+    {
+      "titulo": "Celebran líderes de Morena  “15 años caminando junto  al pueblo” en el Distrito 03",
+      "fuente": "Liberal Coatza",
+      "categoria": "coatzacoalcos",
+      "fecha": "2026-11-20 15:51",
+      "url": "https://liberal.com.mx/celebran-lideres-de-morena-15-anos-caminando-junto-al-pueblo-en-el-distrito-03/",
       "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Celebra DIF el talento de las personas adultas mayores con encuentro artístico en el Teatro del Estado",
-      "fuente": "Municipio Sur",
+      "titulo": "Confían padres en resolver litigio por predio escolar  en Oteapan a fin de mes",
+      "fuente": "Liberal Coatza",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-11-20 00:58",
-      "url": "https://municipiosur.com/2026/11/19/celebra-dif-el-talento-de-las-personas-adultas-mayores-con-encuentro-artistico-en-el-teatro-del-estado/",
+      "fecha": "2026-11-20 15:51",
+      "url": "https://liberal.com.mx/confian-padres-en-resolver-litigio-por-predio-escolar-en-oteapan-a-fin-de-mes/",
       "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Entrega SEV 234 órdenes de presentación a docentes de educación básica",
-      "fuente": "Municipio Sur",
+      "titulo": "¡DA CLIC PARA LEER NUESTRA EDICIÓN DEL DÍA!",
+      "fuente": "Liberal Coatza",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-11-20 00:58",
-      "url": "https://municipiosur.com/2026/11/19/entrega-sev-234-ordenes-de-presentacion-a-docentes-de-educacion-basica/",
+      "fecha": "2026-11-20 15:51",
+      "url": "https://liberal.com.mx/da-clic-para-leer-nuestra-edicion-del-dia/",
       "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Con Manos con Talento, promueve SEV la educación especial y la inclusión",
+      "titulo": "Esperan más de 200 participantes en el Veracruz Logistics Forum 2026",
+      "fuente": "Liberal Coatza",
+      "categoria": "coatzacoalcos",
+      "fecha": "2026-11-20 15:51",
+      "url": "https://liberal.com.mx/esperan-mas-de-200-participantes-en-el-veracruz-logistics-forum-2026-2/",
+      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Fracturas en el Malecón  Costero tienen culpables",
+      "fuente": "Liberal Coatza",
+      "categoria": "coatzacoalcos",
+      "fecha": "2026-11-20 15:51",
+      "url": "https://liberal.com.mx/fracturas-en-el-malecon-costero-tienen-culpables/",
+      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Kenworth abrirá  sucursal y prevé  generar 40 empleos",
+      "fuente": "Liberal Coatza",
+      "categoria": "coatzacoalcos",
+      "fecha": "2026-11-20 15:51",
+      "url": "https://liberal.com.mx/kenworth-abrira-sucursal-y-preve-generar-40-empleos/",
+      "imagen": "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Infonavit llama a afectados a  hacer válido el Seguro de Daños",
+      "fuente": "Liberal Coatza",
+      "categoria": "coatzacoalcos",
+      "fecha": "2026-11-20 15:51",
+      "url": "https://liberal.com.mx/infonavit-llama-a-afectados-a-hacer-valido-el-seguro-de-danos/",
+      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Más de 300 elementos  y 81 servicios atendidos  tras lluvias históricas",
+      "fuente": "Liberal Coatza",
+      "categoria": "coatzacoalcos",
+      "fecha": "2026-11-20 15:51",
+      "url": "https://liberal.com.mx/mas-de-300-elementos-y-81-servicios-atendidos-tras-lluvias-historicas/",
+      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Claudia Sheinbaum llama a la cooperación para el desarrollo en la Reunión de Líderes de la APEC en China",
+      "fuente": "Liberal Coatza",
+      "categoria": "coatzacoalcos",
+      "fecha": "2026-11-20 15:51",
+      "url": "https://liberal.com.mx/claudia-sheinbaum-llama-a-la-cooperacion-para-el-desarrollo-en-la-reunion-de-lideres-de-la-apec-en-china/",
+      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Gabriela Sosa Torres, directora de Participación Ciudadana, encabezó  la jornada de capacitación dirigida a los Comités ",
       "fuente": "Municipio Sur",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-11-20 00:58",
-      "url": "https://municipiosur.com/2026/11/19/con-manos-con-talento-promueve-sev-la-educacion-especial-y-la-inclusion/",
-      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
+      "fecha": "2026-11-20 15:51",
+      "url": "https://municipiosur.com/2026/11/20/gabriela-sosa-torres-directora-de-participacion-ciudadana-encabezo-la-jornada-de-capacitacion-dirigida-a-los-comites-de-contraloria-social-de-las-obras-contempladas-en-el-programa-general-de-i/",
+      "imagen": "https://images.unsplash.com/photo-1503387762-592deb58ef4e?w=800",
       "prioridad": 1
     }
   ],
   "veracruz": [
     {
-      "titulo": "Ayuntamiento de Veracruz renueva drenaje y red de agua potable en El Coyol",
-      "fuente": "Jornada Veracruz",
-      "categoria": "veracruz",
-      "fecha": "2026-11-20 00:58",
-      "url": "https://jornadaveracruz.com.mx/obras-hidraulicas-el-coyol-veracruz/",
-      "imagen": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=800",
-      "prioridad": 2
-    },
-    {
-      "titulo": "Refuerzan operativos contra robos y venta de drogas en Coatzacoalcos",
+      "titulo": "Gobernadora de Veracruz dio inicio en Xalapa al desfile por el 116º aniversario de la Revolución Mexicana",
       "fuente": "Golpe Politico",
       "categoria": "veracruz",
-      "fecha": "2026-11-20 00:58",
-      "url": "https://golpepolitico.com/2026/11/19/refuerzan-operativos-contra-robos-y-venta-de-drogas-en-coatzacoalcos/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "fecha": "2026-11-20 15:51",
+      "url": "https://golpepolitico.com/2026/11/20/gobernadora-de-veracruz-dio-inicio-en-xalapa-al-desfile-por-el-116o-aniversario-de-la-revolucion-mexicana/",
+      "imagen": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800",
+      "prioridad": 3
+    },
+    {
+      "titulo": "Encabezó alcaldesa jornada de inauguración de obras",
+      "fuente": "Jornada Veracruz",
+      "categoria": "veracruz",
+      "fecha": "2026-11-20 15:51",
+      "url": "https://jornadaveracruz.com.mx/obras-pavimentacion-colonias-xalapa/",
+      "imagen": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
       "prioridad": 2
     },
     {
-      "titulo": "Llaman a vacunarse contra el sarampión en Coatzacoalcos tras 84 casos confirmados en Veracruz",
-      "fuente": "Golpe Politico",
+      "titulo": "Llevan pláticas de prevención y salud emocional a jóvenes de bachillerato en Coatzacoalcos",
+      "fuente": "Liberal del Sur",
       "categoria": "veracruz",
-      "fecha": "2026-11-20 00:58",
-      "url": "https://golpepolitico.com/2026/11/19/llaman-a-vacunarse-contra-el-sarampion-en-coatzacoalcos-tras-84-casos-confirmados-en-veracruz/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "fecha": "2026-11-20 15:51",
+      "url": "https://liberal.com.mx/llevan-platicas-de-prevencion-y-salud-emocional-a-jovenes-de-bachillerato-en-coatzacoalcos/",
+      "imagen": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=800",
       "prioridad": 2
     },
     {
-      "titulo": "Gran Vela Muxe celebrará las tradiciones del Istmo y la diversidad sexual en Coatzacoalcos",
-      "fuente": "Golpe Politico",
-      "categoria": "veracruz",
-      "fecha": "2026-11-20 00:58",
-      "url": "https://golpepolitico.com/2026/11/19/gran-vela-muxe-celebrara-las-tradiciones-del-istmo-y-la-diversidad-sexual-en-coatzacoalcos/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 2
-    },
-    {
-      "titulo": "El Barzón: un legado social, histórico",
+      "titulo": "Congreso convoca a suplente de regidora asesinada",
       "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-11-20 00:58",
-      "url": "https://jornadaveracruz.com.mx/el-barzon-veracruz-21-anos-resistencia-civil/",
+      "fecha": "2026-11-20 15:51",
+      "url": "https://jornadaveracruz.com.mx/suplente-regidora-asesinada-san-juan-texhuacan/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Claudia se reúne con Trump tras su derrota electoral",
+      "titulo": "Muere arrollado por locomotora en Paso del Macho",
       "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-11-20 00:58",
-      "url": "https://jornadaveracruz.com.mx/claudia-se-reune-con-trump-tras-su-derrota-electoral/",
+      "fecha": "2026-11-20 15:51",
+      "url": "https://jornadaveracruz.com.mx/muere-arrollado-locomotora-paso-del-macho/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "¿Solución? ¡Un “consenso” oligopólico!",
+      "titulo": "407 nacimientos de niñas y adolescentes en el último año",
       "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-11-20 00:58",
-      "url": "https://jornadaveracruz.com.mx/solucion-un-consenso-oligopolico/",
+      "fecha": "2026-11-20 15:51",
+      "url": "https://jornadaveracruz.com.mx/veracruz-407-nacimientos-ninas-adolescentes/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "México abate índices de pobreza",
+      "titulo": "Lluvias dañan cerca de 20 viviendas en Antón Lizardo y la Riviera Veracruzana",
       "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-11-20 00:58",
-      "url": "https://jornadaveracruz.com.mx/mexico-abate-indices-de-pobreza/",
+      "fecha": "2026-11-20 15:51",
+      "url": "https://jornadaveracruz.com.mx/lluvias-danan-viviendas-anton-lizardo-alvarado/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Tenaris-Tamsa disminuye impacto ambiental",
+      "titulo": "Ambientalistas exigen suspender la ampliación del Puerto por riesgo para arrecife La Gallega",
       "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-11-20 00:58",
-      "url": "https://jornadaveracruz.com.mx/tenaris-tamsa-reciclaje-acero-coatzacoalcos/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Retiro de estatus “libre de sarampión” no implica una emergencia sanitaria: SSA",
-      "fuente": "Jornada Veracruz",
-      "categoria": "veracruz",
-      "fecha": "2026-11-20 00:58",
-      "url": "https://jornadaveracruz.com.mx/sarampion-mexico-estatus-libre-transmision-vacunacion/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Transportistas mantendrán movilización permanente pese a avances en diálogo",
-      "fuente": "Jornada Veracruz",
-      "categoria": "veracruz",
-      "fecha": "2026-11-20 00:58",
-      "url": "https://jornadaveracruz.com.mx/transportistas-mantendran-movilizacion-robos-carreteras/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "CAEV asumiría operación en el Puerto y Medellín si no pueden garantizar servicio",
-      "fuente": "Jornada Veracruz",
-      "categoria": "veracruz",
-      "fecha": "2026-11-20 00:58",
-      "url": "https://jornadaveracruz.com.mx/caev-operacion-agua-veracruz-medellin-grupo-mas/",
+      "fecha": "2026-11-20 15:51",
+      "url": "https://jornadaveracruz.com.mx/ambientalistas-suspender-ampliacion-puerto-veracruz-arrecife/",
       "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Hombres armados asaltan a clientes de sucursal bancaria en la plaza Mangos de Veracruz",
+      "titulo": "El Faunito queda bajo resguardo del Estado",
       "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-11-20 00:58",
-      "url": "https://jornadaveracruz.com.mx/asalto-clientes-bbva-plaza-mangos-veracruz/",
+      "fecha": "2026-11-20 15:51",
+      "url": "https://jornadaveracruz.com.mx/rancho-el-faunito-resguardo-gobierno-veracruz/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "En operativo coordinado, FGE detiene a cuatro personas durante cateo en Veracruz",
-      "fuente": "Golpe Politico",
+      "titulo": "Preocupa a especialista, conservación de zorrillos en el Parque Pico de Orizaba",
+      "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-11-20 00:58",
-      "url": "https://golpepolitico.com/2026/11/19/en-operativo-coordinado-fge-detiene-a-cuatro-personas-durante-cateo-en-veracruz/",
+      "fecha": "2026-11-20 15:51",
+      "url": "https://jornadaveracruz.com.mx/zorrillos-pico-de-orizaba-amenazados-cambio-climatico/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Entrega SEV 234 órdenes de presentación a docentes de educación básica",
-      "fuente": "Golpe Politico",
+      "titulo": "Un Modelo que no cambia",
+      "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-11-20 00:58",
-      "url": "https://golpepolitico.com/2026/11/19/entrega-sev-234-ordenes-de-presentacion-a-docentes-de-educacion-basica/",
+      "fecha": "2026-11-20 15:51",
+      "url": "https://jornadaveracruz.com.mx/constellation-brands-conflicto-pagos-veracruz/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Celebra DIF el talento de las personas adultas mayores con encuentro artístico en el Teatro del Estado",
+      "titulo": "Ambiente continuará templado a relativamente cálido en el estado de Veracruz: PC",
       "fuente": "Golpe Politico",
       "categoria": "veracruz",
-      "fecha": "2026-11-20 00:58",
-      "url": "https://golpepolitico.com/2026/11/19/celebra-dif-el-talento-de-las-personas-adultas-mayores-con-encuentro-artistico-en-el-teatro-del-estado/",
+      "fecha": "2026-11-20 15:51",
+      "url": "https://golpepolitico.com/2026/11/20/ambiente-continuara-templado-a-relativamente-calido-en-el-estado-de-veracruz-pc/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Con Manos con Talento, promueve SEV la educación especial y la inclusión",
+      "titulo": "Mujer cae al pavimento tras avanzar autobús SUX en parada de Las Trancas",
       "fuente": "Golpe Politico",
       "categoria": "veracruz",
-      "fecha": "2026-11-20 00:58",
-      "url": "https://golpepolitico.com/2026/11/19/con-manos-con-talento-promueve-sev-la-educacion-especial-y-la-inclusion/",
+      "fecha": "2026-11-20 15:51",
+      "url": "https://golpepolitico.com/2026/11/20/mujer-cae-al-pavimento-tras-avanzar-autobus-sux-en-parada-de-las-trancas/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Lleva Puente Nacional insumos agropecuarios a bajo costo a familias del municipio",
+      "titulo": "Incendio consume chatarrería en el bulevar Córdoba-Peñuela, en Amatlán",
       "fuente": "Golpe Politico",
       "categoria": "veracruz",
-      "fecha": "2026-11-20 00:58",
-      "url": "https://golpepolitico.com/2026/11/19/lleva-puente-nacional-insumos-agropecuarios-a-bajo-costo-a-familias-del-municipio/",
+      "fecha": "2026-11-20 15:51",
+      "url": "https://golpepolitico.com/2026/11/20/incendio-consume-chatarreria-en-el-bulevar-cordoba-penuela-en-amatlan/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Esteban Bautista confirma sanciones económicas por inasistencias al Congreso del Estado",
+      "titulo": "El Barzón: un legado social, histórico",
       "fuente": "Golpe Politico",
       "categoria": "veracruz",
-      "fecha": "2026-11-20 00:58",
-      "url": "https://golpepolitico.com/2026/11/19/esteban-bautista-confirma-sanciones-economicas-por-inasistencias-al-congreso-del-estado/",
+      "fecha": "2026-11-20 15:51",
+      "url": "https://golpepolitico.com/2026/11/20/el-barzon-un-legado-social-historico/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Padres tomaron primaria en Ayahualulco; exigen salida de directivos ante irregularidades",
+      "fuente": "Golpe Politico",
+      "categoria": "veracruz",
+      "fecha": "2026-11-20 15:51",
+      "url": "https://golpepolitico.com/2026/11/20/padres-tomaron-primaria-en-ayahualulco-exigen-salida-de-directivos-ante-irregularidades/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Continúa el ambiente templado en Xalapa; lluvias han disminuido",
+      "fuente": "Golpe Politico",
+      "categoria": "veracruz",
+      "fecha": "2026-11-20 15:51",
+      "url": "https://golpepolitico.com/2026/11/20/continua-el-ambiente-templado-en-xalapa-lluvias-han-disminuido/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Suplente de lujo para chayotubers",
+      "fuente": "Golpe Politico",
+      "categoria": "veracruz",
+      "fecha": "2026-11-20 15:51",
+      "url": "https://golpepolitico.com/2026/11/20/suplente-de-lujo-para-chayotubers/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Celebran líderes de Morena  “15 años caminando junto  al pueblo” en el Distrito 03",
+      "fuente": "Liberal del Sur",
+      "categoria": "veracruz",
+      "fecha": "2026-11-20 15:51",
+      "url": "https://liberal.com.mx/celebran-lideres-de-morena-15-anos-caminando-junto-al-pueblo-en-el-distrito-03/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Confían padres en resolver litigio por predio escolar  en Oteapan a fin de mes",
+      "fuente": "Liberal del Sur",
+      "categoria": "veracruz",
+      "fecha": "2026-11-20 15:51",
+      "url": "https://liberal.com.mx/confian-padres-en-resolver-litigio-por-predio-escolar-en-oteapan-a-fin-de-mes/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "¡DA CLIC PARA LEER NUESTRA EDICIÓN DEL DÍA!",
+      "fuente": "Liberal del Sur",
+      "categoria": "veracruz",
+      "fecha": "2026-11-20 15:51",
+      "url": "https://liberal.com.mx/da-clic-para-leer-nuestra-edicion-del-dia/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Esperan más de 200 participantes en el Veracruz Logistics Forum 2026",
+      "fuente": "Liberal del Sur",
+      "categoria": "veracruz",
+      "fecha": "2026-11-20 15:51",
+      "url": "https://liberal.com.mx/esperan-mas-de-200-participantes-en-el-veracruz-logistics-forum-2026-2/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Fracturas en el Malecón  Costero tienen culpables",
+      "fuente": "Liberal del Sur",
+      "categoria": "veracruz",
+      "fecha": "2026-11-20 15:51",
+      "url": "https://liberal.com.mx/fracturas-en-el-malecon-costero-tienen-culpables/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Kenworth abrirá  sucursal y prevé  generar 40 empleos",
+      "fuente": "Liberal del Sur",
+      "categoria": "veracruz",
+      "fecha": "2026-11-20 15:51",
+      "url": "https://liberal.com.mx/kenworth-abrira-sucursal-y-preve-generar-40-empleos/",
+      "imagen": "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Infonavit llama a afectados a  hacer válido el Seguro de Daños",
+      "fuente": "Liberal del Sur",
+      "categoria": "veracruz",
+      "fecha": "2026-11-20 15:51",
+      "url": "https://liberal.com.mx/infonavit-llama-a-afectados-a-hacer-valido-el-seguro-de-danos/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Más de 300 elementos  y 81 servicios atendidos  tras lluvias históricas",
+      "fuente": "Liberal del Sur",
+      "categoria": "veracruz",
+      "fecha": "2026-11-20 15:51",
+      "url": "https://liberal.com.mx/mas-de-300-elementos-y-81-servicios-atendidos-tras-lluvias-historicas/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Claudia Sheinbaum llama a la cooperación para el desarrollo en la Reunión de Líderes de la APEC en China",
+      "fuente": "Liberal del Sur",
+      "categoria": "veracruz",
+      "fecha": "2026-11-20 15:51",
+      "url": "https://liberal.com.mx/claudia-sheinbaum-llama-a-la-cooperacion-para-el-desarrollo-en-la-reunion-de-lideres-de-la-apec-en-china/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     }
