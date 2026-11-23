@@ -1,65 +1,83 @@
 {
   "coatzacoalcos": [
     {
-      "titulo": "Rocío Nahle inaugura el Centro de  Búsqueda conectado a todo el país",
+      "titulo": "Marina reorganizará a sus  elementos para reforzar  vigilancia en Coatzacoalcos",
       "fuente": "Liberal Coatza",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-11-22 23:56",
-      "url": "https://liberal.com.mx/rocio-nahle-inaugura-el-centro-de-busqueda-conectado-a-todo-el-pais/",
-      "imagen": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800",
-      "prioridad": 3
-    },
-    {
-      "titulo": "Entregan medios de cobro  para fortalecer 56 unidades  de salud en Coatzacoalcos",
-      "fuente": "Liberal Coatza",
-      "categoria": "coatzacoalcos",
-      "fecha": "2026-11-22 23:56",
-      "url": "https://liberal.com.mx/entregan-medios-de-cobro-para-fortalecer-56-unidades-de-salud-en-coatzacoalcos/",
-      "imagen": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=800",
+      "fecha": "2026-11-23 18:53",
+      "url": "https://liberal.com.mx/marina-reorganizara-a-sus-elementos-para-reforzar-vigilancia-en-coatzacoalcos/",
+      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
       "prioridad": 2
     },
     {
-      "titulo": "Guillermo Reyes Espronceda, alcalde de Minatitlán, encabezó la capacitación presencial “Actualización de Peritos Respons",
+      "titulo": "Coatzacoalcos activa plan  preventivo ante el ingreso  del Frente Frío número 8",
+      "fuente": "Liberal Coatza",
+      "categoria": "coatzacoalcos",
+      "fecha": "2026-11-23 18:53",
+      "url": "https://liberal.com.mx/coatzacoalcos-activa-plan-preventivo-ante-el-ingreso-del-frente-frio-numero-8/",
+      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
+      "prioridad": 2
+    },
+    {
+      "titulo": "Entre risas y mucha diversión, niñas y niños disfrutaron del musical de Toy Story, presentado como parte de las activida",
       "fuente": "Municipio Sur",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-11-22 23:56",
-      "url": "https://municipiosur.com/2026/11/22/guillermo-reyes-espronceda-alcalde-de-minatitlan-encabezo-la-capacitacion-presencial-actualizacion-de-peritos-responsables-de-obra-impartida-por-el-colegio-de-arquitectos-coarq-ac/",
-      "imagen": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+      "fecha": "2026-11-23 18:53",
+      "url": "https://municipiosur.com/2026/11/23/entre-risas-y-mucha-diversion-ninas-y-ninos-disfrutaron-del-musical-de-toy-story-presentado-como-parte-de-las-actividades-del-festival-coatzacoalcos-puerto-de-raices-familias-se-dieron-cita-para-c/",
+      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
       "prioridad": 2
     },
     {
-      "titulo": "Protección Civil revisará  talleres de reparación de  celulares tras explosiones",
+      "titulo": "Música, danza y tradición  marcaron el cierre del  Festival Puerto de Raíces",
       "fuente": "Liberal Coatza",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-11-22 23:56",
-      "url": "https://liberal.com.mx/proteccion-civil-revisara-talleres-de-reparacion-de-celulares-tras-explosiones/",
+      "fecha": "2026-11-23 18:53",
+      "url": "https://liberal.com.mx/musica-danza-y-tradicion-marcaron-el-cierre-del-festival-puerto-de-raices/",
       "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Cetis 79 se viste de gala, recibe a 500 atletas del sur",
+      "titulo": "CFE anuncia suspensión  temporal de electricidad en colonias de Coatza",
       "fuente": "Liberal Coatza",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-11-22 23:56",
-      "url": "https://liberal.com.mx/cetis-79-se-viste-de-gala-recibe-a-500-atletas-del-sur/",
+      "fecha": "2026-11-23 18:53",
+      "url": "https://liberal.com.mx/cfe-anuncia-suspension-temporal-de-electricidad-en-colonias-de-coatza/",
       "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Construirán sala de espera  y ampliarán almacén del  Hospital General de Minatitlán",
+      "titulo": "El buque Cherokee  presenta dificultades  para atracar; 3remolcadores  apoyaron en las maniobras",
       "fuente": "Liberal Coatza",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-11-22 23:56",
-      "url": "https://liberal.com.mx/construiran-sala-de-espera-y-ampliaran-almacen-del-hospital-general-de-minatitlan/",
+      "fecha": "2026-11-23 18:53",
+      "url": "https://liberal.com.mx/el-buque-cherokee-presenta-dificultades-para-atracar-3remolcadores-apoyaron-en-las-maniobras/",
+      "imagen": "https://images.unsplash.com/photo-1503387762-592deb58ef4e?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "En Querétaro, promueven los 14 polos de Desarrollo  del Corredor Interoceánico  para atraer inversiones",
+      "fuente": "Liberal Coatza",
+      "categoria": "coatzacoalcos",
+      "fecha": "2026-11-23 18:53",
+      "url": "https://liberal.com.mx/en-queretaro-promueven-los-14-polos-de-desarrollo-del-corredor-interoceanico-para-atraer-inversiones/",
       "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "COMPARECIÓ REYES GARCÉS",
+      "titulo": "Más de 300 kilos  de croquetas para  albergues alcanzó la sexta Pijamas Run",
       "fuente": "Liberal Coatza",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-11-22 23:56",
-      "url": "https://liberal.com.mx/comparecio-reyes-garces/",
+      "fecha": "2026-11-23 18:53",
+      "url": "https://liberal.com.mx/mas-de-300-kilos-de-croquetas-para-albergues-alcanzo-la-sexta-pijamas-run/",
+      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "“Adopta un Árbol por un  Kilo de Ayuda”, cuando  se convierte en vida,  sombra y esperanza",
+      "fuente": "Liberal Coatza",
+      "categoria": "coatzacoalcos",
+      "fecha": "2026-11-23 18:53",
+      "url": "https://liberal.com.mx/adopta-un-arbol-por-un-kilo-de-ayuda-cuando-se-convierte-en-vida-sombra-y-esperanza/",
       "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
       "prioridad": 1
     },
@@ -67,271 +85,244 @@
       "titulo": "¡DA CLIC PARA LEER NUESTRA EDICIÓN DEL DÍA!",
       "fuente": "Liberal Coatza",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-11-22 23:56",
+      "fecha": "2026-11-23 18:53",
       "url": "https://liberal.com.mx/da-clic-para-leer-nuestra-edicion-del-dia/",
-      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Veracruz reduce deuda y se  ubica entre las 10 entidades  con menor desocupación",
-      "fuente": "Liberal Coatza",
-      "categoria": "coatzacoalcos",
-      "fecha": "2026-11-22 23:56",
-      "url": "https://liberal.com.mx/veracruz-reduce-deuda-y-se-ubica-entre-las-10-entidades-con-menor-desocupacion/",
-      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "El camino de la democracia  con justicia no tiene marcha  atrás: Claudia Sheinbaum",
-      "fuente": "Liberal Coatza",
-      "categoria": "coatzacoalcos",
-      "fecha": "2026-11-22 23:56",
-      "url": "https://liberal.com.mx/el-camino-de-la-democracia-con-justicia-no-tiene-marcha-atras-claudia-sheinbaum/",
-      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Cirilo Vázquez Parissi, encabezó el segundo desfile conmemorativo del 116 aniversario del inicio de la Revolución Mexica",
-      "fuente": "Municipio Sur",
-      "categoria": "coatzacoalcos",
-      "fecha": "2026-11-22 23:56",
-      "url": "https://municipiosur.com/2026/11/22/cirilo-vazquez-parissi-encabezo-el-segundo-desfile-conmemorativo-del-116-aniversario-del-inicio-de-la-revolucion-mexicana-el-presidente-municipal-de-cosoleacaque-estuvo-muy-atento-a-la-marcha-de-alu/",
-      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Fiesta de 15 años en Acayucan se tiñó de sangre. Sujetos armados asesinaron al joven, Isaac Lagunes Rodríguez. El ataque",
-      "fuente": "Municipio Sur",
-      "categoria": "coatzacoalcos",
-      "fecha": "2026-11-22 23:56",
-      "url": "https://municipiosur.com/2026/11/22/fiesta-de-15-anos-en-acayucan-se-tino-de-sangre-sujetos-armados-asesinaron-al-joven-isaac-lagunes-rodriguez-el-ataque-fue-directo-los-responsables-de-la-ejecucion-viajaban-en-una-motocicleta-los/",
-      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "¡¡Venció la Leucemia!!",
-      "fuente": "Municipio Sur",
-      "categoria": "coatzacoalcos",
-      "fecha": "2026-11-22 23:56",
-      "url": "https://municipiosur.com/2026/11/22/vencio-la-leucemia/",
       "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
       "prioridad": 1
     }
   ],
   "veracruz": [
     {
-      "titulo": "Rocío Nahle inaugura el Centro de  Búsqueda conectado a todo el país",
-      "fuente": "Liberal del Sur",
+      "titulo": "La gobernadora Norma Rocío Nahle García explica el funcionamiento de los autobuses Atenas, que este lunes 23 de noviembr",
+      "fuente": "Golpe Politico",
       "categoria": "veracruz",
-      "fecha": "2026-11-22 23:56",
-      "url": "https://liberal.com.mx/rocio-nahle-inaugura-el-centro-de-busqueda-conectado-a-todo-el-pais/",
+      "fecha": "2026-11-23 18:53",
+      "url": "https://golpepolitico.com/2026/11/23/la-gobernadora-norma-rocio-nahle-garcia-explica-el-funcionamiento-de-los-autobuses-atenas-que-este-lunes-23-de-noviembre-comenzaron-a-operar-en-cinco-rutas-de-la-ciudad-de-xalapa/",
       "imagen": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800",
       "prioridad": 3
     },
     {
-      "titulo": "Corren por alimento para 131 perros y gatos rescatados en Coatzacoalcos",
+      "titulo": "Ciudadanos y personal del ayuntamiento se reunieron en plaza Lerdo, del centro de Xalapa, para expresar su respaldo al n",
       "fuente": "Golpe Politico",
       "categoria": "veracruz",
-      "fecha": "2026-11-22 23:56",
-      "url": "https://golpepolitico.com/2026/11/22/corren-por-alimento-para-131-perros-y-gatos-rescatados-en-coatzacoalcos/",
+      "fecha": "2026-11-23 18:53",
+      "url": "https://golpepolitico.com/2026/11/23/ciudadanos-y-personal-del-ayuntamiento-se-reunieron-en-plaza-lerdo-del-centro-de-xalapa-para-expresar-su-respaldo-al-nuevo-servicio-atenas/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 2
     },
     {
-      "titulo": "Ayuntamiento impulsa la formación cívica y valores patrióticos; encabezó Alcaldesa el Sorteo del SMN para jóvenes conscr",
-      "fuente": "Golpe Politico",
+      "titulo": "Marina reorganizará a sus  elementos para reforzar  vigilancia en Coatzacoalcos",
+      "fuente": "Liberal del Sur",
       "categoria": "veracruz",
-      "fecha": "2026-11-22 23:56",
-      "url": "https://golpepolitico.com/2026/11/22/ayuntamiento-impulsa-la-formacion-civica-y-valores-patrioticos-encabezo-alcaldesa-el-sorteo-del-smn-para-jovenes-conscriptos/",
-      "imagen": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-      "prioridad": 2
-    },
-    {
-      "titulo": "En Coatzacoalcos, médicos llaman a prevenir la diabetes tipo 2 y reconocer sus primeras señales",
-      "fuente": "Golpe Politico",
-      "categoria": "veracruz",
-      "fecha": "2026-11-22 23:56",
-      "url": "https://golpepolitico.com/2026/11/22/en-coatzacoalcos-medicos-llaman-a-prevenir-la-diabetes-tipo-2-y-reconocer-sus-primeras-senales/",
+      "fecha": "2026-11-23 18:54",
+      "url": "https://liberal.com.mx/marina-reorganizara-a-sus-elementos-para-reforzar-vigilancia-en-coatzacoalcos/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 2
     },
     {
-      "titulo": "Trasladan al Acuario de Veracruz a la tortuga verde rescatada en Coatzacoalcos",
-      "fuente": "Golpe Politico",
+      "titulo": "Coatzacoalcos activa plan  preventivo ante el ingreso  del Frente Frío número 8",
+      "fuente": "Liberal del Sur",
       "categoria": "veracruz",
-      "fecha": "2026-11-22 23:56",
-      "url": "https://golpepolitico.com/2026/11/22/trasladan-al-acuario-de-veracruz-a-la-tortuga-verde-rescatada-en-coatzacoalcos/",
+      "fecha": "2026-11-23 18:54",
+      "url": "https://liberal.com.mx/coatzacoalcos-activa-plan-preventivo-ante-el-ingreso-del-frente-frio-numero-8/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 2
     },
     {
-      "titulo": "Entregan medios de cobro  para fortalecer 56 unidades  de salud en Coatzacoalcos",
+      "titulo": "Proponen crear un fondo para financiar a los cineastas veracruzanos",
+      "fuente": "Jornada Veracruz",
+      "categoria": "veracruz",
+      "fecha": "2026-11-23 18:53",
+      "url": "https://jornadaveracruz.com.mx/adultiterias-encuentro-titeresco-adultos-xalapa/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Choque múltiple deja cuatro lesionados",
+      "fuente": "Jornada Veracruz",
+      "categoria": "veracruz",
+      "fecha": "2026-11-23 18:53",
+      "url": "https://jornadaveracruz.com.mx/choque-multiple-deja-cuatro-lesionados/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "FALANGES: NVIDIA y la vulnerabilidad tecnológica de Estados Unidos",
+      "fuente": "Jornada Veracruz",
+      "categoria": "veracruz",
+      "fecha": "2026-11-23 18:53",
+      "url": "https://jornadaveracruz.com.mx/nvidia-vulnerabilidad-tecnologica-estados-unidos/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "GN y Ejército decomisan 38 kilos de metanfetamina en Tierra Blanca",
+      "fuente": "Jornada Veracruz",
+      "categoria": "veracruz",
+      "fecha": "2026-11-23 18:53",
+      "url": "https://jornadaveracruz.com.mx/decomisan-metanfetamina-tierra-blanca-veracruz/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Frente frío 8 traerá lluvias, evento de Norte y descenso de las temperaturas en el estado",
+      "fuente": "Jornada Veracruz",
+      "categoria": "veracruz",
+      "fecha": "2026-11-23 18:53",
+      "url": "https://jornadaveracruz.com.mx/frente-frio-8-lluvias-norte-veracruz/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Daniela Griego encabeza en Xalapa sorteo para el Servicio Militar de mil 625 jóvenes",
+      "fuente": "Jornada Veracruz",
+      "categoria": "veracruz",
+      "fecha": "2026-11-23 18:53",
+      "url": "https://jornadaveracruz.com.mx/sorteo-servicio-militar-1625-jovenes-xalapa/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "En mudanza, hombre muere al recibir descarga eléctrica",
+      "fuente": "Jornada Veracruz",
+      "categoria": "veracruz",
+      "fecha": "2026-11-23 18:53",
+      "url": "https://jornadaveracruz.com.mx/hombre-muere-electrocutado-mudanza-xalapa/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Sicarios llegan a festejo y ultiman de varios balazos a joven de 19 años, en Acayucan",
+      "fuente": "Jornada Veracruz",
+      "categoria": "veracruz",
+      "fecha": "2026-11-23 18:53",
+      "url": "https://jornadaveracruz.com.mx/asesinan-joven-19-anos-fiesta-acayucan/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Descubren en río de Actopan cuerpo de Fabiola, con huellas de violencia",
+      "fuente": "Jornada Veracruz",
+      "categoria": "veracruz",
+      "fecha": "2026-11-23 18:53",
+      "url": "https://jornadaveracruz.com.mx/fabiola-aguilar-estudiante-localizada-sin-vida-actopan/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Festejará la agrupación AUGE 30 años de trabajo por desarrollo de la región centro",
+      "fuente": "Jornada Veracruz",
+      "categoria": "veracruz",
+      "fecha": "2026-11-23 18:53",
+      "url": "https://jornadaveracruz.com.mx/auge-30-anos-desarrollo-region-central-veracruz/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Accidentes de taxis movilizan a cuerpos de auxilio en el libramiento de Coatepec",
+      "fuente": "Golpe Politico",
+      "categoria": "veracruz",
+      "fecha": "2026-11-23 18:53",
+      "url": "https://golpepolitico.com/2026/11/23/accidentes-de-taxis-movilizan-a-cuerpos-de-auxilio-en-el-libramiento-de-coatepec/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Este lunes arranca el servicio Atenas con 60 autobuses distribuidos en cinco rutas que conectarán Xalapa, Banderilla y E",
+      "fuente": "Golpe Politico",
+      "categoria": "veracruz",
+      "fecha": "2026-11-23 18:53",
+      "url": "https://golpepolitico.com/2026/11/23/este-lunes-arranca-el-servicio-atenas-con-60-autobuses-distribuidos-en-cinco-rutas-que-conectaran-xalapa-banderilla-y-emiliano-zapata/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Alertan por lluvias y evento de norte en Veracruz",
+      "fuente": "Golpe Politico",
+      "categoria": "veracruz",
+      "fecha": "2026-11-23 18:53",
+      "url": "https://golpepolitico.com/2026/11/23/alertan-por-lluvias-y-evento-de-norte-en-veracruz/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Ejecutan 49 cateos en 31 municipios de Veracruz; detienen a 37 personas",
+      "fuente": "Golpe Politico",
+      "categoria": "veracruz",
+      "fecha": "2026-11-23 18:53",
+      "url": "https://golpepolitico.com/2026/11/23/ejecutan-49-cateos-en-31-municipios-de-veracruz-detienen-a-37-personas/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "La titular de la SEV, Raquel Herrera Bonilla, afirmó que la dependencia atiende las demandas laborales de los más de 90 ",
+      "fuente": "Golpe Politico",
+      "categoria": "veracruz",
+      "fecha": "2026-11-23 18:53",
+      "url": "https://golpepolitico.com/2026/11/23/la-titular-de-la-sev-raquel-herrera-bonilla-afirmo-que-la-dependencia-atiende-las-demandas-laborales-de-los-mas-de-90-sindicatos-de-veracruz/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Volcadura de un Tsuru deja una persona sin vida cerca de Tuzamapan",
+      "fuente": "Golpe Politico",
+      "categoria": "veracruz",
+      "fecha": "2026-11-23 18:53",
+      "url": "https://golpepolitico.com/2026/11/23/volcadura-de-un-tsuru-deja-una-persona-sin-vida-cerca-de-tuzamapan/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Música, danza y tradición  marcaron el cierre del  Festival Puerto de Raíces",
       "fuente": "Liberal del Sur",
       "categoria": "veracruz",
-      "fecha": "2026-11-22 23:56",
-      "url": "https://liberal.com.mx/entregan-medios-de-cobro-para-fortalecer-56-unidades-de-salud-en-coatzacoalcos/",
-      "imagen": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=800",
-      "prioridad": 2
-    },
-    {
-      "titulo": "GOBIERNO DE POZA RICA REALIZA CARRERA ATLÉTICA CONMEMORATIVA POR EL 75 ANIVERSARIO DE LA CIUDAD",
-      "fuente": "Jornada Veracruz",
-      "categoria": "veracruz",
-      "fecha": "2026-11-22 23:56",
-      "url": "https://jornadaveracruz.com.mx/carrera-atletica-conmemorativa-por-el-75-aniversario-de-la-ciudad/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "fecha": "2026-11-23 18:54",
+      "url": "https://liberal.com.mx/musica-danza-y-tradicion-marcaron-el-cierre-del-festival-puerto-de-raices/",
+      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "NELSON KANZELA CIERRA CON ÉXITO EL SEGUNDO DÍA DEL FESTIVAL “LUGAR DE ENCUENTROS”, POR LOS 75 AÑOS DE POZA RICA",
-      "fuente": "Jornada Veracruz",
-      "categoria": "veracruz",
-      "fecha": "2026-11-22 23:56",
-      "url": "https://jornadaveracruz.com.mx/nelson-kanzela-cierra-con-exito-el-segundo-dia-del-festival-lugar-de-encuentros-por-los-75-anos-de-poza-rica/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Acusan derrame de chapopote en Papantla",
-      "fuente": "Jornada Veracruz",
-      "categoria": "veracruz",
-      "fecha": "2026-11-22 23:56",
-      "url": "https://jornadaveracruz.com.mx/acusan-derrame-de-chapopote-en-papantla/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Encabeza Esteban Bautista proyecto para rehabilitar carretera Chinameca-Jáltipan",
-      "fuente": "Jornada Veracruz",
-      "categoria": "veracruz",
-      "fecha": "2026-11-22 23:56",
-      "url": "https://jornadaveracruz.com.mx/encabeza-esteban-bautista-proyecto-para-rehabilitar-carretera-chinameca-jaltipan/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Se trabaja para recuperar predios del estado invadidos: Leslie Garibo",
-      "fuente": "Jornada Veracruz",
-      "categoria": "veracruz",
-      "fecha": "2026-11-22 23:56",
-      "url": "https://jornadaveracruz.com.mx/se-trabaja-para-recuperar-predios-del-estado-invadidos-leslie-garibo/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Plazas docentes libres depende de maestros que se jubilan, advierte Reveriano Marín",
-      "fuente": "Jornada Veracruz",
-      "categoria": "veracruz",
-      "fecha": "2026-11-22 23:56",
-      "url": "https://jornadaveracruz.com.mx/plazas-docentes-libres-depende-de-maestros-que-se-jubilan-advierte-reveriano-marin/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Contribuyó a la violencia en el país el abandono del sistema educativo: CSP",
-      "fuente": "Jornada Veracruz",
-      "categoria": "veracruz",
-      "fecha": "2026-11-22 23:56",
-      "url": "https://jornadaveracruz.com.mx/contribuyo-a-la-violencia-en-el-pais-el-abandono-del-sistema-educativo-csp/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Sader: valor de producción pesquera creció 31.2% en 2025; alcanzó $61 mil 941 millones",
-      "fuente": "Jornada Veracruz",
-      "categoria": "veracruz",
-      "fecha": "2026-11-22 23:56",
-      "url": "https://jornadaveracruz.com.mx/sader-valor-de-produccion-pesquera-crecio-31-2-en-2025-alcanzo-61-mil-941-millones/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "FGE Veracruz investiga la muerte de una mujer localizada en un río de Actopan",
-      "fuente": "Golpe Politico",
-      "categoria": "veracruz",
-      "fecha": "2026-11-22 23:56",
-      "url": "https://golpepolitico.com/2026/11/22/fge-veracruz-investiga-la-muerte-de-una-mujer-localizada-en-un-rio-de-actopan/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "AMECOPE rinde homenaje póstumo al periodista Jacinto Romero Flores",
-      "fuente": "Golpe Politico",
-      "categoria": "veracruz",
-      "fecha": "2026-11-22 23:56",
-      "url": "https://golpepolitico.com/2026/11/22/amecope-rinde-homenaje-postumo-al-periodista-jacinto-romero-flores/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Muere motociclista tras derrapar y caer a una barranca en Orizaba",
-      "fuente": "Golpe Politico",
-      "categoria": "veracruz",
-      "fecha": "2026-11-22 23:56",
-      "url": "https://golpepolitico.com/2026/11/22/muere-motociclista-tras-derrapar-y-caer-a-una-barranca-en-orizaba/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Este domingo, la Catedral Metropolitana de Xalapa reunió a músicos para celebrar su día",
-      "fuente": "Golpe Politico",
-      "categoria": "veracruz",
-      "fecha": "2026-11-22 23:56",
-      "url": "https://golpepolitico.com/2026/11/22/este-domingo-la-catedral-metropolitana-de-xalapa-reunio-a-musicos-para-celebrar-su-dia/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "La «Hormiga» González anota en la contundente goleada del Olympiacos ante Iraklis",
-      "fuente": "Golpe Politico",
-      "categoria": "veracruz",
-      "fecha": "2026-11-22 23:56",
-      "url": "https://golpepolitico.com/2026/11/22/la-hormiga-gonzalez-anota-en-la-contundente-goleada-del-olympiacos-ante-iraklis/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Este lunes inicia operaciones el transporte público Atenas en Xalapa",
-      "fuente": "Golpe Politico",
-      "categoria": "veracruz",
-      "fecha": "2026-11-22 23:56",
-      "url": "https://golpepolitico.com/2026/11/22/este-lunes-inicia-operaciones-el-transporte-publico-atenas-en-xalapa/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Protección Civil revisará  talleres de reparación de  celulares tras explosiones",
+      "titulo": "CFE anuncia suspensión  temporal de electricidad en colonias de Coatza",
       "fuente": "Liberal del Sur",
       "categoria": "veracruz",
-      "fecha": "2026-11-22 23:56",
-      "url": "https://liberal.com.mx/proteccion-civil-revisara-talleres-de-reparacion-de-celulares-tras-explosiones/",
+      "fecha": "2026-11-23 18:54",
+      "url": "https://liberal.com.mx/cfe-anuncia-suspension-temporal-de-electricidad-en-colonias-de-coatza/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Cetis 79 se viste de gala, recibe a 500 atletas del sur",
+      "titulo": "El buque Cherokee  presenta dificultades  para atracar; 3remolcadores  apoyaron en las maniobras",
       "fuente": "Liberal del Sur",
       "categoria": "veracruz",
-      "fecha": "2026-11-22 23:56",
-      "url": "https://liberal.com.mx/cetis-79-se-viste-de-gala-recibe-a-500-atletas-del-sur/",
+      "fecha": "2026-11-23 18:54",
+      "url": "https://liberal.com.mx/el-buque-cherokee-presenta-dificultades-para-atracar-3remolcadores-apoyaron-en-las-maniobras/",
+      "imagen": "https://images.unsplash.com/photo-1503387762-592deb58ef4e?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "En Querétaro, promueven los 14 polos de Desarrollo  del Corredor Interoceánico  para atraer inversiones",
+      "fuente": "Liberal del Sur",
+      "categoria": "veracruz",
+      "fecha": "2026-11-23 18:54",
+      "url": "https://liberal.com.mx/en-queretaro-promueven-los-14-polos-de-desarrollo-del-corredor-interoceanico-para-atraer-inversiones/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Construirán sala de espera  y ampliarán almacén del  Hospital General de Minatitlán",
+      "titulo": "Más de 300 kilos  de croquetas para  albergues alcanzó la sexta Pijamas Run",
       "fuente": "Liberal del Sur",
       "categoria": "veracruz",
-      "fecha": "2026-11-22 23:56",
-      "url": "https://liberal.com.mx/construiran-sala-de-espera-y-ampliaran-almacen-del-hospital-general-de-minatitlan/",
+      "fecha": "2026-11-23 18:54",
+      "url": "https://liberal.com.mx/mas-de-300-kilos-de-croquetas-para-albergues-alcanzo-la-sexta-pijamas-run/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "COMPARECIÓ REYES GARCÉS",
+      "titulo": "“Adopta un Árbol por un  Kilo de Ayuda”, cuando  se convierte en vida,  sombra y esperanza",
       "fuente": "Liberal del Sur",
       "categoria": "veracruz",
-      "fecha": "2026-11-22 23:56",
-      "url": "https://liberal.com.mx/comparecio-reyes-garces/",
+      "fecha": "2026-11-23 18:54",
+      "url": "https://liberal.com.mx/adopta-un-arbol-por-un-kilo-de-ayuda-cuando-se-convierte-en-vida-sombra-y-esperanza/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
@@ -339,26 +330,8 @@
       "titulo": "¡DA CLIC PARA LEER NUESTRA EDICIÓN DEL DÍA!",
       "fuente": "Liberal del Sur",
       "categoria": "veracruz",
-      "fecha": "2026-11-22 23:56",
+      "fecha": "2026-11-23 18:54",
       "url": "https://liberal.com.mx/da-clic-para-leer-nuestra-edicion-del-dia/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Veracruz reduce deuda y se  ubica entre las 10 entidades  con menor desocupación",
-      "fuente": "Liberal del Sur",
-      "categoria": "veracruz",
-      "fecha": "2026-11-22 23:56",
-      "url": "https://liberal.com.mx/veracruz-reduce-deuda-y-se-ubica-entre-las-10-entidades-con-menor-desocupacion/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "El camino de la democracia  con justicia no tiene marcha  atrás: Claudia Sheinbaum",
-      "fuente": "Liberal del Sur",
-      "categoria": "veracruz",
-      "fecha": "2026-11-22 23:56",
-      "url": "https://liberal.com.mx/el-camino-de-la-democracia-con-justicia-no-tiene-marcha-atras-claudia-sheinbaum/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     }
