@@ -1,28 +1,55 @@
 {
   "coatzacoalcos": [
     {
-      "titulo": "El dinero del pueblo vuelve al pueblo; Rocío Nahle lleva 5 mil 600 apoyos a familias del Sotavento",
-      "fuente": "Municipio Sur",
-      "categoria": "coatzacoalcos",
-      "fecha": "2026-11-25 02:52",
-      "url": "https://municipiosur.com/2026/11/24/el-dinero-del-pueblo-vuelve-al-pueblo-rocio-nahle-lleva-5-mil-600-apoyos-a-familias-del-sotavento/",
-      "imagen": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800",
-      "prioridad": 3
-    },
-    {
       "titulo": "Coatzacoalcos será sede del  Primer Festival Internacional  de Cine del Mar: Pedro Miguel",
       "fuente": "Liberal Coatza",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-11-25 02:52",
+      "fecha": "2026-11-25 17:43",
       "url": "https://liberal.com.mx/coatzacoalcos-sera-sede-del-primer-festival-internacional-de-cine-del-mar-pedro-miguel/",
       "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
       "prioridad": 2
     },
     {
+      "titulo": "Retirarán puestos ilegales  de cohetes en Minatitlán",
+      "fuente": "Liberal Coatza",
+      "categoria": "coatzacoalcos",
+      "fecha": "2026-11-25 17:43",
+      "url": "https://liberal.com.mx/retiraran-puestos-ilegales-de-cohetes-en-minatitlan/",
+      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Prohíben la venta de pirotecnia en  calles de Mina; habrá decomisos",
+      "fuente": "Liberal Coatza",
+      "categoria": "coatzacoalcos",
+      "fecha": "2026-11-25 17:43",
+      "url": "https://liberal.com.mx/prohiben-la-venta-de-pirotecnia-en-calles-de-mina-habra-decomisos/",
+      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "¿Puede la policía hacerte una revisión de rutina en tus partes íntimas?",
+      "fuente": "Liberal Coatza",
+      "categoria": "coatzacoalcos",
+      "fecha": "2026-11-25 17:43",
+      "url": "https://liberal.com.mx/puede-la-policia-hacerte-una-revision-de-rutina-en-tus-partes-intimas/",
+      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "¡DA CLIC PARA LEER NUESTRA EDICIÓN DEL DÍA!",
+      "fuente": "Liberal Coatza",
+      "categoria": "coatzacoalcos",
+      "fecha": "2026-11-25 17:43",
+      "url": "https://liberal.com.mx/da-clic-para-leer-nuestra-edicion-del-dia/",
+      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
+      "prioridad": 1
+    },
+    {
       "titulo": "Estrategia de Seguridad  en Sinaloa da resultados",
       "fuente": "Liberal Coatza",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-11-25 02:52",
+      "fecha": "2026-11-25 17:43",
       "url": "https://liberal.com.mx/estrategia-de-seguridad-en-sinaloa-da-resultados/",
       "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
       "prioridad": 1
@@ -31,17 +58,8 @@
       "titulo": "Incendio afecta a dos  negocios de alimentos  en el Malecón Costero",
       "fuente": "Liberal Coatza",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-11-25 02:52",
+      "fecha": "2026-11-25 17:43",
       "url": "https://liberal.com.mx/incendio-afecta-a-dos-negocios-de-alimentos-en-el-malecon-costero/",
-      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "¡DA CLIC PARA LEER NUESTRA EDICIÓN DEL DÍA!",
-      "fuente": "Liberal Coatza",
-      "categoria": "coatzacoalcos",
-      "fecha": "2026-11-25 02:52",
-      "url": "https://liberal.com.mx/da-clic-para-leer-nuestra-edicion-del-dia/",
       "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
       "prioridad": 1
     },
@@ -49,235 +67,244 @@
       "titulo": "Automovilistas ignoran el  uno por uno en el Malecón Costero y provocan caos vial",
       "fuente": "Liberal Coatza",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-11-25 02:52",
+      "fecha": "2026-11-25 17:43",
       "url": "https://liberal.com.mx/automovilistas-ignoran-el-uno-por-uno-en-el-malecon-costero-y-provocan-caos-vial/",
       "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Ya abrió el comedor del  Santuario Diocesano  de Guadalupe para  recibir a los peregrinos",
-      "fuente": "Liberal Coatza",
-      "categoria": "coatzacoalcos",
-      "fecha": "2026-11-25 02:52",
-      "url": "https://liberal.com.mx/ya-abrio-el-comedor-del-santuario-diocesano-de-guadalupe-para-recibir-a-los-peregrinos/",
-      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Educación, pilar de una  sociedad justa, equitativa  y con oportunidades: SEV",
-      "fuente": "Liberal Coatza",
-      "categoria": "coatzacoalcos",
-      "fecha": "2026-11-25 02:52",
-      "url": "https://liberal.com.mx/educacion-pilar-de-una-sociedad-justa-equitativa-y-con-oportunidades-sev/",
-      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Veracruz dejó de ser el estado con el mayor monto observado por la ASF: Contraloría",
+      "titulo": "Una fuerte colisión entre una locomotora de Ferromex y un automóvil movilizó a los cuerpos de emergencia la noche del ma",
       "fuente": "Municipio Sur",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-11-25 02:52",
-      "url": "https://municipiosur.com/2026/11/24/veracruz-dejo-de-ser-el-estado-con-el-mayor-monto-observado-por-la-asf-contraloria/",
+      "fecha": "2026-11-25 17:43",
+      "url": "https://municipiosur.com/2026/11/25/una-fuerte-colision-entre-una-locomotora-de-ferromex-y-un-automovil-movilizo-a-los-cuerpos-de-emergencia-la-noche-del-martes-24-de-noviembre-luego-de-que-el-vehiculo-fuera-impactado-por-la-pesada-maq/",
       "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "En dos años, la SIOP intervino mil 933 kilómetros de caminos y carreteras",
+      "titulo": "Un hombre fue asesinado a balazos la noche del martes 24 de noviembre, luego de ser atacado por sujetos armados mientras",
       "fuente": "Municipio Sur",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-11-25 02:52",
-      "url": "https://municipiosur.com/2026/11/24/en-dos-anos-la-siop-intervino-mil-933-kilometros-de-caminos-y-carreteras/",
+      "fecha": "2026-11-25 17:43",
+      "url": "https://municipiosur.com/2026/11/25/un-hombre-fue-asesinado-a-balazos-la-noche-del-martes-24-de-noviembre-luego-de-ser-atacado-por-sujetos-armados-mientras-se-encontraba-a-bordo-de-un-automovil-deportivo-en-la-localidad-de-juan-diaz-co/",
       "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "¡¡Le dieron Cuello!!",
+      "titulo": "¡¡Jaguares Minatitlán!!",
       "fuente": "Municipio Sur",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-11-25 02:52",
-      "url": "https://municipiosur.com/2026/11/24/le-dieron-cuello-22/",
-      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Esteban Ramírez Zepeta anunció su renuncia a la dirigencia estatal de Morena en Veracruz. A través de un mensaje difundi",
-      "fuente": "Municipio Sur",
-      "categoria": "coatzacoalcos",
-      "fecha": "2026-11-25 02:52",
-      "url": "https://municipiosur.com/2026/11/24/esteban-ramirez-zepeta-anuncio-su-renuncia-a-la-dirigencia-estatal-de-morena-en-veracruz-a-traves-de-un-mensaje-difundido-en-redes-sociales-informo-que-entrego-su-renuncia-a-la-presidenta-nacional-d/",
-      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Presencia de nutrias en ríos de Malasia dan una nueva esperanza",
-      "fuente": "Municipio Sur",
-      "categoria": "coatzacoalcos",
-      "fecha": "2026-11-25 02:52",
-      "url": "https://municipiosur.com/2026/11/24/presencia-de-nutrias-en-rios-de-malasia-dan-una-nueva-esperanza/",
-      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
+      "fecha": "2026-11-25 17:43",
+      "url": "https://municipiosur.com/2026/11/25/jaguares-minatitlan/",
+      "imagen": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=800",
       "prioridad": 1
     }
   ],
   "veracruz": [
     {
-      "titulo": "Incendian por tercera ocasión negocio de marquesitas en malecón de Coatzacoalcos",
+      "titulo": "Distribuye gobernadora 5 mil 600 apoyos sociales en ocho municipios del Sotavento",
       "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-11-25 02:52",
-      "url": "https://jornadaveracruz.com.mx/tercer-incendio-marquesitas-el-bubba-coatzacoalcos/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 2
-    },
-    {
-      "titulo": "Instituto Municipal de la Mujer de Coatzacoalcos registra 115 atenciones durante octubre",
-      "fuente": "Golpe Politico",
-      "categoria": "veracruz",
-      "fecha": "2026-11-25 02:52",
-      "url": "https://golpepolitico.com/2026/11/24/instituto-municipal-de-la-mujer-de-coatzacoalcos-registra-115-atenciones-durante-octubre/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 2
-    },
-    {
-      "titulo": "Empresa gasera y armadora automotriz buscan instalarse en el Polo de Desarrollo de Coatzacoalcos: Ernesto Pérez Astorga",
-      "fuente": "Golpe Politico",
-      "categoria": "veracruz",
-      "fecha": "2026-11-25 02:52",
-      "url": "https://golpepolitico.com/2026/11/24/empresa-gasera-y-armadora-automotriz-buscan-instalarse-en-el-polo-de-desarrollo-de-coatzacoalcos-ernesto-perez-astorga/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 2
+      "fecha": "2026-11-25 17:43",
+      "url": "https://jornadaveracruz.com.mx/rocio-nahle-apoyos-sociales-ocho-municipios-sotavento/",
+      "imagen": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800",
+      "prioridad": 3
     },
     {
       "titulo": "Coatzacoalcos será sede del  Primer Festival Internacional  de Cine del Mar: Pedro Miguel",
       "fuente": "Liberal del Sur",
       "categoria": "veracruz",
-      "fecha": "2026-11-25 02:52",
+      "fecha": "2026-11-25 17:43",
       "url": "https://liberal.com.mx/coatzacoalcos-sera-sede-del-primer-festival-internacional-de-cine-del-mar-pedro-miguel/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 2
     },
     {
-      "titulo": "Deja Esteban Ramírez Zepeta la dirigencia estatal de Morena en medio de escándalo en redes sociales",
+      "titulo": "Las venas abiertas de la 4T. Parte I",
       "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-11-25 02:52",
-      "url": "https://jornadaveracruz.com.mx/renuncia-esteban-ramirez-zepeta-dirigencia-morena-veracruz/",
+      "fecha": "2026-11-25 17:43",
+      "url": "https://jornadaveracruz.com.mx/crisis-interna-morena-veracruz-4t/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Veracruz abre caminos y construye su desarrollo: SIOP",
+      "titulo": "Cuestionan logística de obras en vía federal",
       "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-11-25 02:52",
-      "url": "https://jornadaveracruz.com.mx/siop-comparecencia-obras-veracruz-2026/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "fecha": "2026-11-25 17:43",
+      "url": "https://jornadaveracruz.com.mx/capufe-obras-autopista-150d-ciudad-mendoza-cordoba/",
+      "imagen": "https://images.unsplash.com/photo-1503387762-592deb58ef4e?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Controles biométricos en la UV",
+      "titulo": "Supervisa Conagua la red hídrica de Nanchital",
       "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-11-25 02:52",
-      "url": "https://jornadaveracruz.com.mx/controles-biometricos-asistencia-academicos-uv/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "fecha": "2026-11-25 17:43",
+      "url": "https://jornadaveracruz.com.mx/conagua-supervisa-arroyos-canales-pluviales-nanchital-inundaciones/",
+      "imagen": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Exige Greenpeace estudios independientes por explosión del pozo Krem-I",
+      "titulo": "Inegi: Veracruz, entre los estados con más problemas estructurales en sus viviendas",
       "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-11-25 02:52",
-      "url": "https://jornadaveracruz.com.mx/greenpeace-exige-estudios-agua-pozo-krem-i-las-choapas/",
+      "fecha": "2026-11-25 17:43",
+      "url": "https://jornadaveracruz.com.mx/veracruz-segundo-lugar-problemas-estructurales-viviendas-inegi/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Acusan a miembros del Coro Monumental de Orizaba por acoso sexual en tendedero",
+      "titulo": "En dos años, SIOP intervino mil 933 kilómetros de caminos y carreteras",
       "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-11-25 02:52",
-      "url": "https://jornadaveracruz.com.mx/denuncias-acoso-coro-monumental-orizaba/",
+      "fecha": "2026-11-25 17:43",
+      "url": "https://jornadaveracruz.com.mx/siop-rehabilito-1933-kilometros-caminos-carreteras-veracruz/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Explosión por presunta acumulación de gas causa daño a viviendas y vehículos en Puerto",
+      "titulo": "Presentan Atlas de Riesgo y Plan invernal",
       "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-11-25 02:52",
-      "url": "https://jornadaveracruz.com.mx/explosion-acumulacion-gas-flores-magon-veracruz/",
-      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Pierde la vida motociclista atropellado en el retorno del aeropuerto de El Lencero, en Emiliano Zapata",
-      "fuente": "Golpe Politico",
-      "categoria": "veracruz",
-      "fecha": "2026-11-25 02:52",
-      "url": "https://golpepolitico.com/2026/11/24/pierde-la-vida-motociclista-atropellado-en-el-retorno-del-aeropuerto-de-el-lencero-en-emiliano-zapata/",
-      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Árbol cae sobre camioneta estacionada en el fraccionamiento Reforma de la ciudad de Veracruz",
-      "fuente": "Golpe Politico",
-      "categoria": "veracruz",
-      "fecha": "2026-11-25 02:52",
-      "url": "https://golpepolitico.com/2026/11/24/arbol-cae-sobre-camioneta-estacionada-en-el-fraccionamiento-reforma-de-la-ciudad-de-veracruz/",
+      "fecha": "2026-11-25 17:43",
+      "url": "https://jornadaveracruz.com.mx/xalapa-presenta-atlas-riesgos-municipal-2026-plan-invernal/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "¡Impulsan el campo veracruzano!",
-      "fuente": "Golpe Politico",
+      "titulo": "Avanza Polo de Desarrollo para Bienestar en Coatza",
+      "fuente": "Jornada Veracruz",
       "categoria": "veracruz",
-      "fecha": "2026-11-25 02:52",
-      "url": "https://golpepolitico.com/2026/11/24/impulsan-el-campo-veracruzano/",
+      "fecha": "2026-11-25 17:43",
+      "url": "https://jornadaveracruz.com.mx/polo-desarrollo-coatzacoalcos-ii-avanza-inversiones-energias-verdes/",
+      "imagen": "https://images.unsplash.com/photo-1542596594-649edbc13630?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Coatepec: una crisis de gestión municipal",
+      "fuente": "Jornada Veracruz",
+      "categoria": "veracruz",
+      "fecha": "2026-11-25 17:43",
+      "url": "https://jornadaveracruz.com.mx/coatepec-crisis-gestion-municipal-seguridad-agua/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Veracruz deja el primer lugar nacional en monto observado por la ASF: Contraloría",
+      "titulo": "Participa fiscal general, Lisbeth Aurelia Jiménez Aguirre, en arranque de la Caravana de Servicios 25N en Córdoba",
       "fuente": "Golpe Politico",
       "categoria": "veracruz",
-      "fecha": "2026-11-25 02:52",
-      "url": "https://golpepolitico.com/2026/11/24/veracruz-deja-el-primer-lugar-nacional-en-monto-observado-por-la-asf-contraloria/",
+      "fecha": "2026-11-25 17:43",
+      "url": "https://golpepolitico.com/2026/11/25/participa-fiscal-general-lisbeth-aurelia-jimenez-aguirre-en-arranque-de-la-caravana-de-servicios-25n-en-cordoba/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Rosa María Hernández Espejo evalúa resultados y proyectos municipales para 2027",
+      "titulo": "Amanece Xalapa con cielo nublado y ambiente fresco por frente frío 8",
       "fuente": "Golpe Politico",
       "categoria": "veracruz",
-      "fecha": "2026-11-25 02:52",
-      "url": "https://golpepolitico.com/2026/11/24/rosa-maria-hernandez-espejo-evalua-resultados-y-proyectos-municipales-para-2027/",
+      "fecha": "2026-11-25 17:43",
+      "url": "https://golpepolitico.com/2026/11/25/amanece-xalapa-con-cielo-nublado-y-ambiente-fresco-por-frente-frio-8/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Motociclista resulta lesionado tras choque con taxi en la autopista Cardel-Veracruz",
+      "titulo": "Cinco docentes terminan hospitalizadas tras accidente en la carretera Xico- Teocelo",
       "fuente": "Golpe Politico",
       "categoria": "veracruz",
-      "fecha": "2026-11-25 02:52",
-      "url": "https://golpepolitico.com/2026/11/24/motociclista-resulta-lesionado-tras-choque-con-taxi-en-la-autopista-cardel-veracruz/",
+      "fecha": "2026-11-25 17:43",
+      "url": "https://golpepolitico.com/2026/11/25/cinco-docentes-terminan-hospitalizadas-tras-accidente-en-la-carretera-xico-teocelo/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Contraloría no dejará sin atención a ciudadanos en materia de transparencia: Bárbara Galindo",
+      "titulo": "Impulsa Lalo Utrera capacitación y coordinación para proteger la biodiversidad de Actopan",
       "fuente": "Golpe Politico",
       "categoria": "veracruz",
-      "fecha": "2026-11-25 02:52",
-      "url": "https://golpepolitico.com/2026/11/24/contraloria-no-dejara-sin-atencion-a-ciudadanos-en-materia-de-transparencia-barbara-galindo/",
+      "fecha": "2026-11-25 17:43",
+      "url": "https://golpepolitico.com/2026/11/25/impulsa-lalo-utrera-capacitacion-y-coordinacion-para-proteger-la-biodiversidad-de-actopan/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Mujer resulta lesionada tras choque con tráiler en la carretera Cardel-Xalapa",
+      "titulo": "Esteban Bautista respalda designación de Laura Ugalde al frente de Morena en Veracruz",
       "fuente": "Golpe Politico",
       "categoria": "veracruz",
-      "fecha": "2026-11-25 02:52",
-      "url": "https://golpepolitico.com/2026/11/24/mujer-resulta-lesionada-tras-choque-con-trailer-en-la-carretera-cardel-xalapa/",
+      "fecha": "2026-11-25 17:43",
+      "url": "https://golpepolitico.com/2026/11/25/esteban-bautista-respalda-designacion-de-laura-ugalde-al-frente-de-morena-en-veracruz/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Instalan espejos convexos en nueve puntos de Veracruz para reforzar la seguridad de las mujeres",
+      "fuente": "Golpe Politico",
+      "categoria": "veracruz",
+      "fecha": "2026-11-25 17:43",
+      "url": "https://golpepolitico.com/2026/11/25/instalan-espejos-convexos-en-nueve-puntos-de-veracruz-para-reforzar-la-seguridad-de-las-mujeres/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "¿Y los resultados? Cuestionan sede del primer informe de María Paula Hakim en Boca del Río",
+      "fuente": "Golpe Politico",
+      "categoria": "veracruz",
+      "fecha": "2026-11-25 17:43",
+      "url": "https://golpepolitico.com/2026/11/25/y-los-resultados-cuestionan-sede-del-primer-informe-de-maria-paula-hakim-en-boca-del-rio/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Golpe o «cebollazo»:",
+      "fuente": "Golpe Politico",
+      "categoria": "veracruz",
+      "fecha": "2026-11-25 17:43",
+      "url": "https://golpepolitico.com/2026/11/25/golpe-o-cebollazo-411/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "¡Más de 18 millones de medicamentos distribuidos en Veracruz!",
+      "fuente": "Golpe Politico",
+      "categoria": "veracruz",
+      "fecha": "2026-11-25 17:43",
+      "url": "https://golpepolitico.com/2026/11/25/mas-de-18-millones-de-medicamentos-distribuidos-en-veracruz/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Retirarán puestos ilegales  de cohetes en Minatitlán",
+      "fuente": "Liberal del Sur",
+      "categoria": "veracruz",
+      "fecha": "2026-11-25 17:43",
+      "url": "https://liberal.com.mx/retiraran-puestos-ilegales-de-cohetes-en-minatitlan/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Prohíben la venta de pirotecnia en  calles de Mina; habrá decomisos",
+      "fuente": "Liberal del Sur",
+      "categoria": "veracruz",
+      "fecha": "2026-11-25 17:43",
+      "url": "https://liberal.com.mx/prohiben-la-venta-de-pirotecnia-en-calles-de-mina-habra-decomisos/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "¿Puede la policía hacerte una revisión de rutina en tus partes íntimas?",
+      "fuente": "Liberal del Sur",
+      "categoria": "veracruz",
+      "fecha": "2026-11-25 17:43",
+      "url": "https://liberal.com.mx/puede-la-policia-hacerte-una-revision-de-rutina-en-tus-partes-intimas/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "¡DA CLIC PARA LEER NUESTRA EDICIÓN DEL DÍA!",
+      "fuente": "Liberal del Sur",
+      "categoria": "veracruz",
+      "fecha": "2026-11-25 17:43",
+      "url": "https://liberal.com.mx/da-clic-para-leer-nuestra-edicion-del-dia/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
@@ -285,7 +312,7 @@
       "titulo": "Estrategia de Seguridad  en Sinaloa da resultados",
       "fuente": "Liberal del Sur",
       "categoria": "veracruz",
-      "fecha": "2026-11-25 02:52",
+      "fecha": "2026-11-25 17:43",
       "url": "https://liberal.com.mx/estrategia-de-seguridad-en-sinaloa-da-resultados/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
@@ -294,17 +321,8 @@
       "titulo": "Incendio afecta a dos  negocios de alimentos  en el Malecón Costero",
       "fuente": "Liberal del Sur",
       "categoria": "veracruz",
-      "fecha": "2026-11-25 02:52",
+      "fecha": "2026-11-25 17:43",
       "url": "https://liberal.com.mx/incendio-afecta-a-dos-negocios-de-alimentos-en-el-malecon-costero/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "¡DA CLIC PARA LEER NUESTRA EDICIÓN DEL DÍA!",
-      "fuente": "Liberal del Sur",
-      "categoria": "veracruz",
-      "fecha": "2026-11-25 02:52",
-      "url": "https://liberal.com.mx/da-clic-para-leer-nuestra-edicion-del-dia/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
@@ -312,26 +330,8 @@
       "titulo": "Automovilistas ignoran el  uno por uno en el Malecón Costero y provocan caos vial",
       "fuente": "Liberal del Sur",
       "categoria": "veracruz",
-      "fecha": "2026-11-25 02:52",
+      "fecha": "2026-11-25 17:43",
       "url": "https://liberal.com.mx/automovilistas-ignoran-el-uno-por-uno-en-el-malecon-costero-y-provocan-caos-vial/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Ya abrió el comedor del  Santuario Diocesano  de Guadalupe para  recibir a los peregrinos",
-      "fuente": "Liberal del Sur",
-      "categoria": "veracruz",
-      "fecha": "2026-11-25 02:52",
-      "url": "https://liberal.com.mx/ya-abrio-el-comedor-del-santuario-diocesano-de-guadalupe-para-recibir-a-los-peregrinos/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Educación, pilar de una  sociedad justa, equitativa  y con oportunidades: SEV",
-      "fuente": "Liberal del Sur",
-      "categoria": "veracruz",
-      "fecha": "2026-11-25 02:52",
-      "url": "https://liberal.com.mx/educacion-pilar-de-una-sociedad-justa-equitativa-y-con-oportunidades-sev/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     }
