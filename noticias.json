@@ -1,193 +1,382 @@
 {
   "coatzacoalcos": [
     {
-      "titulo": "Encabeza Rocío Nahle incineración de 287 kilos de narcóticos y destrucción de 412 máquinas tragamonedas",
-      "fuente": "Municipio Sur",
+      "titulo": "Encabeza Nahle incineración  de 287 kilos de narcóticos",
+      "fuente": "Liberal Coatza",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-11-27 02:00",
-      "url": "https://municipiosur.com/2026/11/26/encabeza-rocio-nahle-incineracion-de-287-kilos-de-narcoticos-y-destruccion-de-412-maquinas-tragamonedas/",
+      "fecha": "2026-11-27 17:06",
+      "url": "https://liberal.com.mx/encabeza-nahle-incineracion-de-287-kilos-de-narcoticos/",
       "imagen": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800",
       "prioridad": 3
     },
     {
-      "titulo": "América y Monterrey empatan sin goles en su primer encuentro en Liguilla",
+      "titulo": "Coatzacoalcos tendrá su  primera fiesta internacional  de cine, van 23 películas  por la estatuilla FICMAR",
+      "fuente": "Liberal Coatza",
+      "categoria": "coatzacoalcos",
+      "fecha": "2026-11-27 17:06",
+      "url": "https://liberal.com.mx/coatzacoalcos-tendra-su-primera-fiesta-internacional-de-cine-van-23-peliculas-por-la-estatuilla-ficmar/",
+      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
+      "prioridad": 2
+    },
+    {
+      "titulo": "Tormenta deja a 900 mil sin luz en Estados Unidos y  afectaciones en 2 mil vuelos",
+      "fuente": "Liberal Coatza",
+      "categoria": "coatzacoalcos",
+      "fecha": "2026-11-27 17:06",
+      "url": "https://liberal.com.mx/tormenta-deja-a-900-mil-sin-luz-en-estados-unidos-y-afectaciones-en-2-mil-vuelos/",
+      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Conmemora Cosolea  el Día Internacional  para la Eliminación de  la Violencia contra las  Mujeres con eventos",
+      "fuente": "Liberal Coatza",
+      "categoria": "coatzacoalcos",
+      "fecha": "2026-11-27 17:06",
+      "url": "https://liberal.com.mx/conmemora-cosolea-el-dia-internacional-para-la-eliminacion-de-la-violencia-contra-las-mujeres-con-eventos/",
+      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "CECyTEV 11 de Pajapan  celebra 25 años de fundación",
+      "fuente": "Liberal Coatza",
+      "categoria": "coatzacoalcos",
+      "fecha": "2026-11-27 17:06",
+      "url": "https://liberal.com.mx/cecytev-11-de-pajapan-celebra-25-anos-de-fundacion/",
+      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "¡DA CLIC PARA LEER NUESTRA EDICIÓN DEL DÍA!",
+      "fuente": "Liberal Coatza",
+      "categoria": "coatzacoalcos",
+      "fecha": "2026-11-27 17:06",
+      "url": "https://liberal.com.mx/da-clic-para-leer-nuestra-edicion-del-dia/",
+      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Alerta en Oteapan por motociclistas sin casco",
+      "fuente": "Liberal Coatza",
+      "categoria": "coatzacoalcos",
+      "fecha": "2026-11-27 17:06",
+      "url": "https://liberal.com.mx/alerta-en-oteapan-por-motociclistas-sin-casco/",
+      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "El Cascanueces celebrará  16 años de tradición con  función gratuita a beneficio",
+      "fuente": "Liberal Coatza",
+      "categoria": "coatzacoalcos",
+      "fecha": "2026-11-27 17:06",
+      "url": "https://liberal.com.mx/el-cascanueces-celebrara-16-anos-de-tradicion-con-funcion-gratuita-a-beneficio/",
+      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Empresa camionera contará con mayor representación local",
+      "fuente": "Liberal Coatza",
+      "categoria": "coatzacoalcos",
+      "fecha": "2026-11-27 17:06",
+      "url": "https://liberal.com.mx/empresa-camionera-contara-con-mayor-representacion-local/",
+      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "IMSS Bienestar fortalece la atención oncológica gratuita en Veracruz con la incorporación histórica de cuatro acelerador",
       "fuente": "Municipio Sur",
       "categoria": "coatzacoalcos",
-      "fecha": "2026-11-27 02:00",
-      "url": "https://municipiosur.com/2026/11/26/america-y-monterrey-empatan-sin-goles-en-su-primer-encuentro-en-liguilla/",
+      "fecha": "2026-11-27 17:06",
+      "url": "https://municipiosur.com/2026/11/27/imss-bienestar-fortalece-la-atencion-oncologica-gratuita-en-veracruz-con-la-incorporacion-historica-de-cuatro-aceleradores-lineales-de-alta-tecnologia/",
+      "imagen": "https://images.unsplash.com/photo-1542596594-649edbc13630?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Los Tuxtlas, un paraíso natural de Veracruz por descubrir",
+      "fuente": "Municipio Sur",
+      "categoria": "coatzacoalcos",
+      "fecha": "2026-11-27 17:06",
+      "url": "https://municipiosur.com/2026/11/27/los-tuxtlas-un-paraiso-natural-de-veracruz-por-descubrir/",
+      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "¡¡Ternura de Perros!!",
+      "fuente": "Municipio Sur",
+      "categoria": "coatzacoalcos",
+      "fecha": "2026-11-27 17:06",
+      "url": "https://municipiosur.com/2026/11/27/ternura-de-perros/",
+      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "¡¡Marina en Colorado!!",
+      "fuente": "Municipio Sur",
+      "categoria": "coatzacoalcos",
+      "fecha": "2026-11-27 17:06",
+      "url": "https://municipiosur.com/2026/11/27/marina-en-colorado/",
       "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
       "prioridad": 1
     }
   ],
   "veracruz": [
     {
-      "titulo": "Ayuntamientos crearán Centros de atención médica y psicológica para menores",
-      "fuente": "Jornada Veracruz",
+      "titulo": "Encabeza Nahle incineración  de 287 kilos de narcóticos",
+      "fuente": "Liberal del Sur",
       "categoria": "veracruz",
-      "fecha": "2026-11-27 02:00",
-      "url": "https://jornadaveracruz.com.mx/ayuntamientos-centros-atencion-medica-psicologica-menores-veracruz/",
+      "fecha": "2026-11-27 17:06",
+      "url": "https://liberal.com.mx/encabeza-nahle-incineracion-de-287-kilos-de-narcoticos/",
+      "imagen": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800",
+      "prioridad": 3
+    },
+    {
+      "titulo": "Choque entre camioneta y motocicleta deja un lesionado en el centro de Coatzacoalcos",
+      "fuente": "Golpe Politico",
+      "categoria": "veracruz",
+      "fecha": "2026-11-27 17:06",
+      "url": "https://golpepolitico.com/2026/11/27/choque-entre-camioneta-y-motocicleta-deja-un-lesionado-en-el-centro-de-coatzacoalcos/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 2
     },
     {
-      "titulo": "Alcalde y Cabildo ‘rasuran’ sus declaraciones patrimoniales y ocultan sus bienes",
-      "fuente": "Golpe Politico",
+      "titulo": "Coatzacoalcos tendrá su  primera fiesta internacional  de cine, van 23 películas  por la estatuilla FICMAR",
+      "fuente": "Liberal del Sur",
       "categoria": "veracruz",
-      "fecha": "2026-11-27 02:00",
-      "url": "https://golpepolitico.com/2026/11/26/alcalde-y-cabildo-rasuran-sus-declaraciones-patrimoniales-y-ocultan-sus-bienes/",
-      "imagen": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
-      "prioridad": 2
-    },
-    {
-      "titulo": "Buscan regalar una sonrisa esta Navidad a 50 niños con VIH en Coatzacoalcos",
-      "fuente": "Golpe Politico",
-      "categoria": "veracruz",
-      "fecha": "2026-11-27 02:00",
-      "url": "https://golpepolitico.com/2026/11/26/buscan-regalar-una-sonrisa-esta-navidad-a-50-ninos-con-vih-en-coatzacoalcos/",
+      "fecha": "2026-11-27 17:06",
+      "url": "https://liberal.com.mx/coatzacoalcos-tendra-su-primera-fiesta-internacional-de-cine-van-23-peliculas-por-la-estatuilla-ficmar/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 2
     },
     {
-      "titulo": "Invita Ayuntamiento de Las Vigas de Ramírez a sumarse a sus actividades navideñas",
+      "titulo": "Al menos 12 puertos están cerrados a la navegación por efectos del frente frío 8",
+      "fuente": "Jornada Veracruz",
+      "categoria": "veracruz",
+      "fecha": "2026-11-27 17:06",
+      "url": "https://jornadaveracruz.com.mx/frente-frio-8-puertos-cerrados-nevada-perote/",
+      "imagen": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Invitan a pagar predial sin salir del automóvil",
+      "fuente": "Jornada Veracruz",
+      "categoria": "veracruz",
+      "fecha": "2026-11-27 17:06",
+      "url": "https://jornadaveracruz.com.mx/predi-movil-pago-predial-xalapa-2027/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Revocan la patente a notario de Minatitlán por autorizar una escritura con firma falsa",
+      "fuente": "Jornada Veracruz",
+      "categoria": "veracruz",
+      "fecha": "2026-11-27 17:06",
+      "url": "https://jornadaveracruz.com.mx/revocan-patente-notario-minatitlan-firma-falsa/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Operativo termina con 17 motos llevadas al corralón",
+      "fuente": "Jornada Veracruz",
+      "categoria": "veracruz",
+      "fecha": "2026-11-27 17:06",
+      "url": "https://jornadaveracruz.com.mx/operativo-transito-17-motocicletas-xalapa/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Comunidad del CBTA 99 en Cosco exige el despido de los directivos del plantel",
+      "fuente": "Jornada Veracruz",
+      "categoria": "veracruz",
+      "fecha": "2026-11-27 17:06",
+      "url": "https://jornadaveracruz.com.mx/comunidad-del-cbta-99-en-cosco-exige-el-despido-de-los-directivos-del-plantel/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "La prima que Nestlé no revela",
+      "fuente": "Jornada Veracruz",
+      "categoria": "veracruz",
+      "fecha": "2026-11-27 17:06",
+      "url": "https://jornadaveracruz.com.mx/precio-cafe-productores-nestle/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Portada del 27 de noviembre de 2026",
+      "fuente": "Jornada Veracruz",
+      "categoria": "veracruz",
+      "fecha": "2026-11-27 17:06",
+      "url": "https://jornadaveracruz.com.mx/portada-del-27-de-noviembre-de-2026/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Contraportada del 27 de noviembre de 2026",
+      "fuente": "Jornada Veracruz",
+      "categoria": "veracruz",
+      "fecha": "2026-11-27 17:06",
+      "url": "https://jornadaveracruz.com.mx/contraportada-del-27-de-noviembre-de-2026/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Poza Rica dona terreno de 15 mil metros cuadrados para destacamento de la Policía Estatal",
+      "fuente": "Jornada Veracruz",
+      "categoria": "veracruz",
+      "fecha": "2026-11-27 17:06",
+      "url": "https://jornadaveracruz.com.mx/poza-rica-dona-terreno-destacamento-policia-estatal/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Comparece la Coordinación de Comunicación Social ante el Congreso",
+      "fuente": "Jornada Veracruz",
+      "categoria": "veracruz",
+      "fecha": "2026-11-27 17:06",
+      "url": "https://jornadaveracruz.com.mx/comparecencia-comunicacion-social-veracruz-2026/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Resumen Chiefs vs. Bills: Patrick Mahomes se hunde en un triste diluvio de Thankgiving",
       "fuente": "Golpe Politico",
       "categoria": "veracruz",
-      "fecha": "2026-11-27 02:00",
-      "url": "https://golpepolitico.com/2026/11/26/invita-ayuntamiento-de-las-vigas-de-ramirez-a-sumarse-a-sus-actividades-navidenas/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 2
-    },
-    {
-      "titulo": "Saquean carga de tráiler accidentado en las Cumbres de Maltrata",
-      "fuente": "Jornada Veracruz",
-      "categoria": "veracruz",
-      "fecha": "2026-11-27 02:00",
-      "url": "https://jornadaveracruz.com.mx/rapina-borregos-trailer-accidentado-cumbres-maltrata/",
+      "fecha": "2026-11-27 17:06",
+      "url": "https://golpepolitico.com/2026/11/27/resumen-chiefs-vs-bills-patrick-mahomes-se-hunde-en-un-triste-diluvio-de-thankgiving/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Mis memorias de El Barzón",
-      "fuente": "Jornada Veracruz",
-      "categoria": "veracruz",
-      "fecha": "2026-11-27 02:00",
-      "url": "https://jornadaveracruz.com.mx/memorias-el-barzon-teresa-carbajal/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Denuncian más de 20 despidos arbitrarios en el Coveicydet",
-      "fuente": "Jornada Veracruz",
-      "categoria": "veracruz",
-      "fecha": "2026-11-27 02:00",
-      "url": "https://jornadaveracruz.com.mx/denuncian-mas-de-20-despidos-arbitrarios-en-el-coveicydet/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Azolve y basura reducen capacidad de arroyos de Nanchital y elevan riesgo de inundaciones",
-      "fuente": "Jornada Veracruz",
-      "categoria": "veracruz",
-      "fecha": "2026-11-27 02:00",
-      "url": "https://jornadaveracruz.com.mx/azolve-y-basura-reducen-capacidad-de-arroyos-de-nanchital-y-elevan-riesgo-de-inundaciones/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Hoteleros respaldan medidas para verificar el parentesco de menores en zonas de hospedaje",
-      "fuente": "Jornada Veracruz",
-      "categoria": "veracruz",
-      "fecha": "2026-11-27 02:00",
-      "url": "https://jornadaveracruz.com.mx/hoteles-veracruz-verificaran-parentesco-menores-hospedaje/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Renuncia presidente de la Unión Ganadera del Sur",
-      "fuente": "Jornada Veracruz",
-      "categoria": "veracruz",
-      "fecha": "2026-11-27 02:00",
-      "url": "https://jornadaveracruz.com.mx/renuncia-isaac-velasco-union-ganadera-sur-veracruz/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "FGE mantiene las averiguaciones sobre recientes ataques armados, asegura fiscal",
-      "fuente": "Jornada Veracruz",
-      "categoria": "veracruz",
-      "fecha": "2026-11-27 02:00",
-      "url": "https://jornadaveracruz.com.mx/fge-investiga-ataques-armados-texhuacan-coatepec/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Discriminación y revictimización agravan violencia contra la mujer",
-      "fuente": "Jornada Veracruz",
-      "categoria": "veracruz",
-      "fecha": "2026-11-27 02:00",
-      "url": "https://jornadaveracruz.com.mx/violencia-mujeres-indigenas-discriminacion-revictimizacion-veracruz/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Nestlé anuncia más compra de café mexicano luego de protestas de productores en Chiapas",
-      "fuente": "Jornada Veracruz",
-      "categoria": "veracruz",
-      "fecha": "2026-11-27 02:00",
-      "url": "https://jornadaveracruz.com.mx/nestle-anuncia-mas-compra-de-cafe-mexicano-tras-protestas/",
-      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-      "prioridad": 1
-    },
-    {
-      "titulo": "Taxi arrolla a tres menores en la avenida Ébano; termina contra un árbol",
+      "titulo": "Turco Mohamed desvela el motivo de su salida del Toluca: «Ya no la tengo»",
       "fuente": "Golpe Politico",
       "categoria": "veracruz",
-      "fecha": "2026-11-27 02:00",
-      "url": "https://golpepolitico.com/2026/11/26/taxi-arrolla-a-tres-menores-en-la-avenida-ebano-termina-contra-un-arbol/",
+      "fecha": "2026-11-27 17:06",
+      "url": "https://golpepolitico.com/2026/11/27/turco-mohamed-desvela-el-motivo-de-su-salida-del-toluca-ya-no-la-tengo/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Exigen aprobar ley para proteger a productores de vainilla en Veracruz",
+      "titulo": "¿Se quedan cortos con Gilberto Mora? La joya mexicana es quinto en un ranking de jóvenes talentos",
       "fuente": "Golpe Politico",
       "categoria": "veracruz",
-      "fecha": "2026-11-27 02:00",
-      "url": "https://golpepolitico.com/2026/11/26/exigen-aprobar-ley-para-proteger-a-productores-de-vainilla-en-veracruz/",
+      "fecha": "2026-11-27 17:06",
+      "url": "https://golpepolitico.com/2026/11/27/se-quedan-cortos-con-gilberto-mora-la-joya-mexicana-es-quinto-en-un-ranking-de-jovenes-talentos/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Comparece Rodolfo Bouzas Medina, titular de Comunicación Social, ante el Congreso de Veracruz",
+      "titulo": "Xalapa seguirá entre frío, lloviznas y niebla este viernes",
       "fuente": "Golpe Politico",
       "categoria": "veracruz",
-      "fecha": "2026-11-27 02:00",
-      "url": "https://golpepolitico.com/2026/11/26/comparece-rodolfo-bouzas-medina-titular-de-comunicacion-social-ante-el-congreso-de-veracruz/",
+      "fecha": "2026-11-27 17:06",
+      "url": "https://golpepolitico.com/2026/11/27/xalapa-seguira-entre-frio-lloviznas-y-niebla-este-viernes/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Etiqueta amarilla de eficiencia: cómo leerla en un refrigerador",
+      "titulo": "Vía Facebook: Piden ayuda para localizar a familiares de hombre en situación vulnerable en Xalapa",
       "fuente": "Golpe Politico",
       "categoria": "veracruz",
-      "fecha": "2026-11-27 02:00",
-      "url": "https://golpepolitico.com/2026/11/26/etiqueta-amarilla-de-eficiencia-como-leerla-en-un-refrigerador/",
+      "fecha": "2026-11-27 17:06",
+      "url": "https://golpepolitico.com/2026/11/27/via-facebook-piden-ayuda-para-localizar-a-familiares-de-hombre-en-situacion-vulnerable/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Julián Quiñones estaría en la órbita del PSG; Luis Enrique reconoce que todos los grandes jugadores están en su carpeta",
+      "titulo": "La promoción de cine que desató la creatividad de los mexicanos",
       "fuente": "Golpe Politico",
       "categoria": "veracruz",
-      "fecha": "2026-11-27 02:00",
-      "url": "https://golpepolitico.com/2026/11/26/julian-quinones-estaria-en-la-orbita-del-psg-luis-enrique-reconoce-que-todos-los-grandes-jugadores-estan-en-su-carpeta/",
+      "fecha": "2026-11-27 17:06",
+      "url": "https://golpepolitico.com/2026/11/27/la-promocion-de-cine-que-desato-la-creatividad-de-los-mexicanos/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     },
     {
-      "titulo": "Citlaltépetl abre convocatoria para nuevos elementos a la Policía Municipal",
+      "titulo": "Los Tuxtlas deslumbra con acantilados, cuevas y escenarios tropicales para el cine",
       "fuente": "Golpe Politico",
       "categoria": "veracruz",
-      "fecha": "2026-11-27 02:00",
-      "url": "https://golpepolitico.com/2026/11/26/citlaltepetl-abre-convocatoria-para-nuevos-elementos-a-la-policia-municipal/",
+      "fecha": "2026-11-27 17:06",
+      "url": "https://golpepolitico.com/2026/11/27/los-tuxtlas-deslumbra-con-acantilados-cuevas-y-escenarios-tropicales-para-el-cine/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Cofepris alerta por venta de Duvalín Untable FALSO: ¿Cómo reconocerlo y dónde denunciarlo?",
+      "fuente": "Golpe Politico",
+      "categoria": "veracruz",
+      "fecha": "2026-11-27 17:06",
+      "url": "https://golpepolitico.com/2026/11/27/cofepris-alerta-por-venta-de-duvalin-untable-falso-como-reconocerlo-y-donde-denunciarlo/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Atrapan a otro líder de La Mayiza: Detienen al ‘Chapo Félix’ en la sierra de Durango",
+      "fuente": "Golpe Politico",
+      "categoria": "veracruz",
+      "fecha": "2026-11-27 17:06",
+      "url": "https://golpepolitico.com/2026/11/27/atrapan-a-otro-lider-de-la-mayiza-detienen-al-chapo-felix-en-la-sierra-de-durango/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Tormenta deja a 900 mil sin luz en Estados Unidos y  afectaciones en 2 mil vuelos",
+      "fuente": "Liberal del Sur",
+      "categoria": "veracruz",
+      "fecha": "2026-11-27 17:06",
+      "url": "https://liberal.com.mx/tormenta-deja-a-900-mil-sin-luz-en-estados-unidos-y-afectaciones-en-2-mil-vuelos/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Conmemora Cosolea  el Día Internacional  para la Eliminación de  la Violencia contra las  Mujeres con eventos",
+      "fuente": "Liberal del Sur",
+      "categoria": "veracruz",
+      "fecha": "2026-11-27 17:06",
+      "url": "https://liberal.com.mx/conmemora-cosolea-el-dia-internacional-para-la-eliminacion-de-la-violencia-contra-las-mujeres-con-eventos/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "CECyTEV 11 de Pajapan  celebra 25 años de fundación",
+      "fuente": "Liberal del Sur",
+      "categoria": "veracruz",
+      "fecha": "2026-11-27 17:06",
+      "url": "https://liberal.com.mx/cecytev-11-de-pajapan-celebra-25-anos-de-fundacion/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "¡DA CLIC PARA LEER NUESTRA EDICIÓN DEL DÍA!",
+      "fuente": "Liberal del Sur",
+      "categoria": "veracruz",
+      "fecha": "2026-11-27 17:06",
+      "url": "https://liberal.com.mx/da-clic-para-leer-nuestra-edicion-del-dia/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Alerta en Oteapan por motociclistas sin casco",
+      "fuente": "Liberal del Sur",
+      "categoria": "veracruz",
+      "fecha": "2026-11-27 17:06",
+      "url": "https://liberal.com.mx/alerta-en-oteapan-por-motociclistas-sin-casco/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "El Cascanueces celebrará  16 años de tradición con  función gratuita a beneficio",
+      "fuente": "Liberal del Sur",
+      "categoria": "veracruz",
+      "fecha": "2026-11-27 17:06",
+      "url": "https://liberal.com.mx/el-cascanueces-celebrara-16-anos-de-tradicion-con-funcion-gratuita-a-beneficio/",
+      "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "prioridad": 1
+    },
+    {
+      "titulo": "Empresa camionera contará con mayor representación local",
+      "fuente": "Liberal del Sur",
+      "categoria": "veracruz",
+      "fecha": "2026-11-27 17:06",
+      "url": "https://liberal.com.mx/empresa-camionera-contara-con-mayor-representacion-local/",
       "imagen": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
       "prioridad": 1
     }
